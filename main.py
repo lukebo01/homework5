@@ -34,4 +34,25 @@ def read_files(dir_path:str) -> None:
             print(filename, current_attributes)
 
 if __name__ == "__main__":
-    read_files("./data/raw")
+    special_dir = f"./data/raw/ariregister.rik.ee"
+    df_activity = pd.read_csv(os.path.join(special_dir, "wissel-activity-ariregister.rik.ee.csv"))
+    df_companies = pd.read_csv(os.path.join(special_dir, "wissel-aziende-ariregister.rik.ee.csv"))
+    df_partners = pd.read_csv(os.path.join(special_dir, "wissel-partners-ariregister.rik.ee.csv"))
+    df_representatives = pd.read_csv(os.path.join(special_dir, "wissel-rappresentanti-ariregister.rik.ee.csv"))
+
+    print(df_activity.info())
+    print(df_companies.info())
+    print(df_partners.info())
+    print(df_representatives.info())
+
+    df_finale = (
+        df_companies
+        .merge(df_activity, left_on="ID", right_on="ID azienda", how="left")
+        .merge(df_partners, left_on="ID", right_on="ID azienda", how="left")
+        .merge(df_representatives, left_on="ID", right_on="ID azienda", how="outer")
+    )
+
+    print(df_finale.columns.to_list())
+
+    df_finale.to_csv("final.csv", index=False)
+    #read_files("./data/raw")
