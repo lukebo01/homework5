@@ -1,11 +1,9 @@
 import pandas as pd
 import os
-import json
-import time
+
 
 def read_files(dir_path:str) -> None:
     raw_dir:list[str] = sorted(os.listdir(dir_path))
-
 
     for folder in raw_dir:
         folder_dir:list[str] = sorted(os.listdir(os.path.join(dir_path, folder)))
@@ -22,24 +20,18 @@ def read_files(dir_path:str) -> None:
 
             
             file_path = os.path.join(dir_path, folder, f"{filename}.{extension}")
-            
+            df: pd.DataFrame = None
             if extension in ["json", "jsonl"]:
-                '''
-                with open(os.path.join(dir_path, folder, f"{filename}.{extension}"), "r") as file:
-                    for line in file:
-                        data:dict = json.loads(line)
-                        print(data.keys())
-                '''
                 df = pd.read_json(file_path, lines=True)
             
             if extension == "csv":
                 df = pd.read_csv(file_path)
-                pass
             
             if extension == "xls":
                 df = pd.read_excel(file_path, engine="xlrd")
 
-
+            current_attributes = df.columns.to_list()
+            print(filename, current_attributes)
 
 if __name__ == "__main__":
     read_files("./data/raw")
