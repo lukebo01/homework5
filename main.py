@@ -33,7 +33,7 @@ def read_files(dir_path:str) -> None:
             current_attributes = df.columns.to_list()
             print(filename, current_attributes)
 
-if __name__ == "__main__":
+def merge_ariregister():
     special_dir = f"./data/raw/ariregister.rik.ee"
     df_activity = pd.read_csv(os.path.join(special_dir, "wissel-activity-ariregister.rik.ee.csv"))
     df_companies = pd.read_csv(os.path.join(special_dir, "wissel-aziende-ariregister.rik.ee.csv"))
@@ -53,6 +53,8 @@ if __name__ == "__main__":
     )
 
     print(df_finale.columns.to_list())
-
     df_finale.to_csv("final.csv", index=False)
+
+if __name__ == "__main__":
+    merge_ariregister()
     #read_files("./data/raw")
