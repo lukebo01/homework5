@@ -11,6 +11,7 @@ def read_files(dir_path:str) -> None:
             # get the filename and extension
             split_name = data_name.split(".")
             filename, extension = "", ""
+
             if len(split_name) > 2:
                 filename = ".".join(split_name[:len(filename) - 1])
                 extension = split_name[-1]
@@ -30,31 +31,34 @@ def read_files(dir_path:str) -> None:
             if extension == "xls":
                 df = pd.read_excel(file_path, engine="xlrd")
 
-            current_attributes = df.columns.to_list()
-            print(filename, current_attributes)
+            df = df.drop(columns=["Unnamed: 0"], errors='ignore')
 
+            current_attributes = df.columns.to_list()
+            print(current_attributes)
+
+# merge di prima di azienda e poi di persone
 def merge_ariregister():
     special_dir = f"./data/raw/ariregister.rik.ee"
     df_activity = pd.read_csv(os.path.join(special_dir, "wissel-activity-ariregister.rik.ee.csv"))
     df_companies = pd.read_csv(os.path.join(special_dir, "wissel-aziende-ariregister.rik.ee.csv"))
-    df_partners = pd.read_csv(os.path.join(special_dir, "wissel-partners-ariregister.rik.ee.csv"))
+    #df_partners = pd.read_csv(os.path.join(special_dir, "wissel-partners-ariregister.rik.ee.csv"))
     df_representatives = pd.read_csv(os.path.join(special_dir, "wissel-rappresentanti-ariregister.rik.ee.csv"))
+ 
+    df_companies = df_companies.rename(columns={"ID": "ID azienda"})
+    df_representatives = df_representatives.rename(columns={
+        "Name": "Representative Name",
+        "Code": "Representative Code",
+        "Role": "Representative Role",
+        "Start Date": "Representative Start Date"
+    })
 
-    print(df_activity.info())
-    print(df_companies.info())
-    print(df_partners.info())
-    print(df_representatives.info())
-
-    df_finale = (
-        df_companies
-        .merge(df_activity, left_on="ID", right_on="ID azienda", how="left")
-        .merge(df_partners, left_on="ID", right_on="ID azienda", how="left")
-        .merge(df_representatives, left_on="ID", right_on="ID azienda", how="outer")
+    df_activity_companies = (
+        df_activity
+        .merge(df_companies, on=["ID azienda"], how="outer")
+        .merge(df_representatives, on=["ID azienda"], how="outer")
     )
-
-    print(df_finale.columns.to_list())
-    df_finale.to_csv("final.csv", index=False)
+    df_activity_companies.to_csv("wissel-ariregister.csv", index=False)
 
 if __name__ == "__main__":
-    merge_ariregister()
-    #read_files("./data/raw")
+    #merge_ariregister()
+    read_files("./data/raw")
