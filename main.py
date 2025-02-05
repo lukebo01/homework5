@@ -1,9 +1,23 @@
+from openai import OpenAI
 import pandas as pd
 import os
+import json
+
+client = OpenAI(
+    base_url="https://openrouter.ai/api/v1",
+    api_key=""
+)
+
+#prompt = " ".join()
 
 
 def read_files(dir_path:str) -> None:
+    '''
+    Reads all data and make a summary to pass
+    '''
     raw_dir:list[str] = sorted(os.listdir(dir_path))
+
+    dataframes = []
 
     for folder in raw_dir:
         folder_dir:list[str] = sorted(os.listdir(os.path.join(dir_path, folder)))
@@ -33,8 +47,16 @@ def read_files(dir_path:str) -> None:
 
             df = df.drop(columns=["Unnamed: 0"], errors='ignore')
 
-            current_attributes = df.columns.to_list()
-            print(current_attributes)
+            dataframes.append((filename, df))
+
+            #current_attributes = df.columns.to_list()
+            #print(current_attributes)
+
+        with open("./data/processed.txt", "w") as file:
+            for _, (name, dataframe) in enumerate(dataframes):
+                file.write(f"Dataframe: {name}\n")
+                file.write(dataframe.head(40).to_string(index=False))
+                file.write("\n" + "#" * 100 + "\n")
 
 # merge di prima di azienda e poi di persone
 def merge_ariregister():
@@ -59,6 +81,31 @@ def merge_ariregister():
     )
     df_activity_companies.to_csv("wissel-ariregister.csv", index=False)
 
+def get_mediated_schema(processed_path: str):
+    processed = " ".join(open(processed_path, "r").readlines())
+
+    completion = client.chat.completions.create(
+        model="google/gemini-2.0-flash-thinking-exp:free",
+        messages=[
+            {
+                "role": "user",
+                "content": [
+                    {
+                        "type": "text",
+                        "text": f"Can you create a mediated schema? Just give me the columns, this are all the tables that I have:\n{processed}"
+                    }
+                ]
+            }
+        ]
+    )
+    
+    print(completion)
+    return completion["choices"][0]["message"]["content"]
+
 if __name__ == "__main__":
     #merge_ariregister()
     read_files("./data/raw")
+    response = get_mediated_schema("./data/processed.txt")
+    
+    with open("response.txt", "w", encoding="utf-8") as file:
+        file.write(response)
