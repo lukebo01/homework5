@@ -1,0 +1,53 @@
+Company Name: 
+	AmbitionBox.Name,
+	Campaignindia.Brand Name, 
+	DDD-cbinsight.Name, 
+	CompaniesMarketCap.Name, 
+	company_social_urls.Company, 
+	discold.name,
+	MalPatSaj-forbes.Name,
+	ft.name
+	output_globaldata.name
+	output_govuk.name
+	hitHorizons.name
+	wissel-aziende.name
+	DDD-teamblind.name
+	valueToday.name
+	MalPatSaj-wikipedia.name
+Category: 
+	Ambitionbox.Industry, 
+	Campaignindia.Category, 
+	DDD-cbinsight.industry, 
+	CompaniesMarketCap.categories
+	ft.industry
+	output_globaldata.industry
+	output_govuk.nature_of_business,
+	hitHorizons.industry,
+	DDD-teamblind.industry,
+	valueToday.company_business
+	MalPatSaj-wikipedia.sector
+HeadQuarter:
+	AmbitionBox.HeadQuarter, 
+	(DDD-cbinsight.city + DDD-cbinsight.country), 
+	CompaniesMarketCap.country, 
+	discold.headquarters,
+	MalPatSaj-forbes.Country,
+	ft.country
+	(output_globaldata.address + output_globaldata.headquarters),
+	output_govuk.registered_office_address,
+	hitHorizons.address,
+	wissel-aziende.State + wissel-aziende.Country (base on wissel-aziende.location_type)
+	DDD-teamblind.locations
+	valueToday.region_city + valueToday.headquarters_country,
+	MalPatSaj-wikipedia.headquarters
+Foundation Year: 
+	Ambitionbox.Foundation Year, 
+	DDD-cbinsight.founded
+	ft.foundation year
+	output_govuk.company_creation_date (FULL)
+	DDD-teamblind.founded,
+	MalPatSaj-wikipedia.founded
+No. Employees:
+	output_globaldata.number_of_employees
+	DDD-teamblind.size,
+	valueToday.number_of_employees
