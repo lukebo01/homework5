@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-def read_files(dir_path:str) -> None:
+def read_files(dir_path:str) -> list[tuple[str, pd.DataFrame]]:
     '''
     Reads all data and return: list(filename, pandas.Dataframe)
     '''
