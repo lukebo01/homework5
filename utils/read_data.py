@@ -9,34 +9,25 @@ def read_files(dir_path:str) -> None:
 
     dataframes = []
 
-    for folder in raw_dir:
-        folder_dir:list[str] = sorted(os.listdir(os.path.join(dir_path, folder)))
-        for data_name in folder_dir:
+    for file in raw_dir:
             # get the filename and extension
-            split_name = data_name.split(".")
-            filename, extension = "", ""
-
-            if len(split_name) > 2:
-                filename = ".".join(split_name[:len(filename) - 1])
-                extension = split_name[-1]
-            else:
-                filename = split_name[0]
-                extension = split_name[1]
-
+        split_name = file.split(".")
+        filename = split_name[0]
+        extension = split_name[1]
             
-            file_path = os.path.join(dir_path, folder, f"{filename}.{extension}")
-            df: pd.DataFrame = None
-            if extension in ["json", "jsonl"]:
-                df = pd.read_json(file_path, lines=True)
-            
-            if extension == "csv":
-                df = pd.read_csv(file_path)
-            
-            if extension == "xls":
-                df = pd.read_excel(file_path, engine="xlrd")
+        file_path = os.path.join(dir_path, f"{filename}.{extension}")
+        df: pd.DataFrame = None
+        if extension in ["json", "jsonl"]:
+            df = pd.read_json(file_path, lines=True)
+        
+        if extension == "csv":
+            df = pd.read_csv(file_path)
+        
+        if extension == "xls":
+            df = pd.read_excel(file_path, engine="xlrd")
 
-            df = df.drop(columns=["Unnamed: 0"], errors='ignore')
+        df = df.drop(columns=["Unnamed: 0"], errors='ignore')
 
-            dataframes.append((filename, df))
+        dataframes.append((filename, df))
 
     return dataframes
