@@ -1,0 +1,229 @@
+{
+    "company_name": [
+        "AmbitionBox.Name",
+        "DDD-cbinsight-com.name",
+        "DDD-teamblind-com.name",
+        "MalPatSaj-forbes-com.Name",
+        "MalPatSaj-wikipedia-org.Name",
+        "campaignindia.BRAND NAME",
+        "companiesMarketCap_dataset.name",
+        "company_social_urls.Company",
+        "disfold-com.name",
+        "ft-com.name",
+        "hitHorizons_dataset.name",
+        "output_globaldata.name",
+        "output_govuk_bigsize.name",
+        "valueToday_dataset.name",
+        "wissel-ariregister.Name",
+        "wissel-aziende-info-clipper-com.Name",
+        "wissel-aziende-info-clipper-com.Trade Name"
+    ],
+    "industry": [
+        "AmbitionBox.Industry",
+        "DDD-cbinsight-com.industry",
+        "DDD-teamblind-com.industry",
+        "MalPatSaj-wikipedia-org.Industry",
+        "campaignindia.CATEGORY",
+        "companiesMarketCap_dataset.categories",
+        "hitHorizons_dataset.industry",
+        "output_globaldata.industry",
+        "ft-com.industry",
+        "MalPatSaj-wikipedia-org.Sector",
+        "wissel-ariregister.Area of Activity"
+    ],
+    "headquarters_city": [
+        "DDD-cbinsight-com.city",
+        "disfold-com.headquarters",
+        "output_globaldata.headquarters",
+        "valueToday_dataset.headquarters_region_city",
+        "wissel-aziende-info-clipper-com.City"
+    ],
+    "headquarters_country": [
+        "DDD-cbinsight-com.country",
+        "MalPatSaj-forbes-com.Country",
+        "companiesMarketCap_dataset.country",
+        "valueToday_dataset.headquarters_country",
+        "hitHorizons_dataset.nation",
+        "wissel-aziende-info-clipper-com.Country",
+        "ft-com.country"
+    ],
+    "headquarters_region": [
+        "valueToday_dataset.headquarters_sub_region",
+        "wissel-aziende-info-clipper-com.State"
+    ],
+    "headquarters_continent": [
+        "valueToday_dataset.headquarters_continent"
+    ],
+    "headquarters_full_address": [
+        "hitHorizons_dataset.address",
+        "output_govuk_bigsize.registered_office_address",
+        "wissel-ariregister.Address",
+        "wissel-aziende-info-clipper-com.Address Name"
+    ],
+    "postal_code": [
+        "wissel-aziende-info-clipper-com.Postalcode"
+    ],
+    "main_market": [
+        "campaignindia.MAIN MARKET"
+    ],
+    "ownership": [
+        "AmbitionBox.Ownership"
+    ],
+    "location": [
+        "DDD-teamblind-com.locations",
+        "wissel-aziende-info-clipper-com.Location type"
+    ],
+    "founded_year": [
+        "AmbitionBox.Foundation Year",
+        "DDD-cbinsight-com.founded",
+        "DDD-teamblind-com.founded",
+        "MalPatSaj-wikipedia-org.Founded",
+        "ft-com.founded",
+        "output_govuk_bigsize.company_creation_date",
+        "hitHorizons_dataset.est_of_ownership",
+        "wissel-ariregister.Registration Date"
+    ],
+    "company_size": [
+        "DDD-teamblind-com.size"
+    ],
+    "company_status": [
+        "output_govuk_bigsize.company_status"
+    ],
+    "company_type": [
+        "output_govuk_bigsize.company_type"
+    ],
+    "ceo_name": [
+        "disfold-com.ceo",
+        "valueToday_dataset.ceo"
+    ],
+    "founders": [
+        "valueToday_dataset.founders"
+    ],
+    "board_members": [
+        "wissel-ariregister.Representative Name"
+    ],
+    "board_members_role": [
+        "wissel-ariregister.Representative Role"
+    ],
+    "board_members_start_date": [
+        "wissel-ariregister.Representative Start Date"
+    ],
+    "investors": [
+        "DDD-cbinsight-com.investors"
+    ],
+    "company_stage": [
+        "DDD-cbinsight-com.stage"
+    ],
+    "company_number": [
+        "output_govuk_bigsize.company_number",
+        "wissel-ariregister.Code"
+    ],
+    "company_id": [
+        "companiesMarketCap_dataset.id",
+        "hitHorizons_dataset.id",
+        "hitHorizons_dataset.hhid",
+        "valueToday_dataset.id",
+        "wissel-ariregister.ID azienda"
+    ],
+    "url": [
+        "DDD-teamblind-com.website",
+        "company_social_urls.Facebook",
+        "company_social_urls.Twitter",
+        "company_social_urls.Instagram",
+        "company_social_urls.Pinterest",
+        "disfold-com.link",
+        "ft-com.link",
+        "output_globaldata.website",
+        "valueToday_dataset.company_website",
+        "wissel-ariregister.URL",
+        "wissel-aziende-info-clipper-com.URL"
+    ],
+    "valuation": [
+        "DDD-cbinsight-com.valuation"
+    ],
+    "date_joined": [
+        "DDD-cbinsight-com.dateJoined"
+    ],
+    "total_raised": [
+        "DDD-cbinsight-com.totalRaised"
+    ],
+    "sales": [
+        "MalPatSaj-forbes-com.Sales"
+    ],
+    "profit": [
+        "MalPatSaj-forbes-com.Profit"
+    ],
+    "assets": [
+        "MalPatSaj-forbes-com.Assets"
+    ],
+    "market_value": [
+        "MalPatSaj-forbes-com.Market Value",
+        "disfold-com.market_cap",
+        "output_globaldata.market_cap"
+    ],
+    "employees": [
+        "disfold-com.employees",
+        "output_globaldata.number_of_employees",
+        "ft-com.employees",
+        "valueToday_dataset.number_of_employees"
+    ],
+    "revenue": [
+        "ft-com.revenue",
+        "output_globaldata.revenue",
+        "valueToday_dataset.annual_revenue_in_usd"
+    ],
+    "annual_net_income": [
+        "valueToday_dataset.annual_net_income_in_usd"
+    ],
+    "fiscal_year": [
+        "valueToday_dataset.annual_results_for_year_ending"
+    ],
+    "total_assets": [
+        "valueToday_dataset.total_assets_in_usd"
+    ],
+    "total_liabilities": [
+        "valueToday_dataset.total_liabilities_in_usd"
+    ],
+    "total_equity": [
+        "valueToday_dataset.total_equity_in_usd"
+    ],
+    "share_price": [
+        "companiesMarketCap_dataset.share_price"
+    ],
+    "change_price_1_day": [
+        "companiesMarketCap_dataset.change_1_day"
+    ],
+    "change_price_1_year": [
+        "companiesMarketCap_dataset.change_1_year"
+    ],
+    "rank": [
+        "companiesMarketCap_dataset.rank"
+    ],
+    "world_rank": [
+        "valueToday_dataset.world_rank"
+    ],
+    "telephone": [
+        "output_globaldata.telephone"
+    ],
+    "nature_of_business": [
+        "output_govuk_bigsize.nature_of_business"
+    ],
+    "legal_form": [
+        "wissel-ariregister.Legal form"
+    ],
+    "emtak_code": [
+        "wissel-ariregister.EMTAK Code"
+    ],
+    "nace_code": [
+        "wissel-ariregister.NACE Code"
+    ],
+    "source_code": [
+        "wissel-ariregister.Source"
+    ],
+    "deletion_date": [
+        "wissel-ariregister.Deletion Date"
+    ],
+    "capital": [
+        "wissel-ariregister.Capital"
+    ]
+}
