@@ -1,53 +1,64 @@
 Company Name: 
 	AmbitionBox.Name,
-	Campaignindia.Brand Name, 
+	campaignindia.Brand Name, 
 	DDD-cbinsight.Name, 
-	CompaniesMarketCap.Name, 
+	companiesMarketCap_dataset.Name, 
 	company_social_urls.Company, 
-	discold.name,
-	MalPatSaj-forbes.Name,
-	ft.name
+	disfold-com.name,
+	MalPatSaj-forbes-com.Name,
+	ft-com.name
 	output_globaldata.name
-	output_govuk.name
+	output_govuk_bigsize.name
 	hitHorizons.name
-	wissel-aziende.name
+	wissel-aziende-info-clipper-com.name
 	DDD-teamblind.name
-	valueToday.name
+	valueToday_dataset.name
 	MalPatSaj-wikipedia.name
+	wissel-aregister.Name
 Category: 
 	Ambitionbox.Industry, 
-	Campaignindia.Category, 
+	campaignindia.Category, 
 	DDD-cbinsight.industry, 
-	CompaniesMarketCap.categories
-	ft.industry
+	companiesMarketCap_dataset.categories
+	ft-com.industry
 	output_globaldata.industry
-	output_govuk.nature_of_business,
+	output_govuk_bigsize.nature_of_business,
 	hitHorizons.industry,
 	DDD-teamblind.industry,
-	valueToday.company_business
+	valueToday_dataset.company_business
 	MalPatSaj-wikipedia.sector
+	wissel-aregister.Area of Activity
 HeadQuarter:
 	AmbitionBox.HeadQuarter, 
 	(DDD-cbinsight.city + DDD-cbinsight.country), 
-	CompaniesMarketCap.country, 
-	discold.headquarters,
-	MalPatSaj-forbes.Country,
-	ft.country
+	companiesMarketCap_dataset.country, 
+	disfold-com.headquarters,
+	MalPatSaj-forbes-com.Country,
+	ft-com.country
 	(output_globaldata.address + output_globaldata.headquarters),
-	output_govuk.registered_office_address,
+	output_govuk_bigsize.registered_office_address,
 	hitHorizons.address,
-	wissel-aziende.State + wissel-aziende.Country (base on wissel-aziende.location_type)
+	wissel-aziende-info-clipper-com.State + wissel-aziende-info-clipper-com.Country (base on wissel-aziende-info-clipper-com.location_type)
 	DDD-teamblind.locations
-	valueToday.region_city + valueToday.headquarters_country,
+	valueToday_dataset.region_city + valueToday_dataset.headquarters_country,
 	MalPatSaj-wikipedia.headquarters
+	wissel-aregister.Address
 Foundation Year: 
 	Ambitionbox.Foundation Year, (+years)
 	DDD-cbinsight.founded
-	ft.foundation year
-	output_govuk.company_creation_date (FULL)
+	ft-com.foundation year
+	output_govuk_bigsize.company_creation_date (FULL)
 	DDD-teamblind.founded,
 	MalPatSaj-wikipedia.founded
 No. Employees:
 	output_globaldata.number_of_employees
 	DDD-teamblind.size,
-	valueToday.number_of_employees
+	valueToday_dataset.number_of_employees
+Website:
+	company_social_urls.Facebook + company_social_urls.Twitter, company_social_urls.Instagram, company_social_urls.Pinterest
+	disfold-com-com.link
+	ft-com-com.link
+	valueToday_dataset.company_website
+	wissel-aziende-info-clipper-com.URL
+	wissel-aregister.URL
+Revenue:
