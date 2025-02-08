@@ -20,68 +20,60 @@ def create_data(dir_path:str, output_path:str ,instance_per_table:int) -> None:
         for name, dataframe in files:
             df: pd.DataFrame = dataframe
             file.write(f"Dataframe: {name}\n")
-            file.write(df.head(instance_per_table).to_string(index=False))
+            file.write(df.head(instance_per_table).to_csv(index=False, header=True))
             file.write("\n" + "#" * 100 + "\n")
 
-def send_message(input_file, model: str) -> dict:
+def send_message(query_file:str, input_file, model: str, save_type:str) -> dict:
     client:OpenAI = get_client(model)
 
     completion = client.chat.completions.create(
         model = keys[model]["model"],
         messages=[
-            {
-                "role": "user",
-                "content": [
-                    {
-                        "type": "text",
-                        "text": "Create a mediated schema with minimum 20 attributes. " + 
-                                "Return ONLY the mediated schema in this format: a json file " +
-                                "where for every column of the mediated schema is associated to a list " +
-                                "where this list contains the attributes of the original tables. " +
-                                "The list is a list of string where each element has this format: 'table_name.column_name', " +
-                                "so the key should be like this: 'mediated_column_1': ['table_name_x.column_name_1', ...]. " +
-                                "Be aware that some columns from the original tables may be split to better represent the domain, " + 
-                                "and vice versa." +
-                                "This are all the tables that I have: \n"
-                    }
-                ]
-            },
-            {
-                "role": "user",
-                "content": [
-                    {
-                        "type": "text",
-                        "text": f"{input_file}"
-                    }
-                ]
-            }
+            {"role": "user","content": [{"type": "text","text": query_file}]},
+            {"role": "user","content": [{"type": "text","text": f"{input_file}"}]}
         ]
     )
 
-    #print(completion)
-
     response = completion.choices[0].message.content
 
-    return json.loads(response.strip("```json").strip("```"))
+    if save_type == "json":
+        with open("./data/response.json", "w") as file:
+            json_response = json.loads(response.strip("```json").strip("```"))
+            json.dump(json_response, file, indent=4)
+    
+    if save_type == "txt":
+        with open("./data/response.txt", "w") as file:
+            file.write(response)
 
-def LLM() -> dict:
+def LLM():
     # creates response for LLM
     create_data("./data/raw", "./data/processed.txt", 10)
 
-    # reads processed.txt created with `create_data()`
+    # reads processed.txt created with `create_data()` and read query_file
     processed = list(map(lambda x: x.strip("\n"),open("./data/processed.txt", "r").readlines()))
+    query_file = " ".join(open("./data/query/query1.txt", "r").readlines()).strip("\n")
     # ask LLM the mediated schema
-    json_response:dict = send_message(processed, "1")
-    # mediated schema in `response.json`
-    with open("./data/response.json", "w") as file:
-        json.dump(json_response, file, indent=4)
-
-    return json_response
+    send_message(query_file,
+                 processed, 
+                 "1", 
+                 "txt")
 
 def schema_population():
-    response:dict = json.load(open("./data/response_1.json", "r"))
+    # read mediated schema info
+    response:dict = json.load(open("./data/response.json", "r"))
     mediated_attributes = list(response.keys())
 
+    # create mediated schema
+    df = pd.DataFrame(columns=mediated_attributes)
+
+    # read original tables and convert it to dict
+    files: list[str, pd.DataFrame] = read_files("./data/raw")
+
+    #print(df)
+
+    #df.loc[] = []
+
+    '''
     tables = {}
     for attribute in mediated_attributes:
         for value in response[attribute]:
@@ -91,9 +83,7 @@ def schema_population():
                 tables[table_name] = tables[table_name] + [column]
             else:
                 tables[table_name] = [column]
-
-    for attribute in mediated_attributes:
-        print(response[attribute])
+    '''
 
     #for table_name in tables:
     #    print(table_name, tables[table_name])
