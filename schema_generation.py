@@ -23,7 +23,7 @@ def create_data(dir_path:str, output_path:str ,instance_per_table:int) -> None:
             file.write(df.head(instance_per_table).to_string(index=False))
             file.write("\n" + "#" * 100 + "\n")
 
-def send_message(input_file, model: str):
+def send_message(input_file, model: str) -> dict:
     client:OpenAI = get_client(model)
 
     completion = client.chat.completions.create(
@@ -58,17 +58,50 @@ def send_message(input_file, model: str):
         ]
     )
 
-    return completion.choices[0].message.content
+    #print(completion)
 
-def LLM():
+    response = completion.choices[0].message.content
+
+    return json.loads(response.strip("```json").strip("```"))
+
+def LLM() -> dict:
     # creates response for LLM
     create_data("./data/raw", "./data/processed.txt", 10)
 
-    # read response
+    # reads processed.txt created with `create_data()`
     processed = list(map(lambda x: x.strip("\n"),open("./data/processed.txt", "r").readlines()))
+    # ask LLM the mediated schema
+    json_response:dict = send_message(processed, "1")
+    # mediated schema in `response.json`
+    with open("./data/response.json", "w") as file:
+        json.dump(json_response, file, indent=4)
 
-    response = send_message(processed, "deep-seek-1.5B")
+    return json_response
+
+def schema_population():
+    response:dict = json.load(open("./data/response_1.json", "r"))
+    mediated_attributes = list(response.keys())
+
+    tables = {}
+    for attribute in mediated_attributes:
+        for value in response[attribute]:
+            table_name, column = tuple(value.split("."))
+
+            if table_name in tables.keys():
+                tables[table_name] = tables[table_name] + [column]
+            else:
+                tables[table_name] = [column]
+
+    for attribute in mediated_attributes:
+        print(response[attribute])
+
+    #for table_name in tables:
+    #    print(table_name, tables[table_name])
     
 
 if __name__ == "__main__":
-    LLM()
+    #LLM()
+    schema_population()
+
+    #response:dict = json.load(open("./data/response.txt", "r"))
+    #print(response.keys())
