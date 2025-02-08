@@ -1,208 +1,224 @@
 Dataframe: AmbitionBox
-         Name                 Industry                               Headquarter Ownership   Foundation Year
-          TCS IT Services & Consulting                Mumbai, Maharashtra, India    Public 1968 (55 yrs old)
-    Accenture IT Services & Consulting                           Dublin, Ireland    Public 1989 (34 yrs old)
-    Cognizant IT Services & Consulting Teaneck. New Jersey., United States (USA)   Private 1994 (29 yrs old)
-   ICICI Bank                  Banking                Mumbai, Maharashtra, India    Public 1994 (29 yrs old)
-    HDFC Bank                  Banking                Mumbai, Maharashtra, India    Public 1994 (29 yrs old)
-        Wipro IT Services & Consulting     Bangalore/Bengaluru, Karnataka, India    Public 1945 (78 yrs old)
-      Infosys IT Services & Consulting     Bengaluru/Bangalore, Karnataka, India    Public 1981 (42 yrs old)
-    Capgemini IT Services & Consulting                             Paris, France    Public 1967 (56 yrs old)
-Tech Mahindra IT Services & Consulting                  Pune, Maharashtra, India    Public 1986 (37 yrs old)
-      Genpact IT Services & Consulting   New York, New York, United States (USA)    Public 1997 (26 yrs old)
+Name,Industry,Headquarter,Ownership,Foundation Year
+TCS,IT Services & Consulting,"Mumbai, Maharashtra, India",Public,1968 (55 yrs old)
+Accenture,IT Services & Consulting,"Dublin, Ireland",Public,1989 (34 yrs old)
+Cognizant,IT Services & Consulting,"Teaneck. New Jersey., United States (USA)",Private,1994 (29 yrs old)
+ICICI Bank,Banking,"Mumbai, Maharashtra, India",Public,1994 (29 yrs old)
+HDFC Bank,Banking,"Mumbai, Maharashtra, India",Public,1994 (29 yrs old)
+Wipro,IT Services & Consulting,"Bangalore/Bengaluru, Karnataka, India",Public,1945 (78 yrs old)
+Infosys,IT Services & Consulting,"Bengaluru/Bangalore, Karnataka, India",Public,1981 (42 yrs old)
+Capgemini,IT Services & Consulting,"Paris, France",Public,1967 (56 yrs old)
+Tech Mahindra,IT Services & Consulting,"Pune, Maharashtra, India",Public,1986 (37 yrs old)
+Genpact,IT Services & Consulting,"New York, New York, United States (USA)",Public,1997 (26 yrs old)
+
 ####################################################################################################
 Dataframe: DDD-cbinsight-com
-     name valuation dateJoined       country             city                        industry                                                               investors  founded               stage totalRaised
- Lacework     $8.3B   1/7/2021 United States         San Jose                   Cybersecurity        Sutter Hill Ventures, Liberty Global Ventures, Coatue Management   2015.0            Series E     $1.907B
-  Tipalti     $8.3B  10/6/2020 United States        San Mateo                         Fintech                                    01 Advisors, Zeev Ventures, Group 11   2010.0            Series F       $556M
-   Tempus     $8.1B  3/21/2018 United States          Chicago                          Health                New Enterprise Associates, T. Rowe Associates, Lightbank   2015.0   Unattributed - II     $1.345B
-  Anduril    $8.48B  9/11/2019 United States           Irvine         Artificial intelligence                 Andreessen Horowitz, Founders Fund, Revolution Ventures   2017.0            Series E     $2.309B
-     Bolt     $8.4B  5/29/2018       Estonia          Tallinn           Auto & transportation                                  Didi Chuxing, Diamler, TMT Investments   2013.0            Series F     $1.971B
-ByteDance     $140B   4/7/2017         China          Beijing         Artificial intelligence Sequoia Capital China, SIG Asia Investments, Sina Weibo, Softbank Group   2012.0      Private Equity      $7.44B
-  Niantic       $9B 11/24/2017 United States    San Francisco     Mobile & telecommunications          Nintendo, Google, Pokemon Company International, Spark Capital   2015.0            Series D       $770M
-OYO Rooms       $9B  9/25/2018         India         Gurugram                          Travel         SoftBank Group, Sequoia Capital India,Lightspeed India Partners   2012.0    Secondary Market     $3.114B
-    Kavak     $8.7B  10/1/2020        Mexico Lerma de Villada E-commerce & direct-to-consumer                              DST Global, SoftBank Group, Mountain Nazca   2014.0 Line of Credit - II     $2.702B
- Personio     $8.5B  1/19/2021       Germany           Munich    Internet software & services               Global Founders Capital, Nortzone Ventures, Picus Capital   2015.0       Series E - II    $724.83M
+name,valuation,dateJoined,country,city,industry,investors,founded,stage,totalRaised
+Lacework,$8.3B,1/7/2021,United States,San Jose,Cybersecurity,"Sutter Hill Ventures, Liberty Global Ventures, Coatue Management",2015.0,Series E,$1.907B
+Tipalti,$8.3B,10/6/2020,United States,San Mateo,Fintech,"01 Advisors, Zeev Ventures, Group 11",2010.0,Series F,$556M
+Tempus,$8.1B,3/21/2018,United States,Chicago,Health,"New Enterprise Associates, T. Rowe Associates, Lightbank",2015.0,Unattributed - II,$1.345B
+Anduril,$8.48B,9/11/2019,United States,Irvine,Artificial intelligence,"Andreessen Horowitz, Founders Fund, Revolution Ventures",2017.0,Series E,$2.309B
+Bolt,$8.4B,5/29/2018,Estonia,Tallinn,Auto & transportation,"Didi Chuxing, Diamler, TMT Investments",2013.0,Series F,$1.971B
+ByteDance,$140B,4/7/2017,China,Beijing,Artificial intelligence,"Sequoia Capital China, SIG Asia Investments, Sina Weibo, Softbank Group",2012.0,Private Equity,$7.44B
+Niantic,$9B,11/24/2017,United States,San Francisco,Mobile & telecommunications,"Nintendo, Google, Pokemon Company International, Spark Capital",2015.0,Series D,$770M
+OYO Rooms,$9B,9/25/2018,India,Gurugram,Travel,"SoftBank Group, Sequoia Capital India,Lightspeed India Partners",2012.0,Secondary Market,$3.114B
+Kavak,$8.7B,10/1/2020,Mexico,Lerma de Villada,E-commerce & direct-to-consumer,"DST Global, SoftBank Group, Mountain Nazca",2014.0,Line of Credit - II,$2.702B
+Personio,$8.5B,1/19/2021,Germany,Munich,Internet software & services,"Global Founders Capital, Nortzone Ventures, Picus Capital",2015.0,Series E - II,$724.83M
+
 ####################################################################################################
 Dataframe: DDD-teamblind-com
-                          name          website          locations                     size                          industry  founded
-Proteus Digital Health Careers  www.proteus.com   Redwood City, CA     201 to 500 employees                   Pharmaceuticals   2004.0
-                 Zelis Careers    www.zelis.com     Bedminster, NJ 1,001 to 5,000 employees Information Technology & Services   2016.0
-                UpNest Careers   www.upnest.com     Burlingame, CA        1 to 50 employees                       Real Estate   2013.0
-           conferacity Careers  conferacity.com     Menlo Park, CA        1 to 50 employees          Broadcast & Online Media   2013.0
-                Zenoti Careers   www.zenoti.com       Bellevue, WA   501 to 1,000 employees                 Computer Software   2010.0
-             LeaseLock Careers    leaselock.com Marina del Rey, CA      51 to 200 employees                         Insurance   2016.0
-                Kespry Careers   www.kespry.com     Menlo Park, CA      51 to 200 employees                 Computer Software   2013.0
-              NewsCred Careers www.newscred.com       New York, NY     201 to 500 employees           Marketing & Advertising   2008.0
-     Brane Enterprises Careers       nslhub.com   Hyderabad, India     201 to 500 employees Information Technology & Services   2017.0
-                Markel Careers   www.markel.com     Glen Allen, VA 1,001 to 5,000 employees                         Insurance   1930.0
+name,website,locations,size,industry,founded
+Proteus Digital Health Careers,www.proteus.com,"Redwood City, CA",201 to 500 employees,Pharmaceuticals,2004.0
+Zelis Careers,www.zelis.com,"Bedminster, NJ","1,001 to 5,000 employees",Information Technology & Services,2016.0
+UpNest Careers,www.upnest.com,"Burlingame, CA",1 to 50 employees,Real Estate,2013.0
+conferacity Careers,conferacity.com,"Menlo Park, CA",1 to 50 employees,Broadcast & Online Media,2013.0
+Zenoti Careers,www.zenoti.com,"Bellevue, WA","501 to 1,000 employees",Computer Software,2010.0
+LeaseLock Careers,leaselock.com,"Marina del Rey, CA",51 to 200 employees,Insurance,2016.0
+Kespry Careers,www.kespry.com,"Menlo Park, CA",51 to 200 employees,Computer Software,2013.0
+NewsCred Careers,www.newscred.com,"New York, NY",201 to 500 employees,Marketing & Advertising,2008.0
+Brane Enterprises Careers,nslhub.com,"Hyderabad, India",201 to 500 employees,Information Technology & Services,2017.0
+Markel Careers,www.markel.com,"Glen Allen, VA","1,001 to 5,000 employees",Insurance,1930.0
+
 ####################################################################################################
 Dataframe: MalPatSaj-forbes-com
-                                    Name       Country     Sales    Profit      Assets Market Value
-                      Berkshire Hathaway United States $276.09 B   $89.8 B   $958.78 B    $741.48 B
-                                    ICBC         China $208.13 B  $54.03 B $5,518.51 B    $214.43 B
-Saudi Arabian Oil Company (Saudi Aramco)  Saudi Arabia $400.38 B $105.36 B   $576.04 B  $2,292.08 B
-                          JPMorgan Chase United States $124.54 B  $42.12 B $3,954.69 B    $374.45 B
-                 China Construction Bank         China $202.07 B  $46.89 B $4,746.95 B    $181.32 B
-                                  Amazon United States $469.82 B  $33.36 B   $420.55 B   $1,468.4 B
-                                   Apple United States  $378.7 B $100.56 B   $381.19 B  $2,640.32 B
-              Agricultural Bank of China         China $181.42 B  $37.38 B $4,561.05 B    $133.38 B
-                         Bank of America United States  $96.83 B     $31 B $3,238.22 B     $303.1 B
-                            Toyota Motor         Japan $281.75 B  $28.15 B   $552.46 B    $237.73 B
+Name,Country,Sales,Profit,Assets,Market Value
+Berkshire Hathaway,United States,$276.09 B,$89.8 B,$958.78 B,$741.48 B
+ICBC,China,$208.13 B,$54.03 B,"$5,518.51 B",$214.43 B
+Saudi Arabian Oil Company (Saudi Aramco),Saudi Arabia,$400.38 B,$105.36 B,$576.04 B,"$2,292.08 B"
+JPMorgan Chase,United States,$124.54 B,$42.12 B,"$3,954.69 B",$374.45 B
+China Construction Bank,China,$202.07 B,$46.89 B,"$4,746.95 B",$181.32 B
+Amazon,United States,$469.82 B,$33.36 B,$420.55 B,"$1,468.4 B"
+Apple,United States,$378.7 B,$100.56 B,$381.19 B,"$2,640.32 B"
+Agricultural Bank of China,China,$181.42 B,$37.38 B,"$4,561.05 B",$133.38 B
+Bank of America,United States,$96.83 B,$31 B,"$3,238.22 B",$303.1 B
+Toyota Motor,Japan,$281.75 B,$28.15 B,$552.46 B,$237.73 B
+
 ####################################################################################################
 Dataframe: MalPatSaj-wikipedia-org
-                                         Name       Industry                     Sector         Headquarters Founded                                                         Notes
-                                       Agrana Consumer goods              Food products               Vienna    1988 Sugar, starch, fruit juice concentrates and fruit preparation
-                                  pewag group    Industrials       Industrial machinery           Klagenfurt    1479                                            Chain manufacturer
-                          AHT Cooling Systems    Industrials       Electronic equipment           Rottenmann    1983                                     Cooling and refrigeration
-                          Ammerer Bed Company Consumer goods Durable household products     Ried im Innkreis    1763                                                           NaN
-                                       ams AG     Technology             Semiconductors          Premstätten    1981                                                Semiconductors
-                                      Andritz    Industrials       Industrial machinery                 Graz    1852                                             Plant engineering
-                                  Atomic Skis Consumer goods      Recreational products Altenmarkt im Pongau    1955                           Skis, part of Amer Sports (Finland)
-                           Augarten porcelain Consumer goods Durable household products               Vienna    1923                                                           NaN
-                       AMAG Austria Metall AG    Industrials    Diversified industrials       Braunau am Inn    1938                                         General manufacturing
-Austria Wirtschaftsservice Gesellschaft (aws)     Financials                      Banks               Vienna    1954                                Development and financing bank
+Name,Industry,Sector,Headquarters,Founded,Notes
+Agrana,Consumer goods,Food products,Vienna,1988,"Sugar, starch, fruit juice concentrates and fruit preparation"
+pewag group,Industrials,Industrial machinery,Klagenfurt,1479,Chain manufacturer
+AHT Cooling Systems,Industrials,Electronic equipment,Rottenmann,1983,Cooling and refrigeration
+Ammerer Bed Company,Consumer goods,Durable household products,Ried im Innkreis,1763,
+ams AG,Technology,Semiconductors,Premstätten,1981,Semiconductors
+Andritz,Industrials,Industrial machinery,Graz,1852,Plant engineering
+Atomic Skis,Consumer goods,Recreational products,Altenmarkt im Pongau,1955,"Skis, part of Amer Sports (Finland)"
+Augarten porcelain,Consumer goods,Durable household products,Vienna,1923,
+AMAG Austria Metall AG,Industrials,Diversified industrials,Braunau am Inn,1938,General manufacturing
+Austria Wirtschaftsservice Gesellschaft (aws),Financials,Banks,Vienna,1954,Development and financing bank
+
 ####################################################################################################
 Dataframe: campaignindia
- RANK      BRAND NAME                CATEGORY MAIN MARKET 2010 RANK
-    1            Sony    Consumer electronics    Regional         1
-    2         Samsung Electronics/White goods    Regional         2
-    3       Panasonic    Consumer electronics    Regional         3
-    4              LG Electronics/White goods    Regional         4
-    5           Canon Camera/Office equipment    Regional         5
-    6           Apple            Mobile Phone    Regional         9
-    7 Hewlett-Packard                Computer    Regional        10
-    8          Google  Internet search engine    Regional         6
-    9          Nestlé          Food and drink    Regional         8
-   10            Nike           Sports retail    Regional        13
+RANK,BRAND NAME,CATEGORY,MAIN MARKET,2010 RANK
+1,Sony,Consumer electronics,Regional,1
+2,Samsung,Electronics/White goods,Regional,2
+3,Panasonic,Consumer electronics,Regional,3
+4,LG,Electronics/White goods,Regional,4
+5,Canon,Camera/Office equipment,Regional,5
+6,Apple,Mobile Phone,Regional,9
+7,Hewlett-Packard,Computer,Regional,10
+8,Google,Internet search engine,Regional,6
+9,Nestlé,Food and drink,Regional,8
+10,Nike,Sports retail,Regional,13
+
 ####################################################################################################
 Dataframe: companiesMarketCap_dataset
-                              id                 name  rank market_cap     country share_price change_1_day change_1_year                                              categories
-1aeb78c70807445290795f145210a39e                Apple     1   $2.351 T         USA     $147.81       -0.34%        -9.74% [Tech, Software, Dow jones, Tech Hardware, Electronics]
-8443bd488b2543718e4dab19e7d1b371 Bristol-myers Squibb    57  $172.49 B         USA      $81.13        0.31%        46.42%                              [Pharmaceuticals, Biotech]
-d35ff63680a645f986048ab48d2fe322          Wells Fargo    56  $175.05 B         USA      $45.94       -1.98%        -6.07%                             [Banks, Financial services]
-0664af11c7b9417bab58542ffa880c0e                 Nike    55  $175.54 B         USA     $112.20        1.29%       -34.00%           [Sports goods, Footwear, Dow jones, Clothing]
-4a67737ea89e450b8e8677a91e90327f          Walt Disney    54  $177.08 B         USA      $99.43        0.85%       -32.45%                              [Entertainment, Dow jones]
-078fc42523be4528a0eb804f7ceb4ddf  Abbott Laboratories    53  $188.46 B         USA     $108.09        0.15%       -15.80%                                       [Medical devices]
-d38f5769cb644305bf77af14794bd780            Accenture    52  $189.25 B     Ireland     $300.13       -0.89%       -17.84%                                 [Professional services]
-97f59071fdc74c589f7ad77a8903f429          T-mobile Us    51  $189.62 B         USA     $152.41        0.40%        38.10%                                     [Telecommunication]
-9fe6e0ddabc04a8ebc3d091c9e3071f2             Novartis    50  $194.41 B Switzerland      $89.99        0.19%        12.56%                              [Pharmaceuticals, Biotech]
-03ad6161d67b479588cd2cdcf7e0b3d5               Toyota    48  $199.92 B       Japan     $146.53       -0.77%       -20.00%                             [Automakers, Manufacturing]
+id,name,rank,market_cap,country,share_price,change_1_day,change_1_year,categories
+1aeb78c70807445290795f145210a39e,Apple,1,$2.351 T,USA,$147.81,-0.34%,-9.74%,"['Tech', 'Software', 'Dow jones', 'Tech Hardware', 'Electronics']"
+8443bd488b2543718e4dab19e7d1b371,Bristol-myers Squibb,57,$172.49 B,USA,$81.13,0.31%,46.42%,"['Pharmaceuticals', 'Biotech']"
+d35ff63680a645f986048ab48d2fe322,Wells Fargo,56,$175.05 B,USA,$45.94,-1.98%,-6.07%,"['Banks', 'Financial services']"
+0664af11c7b9417bab58542ffa880c0e,Nike,55,$175.54 B,USA,$112.20,1.29%,-34.00%,"['Sports goods', 'Footwear', 'Dow jones', 'Clothing']"
+4a67737ea89e450b8e8677a91e90327f,Walt Disney,54,$177.08 B,USA,$99.43,0.85%,-32.45%,"['Entertainment', 'Dow jones']"
+078fc42523be4528a0eb804f7ceb4ddf,Abbott Laboratories,53,$188.46 B,USA,$108.09,0.15%,-15.80%,['Medical devices']
+d38f5769cb644305bf77af14794bd780,Accenture,52,$189.25 B,Ireland,$300.13,-0.89%,-17.84%,['Professional services']
+97f59071fdc74c589f7ad77a8903f429,T-mobile Us,51,$189.62 B,USA,$152.41,0.40%,38.10%,['Telecommunication']
+9fe6e0ddabc04a8ebc3d091c9e3071f2,Novartis,50,$194.41 B,Switzerland,$89.99,0.19%,12.56%,"['Pharmaceuticals', 'Biotech']"
+03ad6161d67b479588cd2cdcf7e0b3d5,Toyota,48,$199.92 B,Japan,$146.53,-0.77%,-20.00%,"['Automakers', 'Manufacturing']"
+
 ####################################################################################################
 Dataframe: company_social_urls
-                   Company                                                                 Facebook                                                     Twitter                                                                                        Instagram                                         Pinterest
-       The Hershey Company                                 https://www.facebook.com/HersheyCompany/                          https://twitter.com/hersheycompany                                                        https://www.instagram.com/hersheycompany/         https://www.pinterest.com/hersheycompany/
-                       ITC                                https://it-it.facebook.com/ITCooperativa/                         https://twitter.com/search?q=%23itc                                                        https://www.instagram.com/tgruiz24/?hl=it          https://www.pinterest.it/itcaccessories/
-               Pgnig Group                                          https://www.facebook.com/PGNiG/                       https://twitter.com/search?q=%23pgnig                                                              https://www.instagram.com/pgnig_od/                                               NaN
-                 MTN Group                    https://m.facebook.com/profile.php?id=108590052499148                                https://twitter.com/mtngroup                                                     https://www.instagram.com/mtn.company/?hl=it             https://www.pinterest.it/mtn_company/
-             Compass Group  https://it-it.facebook.com/people/Compass-Group-Italia/100066651009309/                          https://twitter.com/compassgroupuk                                                  https://www.instagram.com/compassgroupse/?hl=it  https://www.pinterest.it/pin/288652657357881873/
-                     Apple                                          https://www.facebook.com/apple/                                   https://twitter.com/apple                                                                 https://www.instagram.com/apple/    https://www.pinterest.it/corbuccimonica/apple/
-                    Amazon                                    https://it-it.facebook.com/amazon.it/                                  https://twitter.com/amazon                                                                https://www.instagram.com/amazon/                 https://www.pinterest.com/amazon/
-   China Construction Bank https://www.facebook.com/people/China-construction-bank/100070125410227/      https://twitter.com/efd_dff/status/1121698241098256385                  https://www.instagram.com/explore/locations/1020937200/china-construction-bank/  https://www.pinterest.com/pin/14918242492574218/
-Agricultural Bank of China                               https://www.facebook.com/agriculturalbank/ https://twitter.com/wublockchain/status/1406920364299411459 https://www.instagram.com/explore/locations/1016493539/washington-dc/agricultural-bank-of-china/ https://www.pinterest.com/pin/140033869643084967/
-                      ICBC                                      https://it-it.facebook.com/theICBC/                                    https://twitter.com/icbc                                                               https://www.instagram.com/theicbc/ https://www.pinterest.com/pin/560698222344449131/
+Company,Facebook,Twitter,Instagram,Pinterest
+The Hershey Company,https://www.facebook.com/HersheyCompany/,https://twitter.com/hersheycompany,https://www.instagram.com/hersheycompany/,https://www.pinterest.com/hersheycompany/
+ITC,https://it-it.facebook.com/ITCooperativa/,https://twitter.com/search?q=%23itc,https://www.instagram.com/tgruiz24/?hl=it,https://www.pinterest.it/itcaccessories/
+Pgnig Group,https://www.facebook.com/PGNiG/,https://twitter.com/search?q=%23pgnig,https://www.instagram.com/pgnig_od/,
+MTN Group,https://m.facebook.com/profile.php?id=108590052499148,https://twitter.com/mtngroup,https://www.instagram.com/mtn.company/?hl=it,https://www.pinterest.it/mtn_company/
+Compass Group,https://it-it.facebook.com/people/Compass-Group-Italia/100066651009309/,https://twitter.com/compassgroupuk,https://www.instagram.com/compassgroupse/?hl=it,https://www.pinterest.it/pin/288652657357881873/
+Apple,https://www.facebook.com/apple/,https://twitter.com/apple,https://www.instagram.com/apple/,https://www.pinterest.it/corbuccimonica/apple/
+Amazon,https://it-it.facebook.com/amazon.it/,https://twitter.com/amazon,https://www.instagram.com/amazon/,https://www.pinterest.com/amazon/
+China Construction Bank,https://www.facebook.com/people/China-construction-bank/100070125410227/,https://twitter.com/efd_dff/status/1121698241098256385,https://www.instagram.com/explore/locations/1020937200/china-construction-bank/,https://www.pinterest.com/pin/14918242492574218/
+Agricultural Bank of China,https://www.facebook.com/agriculturalbank/,https://twitter.com/wublockchain/status/1406920364299411459,https://www.instagram.com/explore/locations/1016493539/washington-dc/agricultural-bank-of-china/,https://www.pinterest.com/pin/140033869643084967/
+ICBC,https://it-it.facebook.com/theICBC/,https://twitter.com/icbc,https://www.instagram.com/theicbc/,https://www.pinterest.com/pin/560698222344449131/
+
 ####################################################################################################
 Dataframe: disfold-com
-                                                                    link                                                    name            headquarters employees                                       ceo        market_cap
-                    https://disfold.com/company/great-wall-motor-co-ltd/                                 Great Wall Motor Co Ltd          Baoding, China    63,174                                 Not found CN¥203.69 Billion
-                                  https://disfold.com/company/colbun-sa/                                               Colbún SA         Santiago, Chile     1,193                 Mr. Thomas Lippold Keller CL$1.098 Trillion
-     https://disfold.com/company/usinas-siderurgicas-de-minas-gerais-sa/                  Usinas Siderúrgicas de Minas Gerais SA  Belo Horizonte, Brazil Not found               Mr. Sergio Leite de Andrade     €3.54 Billion
-                     https://disfold.com/company/origin-enterprises-plc/                                  Origin Enterprises plc         Dublin, Ireland     2,641                     Mr. Sean Gerard Coyle    €539.3 Million
-            https://disfold.com/company/summit-real-estate-holdings-ltd/                         Summit Real Estate Holdings Ltd           Haifa, Israel       144                            Mr. Amir  Sagi     ₪45.1 Million
-                                 https://disfold.com/company/selvita-sa/                                              Selvita SA          Krakow, Poland       715 Mr. Boguslaw Stanislaw Sieczkowski M.B.A.    €305.3 Million
-                https://disfold.com/company/far-eastern-shipping-co-plc/                             Far-Eastern Shipping Co PLC          Moscow, Russia Not found                                 Not found    ₽78.70 Billion
-        https://disfold.com/company/precinct-properties-new-zealand-ltd/                     Precinct Properties New Zealand Ltd   Auckland, New Zealand Not found                                 Not found   NZ$2.10 Billion
-                          https://disfold.com/company/proseed-india-ltd/                                       Proseed India Ltd        Hyderabad, India Not found                                 Not found    ₹11.02 Billion
-https://disfold.com/company/controladora-vuela-compania-aviacion-sab-cv/ Controladora Vuela Compañía de Aviación, S.A.B. de C.V. Mexico City, DF, Mexico     6,754   Mr. Enrique Javier  Beltranena Mejicano  MX$41.21 Billion
+link,name,headquarters,employees,ceo,market_cap
+https://disfold.com/company/great-wall-motor-co-ltd/,Great Wall Motor Co Ltd,"Baoding, China","63,174",Not found,CN¥203.69 Billion
+https://disfold.com/company/colbun-sa/,Colbún SA,"Santiago, Chile","1,193",Mr. Thomas Lippold Keller,CL$1.098 Trillion
+https://disfold.com/company/usinas-siderurgicas-de-minas-gerais-sa/,Usinas Siderúrgicas de Minas Gerais SA,"Belo Horizonte, Brazil",Not found,Mr. Sergio Leite de Andrade,€3.54 Billion
+https://disfold.com/company/origin-enterprises-plc/,Origin Enterprises plc,"Dublin, Ireland","2,641",Mr. Sean Gerard Coyle,€539.3 Million
+https://disfold.com/company/summit-real-estate-holdings-ltd/,Summit Real Estate Holdings Ltd,"Haifa, Israel",144,Mr. Amir  Sagi,₪45.1 Million
+https://disfold.com/company/selvita-sa/,Selvita SA,"Krakow, Poland",715,Mr. Boguslaw Stanislaw Sieczkowski M.B.A.,€305.3 Million
+https://disfold.com/company/far-eastern-shipping-co-plc/,Far-Eastern Shipping Co PLC,"Moscow, Russia",Not found,Not found,₽78.70 Billion
+https://disfold.com/company/precinct-properties-new-zealand-ltd/,Precinct Properties New Zealand Ltd,"Auckland, New Zealand",Not found,Not found,NZ$2.10 Billion
+https://disfold.com/company/proseed-india-ltd/,Proseed India Ltd,"Hyderabad, India",Not found,Not found,₹11.02 Billion
+https://disfold.com/company/controladora-vuela-compania-aviacion-sab-cv/,"Controladora Vuela Compañía de Aviación, S.A.B. de C.V.","Mexico City, DF, Mexico","6,754",Mr. Enrique Javier  Beltranena Mejicano,MX$41.21 Billion
+
 ####################################################################################################
 Dataframe: ft-com
-                           link                         name     country         industry revenue employees  founded
-https://www.greatdealscorp.com/ Great Deals E-Commerce Corp. Philippines        Ecommerce   88.77       385     2017
-        http://www.pclchip.com/                     PCL Inc. South Korea  Pharmaceuticals   45.48        63     2008
-       https://www.spolive.com/                      Spolive South Korea   Games industry    9.49        47     2013
-     https://www.workmate.asia/                     Workmate   Singapore Support Services   12.44        82     2015
-http://www.taimedbiologics.com/             TaiMed Biologics      Taiwan  Pharmaceuticals   24.42        78     2007
-      https://www.sciecomm.com/                SCI Ecommerce   Singapore        Ecommerce  108.46       164     2014
-     http://www.icychaya.co.th/                  I-CY CHAYA     Thailand  Food & Beverage   44.04         7     2012
-       https://www.grow.com.au/                 Grow Finance   Australia          Fintech   15.02        52     2016
-            https://sambhv.com/                 SAMBHV Steel       India Industrial Goods   64.65       355     2017
-      https://www.inteluck.com/                     INTELUCK Philippines       Technology    7.06       108     2014
+link,name,country,industry,revenue,employees,founded
+https://www.greatdealscorp.com/,Great Deals E-Commerce Corp.,Philippines,Ecommerce,88.77,385,2017
+http://www.pclchip.com/,PCL Inc.,South Korea,Pharmaceuticals,45.48,63,2008
+https://www.spolive.com/,Spolive,South Korea,Games industry,9.49,47,2013
+https://www.workmate.asia/,Workmate,Singapore,Support Services,12.44,82,2015
+http://www.taimedbiologics.com/,TaiMed Biologics,Taiwan,Pharmaceuticals,24.42,78,2007
+https://www.sciecomm.com/,SCI Ecommerce,Singapore,Ecommerce,108.46,164,2014
+http://www.icychaya.co.th/,I-CY CHAYA ,Thailand,Food & Beverage,44.04,7,2012
+https://www.grow.com.au/,Grow Finance,Australia,Fintech,15.02,52,2016
+https://sambhv.com/,SAMBHV Steel,India,Industrial Goods,64.65,355,2017
+https://www.inteluck.com/,INTELUCK,Philippines,Technology,7.06,108,2014
+
 ####################################################################################################
 Dataframe: hitHorizons_dataset
-                              id                                          name                                                    address        nation           hhid                            industry                         sic_code            type  est_of_ownership
-d60823f20d864692b517a8ad6c1418ed                                      Enel Spa      VIALE REGINA MARGHERITA 137, ROMA, 00198, ROMA, ITALY IT00934061003 H-IT0031426662 Finance, Insurance, and Real Estate           Holding company (6719)     Corporation              1962
-c7856532ca8b4dd286a9602c77221035                                 Esselunga Spa         VIA GIAMBOLOGNA 1, PIOLTELLO, 20096, MILANO, ITALY IT04916380159 H-IT0068388950                        Retail Trade      Ret mail-order house (5961)     Corporation              1957
-e8e04ae3e4594e3b836e62077155b19a                                   Superit Srl         VIA VITTOR PISANI 20, MILANO, 20124, MILANO, ITALY IT11068950960 H-IT0289899385 Finance, Insurance, and Real Estate           Holding company (6719)     Corporation              2019
-37290f39faa54935813c0c6f840d7353                                     Saras Spa        GALLERIA PASSARELLA 2, MILANO, 20122, MILANO, ITALY IT00136440922 H-IT0018414451                       Manufacturing         Petroleum refiner (2911)     Corporation              1962
-bb3a80a40f704c688f804f627667fd31                                 Unicredit Spa PIAZZA GAE AULENTI 3 TOWER A, MILANO, 20154, MILANO, ITALY IT00348170101 H-IT0009571558 Finance, Insurance, and Real Estate  National commercial bank (6021)     Corporation              1870
-4883354f373d44a292f4a65e1bfcc713                                Send To Me Srl            VIALE UNGHERIA 46, MILANO, 20138, MILANO, ITALY IT11386820960 H-IT0587927934                            Services Computer related services (7379)     Corporation              2020
-74c186ec773c4e51be51af78f8c2677f                      Intesa Sanpaolo Vita Spa          CORSO INGHILTERRA 3, TORINO, 10138, TORINO, ITALY IT02505650370 H-IT0075504235 Finance, Insurance, and Real Estate    Life insurance carrier (6311)     Corporation              1980
-ced3963e442b46ddb59a19c8a6657673                   Unipolsai Assicurazioni Spa         VIA STALINGRADO 45, BOLOGNA, 40128, BOLOGNA, ITALY IT00818570012 H-IT0009030107 Finance, Insurance, and Real Estate         Insurance carrier (6399)     Corporation              1921
-ee1d7d948fe14782af9e862a4168657e Totalenergies Petrochemicals & Refining Sa Nv                VIA ROMBON 11, MILANO, 20134, MILANO, ITALY IT04488120967 H-IT0074190970                     Wholesale Trade   Whol chemicals/products (5169) Foreign Company              2004
-c16581f085eb47f2acc45d01ac375d83                                 Sanastera Spa       PIAZZA MINGHETTI 4/D, BOLOGNA, 40124, BOLOGNA, ITALY IT02755811201 H-IT0002023660 Finance, Insurance, and Real Estate           Holding company (6719)     Corporation              2007
+id,name,address,nation,hhid,industry,sic_code,type,est_of_ownership
+d60823f20d864692b517a8ad6c1418ed,Enel Spa,"VIALE REGINA MARGHERITA 137, ROMA, 00198, ROMA, ITALY",IT00934061003,H-IT0031426662,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,1962
+c7856532ca8b4dd286a9602c77221035,Esselunga Spa,"VIA GIAMBOLOGNA 1, PIOLTELLO, 20096, MILANO, ITALY",IT04916380159,H-IT0068388950,Retail Trade,Ret mail-order house (5961),Corporation,1957
+e8e04ae3e4594e3b836e62077155b19a,Superit Srl,"VIA VITTOR PISANI 20, MILANO, 20124, MILANO, ITALY",IT11068950960,H-IT0289899385,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2019
+37290f39faa54935813c0c6f840d7353,Saras Spa,"GALLERIA PASSARELLA 2, MILANO, 20122, MILANO, ITALY",IT00136440922,H-IT0018414451,Manufacturing,Petroleum refiner (2911),Corporation,1962
+bb3a80a40f704c688f804f627667fd31,Unicredit Spa,"PIAZZA GAE AULENTI 3 TOWER A, MILANO, 20154, MILANO, ITALY",IT00348170101,H-IT0009571558,"Finance, Insurance, and Real Estate",National commercial bank (6021),Corporation,1870
+4883354f373d44a292f4a65e1bfcc713,Send To Me Srl,"VIALE UNGHERIA 46, MILANO, 20138, MILANO, ITALY",IT11386820960,H-IT0587927934,Services,Computer related services (7379),Corporation,2020
+74c186ec773c4e51be51af78f8c2677f,Intesa Sanpaolo Vita Spa,"CORSO INGHILTERRA 3, TORINO, 10138, TORINO, ITALY",IT02505650370,H-IT0075504235,"Finance, Insurance, and Real Estate",Life insurance carrier (6311),Corporation,1980
+ced3963e442b46ddb59a19c8a6657673,Unipolsai Assicurazioni Spa,"VIA STALINGRADO 45, BOLOGNA, 40128, BOLOGNA, ITALY",IT00818570012,H-IT0009030107,"Finance, Insurance, and Real Estate",Insurance carrier (6399),Corporation,1921
+ee1d7d948fe14782af9e862a4168657e,Totalenergies Petrochemicals & Refining Sa Nv,"VIA ROMBON 11, MILANO, 20134, MILANO, ITALY",IT04488120967,H-IT0074190970,Wholesale Trade,Whol chemicals/products (5169),Foreign Company,2004
+c16581f085eb47f2acc45d01ac375d83,Sanastera Spa,"PIAZZA MINGHETTI 4/D, BOLOGNA, 40124, BOLOGNA, ITALY",IT02755811201,H-IT0002023660,"Finance, Insurance, and Real Estate",Holding company (6719),Corporation,2007
+
 ####################################################################################################
 Dataframe: output_globaldata
-                                         name             headquarters number_of_employees                                                                                               address                                    industry                website market_cap       telephone revenue
-                               US Ecology Inc United States of America               3,600                                                      101 S Capitol Blvd Ste 1000, Boise, Idaho, 83702 Environmental and Waste Management Services      www.usecology.com       None   1 208 3318400 $988.0M
-                          Mercury Systems Inc United States of America               2,386                                                     50 Minuteman Drive, Andover, Massachusetts, 01810                       Aerospace and Defense           www.mrcy.com      $2.7B   1 978 2561300 $988.2M
-                     Xiwang Foodstuffs Co Ltd                    China               1,892                                    Xiwang Industrial Park, Zouping County, Binzhou, Shandong , 256209                     Consumer Packaged Goods            www.xwsp.cc    $787.4M  86 543 4868888 $985.2M
-Shenzhen Hepalink Pharmaceutical Group Co Ltd                    China               2,046 No. 19, Hi-Tech Zhongyi Avenue, Middle Area, Hi-Tech Zone , Nanshan Dist, Shenzhen, Guangdong, 518057              Pharmaceuticals and Healthcare       www.hepalink.com      $2.7B 86 755 26980311 $986.9M
-                     Kingsoft Corporation Ltd                Hong Kong               7,174                         Kingsoft Tower, No. 33, Xiaoying West Road, Haidian District, Beijing, 100085               Technology and Communications       www.kingsoft.com      $5.0B   852  24050088 $987.8M
-                            Petropavlovsk PLC           United Kingdom               8,860                                                                   11 Grosvenor Place, London, SW1X7HH                           Metals and Mining   petropavlovskplc.com       None   7 495 3802810 $988.5M
-                                 VAT Group AG              Switzerland               2,897                                                                  Seelistrasse 1, Haag, Rheintal, 9469              Industrial Goods and Machinery       www.vatvalve.com      $9.5B   41 81 7716161 $986.0M
-                                  Software AG                  Germany               5,052                                                                    Uhlandstrasse 12, Darmstadt, 64297               Technology and Communications     www.softwareag.com      $2.1B     49 6151 920 $986.0M
-                                    3SBio Inc                    China               5,160                 No. 3 A1, Road 10, Shenyang Economy & Technology, Development Zone, Liaoning , 110027              Pharmaceuticals and Healthcare          www.3sbio.com      $2.7B  86 24 25811820 $989.5M
-                                Nomura Co Ltd                    Japan               1,952                                                              2-3-4, Daiba, Minato-Ku, Tokyo, 135-8622                                Construction www.nomurakougei.co.jp    $821.6M   81 3 59621171 $988.9M
+name,headquarters,number_of_employees,address,industry,website,market_cap,telephone,revenue
+US Ecology Inc,United States of America,"3,600","101 S Capitol Blvd Ste 1000, Boise, Idaho, 83702",Environmental and Waste Management Services,www.usecology.com,,1 208 3318400,$988.0M
+Mercury Systems Inc,United States of America,"2,386","50 Minuteman Drive, Andover, Massachusetts, 01810",Aerospace and Defense,www.mrcy.com,$2.7B,1 978 2561300,$988.2M
+Xiwang Foodstuffs Co Ltd,China,"1,892","Xiwang Industrial Park, Zouping County, Binzhou, Shandong , 256209",Consumer Packaged Goods,www.xwsp.cc,$787.4M,86 543 4868888,$985.2M
+Shenzhen Hepalink Pharmaceutical Group Co Ltd,China,"2,046","No. 19, Hi-Tech Zhongyi Avenue, Middle Area, Hi-Tech Zone , Nanshan Dist, Shenzhen, Guangdong, 518057",Pharmaceuticals and Healthcare,www.hepalink.com,$2.7B,86 755 26980311,$986.9M
+Kingsoft Corporation Ltd,Hong Kong,"7,174","Kingsoft Tower, No. 33, Xiaoying West Road, Haidian District, Beijing, 100085",Technology and Communications,www.kingsoft.com,$5.0B,852  24050088,$987.8M
+Petropavlovsk PLC,United Kingdom,"8,860","11 Grosvenor Place, London, SW1X7HH",Metals and Mining,petropavlovskplc.com,,7 495 3802810,$988.5M
+VAT Group AG,Switzerland,"2,897","Seelistrasse 1, Haag, Rheintal, 9469",Industrial Goods and Machinery,www.vatvalve.com,$9.5B,41 81 7716161,$986.0M
+Software AG,Germany,"5,052","Uhlandstrasse 12, Darmstadt, 64297",Technology and Communications,www.softwareag.com,$2.1B,49 6151 920,$986.0M
+3SBio Inc,China,"5,160","No. 3 A1, Road 10, Shenyang Economy & Technology, Development Zone, Liaoning , 110027",Pharmaceuticals and Healthcare,www.3sbio.com,$2.7B,86 24 25811820,$989.5M
+Nomura Co Ltd,Japan,"1,952","2-3-4, Daiba, Minato-Ku, Tokyo, 135-8622",Construction,www.nomurakougei.co.jp,$821.6M,81 3 59621171,$988.9M
+
 ####################################################################################################
 Dataframe: output_govuk_bigsize
-                                     name company_number                                                                                 registered_office_address company_status            company_type company_creation_date                                                         nature_of_business
-                INGRAM MICRO (UK) LIMITED       01609968               Cbxii, 406-432 Midsummer Boulevard, Milton Keynes, Buckinghamshire, United Kingdom, MK9 2EA         Active Private limited Company       29 January 1982 46510 - Wholesale of computers, computer peripheral equipment and software
-      MARKETING FACILITIES MANAGEMENT LTD       04437088                                     Jupiter House, Calleva Park, Aldermaston, Reading, Berkshire, RG7 8NN      Dissolved Private limited Company           13 May 2002                                                74990 - Non-trading company
-                            SOFTWARE LTD.       SC144127                                                          214 214 Holburn St, Aberdeen, Scotland, AB10 6DB         Active Private limited Company         29 April 1993                         62012 - Business and domestic software development
-                  SPENEO TECHNOLOGIES LTD       04348149                                                Suite B, 29 Harley Street, London, United Kingdom, W1G 9QR      Dissolved Private limited Company        7 January 2002                                                 7499 - Non-trading company
-                 SOFTWARE ADD-ONS LIMITED       05387424 1 Bailey Court Bailey Court, Colburn Business Park, Catterick Garrison, North Yorkshire, England, DL9 4QL         Active Private limited Company         10 March 2005                      62020 - Information technology consultancy activities
-                  SOFTWARE ACUMEN LIMITED       05210967                             St. John's Innovation Centre, Cowley Road, Cambridge, Cambridgeshire, CB4 0WS         Active Private limited Company        20 August 2004                         62012 - Business and domestic software development
-                SOFTWARE ACQUISITIONS LTD       11907728                                 Glasshouse Alderley Park, Congleton Road, Macclesfield, England, SK10 4ZE         Active Private limited Company         27 March 2019                         62012 - Business and domestic software development
-SOFTWARE ACQUISITIONS & LICENSING LIMITED       03242617                                   The Centre, Reading Road, Eversley Centre, Hampshire, England, RG27 0NB         Active Private limited Company        28 August 1996                         62012 - Business and domestic software development
-                 SOFTWARE ACADEMY LIMITED       10428742                                                         71 Cricklewood Broadway, London, England, NW2 3JR         Active Private limited Company       14 October 2016                    62090 - Other information technology service activities
-                            NELL+LOLA LTD       07862220                                             15 Orange Birch Close, Clowne, Chesterfield, England, S43 4FQ         Active Private limited Company      28 November 2011                                                        63120 - Web portals
+name,company_number,registered_office_address,company_status,company_type,company_creation_date,nature_of_business
+INGRAM MICRO (UK) LIMITED,01609968,"Cbxii, 406-432 Midsummer Boulevard, Milton Keynes, Buckinghamshire, United Kingdom, MK9 2EA",Active,Private limited Company,29 January 1982,"46510 - Wholesale of computers, computer peripheral equipment and software"
+MARKETING FACILITIES MANAGEMENT LTD,04437088,"Jupiter House, Calleva Park, Aldermaston, Reading, Berkshire, RG7 8NN",Dissolved,Private limited Company,13 May 2002,74990 - Non-trading company
+SOFTWARE LTD.,SC144127,"214 214 Holburn St, Aberdeen, Scotland, AB10 6DB",Active,Private limited Company,29 April 1993,62012 - Business and domestic software development
+SPENEO TECHNOLOGIES LTD,04348149,"Suite B, 29 Harley Street, London, United Kingdom, W1G 9QR",Dissolved,Private limited Company,7 January 2002,7499 - Non-trading company
+SOFTWARE ADD-ONS LIMITED,05387424,"1 Bailey Court Bailey Court, Colburn Business Park, Catterick Garrison, North Yorkshire, England, DL9 4QL",Active,Private limited Company,10 March 2005,62020 - Information technology consultancy activities
+SOFTWARE ACUMEN LIMITED,05210967,"St. John's Innovation Centre, Cowley Road, Cambridge, Cambridgeshire, CB4 0WS",Active,Private limited Company,20 August 2004,62012 - Business and domestic software development
+SOFTWARE ACQUISITIONS LTD,11907728,"Glasshouse Alderley Park, Congleton Road, Macclesfield, England, SK10 4ZE",Active,Private limited Company,27 March 2019,62012 - Business and domestic software development
+SOFTWARE ACQUISITIONS & LICENSING LIMITED,03242617,"The Centre, Reading Road, Eversley Centre, Hampshire, England, RG27 0NB",Active,Private limited Company,28 August 1996,62012 - Business and domestic software development
+SOFTWARE ACADEMY LIMITED,10428742,"71 Cricklewood Broadway, London, England, NW2 3JR",Active,Private limited Company,14 October 2016,62090 - Other information technology service activities
+NELL+LOLA LTD,07862220,"15 Orange Birch Close, Clowne, Chesterfield, England, S43 4FQ",Active,Private limited Company,28 November 2011,63120 - Web portals
+
 ####################################################################################################
 Dataframe: valueToday_dataset
-                              id                                              name world_rank annual_revenue_in_usd annual_net_income_in_usd annual_results_for_year_ending total_assets_in_usd total_liabilities_in_usd total_equity_in_usd headquarters_region_city headquarters_country headquarters_sub_region headquarters_continent                                                                                                                                                                                                                                                                               company_business number_of_employees               ceo                                                                            founders                    company_website
-b9a098214d1a4ce1acc834cf17aef660                                             Apple          1   394,330 Million USD       99,803 Million USD                       Sep-2022 352,760 Million USD      302,080 Million USD  50,672 Million USD               California                  USA        Northern America               Americas                                                                  [Technology, Mobiles & Accessories, Electronics, Consumer Electronics, Computers Hardware, Software and IT, Music, Tablets, Technology Hardware and Instruments, Retail, Artificial Intelligence, Laptops, Software Products]             154,000          Tim Cook                                           [Steve Jobs, Steve Wozniak, Ronald Wayne]             https://www.apple.com/
-42f1b7d5a40343de9837fc75d74767c3 Taiwan Semiconductor Manufacturing Company (tsmc)         10    55,306 Million USD       20,783 Million USD                       Dec-2021 129,800 Million USD       54,253 Million USD  75,543 Million USD                  Hsinchu               Taiwan         South East Asia                   Asia                                                                                                                                                                                             [Technology, Semiconductors, Electronics, Technology Hardware and Instruments, Processors / Chips]              65,152         C. C. Wei                                                                        Morris Chang              https://www.tsmc.com/
-85fa8c7dfbb447d898002cb3cfb2fffd                                Nvidia Corporation          9    26,914 Million USD        9,752 Million USD      For Year Ending  JAN-2022  44,187 Million USD       17,575 Million USD  26,612 Million USD               California                  USA        Northern America               Americas                                                                                                            [Technology, Semiconductors, Electronics, Technology Hardware and Instruments, Computers Hardware, Video Games / Mobile Games / Tech Games / Casino Games, Artificial Intelligence]              18,975      Jensen Huang                                     [Jensen Huang, Chris Malachowsky, Curtis Priem]             http://www.nvidia.com/
-6b52bb9b50924235b1003c74bb8db227                                Berkshire Hathaway          8   354,640 Million USD       89,795 Million USD       For Year ending Dec-2021 956,780 Million USD      443,850 Million USD 514,930 Million USD                 Nebraska                  USA        Northern America               Americas                                                                                                                                                                                                                                                   [Financial Services, Investments, Insurance]             372,000    Warren Buffett                                                                        Oliver Chace https://www.berkshirehathaway.com/
-d10c3bd4fe924f138454b6f0583de7a1                                    Meta Platforms          7   117,930 Million USD       39,370 Million USD                       Dec-2021 165,990 Million USD       41,108 Million USD 124,880 Million USD               California                  USA        Northern America               Americas                                                                                                 [Communication Services, Internet or Mobile App Based Business, Social Media, Artificial Intelligence, Internet of Things, Advertising, Technology, Media, Software and IT, Software Products]              77,805   Mark Zuckerberg [Mark Zuckerberg, Andrew McCollum, Eduardo Saverin, Dustin Moskovitz, Chris Hughes]          https://www.facebook.com/
-e47996998e7246eda585c4305ef6939c                                             Tesla          6    53,823 Million USD        5,519 Million USD                       Dec-2021  62,131 Million USD       31,942 Million USD  30,189 Million USD               California                  USA        Northern America               Americas                                                                                                                       [Electric Vehicles, Cars, Automobile, Solar Power Devices, Capital Goods, Power Equipment, Technology, Passenger Vehicles, Batteries, Electric Vehicle Charging Station]              99,290         Elon Musk              [Elon Musk, JB Straubel, Martin Eberhard, Marc Tarpenning, Ian Wright]             https://www.tesla.com/
-bc37ca2da21441d293d359d0c01f140f                                        Amazon.com          5   469,820 Million USD       33,364 Million USD                       Dec-2021 420,550 Million USD      282,300 Million USD 138,240 Million USD               Washington                  USA        Northern America               Americas                                                                                                    [eCommerce, Internet or Mobile App Based Business, Cloud Services, Software and IT, Artificial Intelligence, Technology, Consulting Services, Consumer Services, Software Products, Retail]           1,335,000        Andy Jassy                                                                          Jeff Bezos            https://www.amazon.com/
-3a2bce3ff9554d8a905558ef5090a47e                                          Alphabet          4   257,640 Million USD       76,003 Million USD                       Dec-2021 359,270 Million USD      107,630 Million USD 251,640 Million USD               California                  USA        Northern America               Americas                                                       [Technology, Internet or Mobile App Based Business, Software and IT, Software Products, Cloud Services, Artificial Intelligence, Internet of Things, Gaming, Video Games / Mobile Games / Tech Games / Casino Games, Advertising, Media]             156,500     Sundar Pichai                                                           [Larry Page, Sergey Brin]                   https://abc.xyz/
-15059ddb23254f9bb98b587097e811bd          Saudi Arabian Oil Company (saudi Aramco)          3   400,460 Million USD      105,380 Million USD                       Dec-2021 576,700 Million USD      279,840 Million USD 296,860 Million USD                  Dhahran         Saudi Arabia            Western Asia                   Asia                                                                                                                                                                               [Energy, Oil and Gas, Chemicals, Oil Refining, Oil and Gas Pipeline Transport, Integrated Oil and Gas Companies]              79,800 Amin H. Al-Nasser                                                                                 NaN       https://www.saudiaramco.com/
-a1b45476ec5041b2a59d6fade384a33e                             Microsoft Corporation          2   198,270 Million USD       72,738 Million USD       For Year Ending Jun-2022 364,840 Million USD      198,300 Million USD 166,540 Million USD               Washington                  USA        Northern America               Americas [Technology, Software and IT, Laptops, Video Games / Mobile Games / Tech Games / Casino Games, Gaming, Internet or Mobile App Based Business, Computers Hardware, Tablets, Cloud Services, Artificial Intelligence, Internet of Things, Media, Electronics, Consumer Electronics, Advertising]             220,000     Satya Nadella                                                            [Bill Gates, Paul Allen]         https://www.microsoft.com/
+id,name,world_rank,annual_revenue_in_usd,annual_net_income_in_usd,annual_results_for_year_ending,total_assets_in_usd,total_liabilities_in_usd,total_equity_in_usd,headquarters_region_city,headquarters_country,headquarters_sub_region,headquarters_continent,company_business,number_of_employees,ceo,founders,company_website
+b9a098214d1a4ce1acc834cf17aef660,Apple,1,"394,330 Million USD","99,803 Million USD",Sep-2022,"352,760 Million USD","302,080 Million USD","50,672 Million USD",California,USA,Northern America,Americas,"['Technology', 'Mobiles & Accessories', 'Electronics', 'Consumer Electronics', 'Computers Hardware', 'Software and IT', 'Music', 'Tablets', 'Technology Hardware and Instruments', 'Retail', 'Artificial Intelligence', 'Laptops', 'Software Products']","154,000",Tim Cook,"['Steve Jobs', 'Steve Wozniak', 'Ronald Wayne']",https://www.apple.com/
+42f1b7d5a40343de9837fc75d74767c3,Taiwan Semiconductor Manufacturing Company (tsmc),10,"55,306 Million USD","20,783 Million USD",Dec-2021,"129,800 Million USD","54,253 Million USD","75,543 Million USD",Hsinchu,Taiwan,South East Asia,Asia,"['Technology', 'Semiconductors', 'Electronics', 'Technology Hardware and Instruments', 'Processors / Chips']","65,152",C. C. Wei,Morris Chang,https://www.tsmc.com/
+85fa8c7dfbb447d898002cb3cfb2fffd,Nvidia Corporation,9,"26,914 Million USD","9,752 Million USD",For Year Ending  JAN-2022,"44,187 Million USD","17,575 Million USD","26,612 Million USD",California,USA,Northern America,Americas,"['Technology', 'Semiconductors', 'Electronics', 'Technology Hardware and Instruments', 'Computers Hardware', 'Video Games / Mobile Games / Tech Games / Casino Games', 'Artificial Intelligence']","18,975",Jensen Huang,"['Jensen Huang', 'Chris Malachowsky', 'Curtis Priem']",http://www.nvidia.com/
+6b52bb9b50924235b1003c74bb8db227,Berkshire Hathaway,8,"354,640 Million USD","89,795 Million USD",For Year ending Dec-2021,"956,780 Million USD","443,850 Million USD","514,930 Million USD",Nebraska,USA,Northern America,Americas,"['Financial Services', 'Investments', 'Insurance']","372,000",Warren Buffett,Oliver Chace,https://www.berkshirehathaway.com/
+d10c3bd4fe924f138454b6f0583de7a1,Meta Platforms,7,"117,930 Million USD","39,370 Million USD",Dec-2021,"165,990 Million USD","41,108 Million USD","124,880 Million USD",California,USA,Northern America,Americas,"['Communication Services', 'Internet or Mobile App Based Business', 'Social Media', 'Artificial Intelligence', 'Internet of Things', 'Advertising', 'Technology', 'Media', 'Software and IT', 'Software Products']","77,805",Mark Zuckerberg,"['Mark Zuckerberg', 'Andrew McCollum', 'Eduardo Saverin', 'Dustin Moskovitz', 'Chris Hughes']",https://www.facebook.com/
+e47996998e7246eda585c4305ef6939c,Tesla,6,"53,823 Million USD","5,519 Million USD",Dec-2021,"62,131 Million USD","31,942 Million USD","30,189 Million USD",California,USA,Northern America,Americas,"['Electric Vehicles', 'Cars', 'Automobile', 'Solar Power Devices', 'Capital Goods', 'Power Equipment', 'Technology', 'Passenger Vehicles', 'Batteries', 'Electric Vehicle Charging Station']","99,290",Elon Musk,"['Elon Musk', 'JB Straubel', 'Martin Eberhard', 'Marc Tarpenning', 'Ian Wright']",https://www.tesla.com/
+bc37ca2da21441d293d359d0c01f140f,Amazon.com,5,"469,820 Million USD","33,364 Million USD",Dec-2021,"420,550 Million USD","282,300 Million USD","138,240 Million USD",Washington,USA,Northern America,Americas,"['eCommerce', 'Internet or Mobile App Based Business', 'Cloud Services', 'Software and IT', 'Artificial Intelligence', 'Technology', 'Consulting Services', 'Consumer Services', 'Software Products', 'Retail']","1,335,000",Andy Jassy,Jeff Bezos,https://www.amazon.com/
+3a2bce3ff9554d8a905558ef5090a47e,Alphabet,4,"257,640 Million USD","76,003 Million USD",Dec-2021,"359,270 Million USD","107,630 Million USD","251,640 Million USD",California,USA,Northern America,Americas,"['Technology', 'Internet or Mobile App Based Business', 'Software and IT', 'Software Products', 'Cloud Services', 'Artificial Intelligence', 'Internet of Things', 'Gaming', 'Video Games / Mobile Games / Tech Games / Casino Games', 'Advertising', 'Media']","156,500",Sundar Pichai,"['Larry Page', 'Sergey Brin']",https://abc.xyz/
+15059ddb23254f9bb98b587097e811bd,Saudi Arabian Oil Company (saudi Aramco),3,"400,460 Million USD","105,380 Million USD",Dec-2021,"576,700 Million USD","279,840 Million USD","296,860 Million USD",Dhahran,Saudi Arabia,Western Asia,Asia,"['Energy', 'Oil and Gas', 'Chemicals', 'Oil Refining', 'Oil and Gas Pipeline Transport', 'Integrated Oil and Gas Companies']","79,800",Amin H. Al-Nasser,,https://www.saudiaramco.com/
+a1b45476ec5041b2a59d6fade384a33e,Microsoft Corporation,2,"198,270 Million USD","72,738 Million USD",For Year Ending Jun-2022,"364,840 Million USD","198,300 Million USD","166,540 Million USD",Washington,USA,Northern America,Americas,"['Technology', 'Software and IT', 'Laptops', 'Video Games / Mobile Games / Tech Games / Casino Games', 'Gaming', 'Internet or Mobile App Based Business', 'Computers Hardware', 'Tablets', 'Cloud Services', 'Artificial Intelligence', 'Internet of Things', 'Media', 'Electronics', 'Consumer Electronics', 'Advertising']","220,000",Satya Nadella,"['Bill Gates', 'Paul Allen']",https://www.microsoft.com/
+
 ####################################################################################################
 Dataframe: wissel-ariregister
- ID azienda                                                                                           Area of Activity         EMTAK Code  NACE Code                             Source                                                                                               URL                             Name       Code              Legal form                 Status Registration Date               Capital                                                                 Address Deletion Date   Representative Name Representative Code     Representative Role Representative Start Date
-          1                                                                                                        NaN                NaN        NaN                                NaN              https://ariregister.rik.ee/eng/company/14318875/10Dspace-OÃœ?search_id=6b4eef4&pos=1            10DspaceOÃœ(14318875) 14318875.0 Private limited company                Deleted        25.08.2017                   NaN                                                                     NaN    29.05.2020                   NaN                 NaN                     NaN                       NaN
-          2                         Other activities auxiliary to financial services that are not classified elsewhere 66199 (EMTAK 2008)      66.19 Electronic submission (14.07.2021)           https://ariregister.rik.ee/eng/company/16270291/21-Sparrows-OÃœ?search_id=6b4eef4&pos=2          21SparrowsOÃœ(16270291) 16270291.0 Private limited company Enteredintotheregister        14.07.2021 Capitalis10Â 000Â â‚¬ Harju maakond Tallinn Kesklinna linnaosa Toom-Kuninga tn 15-77 10122              NaN            Janis Jegi         38807314918 Management board member                14.07.2021
-          3                                                                              Specialised design activities 74101 (EMTAK 2008)      74.10          Annual report(07.02.2022)                  https://ariregister.rik.ee/eng/company/12454634/3DST-OÃœ?search_id=6b4eef4&pos=3                3DSTOÃœ(12454634) 12454634.0 Private limited company Enteredintotheregister        15.04.2013  Capitalis2Â 500Â â‚¬          Harju maakond Tallinn Kesklinna linnaosa Pikk tn 67-3 10133              NaN Siim Tiigim\xc3\xa4gi         38807042731 Management board member                15.04.2013
-          4                                                                            Computer programming activities 62011 (EMTAK 2008)      62.01          Annual report(29.06.2022)          https://ariregister.rik.ee/eng/company/14867109/8-Bits-Space-OÃœ?search_id=6b4eef4&pos=4          8BitsSpaceOÃœ(14867109) 14867109.0 Private limited company Enteredintotheregister        11.12.2019  Capitalis2Â 500Â â‚¬         Harju maakond Tallinn LasnamÃ¤e linnaosa Sepapaja tn 6 15551              NaN   Dominik Gronkiewicz         39207230150 Management board member                11.12.2019
-          5                                                  Construction of residential and non-residential buildings 41201 (EMTAK 2008)      41.20 Electronic submission (26.02.2022)      https://ariregister.rik.ee/eng/company/16451101/A1-Ehituspartner-OÃœ?search_id=6b4eef4&pos=5     A1EhituspartnerOÃœ(16451101) 16451101.0 Private limited company Enteredintotheregister        28.02.2022  Capitalis2Â 500Â â‚¬                  PÃµlva maakond PÃµlva vald Adiste kÃ¼la Naima 63204              NaN           Rainis Luik         37508026514 Management board member                28.02.2022
-          6 Renting and operational leasing of other machinery, equipment and tangible assets not classified elsewhere 77399 (EMTAK 2008)      77.39          Annual report(18.04.2022)         https://ariregister.rik.ee/eng/company/10166769/osaÃ¼hing-Aarspak?search_id=6b4eef4&pos=6       osaÃ¼hingAarspak(10166769) 10166769.0 Private limited company Enteredintotheregister        28.11.1996  Capitalis2Â 550Â â‚¬              Harju maakond Viimsi vald Lubja kÃ¼la Ampri tee 7 74010              NaN          Kaido Kaabel         36706040246 Management board member                28.11.1996
-          7                                                              Manufacture of plastic packing goods \xc2\xa0 22221 (EMTAK 2008)      22.22          Annual report(04.05.2022)      https://ariregister.rik.ee/eng/company/11959421/Aarspak-Tootmine-OÃœ?search_id=6b4eef4&pos=7     AarspakTootmineOÃœ(11959421) 11959421.0 Private limited company Enteredintotheregister        22.06.2010  Capitalis2Â 556Â â‚¬              Harju maakond Viimsi vald Lubja kÃ¼la Ampri tee 7 74010              NaN          Marek Kaabel         37008100259 Management board member                22.06.2010
-          8                                                         Other retail sale not in stores, stalls or markets 47991 (EMTAK 2008)      47.99    Statistics Estonia (01.11.2021)          https://ariregister.rik.ee/eng/company/11945353/AA-Spamarket-OÃœ?search_id=6b4eef4&pos=8        A&ASpamarketOÃœ(11945353) 11945353.0 Private limited company                Deleted        25.05.2010                   NaN                                                                     NaN    07.09.2022                   NaN                 NaN                     NaN                       NaN
-          9         Activities of saunas, sunbeds and massage salons and other services related to physical well-being 96041 (EMTAK 2008)      96.04 Electronic submission (06.07.2020)   https://ariregister.rik.ee/eng/company/16008334/OÃœ-ABC-Online-Solution?search_id=6b4eef4&pos=9   OÃœABCOnlineSolution(16008334) 16008334.0 Private limited company Enteredintotheregister        13.07.2020  Capitalis2Â 500Â â‚¬          Harju maakond Tallinn Kesklinna linnaosa Raua tn 51-2 10120              NaN           Joosep Tinn         38205090298 Management board member                26.11.2021
-         10                                                                                                        NaN                NaN        NaN                                NaN https://ariregister.rik.ee/eng/company/11739760/OÃœ-ABC-Rakennuspalvelut?search_id=6b4eef4&pos=10 OÃœABCRakennuspalvelut(11739760) 11739760.0 Private limited company                Deleted        20.10.2009                   NaN                                                                     NaN    26.03.2014                   NaN                 NaN                     NaN                       NaN
+ID azienda,Area of Activity,EMTAK Code,NACE Code,Source,URL,Name,Code,Legal form,Status,Registration Date,Capital,Address,Deletion Date,Representative Name,Representative Code,Representative Role,Representative Start Date
+1,,,,,https://ariregister.rik.ee/eng/company/14318875/10Dspace-OÃœ?search_id=6b4eef4&pos=1,10DspaceOÃœ(14318875),14318875.0,Private limited company,Deleted,25.08.2017,,,29.05.2020,,,,
+2,Other activities auxiliary to financial services that are not classified elsewhere,66199 (EMTAK 2008),66.19,Electronic submission (14.07.2021),https://ariregister.rik.ee/eng/company/16270291/21-Sparrows-OÃœ?search_id=6b4eef4&pos=2,21SparrowsOÃœ(16270291),16270291.0,Private limited company,Enteredintotheregister,14.07.2021,Capitalis10Â 000Â â‚¬,Harju maakond Tallinn Kesklinna linnaosa Toom-Kuninga tn 15-77 10122   ,,Janis Jegi,38807314918,Management board member,14.07.2021
+3,Specialised design activities,74101 (EMTAK 2008),74.1,Annual report(07.02.2022),https://ariregister.rik.ee/eng/company/12454634/3DST-OÃœ?search_id=6b4eef4&pos=3,3DSTOÃœ(12454634),12454634.0,Private limited company,Enteredintotheregister,15.04.2013,Capitalis2Â 500Â â‚¬,Harju maakond Tallinn Kesklinna linnaosa Pikk tn 67-3 10133   ,,Siim Tiigim\xc3\xa4gi,38807042731,Management board member,15.04.2013
+4,Computer programming activities,62011 (EMTAK 2008),62.01,Annual report(29.06.2022),https://ariregister.rik.ee/eng/company/14867109/8-Bits-Space-OÃœ?search_id=6b4eef4&pos=4,8BitsSpaceOÃœ(14867109),14867109.0,Private limited company,Enteredintotheregister,11.12.2019,Capitalis2Â 500Â â‚¬,Harju maakond Tallinn LasnamÃ¤e linnaosa Sepapaja tn 6 15551   ,,Dominik Gronkiewicz,39207230150,Management board member,11.12.2019
+5,Construction of residential and non-residential buildings,41201 (EMTAK 2008),41.2,Electronic submission (26.02.2022),https://ariregister.rik.ee/eng/company/16451101/A1-Ehituspartner-OÃœ?search_id=6b4eef4&pos=5,A1EhituspartnerOÃœ(16451101),16451101.0,Private limited company,Enteredintotheregister,28.02.2022,Capitalis2Â 500Â â‚¬,PÃµlva maakond PÃµlva vald Adiste kÃ¼la Naima 63204   ,,Rainis Luik,37508026514,Management board member,28.02.2022
+6,"Renting and operational leasing of other machinery, equipment and tangible assets not classified elsewhere",77399 (EMTAK 2008),77.39,Annual report(18.04.2022),https://ariregister.rik.ee/eng/company/10166769/osaÃ¼hing-Aarspak?search_id=6b4eef4&pos=6,osaÃ¼hingAarspak(10166769),10166769.0,Private limited company,Enteredintotheregister,28.11.1996,Capitalis2Â 550Â â‚¬,Harju maakond Viimsi vald Lubja kÃ¼la Ampri tee 7 74010   ,,Kaido Kaabel,36706040246,Management board member,28.11.1996
+7,Manufacture of plastic packing goods \xc2\xa0,22221 (EMTAK 2008),22.22,Annual report(04.05.2022),https://ariregister.rik.ee/eng/company/11959421/Aarspak-Tootmine-OÃœ?search_id=6b4eef4&pos=7,AarspakTootmineOÃœ(11959421),11959421.0,Private limited company,Enteredintotheregister,22.06.2010,Capitalis2Â 556Â â‚¬,Harju maakond Viimsi vald Lubja kÃ¼la Ampri tee 7 74010   ,,Marek Kaabel,37008100259,Management board member,22.06.2010
+8,"Other retail sale not in stores, stalls or markets",47991 (EMTAK 2008),47.99,Statistics Estonia (01.11.2021),https://ariregister.rik.ee/eng/company/11945353/AA-Spamarket-OÃœ?search_id=6b4eef4&pos=8,A&ASpamarketOÃœ(11945353),11945353.0,Private limited company,Deleted,25.05.2010,,,07.09.2022,,,,
+9,"Activities of saunas, sunbeds and massage salons and other services related to physical well-being",96041 (EMTAK 2008),96.04,Electronic submission (06.07.2020),https://ariregister.rik.ee/eng/company/16008334/OÃœ-ABC-Online-Solution?search_id=6b4eef4&pos=9,OÃœABCOnlineSolution(16008334),16008334.0,Private limited company,Enteredintotheregister,13.07.2020,Capitalis2Â 500Â â‚¬,Harju maakond Tallinn Kesklinna linnaosa Raua tn 51-2 10120   ,,Joosep Tinn,38205090298,Management board member,26.11.2021
+10,,,,,https://ariregister.rik.ee/eng/company/11739760/OÃœ-ABC-Rakennuspalvelut?search_id=6b4eef4&pos=10,OÃœABCRakennuspalvelut(11739760),11739760.0,Private limited company,Deleted,20.10.2009,,,26.03.2014,,,,
+
 ####################################################################################################
 Dataframe: wissel-aziende-info-clipper-com
- INDEX                                                                                                                  URL                                                    Name Trade Name                      Address Name             Postalcode         City          State        Country  Location type
-     0                                        https://www.info-clipper.com/en/company/united-states/cnhi-llc.usdg0my8a.html                                               CNHI, LLC        NaN                    445 DEXTER AVE              361043892   MONTGOMERY    Alabama(AL)  UNITED STATES    Headquarter
-     1                             https://www.info-clipper.com/en/company/united-kingdom/craig-rose-limited.gbd3nvwwq.html                                    CRAIG & ROSE LIMITED        NaN     7th Floor Suite 1 50 Broadway               SW1H 0BL       LONDON UNITED KINGDOM UNITED KINGDOM Single address
-     2 https://www.info-clipper.com/en/company/italy/segretariato-generale-della-presidenza-della-repubblica.itdau24gz.html SEGRETARIATO GENERALE DELLA PRESIDENZA DELLA REPUBBLICA        NaN              VIA DELLA DATARIA 96                    187         ROMA          ITALY          ITALY    Headquarter
-     3                                    https://www.info-clipper.com/en/company/estonia/bih-real-estate-ou.eed8vckdq.html                                      BIH REAL ESTATE OU        NaN                    Narva mnt 6-44                  10117      Tallinn        ESTONIA        ESTONIA Single address
-     4 https://www.info-clipper.com/en/company/united-states/developmental-services-california-department-of.usd97cr8n.html        DEVELOPMENTAL SERVICES, CALIFORNIA DEPARTMENT OF        NaN                         1215 O ST              958145804   SACRAMENTO California(CA)  UNITED STATES    Headquarter
-     5                      https://www.info-clipper.com/en/company/united-kingdom/qioptiq-photonics-limited.gbd5rolmu.html                               QIOPTIQ PHOTONICS LIMITED        NaN Mitchell Point Ensign Way, Hamble               SO31 4RF  SOUTHAMPTON UNITED KINGDOM UNITED KINGDOM Single address
-     6                                            https://www.info-clipper.com/en/company/italy/cristina-srl.itd73jx12.html                                            CRISTINA SRL        NaN                       VIA FAVA 56                  28024      GOZZANO          ITALY          ITALY    Headquarter
-     7                                           https://www.info-clipper.com/en/company/estonia/recticel-ou.eed8uixf6.html                                             RECTICEL OU        NaN                 Peterburi tee 48a                  11415      Tallinn        ESTONIA        ESTONIA Single address
-     8                           https://www.info-clipper.com/en/company/united-states/laird-technologies-inc.usd1abyt.html                                LAIRD TECHNOLOGIES, INC.        NaN   16401 SWINGLEY RIDGE RD STE 700              630170744 CHESTERFIELD   Missouri(MO)  UNITED STATES    Headquarter
-     9                        https://www.info-clipper.com/en/company/united-kingdom/designers-guild-limited.gbd3hxgcj.html                                 DESIGNERS GUILD LIMITED        NaN                   3 Latimer Place                W10 6QT       LONDON UNITED KINGDOM UNITED KINGDOM    Headquarter
+INDEX,URL,Name,Trade Name,Address Name,Postalcode,City,State,Country,Location type
+0,https://www.info-clipper.com/en/company/united-states/cnhi-llc.usdg0my8a.html,"CNHI, LLC",,445 DEXTER AVE,361043892,MONTGOMERY,Alabama(AL),UNITED STATES,Headquarter
+1,https://www.info-clipper.com/en/company/united-kingdom/craig-rose-limited.gbd3nvwwq.html,CRAIG & ROSE LIMITED,,7th Floor Suite 1 50 Broadway,              SW1H 0BL,LONDON,UNITED KINGDOM,UNITED KINGDOM,Single address
+2,https://www.info-clipper.com/en/company/italy/segretariato-generale-della-presidenza-della-repubblica.itdau24gz.html,SEGRETARIATO GENERALE DELLA PRESIDENZA DELLA REPUBBLICA,,VIA DELLA DATARIA 96,187,ROMA,ITALY,ITALY,Headquarter
+3,https://www.info-clipper.com/en/company/estonia/bih-real-estate-ou.eed8vckdq.html,BIH REAL ESTATE OU,,Narva mnt 6-44,10117,Tallinn,ESTONIA,ESTONIA,Single address
+4,https://www.info-clipper.com/en/company/united-states/developmental-services-california-department-of.usd97cr8n.html,"DEVELOPMENTAL SERVICES, CALIFORNIA DEPARTMENT OF",,1215 O ST,958145804,SACRAMENTO,California(CA),UNITED STATES,Headquarter
+5,https://www.info-clipper.com/en/company/united-kingdom/qioptiq-photonics-limited.gbd5rolmu.html,QIOPTIQ PHOTONICS LIMITED,,"Mitchell Point Ensign Way, Hamble",              SO31 4RF,SOUTHAMPTON,UNITED KINGDOM,UNITED KINGDOM,Single address
+6,https://www.info-clipper.com/en/company/italy/cristina-srl.itd73jx12.html,CRISTINA SRL,,VIA FAVA 56,28024,GOZZANO,ITALY,ITALY,Headquarter
+7,https://www.info-clipper.com/en/company/estonia/recticel-ou.eed8uixf6.html,RECTICEL OU,,Peterburi tee 48a,11415,Tallinn,ESTONIA,ESTONIA,Single address
+8,https://www.info-clipper.com/en/company/united-states/laird-technologies-inc.usd1abyt.html,"LAIRD TECHNOLOGIES, INC.",,16401 SWINGLEY RIDGE RD STE 700,630170744,CHESTERFIELD,Missouri(MO),UNITED STATES,Headquarter
+9,https://www.info-clipper.com/en/company/united-kingdom/designers-guild-limited.gbd3hxgcj.html,DESIGNERS GUILD LIMITED,,3 Latimer Place,              W10 6QT,LONDON,UNITED KINGDOM,UNITED KINGDOM,Headquarter
+
 ####################################################################################################
