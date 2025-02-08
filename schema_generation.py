@@ -37,12 +37,12 @@ def send_message(query_file:str, input_file, model: str, save_type:str) -> dict:
     response = completion.choices[0].message.content
 
     if save_type == "json":
-        with open("./data/response.json", "w") as file:
+        with open("./data/response/response.json", "w") as file:
             json_response = json.loads(response.strip("```json").strip("```"))
             json.dump(json_response, file, indent=4)
     
     if save_type == "txt":
-        with open("./data/response.txt", "w") as file:
+        with open("./data/response/response.txt", "w") as file:
             file.write(response)
 
 def LLM():
@@ -60,7 +60,7 @@ def LLM():
 
 def schema_population():
     # read mediated schema info
-    response:dict = json.load(open("./data/response.json", "r"))
+    response:dict = json.load(open("./data/response/response.json", "r"))
     mediated_attributes = list(response.keys())
 
     # create mediated schema
@@ -68,26 +68,6 @@ def schema_population():
 
     # read original tables and convert it to dict
     files: list[str, pd.DataFrame] = read_files("./data/raw")
-
-    #print(df)
-
-    #df.loc[] = []
-
-    '''
-    tables = {}
-    for attribute in mediated_attributes:
-        for value in response[attribute]:
-            table_name, column = tuple(value.split("."))
-
-            if table_name in tables.keys():
-                tables[table_name] = tables[table_name] + [column]
-            else:
-                tables[table_name] = [column]
-    '''
-
-    #for table_name in tables:
-    #    print(table_name, tables[table_name])
-    
 
 if __name__ == "__main__":
     #LLM()
