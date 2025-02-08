@@ -34,11 +34,15 @@ def send_message(input_file, model: str):
                 "content": [
                     {
                         "type": "text",
-                        "text": "Create a mediated schema with at least 20 attributes. " + 
-                                "Return only the mediated schema in this format: a json file " +
-                                "where for every column of the mediated schema is associated a list " +
+                        "text": "Create a mediated schema with minimum 20 attributes. " + 
+                                "Return ONLY the mediated schema in this format: a json file " +
+                                "where for every column of the mediated schema is associated to a list " +
                                 "where this list contains the attributes of the original tables. " +
-                                "This are all the tables that I have: \n" 
+                                "The list is a list of string where each element has this format: 'table_name.column_name', " +
+                                "so the key should be like this: 'mediated_column_1': ['table_name_x.column_name_1', ...]. " +
+                                "Be aware that some columns from the original tables may be split to better represent the domain, " + 
+                                "and vice versa." +
+                                "This are all the tables that I have: \n"
                     }
                 ]
             },
