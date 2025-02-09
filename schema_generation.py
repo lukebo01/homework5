@@ -70,8 +70,8 @@ def schema_population():
     files: list[str, pd.DataFrame] = read_files("./data/raw")
 
 if __name__ == "__main__":
-    #LLM()
-    schema_population()
+    LLM()
+    #schema_population()
 
     #response:dict = json.load(open("./data/response.txt", "r"))
     #print(response.keys())
