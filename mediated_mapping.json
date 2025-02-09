@@ -56,7 +56,8 @@
             "DDD-teamblind-com.locations",
             "disfold-com.headquarters",
             "valueToday_dataset.headquarters_region_city",
-            "wissel-aziende-info-clipper-com.City"
+            "wissel-aziende-info-clipper-com.City",
+            "hitHorizons_dataset.address"
         ],
         "relation": "one-to-many",
         "split_delimiter": ",",
@@ -70,6 +71,11 @@
                 "relation": "one-to-many",
                 "split_delimiter": ",",
                 "take_index": 0
+            },
+            "hitHorizons_dataset": {
+                "relation": "one-to-many",
+                "split_delimiter": ",",
+                "take_index": 3
             }
         }
     },
@@ -83,7 +89,8 @@
             "hitHorizons_dataset.nation",
             "valueToday_dataset.headquarters_country",
             "companiesMarketCap_dataset.country",
-            "wissel-aziende-info-clipper-com.Country"
+            "wissel-aziende-info-clipper-com.Country",
+            "hitHorizons_dataset.address"
         ],
         "relation": "one-to-many",
         "split_delimiter": ",",
@@ -92,11 +99,16 @@
                 "relation": "one-to-many",
                 "split_delimiter": ",",
                 "take_index": 1
-                },
+            },
             "disfold-com": {
                 "relation": "one-to-many",
                 "split_delimiter": ",",
                 "take_index": 1
+            },
+            "hitHorizons_dataset": {
+                "relation": "one-to-many",
+                "split_delimiter": ",",
+                "take_index": 5
             }
         }
     },
@@ -108,7 +120,14 @@
             "wissel-ariregister.Address",
             "wissel-aziende-info-clipper-com.Address Name"
         ],
-        "relation": "one-to-one"
+        "relation": "one-to-one",
+        "table_rules": {
+            "hitHorizons_dataset": {
+                "relation": "one-to-many",
+                "split_delimiter": ",",
+                "take_index": 0
+            }
+        }
     },
     "year_founded": {
         "sources": [
