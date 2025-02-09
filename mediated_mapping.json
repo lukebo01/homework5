@@ -13,7 +13,7 @@
             "ft-com.name",
             "hitHorizons_dataset.name",
             "output_globaldata.name",
-            "output_govukbigsize.name",
+            "output_govuk_bigsize.name",
             "valueToday_dataset.name",
             "wissel-ariregister.Name",
             "wissel-aziende-info-clipper-com.Name"
@@ -45,9 +45,9 @@
             "campaignindia.CATEGORY",
             "companiesMarketCap_dataset.categories",
             "valueToday_dataset.company_business",
-            "output_govukbigsize.nature_of_business"
+            "output_govuk_bigsize.nature_of_business"
         ],
-        "relation": "one-to-many",
+        "relation": "one-to-one",
         "split_delimiter": ","
     },
     "headquarters_city": {
@@ -92,7 +92,7 @@
             "wissel-aziende-info-clipper-com.Country",
             "hitHorizons_dataset.address"
         ],
-        "relation": "one-to-many",
+        "relation": "one-to-one",
         "split_delimiter": ",",
         "table_rules": {
             "DDD-teamblind-com": {
@@ -116,7 +116,7 @@
         "sources": [
             "hitHorizons_dataset.address",
             "output_globaldata.address",
-            "output_govukbigsize.registered_office_address",
+            "output_govuk_bigsize.registered_office_address",
             "wissel-ariregister.Address",
             "wissel-aziende-info-clipper-com.Address Name"
         ],
@@ -158,7 +158,7 @@
     },
     "company_number": {
         "sources": [
-            "output_govukbigsize.company_number",
+            "output_govuk_bigsize.company_number",
             "wissel-ariregister.Code"
         ],
         "relation": "one-to-one"
