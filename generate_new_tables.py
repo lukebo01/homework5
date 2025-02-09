@@ -268,13 +268,22 @@ mediated_mapping = {
             "wissel-aziende-info-clipper-com.City"
         ],
         "relation": "one-to-many",
-        "split_delimiter": ","
+        "split_delimiter": ",",
+        "table_rules": {
+            "DDD-teamblind-com": {
+            "relation": "one-to-many",
+            "split_delimiter": ",",
+            "take_index": 0
+            }
+        }
     },
+
 
     # 6) headquarters_country -> splitted su virgola
     "headquarters_country": {
         "sources": [
             "DDD-cbinsight-com.country",
+            "DDD-teamblind-com.locations",
             "MalPatSaj-forbes-com.Country",
             "disfold-com.headquarters",
             "ft-com.country",
@@ -284,7 +293,14 @@ mediated_mapping = {
             "wissel-aziende-info-clipper-com.Country"
         ],
         "relation": "one-to-many",
-        "split_delimiter": ","
+        "split_delimiter": ",",
+        "table_rules": {
+            "DDD-teamblind-com": {
+            "relation": "one-to-many",
+            "split_delimiter": ",",
+            "take_index": 1
+            },
+        }
     },
 
     # 7) headquarters_full_address -> one-to-one
@@ -322,27 +338,16 @@ mediated_mapping = {
         }
     },
 
-    # 9) company_age (splitted su spazio, prendi il primo token)
-    "company_age": {
-        "sources": [
-            "AmbitionBox.Foundation Year"
-        ],
-        "relation": "one-to-many",
-        "split_delimiter": " ",
-        "take_first": True
-    },
-
-    # 10) ownership (many-to-one: unisce AmbitionBox.Ownership + hitHorizons_dataset.type)
+    # 09) ownership (many-to-one: unisce AmbitionBox.Ownership + hitHorizons_dataset.type)
     "ownership": {
         "sources": [
             "AmbitionBox.Ownership",
             "hitHorizons_dataset.type"
         ],
-        "relation": "many-to-one",
-        "merge_delimiter": " "
+        "relation": "one-to-one"
     },
 
-    # 11) company_number -> one-to-one
+    # 10) company_number -> one-to-one
     "company_number": {
         "sources": [
             "output_govukbigsize.company_number",
@@ -351,7 +356,7 @@ mediated_mapping = {
         "relation": "one-to-one"
     },
 
-    # 12) employee_count -> one-to-one
+    # 11) employee_count -> one-to-one
     "employee_count": {
         "sources": [
             "DDD-teamblind-com.size",
@@ -363,7 +368,7 @@ mediated_mapping = {
         "relation": "one-to-one"
     },
 
-    # 13) market_cap_usd -> one-to-one
+    # 12) market_cap_usd -> one-to-one
     "market_cap_usd": {
         "sources": [
             "MalPatSaj-forbes-com.Market Value",
@@ -374,7 +379,7 @@ mediated_mapping = {
         "relation": "one-to-one"
     },
 
-    # 14) total_revenue_usd -> one-to-one
+    # 13) total_revenue_usd -> one-to-one
     "total_revenue_usd": {
         "sources": [
             "MalPatSaj-forbes-com.Sales",
@@ -385,7 +390,7 @@ mediated_mapping = {
         "relation": "one-to-one"
     },
 
-    # 15) net_profit_usd -> one-to-one
+    # 14) net_profit_usd -> one-to-one
     "net_profit_usd": {
         "sources": [
             "MalPatSaj-forbes-com.Profit",
@@ -394,7 +399,7 @@ mediated_mapping = {
         "relation": "one-to-one"
     },
 
-    # 16) total_assets_usd -> one-to-one
+    # 15) total_assets_usd -> one-to-one
     "total_assets_usd": {
         "sources": [
             "MalPatSaj-forbes-com.Assets",
@@ -403,7 +408,7 @@ mediated_mapping = {
         "relation": "one-to-one"
     },
 
-    # 17) company_website -> one-to-one
+    # 16) company_website -> one-to-one
     "company_website": {
         "sources": [
             "DDD-teamblind-com.website",
@@ -415,7 +420,7 @@ mediated_mapping = {
         "relation": "one-to-one"
     },
 
-    # 18) social_media_links -> splitted su None (array di link: FB,Twitter,IG,Pinterest)
+    # 17) social_media_links -> splitted su None (array di link: FB,Twitter,IG,Pinterest)
     "social_media_links": {
         "sources": [
             "company_social_urls.Facebook",
@@ -423,20 +428,19 @@ mediated_mapping = {
             "company_social_urls.Instagram",
             "company_social_urls.Pinterest"
         ],
-        "relation": "one-to-many",
+        "relation": "many-to-one",
         "split_delimiter": None
     },
 
-    # 19) total_raised -> splitted su None
+    # 18) total_raised -> splitted su None
     "total_raised": {
         "sources": [
             "DDD-cbinsight-com.totalRaised"
         ],
-        "relation": "one-to-many",
-        "split_delimiter": None
+        "relation": "one-to-one",
     },
 
-    # 20) representative_name -> one-to-one
+    # 19) representative_name -> one-to-one
     "representative_name": {
         "sources": [
             "wissel-ariregister.Representative Name"
