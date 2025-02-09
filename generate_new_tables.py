@@ -274,6 +274,11 @@ mediated_mapping = {
             "relation": "one-to-many",
             "split_delimiter": ",",
             "take_index": 0
+            },
+            "disfold-com": {
+            "relation": "one-to-many",
+            "split_delimiter": ",",
+            "take_index": 0
             }
         }
     },
@@ -300,6 +305,11 @@ mediated_mapping = {
             "split_delimiter": ",",
             "take_index": 1
             },
+            "disfold-com": {
+            "relation": "one-to-many",
+            "split_delimiter": ",",
+            "take_index": 1
+            }
         }
     },
 
