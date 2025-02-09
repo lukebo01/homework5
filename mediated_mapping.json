@@ -1,0 +1,221 @@
+{
+    "company_name": {
+        "sources": [
+            "AmbitionBox.Name",
+            "DDD-cbinsight-com.name",
+            "DDD-teamblind-com.name",
+            "MalPatSaj-forbes-com.Name",
+            "MalPatSaj-wikipedia-org.Name",
+            "campaignindia.BRAND NAME",
+            "companiesMarketCap_dataset.name",
+            "company_social_urls.Company",
+            "disfold-com.name",
+            "ft-com.name",
+            "hitHorizons_dataset.name",
+            "output_globaldata.name",
+            "output_govukbigsize.name",
+            "valueToday_dataset.name",
+            "wissel-ariregister.Name",
+            "wissel-aziende-info-clipper-com.Name"
+        ],
+        "relation": "one-to-one"
+    },
+    "industry": {
+        "sources": [
+            "AmbitionBox.Industry",
+            "DDD-cbinsight-com.industry",
+            "DDD-teamblind-com.industry",
+            "MalPatSaj-wikipedia-org.Industry",
+            "hitHorizons_dataset.industry",
+            "output_globaldata.industry",
+            "ft-com.industry",
+            "wissel-ariregister.Area of Activity"
+        ],
+        "relation": "one-to-one"
+    },
+    "sector": {
+        "sources": [
+            "MalPatSaj-wikipedia-org.Sector"
+        ],
+        "relation": "many-to-one",
+        "merge_delimiter": " "
+    },
+    "business_category": {
+        "sources": [
+            "campaignindia.CATEGORY",
+            "companiesMarketCap_dataset.categories",
+            "valueToday_dataset.company_business",
+            "output_govukbigsize.nature_of_business"
+        ],
+        "relation": "one-to-many",
+        "split_delimiter": ","
+    },
+    "headquarters_city": {
+        "sources": [
+            "DDD-cbinsight-com.city",
+            "DDD-teamblind-com.locations",
+            "disfold-com.headquarters",
+            "valueToday_dataset.headquarters_region_city",
+            "wissel-aziende-info-clipper-com.City"
+        ],
+        "relation": "one-to-many",
+        "split_delimiter": ",",
+        "table_rules": {
+            "DDD-teamblind-com": {
+                "relation": "one-to-many",
+                "split_delimiter": ",",
+                "take_index": 0
+            },
+            "disfold-com": {
+                "relation": "one-to-many",
+                "split_delimiter": ",",
+                "take_index": 0
+            }
+        }
+    },
+    "headquarters_country": {
+        "sources": [
+            "DDD-cbinsight-com.country",
+            "DDD-teamblind-com.locations",
+            "MalPatSaj-forbes-com.Country",
+            "disfold-com.headquarters",
+            "ft-com.country",
+            "hitHorizons_dataset.nation",
+            "valueToday_dataset.headquarters_country",
+            "companiesMarketCap_dataset.country",
+            "wissel-aziende-info-clipper-com.Country"
+        ],
+        "relation": "one-to-many",
+        "split_delimiter": ",",
+        "table_rules": {
+            "DDD-teamblind-com": {
+                "relation": "one-to-many",
+                "split_delimiter": ",",
+                "take_index": 1
+                },
+            "disfold-com": {
+                "relation": "one-to-many",
+                "split_delimiter": ",",
+                "take_index": 1
+            }
+        }
+    },
+    "headquarters_full_address": {
+        "sources": [
+            "hitHorizons_dataset.address",
+            "output_globaldata.address",
+            "output_govukbigsize.registered_office_address",
+            "wissel-ariregister.Address",
+            "wissel-aziende-info-clipper-com.Address Name"
+        ],
+        "relation": "one-to-one"
+    },
+    "year_founded": {
+        "sources": [
+            "AmbitionBox.Foundation Year",
+            "DDD-cbinsight-com.founded",
+            "DDD-teamblind-com.founded",
+            "MalPatSaj-wikipedia-org.Founded",
+            "ft-com.founded",
+            "hitHorizons_dataset.est_of_ownership",
+            "output_globaldata.company_creation_date",
+            "wissel-ariregister.Registration Date"
+        ],
+        "relation": "one-to-one",
+        "table_rules": {
+            "AmbitionBox": {
+                "relation": "one-to-many",
+                "split_delimiter": " ",
+                "take_first": true
+            }
+        }
+    },
+    "ownership": {
+        "sources": [
+            "AmbitionBox.Ownership",
+            "hitHorizons_dataset.type"
+        ],
+        "relation": "one-to-one"
+    },
+    "company_number": {
+        "sources": [
+            "output_govukbigsize.company_number",
+            "wissel-ariregister.Code"
+        ],
+        "relation": "one-to-one"
+    },
+    "employee_count": {
+        "sources": [
+            "DDD-teamblind-com.size",
+            "disfold-com.employees",
+            "ft-com.employees",
+            "output_globaldata.number_of_employees",
+            "valueToday_dataset.number_of_employees"
+        ],
+        "relation": "one-to-one"
+    },
+    "market_cap_usd": {
+        "sources": [
+            "MalPatSaj-forbes-com.Market Value",
+            "companiesMarketCap_dataset.market_cap",
+            "disfold-com.market_cap",
+            "output_globaldata.market_cap"
+        ],
+        "relation": "one-to-one"
+    },
+    "total_revenue_usd": {
+        "sources": [
+            "MalPatSaj-forbes-com.Sales",
+            "ft-com.revenue",
+            "output_globaldata.revenue",
+            "valueToday_dataset.annual_revenue_in_usd"
+        ],
+        "relation": "one-to-one"
+    },
+    "net_profit_usd": {
+        "sources": [
+            "MalPatSaj-forbes-com.Profit",
+            "valueToday_dataset.annual_net_income_in_usd"
+        ],
+        "relation": "one-to-one"
+    },
+    "total_assets_usd": {
+        "sources": [
+            "MalPatSaj-forbes-com.Assets",
+            "valueToday_dataset.total_assets_in_usd"
+        ],
+        "relation": "one-to-one"
+    },
+    "company_website": {
+        "sources": [
+            "DDD-teamblind-com.website",
+            "output_globaldata.website",
+            "valueToday_dataset.company_website",
+            "wissel-ariregister.URL",
+            "wissel-aziende-info-clipper-com.URL"
+        ],
+        "relation": "one-to-one"
+    },
+    "social_media_links": {
+        "sources": [
+            "company_social_urls.Facebook",
+            "company_social_urls.Twitter",
+            "company_social_urls.Instagram",
+            "company_social_urls.Pinterest"
+        ],
+        "relation": "many-to-one",
+        "split_delimiter": null
+    },
+    "total_raised": {
+        "sources": [
+            "DDD-cbinsight-com.totalRaised"
+        ],
+        "relation": "one-to-one"
+    },
+    "representative_name": {
+        "sources": [
+            "wissel-ariregister.Representative Name"
+        ],
+        "relation": "one-to-one"
+    }
+}
