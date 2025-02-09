@@ -192,10 +192,10 @@ def transform_table(table_name: str, df: pd.DataFrame, mapping: dict) -> pd.Data
         mediated_rows.append(med_row)
     return pd.DataFrame(mediated_rows)
 
-
-##########################################
-# 3) IL MAPPING COMPLETO CON REGOLA SPECIALE
-##########################################
+#==============================================================================
+# ESEMPIO COMPLETO DI MAPPING PER IL
+# PROGETTO "DATA INTEGRATION".
+#==============================================================================
 mediated_mapping = {
 
     # 1) company_name
@@ -218,17 +218,8 @@ mediated_mapping = {
             "wissel-ariregister.Name",
             "wissel-aziende-info-clipper-com.Name"
         ],
-        "relation": "one-to-one",
-        "table_rules": {
-            "DDD-teamblind-com": {
-                "relation": "one-to-one"
-            },
-            "MalPatSaj-forbes-com": {
-                "relation": "one-to-one"
-            }
-            # Aggiungi altre tabelle se vuoi regole speciali,
-            # altrimenti rimane "one-to-one" di default.
-        }
+        "relation": "one-to-one"
+        # Niente table_rules perché non ci serve un comportamento speciale.
     },
 
     # 2) industry
@@ -243,33 +234,73 @@ mediated_mapping = {
             "ft-com.industry",
             "wissel-ariregister.Area of Activity"
         ],
-        "relation": "one-to-one",
-        "table_rules": {
-            # Esempio: se voglio che "AmbitionBox" sia splitted su virgola (ipotesi)
-            # "AmbitionBox": {
-            #   "relation": "one-to-many",
-            #   "split_delimiter": ","
-            # }
-        }
+        "relation": "one-to-one"
     },
 
-    # 3) sector (many-to-one) + regole speciali per MalPatSaj-wikipedia-org
+    # 3) sector -> many-to-one se vogliamo unire eventuali campi (al momento è solo 1 fonte).
     "sector": {
         "sources": [
             "MalPatSaj-wikipedia-org.Sector"
         ],
         "relation": "many-to-one",
-        "merge_delimiter": " ",
-        "table_rules": {
-            # Esempio: se "DDD-cbinsight-com" avesse un'altra colonna da unire
-            # "DDD-cbinsight-com": {
-            #    "sources": [ "DDD-cbinsight-com.mySector" ],
-            #    "relation": "many-to-one"
-            # }
-        }
+        "merge_delimiter": " "
     },
 
-    # 4) year_founded => es. di regola: di default one-to-one, ma per AmbitionBox => split su spazio
+    # 4) business_category -> splitted su virgola
+    "business_category": {
+        "sources": [
+            "campaignindia.CATEGORY",
+            "companiesMarketCap_dataset.categories",
+            "valueToday_dataset.company_business",
+            "output_govukbigsize.nature_of_business"
+        ],
+        "relation": "one-to-many",
+        "split_delimiter": ","
+    },
+
+    # 5) headquarters_city -> splitted su virgola
+    "headquarters_city": {
+        "sources": [
+            "DDD-cbinsight-com.city",
+            "DDD-teamblind-com.locations",
+            "disfold-com.headquarters",
+            "valueToday_dataset.headquarters_region_city",
+            "wissel-aziende-info-clipper-com.City"
+        ],
+        "relation": "one-to-many",
+        "split_delimiter": ","
+    },
+
+    # 6) headquarters_country -> splitted su virgola
+    "headquarters_country": {
+        "sources": [
+            "DDD-cbinsight-com.country",
+            "MalPatSaj-forbes-com.Country",
+            "disfold-com.headquarters",
+            "ft-com.country",
+            "hitHorizons_dataset.nation",
+            "valueToday_dataset.headquarters_country",
+            "companiesMarketCap_dataset.country",
+            "wissel-aziende-info-clipper-com.Country"
+        ],
+        "relation": "one-to-many",
+        "split_delimiter": ","
+    },
+
+    # 7) headquarters_full_address -> one-to-one
+    "headquarters_full_address": {
+        "sources": [
+            "hitHorizons_dataset.address",
+            "output_globaldata.address",
+            "output_govukbigsize.registered_office_address",
+            "wissel-ariregister.Address",
+            "wissel-aziende-info-clipper-com.Address Name"
+        ],
+        "relation": "one-to-one"
+    },
+
+    # 8) year_founded
+    # => regola speciale SOLO per AmbitionBox: split su spazio e prendi il primo token
     "year_founded": {
         "sources": [
             "AmbitionBox.Foundation Year",
@@ -287,119 +318,40 @@ mediated_mapping = {
                 "relation": "one-to-many",
                 "split_delimiter": " ",
                 "take_first": True
-            },
-            "DDD-teamblind-com": {
-                # Esempio: se vuoi fare la stessa cosa per DDD-teamblind-com
-                "relation": "one-to-many",
-                "split_delimiter": " ",
-                "take_first": True
             }
         }
     },
 
-    # 6) ownership => many-to-one (es. unisce AmbitionBox.Ownership + hitHorizons_dataset.type)
+    # 9) company_age (splitted su spazio, prendi il primo token)
+    "company_age": {
+        "sources": [
+            "AmbitionBox.Foundation Year"
+        ],
+        "relation": "one-to-many",
+        "split_delimiter": " ",
+        "take_first": True
+    },
+
+    # 10) ownership (many-to-one: unisce AmbitionBox.Ownership + hitHorizons_dataset.type)
     "ownership": {
         "sources": [
             "AmbitionBox.Ownership",
             "hitHorizons_dataset.type"
         ],
         "relation": "many-to-one",
-        "merge_delimiter": " ",
-        "table_rules": {
-            # Esempio: se "disfold-com" ha un'altra colonna su "ownership"
-            # "disfold-com": {
-            #   "sources": [ "disfold-com.ownership_col" ],
-            #   "relation": "many-to-one"
-            # }
-        }
+        "merge_delimiter": " "
     },
 
-    # 7) headquarters_city => di base splitted su virgola,
-    "headquarters_city": {
+    # 11) company_number -> one-to-one
+    "company_number": {
         "sources": [
-            "DDD-cbinsight-com.city",
-            "DDD-teamblind-com.locations",
-            "disfold-com.headquarters",
-            "valueToday_dataset.headquarters_region_city",
-            "wissel-aziende-info-clipper-com.City"
-        ],
-        "relation": "one-to-many",
-        "split_delimiter": ",",
-        "table_rules": {
-            # Se "AmbitionBox" fosse anche qui => "AmbitionBox": {...} 
-        }
-    },
-
-    # 8) headquarters_country => splitted su virgola, stesse considerazioni
-    "headquarters_country": {
-        "sources": [
-            "DDD-cbinsight-com.country",
-            "MalPatSaj-forbes-com.Country",
-            "disfold-com.headquarters",
-            "ft-com.country",
-            "hitHorizons_dataset.nation",
-            "valueToday_dataset.headquarters_country",
-            "companiesMarketCap_dataset.country",
-            "wissel-aziende-info-clipper-com.Country"
-        ],
-        "relation": "one-to-many",
-        "split_delimiter": ","
-    },
-
-    # 9) headquarters_full_address => one-to-one (per semplificare)
-    "headquarters_full_address": {
-        "sources": [
-            "hitHorizons_dataset.address",
-            "output_globaldata.address",
-            "output_govukbigsize.registered_office_address",
-            "wissel-ariregister.Address",
-            "wissel-aziende-info-clipper-com.Address Name"
+            "output_govukbigsize.company_number",
+            "wissel-ariregister.Code"
         ],
         "relation": "one-to-one"
     },
 
-    # 10) company_website => one-to-one
-    "company_website": {
-        "sources": [
-            "DDD-teamblind-com.website",
-            "output_globaldata.website",
-            "valueToday_dataset.company_website",
-            "wissel-ariregister.URL",
-            "wissel-aziende-info-clipper-com.URL"
-        ],
-        "relation": "one-to-one"
-    },
-
-    # 11) total_revenue_usd => one-to-one
-    "total_revenue_usd": {
-        "sources": [
-            "MalPatSaj-forbes-com.Sales",
-            "ft-com.revenue",
-            "output_globaldata.revenue",
-            "valueToday_dataset.annual_revenue_in_usd"
-        ],
-        "relation": "one-to-one"
-    },
-
-    # 12) net_profit_usd => one-to-one
-    "net_profit_usd": {
-        "sources": [
-            "MalPatSaj-forbes-com.Profit",
-            "valueToday_dataset.annual_net_income_in_usd"
-        ],
-        "relation": "one-to-one"
-    },
-
-    # 13) total_assets_usd => one-to-one
-    "total_assets_usd": {
-        "sources": [
-            "MalPatSaj-forbes-com.Assets",
-            "valueToday_dataset.total_assets_in_usd"
-        ],
-        "relation": "one-to-one"
-    },
-
-    # 14) employee_count => one-to-one
+    # 12) employee_count -> one-to-one
     "employee_count": {
         "sources": [
             "DDD-teamblind-com.size",
@@ -411,7 +363,7 @@ mediated_mapping = {
         "relation": "one-to-one"
     },
 
-    # 15) market_cap_usd => one-to-one
+    # 13) market_cap_usd -> one-to-one
     "market_cap_usd": {
         "sources": [
             "MalPatSaj-forbes-com.Market Value",
@@ -422,7 +374,48 @@ mediated_mapping = {
         "relation": "one-to-one"
     },
 
-    # 16) social_media_links => splitted su None => array di link
+    # 14) total_revenue_usd -> one-to-one
+    "total_revenue_usd": {
+        "sources": [
+            "MalPatSaj-forbes-com.Sales",
+            "ft-com.revenue",
+            "output_globaldata.revenue",
+            "valueToday_dataset.annual_revenue_in_usd"
+        ],
+        "relation": "one-to-one"
+    },
+
+    # 15) net_profit_usd -> one-to-one
+    "net_profit_usd": {
+        "sources": [
+            "MalPatSaj-forbes-com.Profit",
+            "valueToday_dataset.annual_net_income_in_usd"
+        ],
+        "relation": "one-to-one"
+    },
+
+    # 16) total_assets_usd -> one-to-one
+    "total_assets_usd": {
+        "sources": [
+            "MalPatSaj-forbes-com.Assets",
+            "valueToday_dataset.total_assets_in_usd"
+        ],
+        "relation": "one-to-one"
+    },
+
+    # 17) company_website -> one-to-one
+    "company_website": {
+        "sources": [
+            "DDD-teamblind-com.website",
+            "output_globaldata.website",
+            "valueToday_dataset.company_website",
+            "wissel-ariregister.URL",
+            "wissel-aziende-info-clipper-com.URL"
+        ],
+        "relation": "one-to-one"
+    },
+
+    # 18) social_media_links -> splitted su None (array di link: FB,Twitter,IG,Pinterest)
     "social_media_links": {
         "sources": [
             "company_social_urls.Facebook",
@@ -434,7 +427,7 @@ mediated_mapping = {
         "split_delimiter": None
     },
 
-    # 17) total_raised => splitted su None
+    # 19) total_raised -> splitted su None
     "total_raised": {
         "sources": [
             "DDD-cbinsight-com.totalRaised"
@@ -443,25 +436,7 @@ mediated_mapping = {
         "split_delimiter": None
     },
 
-    # 18) company_type => one-to-one
-    "company_type": {
-        "sources": [
-            "output_govukbigsize.company_type",
-            "wissel-ariregister.Legal form"
-        ],
-        "relation": "one-to-one"
-    },
-
-    # 19) ceo_name => one-to-one
-    "ceo_name": {
-        "sources": [
-            "disfold-com.ceo",
-            "valueToday_dataset.ceo"
-        ],
-        "relation": "one-to-one"
-    },
-
-    # 20) representative_name => one-to-one
+    # 20) representative_name -> one-to-one
     "representative_name": {
         "sources": [
             "wissel-ariregister.Representative Name"
@@ -469,6 +444,7 @@ mediated_mapping = {
         "relation": "one-to-one"
     }
 }
+
 
 
 
@@ -501,3 +477,188 @@ if __name__ == '__main__':
     output_dir = 'new_data'      # cartella di output
 
     process_each_dataset(mediated_mapping, raw_data_dir, output_dir)
+
+
+
+
+
+
+# ===========================================================================================================================================================================================
+# =============================================================================
+# GUIDA COMPLETA PER LA COSTRUZIONE DI UN MAPPING "MEDIATED" IN PYTHON
+# =============================================================================
+# Creare un dizionario "mediated_mapping" che
+# definisce come unire (o splittare) i campi provenienti da diversi dataset
+# in uno schema mediato unico.
+# =============================================================================
+
+# Ogni chiave del dizionario "mediated_mapping" rappresenta un attributo
+# (colonna) che vogliamo ottenere nel nostro schema finale.
+# Il valore associato può essere:
+#   - una lista "sources": [] -> relation = "one-to-one" (default)
+#   - un dizionario con i campi:
+#       - "sources": [ ... ]       (obbligatorio)
+#       - "relation": "one-to-one" | "one-to-many" | "many-to-one"
+#       - "split_delimiter": ...   (solo per one-to-many)
+#       - "merge_delimiter": ...   (solo per many-to-one)
+#       - "take_first": true/false (solo per one-to-many)
+#       - "take_index": int        (solo per one-to-many)
+#       - "table_rules": { ... }   (regole speciali per tabella)
+
+# "split_delimiter": ...
+#   - Solo per "one-to-many"
+#   - La stringa su cui dividere il valore (es. ",", " ", ";", ecc.)
+#   - Esempio: se ho "A,B,C" e split_delimiter="," => ["A","B","C"]
+
+# "merge_delimiter": ...
+#   - Solo per "many-to-one"
+#   - La stringa da usare per unire più valori in uno (es. spazio " ").
+#   - Esempio: se ho 2 valori "Pubblico" e "Spa", => "Pubblico Spa"
+
+# "take_first": true/false
+#   - Solo per "one-to-many"
+#   - Se = true, dopo lo split prendo solamente il primo token
+#     e scarto gli altri.
+#   - Esempio: "1968 (55 yrs old)" => split su " " => ["1968","(55","yrs","old)"]
+#     con take_first => "1968"
+
+# "take_index": int
+#   - Solo per "one-to-many"
+#   - Se presente, prendo SOLO il token in posizione "int" (0-based)
+#   - Se "take_index": 2 => su ["1968","(55","yrs","old)"] prendo "yrs"
+
+# "table_rules": { <nome_tabella>: { ... } }
+#   - Opzionale, serve a definire comportamenti speciali
+#     per le righe che provengono da una determinata tabella.
+#   - All'interno si possono sovrascrivere:
+#       relation, split_delimiter, merge_delimiter, take_first, take_index...
+#   - Esempio: se AmbitionBox richiede lo split su " ",
+#     mentre tutte le altre tabelle no,
+#     definisci:
+#       table_rules = {
+#         "AmbitionBox": {
+#           "relation": "one-to-many",
+#           "split_delimiter": " ",
+#           "take_first": True
+#         }
+#       }
+
+
+# Ecco uno schema di esempio con commenti che spiegano ogni possibile campo.
+mediated_mapping_example = {
+
+    # -------------------------------------------------------------------------
+    # 1) ESEMPIO DI SEMPLICE one-to-one
+    # -------------------------------------------------------------------------
+    "company_name": {
+        # "sources" è una lista di stringhe in formato "NomeTabella.NomeColonna",
+        # cioè <table_name>.<column_name>.
+        "sources": [
+            "AmbitionBox.Name",
+            "MalPatSaj-wikipedia-org.Name"
+            # ... e altre tabelle, se vuoi unire i valori che contengono "Name".
+        ],
+        # "relation": "one-to-one" significa che prendi i valori provenienti
+        # dalle diverse tabelle e, se sono presenti più di un valore, li concateni
+        # con uno spazio (o con "merge_delimiter" di default).
+        "relation": "one-to-one"
+        # Se non hai bisogno di nulla di speciale, non definire "table_rules",
+        # "split_delimiter", "merge_delimiter", ecc.
+    },
+
+    # -------------------------------------------------------------------------
+    # 2) ESEMPIO DI MANY-TO-ONE (MERGE)
+    # -------------------------------------------------------------------------
+    "ownership": {
+        # L'esempio: unisce "AmbitionBox.Ownership" + "hitHorizons_dataset.type".
+        "sources": [
+            "AmbitionBox.Ownership",
+            "hitHorizons_dataset.type"
+        ],
+        # "many-to-one" => unisce i valori trovati in un'unica stringa,
+        # separandoli con "merge_delimiter".
+        "relation": "many-to-one",
+        # "merge_delimiter": " " (spazio) di default, ma puoi anche mettere ", "
+        "merge_delimiter": " "
+    },
+
+    # -------------------------------------------------------------------------
+    # 3) ESEMPIO DI ONE-TO-MANY (SPLIT)
+    # -------------------------------------------------------------------------
+    "headquarters_city": {
+        # Fonti: potresti avere un campo "disfold-com.headquarters" che contiene
+        # una stringa "New York, USA" e un campo "DDD-teamblind-com.locations"
+        # "Menlo Park, CA".
+        "sources": [
+            "disfold-com.headquarters",
+            "DDD-teamblind-com.locations"
+        ],
+        "relation": "one-to-many",
+        # "split_delimiter": "," => questo indica di splittare la stringa su virgola.
+        # Il risultato sarà una lista di token ["New York", " USA"] ad es.
+        "split_delimiter": ",",
+        # "take_first": True => se vuoi prendere soltanto il primo token.
+        # "take_index": 1 => se vuoi prendere il secondo token.
+        # Se non li metti, avrai l'intera lista.
+    },
+
+    # -------------------------------------------------------------------------
+    # 4) "table_rules" (REGOLE CONDIZIONALI PER TABELLA)
+    # -------------------------------------------------------------------------
+    "year_founded": {
+        "sources": [
+            "AmbitionBox.Foundation Year",
+            "DDD-teamblind-com.founded"
+        ],
+        # Di default, one-to-one
+        "relation": "one-to-one",
+        # "table_rules" => se ho bisogno di trattare la tabella "AmbitionBox"
+        # in modo diverso (es. split su spazio e prendo solo il primo token),
+        # mentre "DDD-teamblind-com" rimane one-to-one.
+        "table_rules": {
+            "AmbitionBox": {
+                "relation": "one-to-many",
+                "split_delimiter": " ",
+                "take_first": True
+            }
+            # Se volessi trattare "DDD-teamblind-com" in modo speciale:
+            # "DDD-teamblind-com": {...}
+        }
+    },
+
+    # -------------------------------------------------------------------------
+    # 5) SOLO LISTA "sources": CASO SEMPLICE
+    # -------------------------------------------------------------------------
+    # Se non vuoi definire "relation" né altro (one-to-one di default),
+    # puoi semplicemente fare:
+    "market_cap_usd": [
+        "MalPatSaj-forbes-com.Market Value",
+        "companiesMarketCap_dataset.market_cap"
+    ],
+    # e la logica interna assume "relation": "one-to-one".
+
+    # -------------------------------------------------------------------------
+    # ALTRI ESEMPI DI ATTRIBUTI (SENZA COMMENTI)
+    # -------------------------------------------------------------------------
+    "industry": {
+        "sources": [
+            "AmbitionBox.Industry",
+            "DDD-cbinsight-com.industry",
+            "MalPatSaj-wikipedia-org.Industry"
+        ],
+        "relation": "one-to-one"
+    },
+
+    "social_media_links": {
+        "sources": [
+            "company_social_urls.Facebook",
+            "company_social_urls.Twitter",
+            "company_social_urls.Instagram",
+            "company_social_urls.Pinterest"
+        ],
+        "relation": "one-to-many",
+        # "split_delimiter": None => se vuoi l'intera URL come un token singolo
+        "split_delimiter": None
+    }
+}
+# ===========================================================================================================================================================================================
