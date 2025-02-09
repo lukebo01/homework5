@@ -4,5 +4,8 @@ The list is a list of string where each element has this format: 'table_name.col
 so the key should be like this: 'mediated_column_1': ['table_name_x.column_name_1', ...].
 Be aware that some columns from the original tables may be split to better represent the domain, 
 and vice versa. Make sure to use all the attributes of the tables in input.
-Also return how the attributes of the input tables can separated/merged
+Also return how the attributes of the input tables can separated/merged, so define, if present:
+- one-to-one relationship with mediated schema and input tables
+- one-to-many relationship with mediated schema and input tables
+- many-to-one relationship with mediated schema and input tables
 This are all the tables that I have:
