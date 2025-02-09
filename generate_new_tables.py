@@ -50,7 +50,7 @@ def read_files(dir_path: str) -> list[tuple[str, pd.DataFrame]]:
 ##########################################
 # 2) FUNZIONI DI SUPPORTO PER IL MAPPING
 ##########################################
-def parse_source_attr(source_attr: str) -> (str, str):
+def parse_source_attr(source_attr: str) -> tuple[str, str]:
     """
     Data una stringa tipo "TableName.ColumnName", restituisce (table_name, column_name).
     Se ci sono più punti, il primo è la tabella, il resto è il nome della colonna.
