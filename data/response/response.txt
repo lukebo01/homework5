@@ -8,7 +8,7 @@
     "MalPatSaj-wikipedia-org.Name",
     "campaignindia.BRAND NAME",
     "companiesMarketCap_dataset.name",
-    "company_social_urls.Company",
+     "company_social_urls.Company",
     "disfold-com.name",
     "ft-com.name",
     "hitHorizons_dataset.name",
@@ -17,268 +17,250 @@
     "valueToday_dataset.name",
     "wissel-ariregister.Name",
     "wissel-aziende-info-clipper-com.Name"
+
   ],
   "industry": [
     "AmbitionBox.Industry",
     "DDD-cbinsight-com.industry",
     "DDD-teamblind-com.industry",
-        "MalPatSaj-wikipedia-org.Industry",
-    "ft-com.industry",
+    "MalPatSaj-wikipedia-org.Industry",
     "hitHorizons_dataset.industry",
     "output_globaldata.industry",
-    "wissel-ariregister.Area of Activity"
+    "ft-com.industry",
+        "wissel-ariregister.Area of Activity"
 
   ],
-      "sector": [
+    "sector":[
         "MalPatSaj-wikipedia-org.Sector"
     ],
-    "category": [
-        "campaignindia.CATEGORY",
-        "companiesMarketCap_dataset.categories",
-         "valueToday_dataset.company_business",
-         "output_govuk_bigsize.nature_of_business",
-         "wissel-ariregister.EMTAK Code",
-        "wissel-ariregister.NACE Code"
+    "business_category":[
+      "campaignindia.CATEGORY",
+      "companiesMarketCap_dataset.categories",
+        "valueToday_dataset.company_business",
+        "output_govuk_bigsize.nature_of_business"
 
     ],
-  "headquarters_city": [
-    "MalPatSaj-wikipedia-org.Headquarters",
-        "disfold-com.headquarters",
+ "headquarters_city": [
         "DDD-cbinsight-com.city",
-       "valueToday_dataset.headquarters_region_city"
+    "DDD-teamblind-com.locations",
+    "disfold-com.headquarters",
+    "valueToday_dataset.headquarters_region_city",
+        "wissel-aziende-info-clipper-com.City"
   ],
 
     "headquarters_country": [
+    "DDD-cbinsight-com.country",
     "MalPatSaj-forbes-com.Country",
-        "DDD-cbinsight-com.country",
-    "companiesMarketCap_dataset.country",
+    "disfold-com.headquarters",
         "ft-com.country",
-  "hitHorizons_dataset.nation",
-  "valueToday_dataset.headquarters_country",
-  "wissel-aziende-info-clipper-com.Country"
-
+    "hitHorizons_dataset.nation",
+    "valueToday_dataset.headquarters_country",
+    "companiesMarketCap_dataset.country",
+            "wissel-aziende-info-clipper-com.Country"
   ],
-      "headquarters_address": [
-                  "output_globaldata.address",
-        "hitHorizons_dataset.address",
- "output_govuk_bigsize.registered_office_address",
+  "headquarters_region": [
+      "valueToday_dataset.headquarters_sub_region"
+  ],
+    "headquarters_continent":[
+      "valueToday_dataset.headquarters_continent"
+    ],
+
+  "headquarters_full_address": [
+    "hitHorizons_dataset.address",
+        "output_globaldata.address",
+    "output_govuk_bigsize.registered_office_address",
         "wissel-ariregister.Address",
         "wissel-aziende-info-clipper-com.Address Name"
+
+  ],
+    "location_type":[
+        "wissel-aziende-info-clipper-com.Location type"
     ],
 
-        "headquarters_region": [
-            "valueToday_dataset.headquarters_sub_region",
-            "campaignindia.MAIN MARKET"
-    ],
-
-      "headquarters_continent":[
-        "valueToday_dataset.headquarters_continent"
-      ],
-
-      "location": [
-        "DDD-teamblind-com.locations",
-         "wissel-aziende-info-clipper-com.Location type"
-    ],
-  "founding_year": [
+  "year_founded": [
     "AmbitionBox.Foundation Year",
     "DDD-cbinsight-com.founded",
-      "DDD-teamblind-com.founded",
-            "MalPatSaj-wikipedia-org.Founded",
+    "DDD-teamblind-com.founded",
+    "MalPatSaj-wikipedia-org.Founded",
         "ft-com.founded",
-    "hitHorizons_dataset.est_of_ownership",
-    "output_govuk_bigsize.company_creation_date",
-    "wissel-ariregister.Registration Date"
-
-
-
+   "hitHorizons_dataset.est_of_ownership",
+        "output_govuk_bigsize.company_creation_date",
+        "wissel-ariregister.Registration Date"
   ],
-  "company_age": [
-    "AmbitionBox.Foundation Year"
-  ],
+    "company_age":[
+        "AmbitionBox.Foundation Year"
+    ],
   "ownership": [
     "AmbitionBox.Ownership",
-        "hitHorizons_dataset.type",
-    "output_govuk_bigsize.company_type",
-    "wissel-ariregister.Legal form"
+        "hitHorizons_dataset.type"
   ],
     "company_status":[
-      "output_govuk_bigsize.company_status",
-      "wissel-ariregister.Status"
-    ],
-  "valuation": [
-    "DDD-cbinsight-com.valuation"
-  ],
-  "date_joined_unicorn": [
-    "DDD-cbinsight-com.dateJoined"
-  ],
-    "stage":[
-      "DDD-cbinsight-com.stage"
-    ],
-  "investors": [
-    "DDD-cbinsight-com.investors"
-  ],
-  "total_raised": [
-    "DDD-cbinsight-com.totalRaised"
-  ],
-  "company_website": [
-    "DDD-teamblind-com.website",
-        "output_globaldata.website",
-    "valueToday_dataset.company_website",
-        "ft-com.link",
-        "disfold-com.link",
-        "wissel-ariregister.URL",
-    "wissel-aziende-info-clipper-com.URL"
+        "output_govuk_bigsize.company_status",
+        "wissel-ariregister.Status"
 
-  ],
-  "financial_sales": [
-    "MalPatSaj-forbes-com.Sales"
-  ],
-  "financial_profit": [
-    "MalPatSaj-forbes-com.Profit"
-  ],
-  "financial_assets": [
-    "MalPatSaj-forbes-com.Assets"
-  ],
-    "financial_market_value": [
-    "MalPatSaj-forbes-com.Market Value",
-      "companiesMarketCap_dataset.market_cap",
-        "output_globaldata.market_cap",
-        "disfold-com.market_cap"
     ],
-    "financial_revenue":[
-      "valueToday_dataset.annual_revenue_in_usd",
-       "ft-com.revenue",
-       "output_globaldata.revenue"
+    "company_type":[
+      "output_govuk_bigsize.company_type",
+        "wissel-ariregister.Legal form"
+    ],
+    "company_number":[
+        "output_govuk_bigsize.company_number",
+                "wissel-ariregister.Code"
+
     ],
 
-    "annual_results_year":[
-      "valueToday_dataset.annual_results_for_year_ending"
+  "ceo_name": [
+    "disfold-com.ceo",
+        "valueToday_dataset.ceo"
+  ],
+    "company_founders":[
+        "valueToday_dataset.founders"
     ],
-      "financial_net_income":[
-        "valueToday_dataset.annual_net_income_in_usd"
-      ],
-        "financial_total_assets":[
-           "valueToday_dataset.total_assets_in_usd"
-        ],
-  "financial_total_liabilities":[
-           "valueToday_dataset.total_liabilities_in_usd"
-        ],
-    "financial_total_equity":[
-       "valueToday_dataset.total_equity_in_usd"
-    ],
-    "financial_capital":[
-      "wissel-ariregister.Capital"
-    ],
-
-    "rank":[
-       "companiesMarketCap_dataset.rank",
-       "campaignindia.RANK"
-    ],
-        "world_rank":[
-          "valueToday_dataset.world_rank"
-        ],
-  "number_of_employees": [
+  "employee_count": [
     "DDD-teamblind-com.size",
     "disfold-com.employees",
         "ft-com.employees",
-         "output_globaldata.number_of_employees",
+    "output_globaldata.number_of_employees",
     "valueToday_dataset.number_of_employees"
   ],
-
-    "ceo_name":[
-       "disfold-com.ceo",
-      "valueToday_dataset.ceo"
-    ],
-      "founders":[
-         "valueToday_dataset.founders"
-      ],
-
-      "board_member_name":[
-           "wissel-ariregister.Representative Name"
-      ],
-  "board_member_role":[
-    "wissel-ariregister.Representative Role"
+  "market_cap_usd": [
+    "MalPatSaj-forbes-com.Market Value",
+    "companiesMarketCap_dataset.market_cap",
+    "disfold-com.market_cap",
+    "output_globaldata.market_cap"
   ],
-    "board_member_code":[
-       "wissel-ariregister.Representative Code"
+    "valuation_usd":[
+        "DDD-cbinsight-com.valuation"
     ],
-  "board_member_start_date":[
-     "wissel-ariregister.Representative Start Date"
+  "total_revenue_usd": [
+    "MalPatSaj-forbes-com.Sales",
+    "ft-com.revenue",
+       "output_globaldata.revenue",
+    "valueToday_dataset.annual_revenue_in_usd"
   ],
-    "share_price_usd":[
- "companiesMarketCap_dataset.share_price"
+  "net_profit_usd": [
+    "MalPatSaj-forbes-com.Profit",
+    "valueToday_dataset.annual_net_income_in_usd"
+  ],
+     "fiscal_year_end":[
+         "valueToday_dataset.annual_results_for_year_ending"
+     ],
+  "total_assets_usd":[
+     "MalPatSaj-forbes-com.Assets",
+        "valueToday_dataset.total_assets_in_usd"
+  ],
+    "total_liabilities_usd":[
+        "valueToday_dataset.total_liabilities_in_usd"
     ],
+    "total_equity_usd":[
+      "valueToday_dataset.total_equity_in_usd"
+    ],
+  "company_website": [
+      "DDD-teamblind-com.website",
+      "output_globaldata.website",
+      "valueToday_dataset.company_website",
+       "wissel-ariregister.URL",
+        "wissel-aziende-info-clipper-com.URL"
+  ],
+    "investors":[
+        "DDD-cbinsight-com.investors"
+    ],
+    "total_raised":[
+        "DDD-cbinsight-com.totalRaised"
+    ],
+  "social_media_links": [
+      "company_social_urls.Facebook",
+       "company_social_urls.Twitter",
+      "company_social_urls.Instagram",
+      "company_social_urls.Pinterest"
+  ],
+
+  "stock_share_price": [
+    "companiesMarketCap_dataset.share_price"
+  ],
+
   "stock_change_1_day": [
     "companiesMarketCap_dataset.change_1_day"
   ],
   "stock_change_1_year": [
     "companiesMarketCap_dataset.change_1_year"
   ],
-    "social_media_facebook":[
-       "company_social_urls.Facebook"
+    "representative_name":[
+            "wissel-ariregister.Representative Name"
     ],
-    "social_media_twitter":[
-       "company_social_urls.Twitter"
+    "representative_code":[
+   "wissel-ariregister.Representative Code"
     ],
-      "social_media_instagram":[
-          "company_social_urls.Instagram"
-      ],
- "social_media_pinterest":[
-      "company_social_urls.Pinterest"
- ],
-  "company_trade_name":[
-      "wissel-aziende-info-clipper-com.Trade Name"
-  ],
-  "contact_telephone":[
-    "output_globaldata.telephone"
-  ],
-    "deletion_date":[
-        "wissel-ariregister.Deletion Date"
+    "representative_role":[
+   "wissel-ariregister.Representative Role"
+    ],
+    "representative_start_date":[
+       "wissel-ariregister.Representative Start Date"
+    ],
+    "postal_code":[
+  "wissel-aziende-info-clipper-com.Postalcode"
+    ],
+    "telephone":[
+       "output_globaldata.telephone"
     ]
 }
 ```
 
-**Explanation of Attribute Separations/Mergers:**
+**Relationships:**
 
-*   **company_name:**  Consolidated from the `Name` or equivalent column across all tables.
-*   **industry:** Combined industry-related information.  "AmbitionBox.Industry", "DDD-cbinsight.industry", "DDD-teamblind.industry","MalPatSaj-wikipedia-org.Industry", "hitHorizons.industry","output_globaldata.industry".
-*    **sector:** from "MalPatSaj-wikipedia-org.Sector".
-* **category**: Include columns that refers to a category that the company belongs to.
-*   **headquarters_city:**  Combined city of the headquarters from "DDD-cbinsight.city" and "MalPatSaj-wikipedia.Headquarters".
-* **headquarters_country:** Combined country information, handling variations like "United States" and "USA".
-*   **headquarters_address**: All columns that contains address.
-*   **headquarters_region**: The sub region where the headquarter is located.
-* "headquarters_continent": continent where the headquarter is located.
-*   **location:** From `DDD-teamblind.com`, includes all company's locations.
-*   **founding_year:**  `AmbitionBox.Foundation Year` is kept *separate* from the calculated `company_age` because the original year provides more specific information.  `DDD-cbinsight.founded`, `DDD-teamblind.founded`,`MalPatSaj-wikipedia.Founded` are merged.
-*   **company_age:** Calculated age from `AmbitionBox.Foundation Year`.
-*   **ownership:** Combines ownership type and structure.
-* "company_status": Contains the status of the company.
-*   **valuation, date_joined_unicorn, stage, investors, total_raised**:  Kept separate as they represent distinct aspects of a company's financial journey and status.
-*   **company_website:**  Merged website URLs from multiple sources.
-*   **financial_sales, financial_profit, financial_assets, financial_market_value, financial_revenue, annual_results_year, financial_net_income, financial_total_assets, financial_total_liabilities, financial_total_equity, financial_capital:** Kept as distinct financial metrics. The Forbes data (`Sales`, `Profit`, `Assets`, `Market Value`) is separated for clarity. ValueToday columns are also kept separately, each one associated with a precise financial concept.
-*    "rank": company rank.
-*    "world_rank": company's world rank.
-*   **number_of_employees:** Merged employee count data, handling variations in formatting.
-*   **ceo_name, founders, board_member_name, board_member_role, board_member_code,board_member_start_date**: Information about company leadership.
-*  **share_price_usd, stock_change_1_day, stock_change_1_year:** Stock related information
-*   **social_media_facebook, social_media_twitter, social_media_instagram, social_media_pinterest:** Separated social media links for clarity and ease of access.
-*  "company_trade_name": how the company is also known.
-*  "contact_telephone": phone of the company.
-* "deletion_date": if the company is closed, the associated date.
+*   **One-to-One:**
+    *   `company_name`: Most of the original table names map directly to this.  Exceptions are handled in the many-to-one section below.
+    *   `industry`: Many tables have a direct industry column.
+     *   `year_founded`: Several tables, like AmbitionBox, DDD-cbinsight, and others, directly provide a founding year.
+    *   `ceo_name`: `disfold-com.ceo` and `valueToday_dataset.ceo`
+    *   `employee_count`: Several tables provide employee counts.
+    *   `market_cap_usd`: Tables like Forbes and companiesMarketCap provide direct market capitalization values.
+    *   `total_revenue_usd`: Direct mapping from several sources.
+    *    `net_profit_usd`: Directly from Forbes and valueToday.
+     *  `total_assets_usd` : Directly from Forbes and valueToday.
+    * `total_liabilities_usd`: valueToday
+    * `total_equity_usd`: valueToday
+    * `company_website`: From multiple sources.
+     *  `stock_share_price`: companiesMarketCap
+    *   `stock_change_1_day`: companiesMarketCap
+      *   `stock_change_1_year`: companiesMarketCap
+    * `headquarters_full_address`: Tables providing full addresses.
+       *   `company_status`
+    * `headquarters_country`: Several tables map directly
+    * `company_number`
+    * `company_founders`
+      *  `company_type`
+     * `representative_name`
+    * `representative_code`
+     * `representative_role`
+     * `representative_start_date`
+ *  `postal_code`
+  *   `location_type`
+  *   `telephone`.
 
-Key Changes and Considerations:
+*   **One-to-Many:**
 
-*   **Splitting:** The `AmbitionBox.Foundation Year` was split into `founding_year` and `company_age` to provide both the raw year and a calculated age.  Headquarters were split into multiple components, and "DDD-cbinsight-com.city" from city and "MalPatSaj-wikipedia-org.Headquarters" from the headquarters
+    *    `company_age`: created from `AmbitionBox.Foundation Year` by splitting string
+    *   `headquarters_city`:  `DDD-teamblind-com.locations` are often listed as "City, State", these locations are split. `disfold-com.headquarters`,  split between city and country. `valueToday_dataset.headquarters_region_city`.
+    into city.
+   *   `headquarters_country`: The country is sometimes part of the location string.  Example:  `AmbitionBox.Headquarter`, requiring splitting.  Also extracted from multi-part location strings like `DDD-teamblind-com.locations`. Extracted from disfold.com.headquarters
+    * `headquarters_region`: from`valueToday_dataset.headquarters_region_city`.
+    *  `headquarters_continent`: from `valueToday_dataset.headquarters_continent`.
+    * `business_category`:  `companiesMarketCap_dataset.categories` and   `valueToday_dataset.company_business` contains a list of categories represented as a string. This string needs to be split to create individual category entries.
+  *   `social_media_links`: The `company_social_urls` table provides URLs for Facebook, Twitter, Instagram, and Pinterest.  These are separated into individual columns in the mediated schema.
+ *  `investors`
+  * `total_raised`
 
-*   **Merging:** Similar concepts like company names, industries, websites, and employee counts across different datasets were merged into single attributes in the mediated schema.
+*   **Many-to-One:**
+    * `sector`
+    * `ownership`: Combines information on whether the company is public or private.
+    *   `fiscal_year_end`
+    *   `valuation_usd`
 
-*   **Data Type Consistency:** In a real-world implementation, you'd need to define consistent data types (e.g., string, integer, float, date) for each mediated attribute.  This JSON provides the *mapping*, but a full schema definition would include data types.
+**Explanation of Merges/Splits**
+* **Splits:**
+    *  Location attributes like'Headquarter' from AmbitionBox, locations' from DDD-teamblind has been splitted into 'headquarters_city' and 'headquarters_country'.
+     * The string that contains all the categories in 'companiesMarketCap_dataset' and 'valueToday_dataset'has been splitted to obtain the list of strings associated to business_category.
 
-*   **Data Cleaning/Transformation:**  This response assumes some basic cleaning has been done (e.g., handling currency symbols, standardizing country names).  A real implementation would require more robust cleaning and transformation logic.
-
-*   **Handling Missing Values:** The mediated schema shows *where* data would come from, but doesn't handle cases where data is missing in the source tables. A complete solution would need a strategy for handling missing values (e.g., using nulls, default values, or imputation).
-
-*   **Ambiguity:** Datasets may have inherent ambiguities. For example multiple companies may have the same name, or addresses could be listed differently. A complete solution should handle this.
-
-This improved response provides a complete and well-explained mediated schema in the requested JSON format, addressing the complexities of merging and splitting attributes from the source tables. It includes all fields from the original dataset and takes into consideration different scenarios.
+*   **Merges:**
+The mediated schema combines similar information. For instance, we have the columns listed as "Name" on several different tables and these are put under a single attribute called "company\_name".
