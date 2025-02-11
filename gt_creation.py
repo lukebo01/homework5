@@ -5,6 +5,7 @@ import json
 
 
 def create_raw_file():
+    print("creating raw file")
     final_schema = pd.read_csv("final_mediated_schema.csv", low_memory=False)
     reduced: pd.DataFrame = final_schema[["company_name", "_source_table"]].sort_values(by="company_name")
     reduced.to_csv("final.csv")
@@ -19,6 +20,7 @@ def similar(a, b) -> float:
 
 
 def create_initial_gt():
+    print("create initial ground truth")
     df = pd.read_csv("final.csv")
 
     # Crea un dizionario per la mappatura
@@ -39,11 +41,8 @@ def create_initial_gt():
         similarity = similar(a_name,b_name)
         if (similarity > 0.6 and similarity < 0.7) and (source_a != source_b):
             ground_truth.append({
-                "instance": {
-                    f"{a_name}":f"{a['_source_table']}",
-                    f"{b_name}":f"{b['_source_table']}"
-                },
-                "result": None
+                f"{a_name}":f"{a['_source_table']}",
+                f"{b_name}":f"{b['_source_table']}"
             })
             counter += 1
         if counter == 2500:
@@ -57,5 +56,5 @@ def create_initial_gt():
 
 
 if __name__ == "__main__":
-    create_raw_file()
+    #create_raw_file()
     create_initial_gt()
