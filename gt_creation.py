@@ -40,16 +40,19 @@ def create_initial_gt():
 
         similarity = similar(a_name,b_name)
         if (similarity > 0.6 and similarity < 0.7) and (source_a != source_b):
-            ground_truth.append({
-                f"{a_name}":f"{a['_source_table']}",
-                f"{b_name}":f"{b['_source_table']}"
-            })
+            if counter % 12 == 0:
+                ground_truth.append({
+                    f"{a_name}":f"{a['_source_table']}",
+                    f"{b_name}":f"{b['_source_table']}"
+                })
             counter += 1
         if counter == 2500:
             break
 
     result = {}
     result["ground_truth"] = ground_truth
+
+    print(f"ground truth has {len(ground_truth)} instances")
 
     with open("./data/ground_truth.json", "w") as file:
         json.dump(result, file, indent=4)
