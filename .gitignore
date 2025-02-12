@@ -1,6 +1,7 @@
 venv
+venvDitto
 __pycache__
 # Ignora i file JSON di grandi dimensioni
-main_outputs/candidate_pairs_strategy_*.json
-pairwise_matching_results.json
-blocking_output_*.json
+old_record_linkage/candidate_pairs_strategy_*.json
+old_record_linkage/pairwise_matching_results.json
+old_record_linkage/blocking_output_*.json
