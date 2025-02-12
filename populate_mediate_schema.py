@@ -32,6 +32,6 @@ if __name__ == "__main__":
     # Cartella che contiene i CSV mediati (generati in precedenza)
     new_data_dir = "new_data"
     # Nome del file CSV finale
-    final_output = "final_mediated_schema.csv"
+    final_output = "main_outputs/final_mediated_schema.csv"
 
     populate_final_mediated_schema(new_data_dir, final_output)

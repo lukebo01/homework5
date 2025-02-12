@@ -1,1001 +1,1001 @@
-company_name,industry,sector,business_category,headquarters_city,headquarters_country,headquarters_full_address,year_founded,ownership,company_number,employee_count,market_cap_usd,total_revenue_usd,net_profit_usd,total_assets_usd,company_website,social_media_links,total_raised,representative_name,_source_table
-Sony,,,Consumer electronics,[],,,,,,,,,,,,,,,campaignindia
-Samsung,,,Electronics/White goods,[],,,,,,,,,,,,,,,campaignindia
-Panasonic,,,Consumer electronics,[],,,,,,,,,,,,,,,campaignindia
-LG,,,Electronics/White goods,[],,,,,,,,,,,,,,,campaignindia
-Canon,,,Camera/Office equipment,[],,,,,,,,,,,,,,,campaignindia
-Apple,,,Mobile Phone,[],,,,,,,,,,,,,,,campaignindia
-Hewlett-Packard,,,Computer,[],,,,,,,,,,,,,,,campaignindia
-Google,,,Internet search engine,[],,,,,,,,,,,,,,,campaignindia
-Nestlé,,,Food and drink,[],,,,,,,,,,,,,,,campaignindia
-Nike,,,Sports retail,[],,,,,,,,,,,,,,,campaignindia
-McDonald’s,,,Fast food,[],,,,,,,,,,,,,,,campaignindia
-adidas,,,Sports retail,[],,,,,,,,,,,,,,,campaignindia
-Coca-Cola,,,Soft drinks,[],,,,,,,,,,,,,,,campaignindia
-7-Eleven,,,Convenience store,[],,,,,,,,,,,,,,,campaignindia
-Starbucks,,,Coffee chain,[],,,,,,,,,,,,,,,campaignindia
-Colgate,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-Facebook,,,Social networking,[],,,,,,,,,,,,,,,campaignindia
-Yahoo,,,Internet search engine,[],,,,,,,,,,,,,,,campaignindia
-Honda,,,Car/Motorcycle,[],,,,,,,,,,,,,,,campaignindia
-Toshiba,,,Electronics/White goods,[],,,,,,,,,,,,,,,campaignindia
-Microsoft,,,Computer Software,[],,,,,,,,,,,,,,,campaignindia
-Maggi,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-Lotte,,,Chewing/ Bubble gum,[],,,,,,,,,,,,,,,campaignindia
-KFC,,,Fast-Food,[],,,,,,,,,,,,,,,campaignindia
-Nikon,,,Camera,[],,,,,,,,,,,,,,,campaignindia
-Hitachi,,,Consumer Electronics,[],,,,,,,,,,,,,,,campaignindia
-Sharp,,,Consumer Electronics,[],,,,,,,,,,,,,,,campaignindia
-Nokia,,,Mobile Phone,[],,,,,,,,,,,,,,,campaignindia
-Playstation,,,Gaming Console,[],,,,,,,,,,,,,,,campaignindia
-Chanel,,,Fragrance/Perfume/Luxury Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Dove,,,Shower Gel/Soap /Shampoo,[],,,,,,,,,,,,,,,campaignindia
-Pepsi,,,Carbonated Soft Drink,[],,,,,,,,,,,,,,,campaignindia
-Nescafé,,,Coffee,[],,,,,,,,,,,,,,,campaignindia
-Cadbury,,,Chocolate,[],,,,,,,,,,,,,,,campaignindia
-Mitsubishi,,,Consumer electronics,[],,,,,,,,,,,,,,,campaignindia
-Epson,,,Printer,[],,,,,,,,,,,,,,,campaignindia
-Uni-president,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-Yamaha,,,Motorcycle,[],,,,,,,,,,,,,,,campaignindia
-Shell,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-DHL,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-Toyota,,,Car/Automobile,[],,,,,,,,,,,,,,,campaignindia
-Rolex,,,Watch,[],,,,,,,,,,,,,,,campaignindia
-Meiji,,,Food,[],,,,,,,,,,,,,,,campaignindia
-Darlie,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-Michelin,,,Tyre,[],,,,,,,,,,,,,,,campaignindia
-Nintendo,,,Gaming Console,[],,,,,,,,,,,,,,,campaignindia
-Lux,,,Shower Gel/Soap,[],,,,,,,,,,,,,,,campaignindia
-Häagen-Dazs,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-BMW,,,Car/Automobile,[],,,,,,,,,,,,,,,campaignindia
-Dell,,,Computer,[],,,,,,,,,,,,,,,campaignindia
-Bridgestone,,,Tyre,[],,,,,,,,,,,,,,,campaignindia
-VISA,,,Credit Card,[],,,,,,,,,,,,,,,campaignindia
-L’Oréal,,,Cosmetics/Skincare Shampoo,[],,,,,,,,,,,,,,,campaignindia
-Pantene,,,Shampoo,[],,,,,,,,,,,,,,,campaignindia
-Shiseido,,,Cosmetics,[],,,,,,,,,,,,,,,campaignindia
-Pampers,,,Diaper,[],,,,,,,,,,,,,,,campaignindia
-Philips,,,Consumer Electronics,[],,,,,,,,,,,,,,,campaignindia
-Air Asia,,,Budget Airlines,[],,,,,,,,,,,,,,,campaignindia
-Mercedes-Benz,,,Car/Automobile,[],,,,,,,,,,,,,,,campaignindia
-Twitter,,,Social Networking Site,[],,,,,,,,,,,,,,,campaignindia
-Watsons,,,Pharmacy/Drugstore,[],,,,,,,,,,,,,,,campaignindia
-Nivea,,,Skincare,[],,,,,,,,,,,,,,,campaignindia
-FamilyMart,,,Convenience Store,[],,,,,,,,,,,,,,,campaignindia
-HSBC,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Citibank,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Christian Dior,,,Fragrance/Perfume/Cosmetics,[],,,,,,,,,,,,,,,campaignindia
-Nissin,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-Huggies,,,Diaper,[],,,,,,,,,,,,,,,campaignindia
-FedEx,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-Acer,,,Computer,[],,,,,,,,,,,,,,,campaignindia
-Pocari Sweat,,,Sports Drink,[],,,,,,,,,,,,,,,campaignindia
-Kao,,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-Ferrero Rocher,,,Chocolate,[],,,,,,,,,,,,,,,campaignindia
-AIA,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Singapore,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-Lipton,,,Tea,[],,,,,,,,,,,,,,,campaignindia
-Marlboro,,,Cigarette,[],,,,,,,,,,,,,,,campaignindia
-MasterKong,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-MasterCard,,,Credit Card,[],,,,,,,,,,,,,,,campaignindia
-Gatorade,,,Sports Drink,[],,,,,,,,,,,,,,,campaignindia
-Gucci,,,Luxury Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Kellogg’s,,,Cereal,[],,,,,,,,,,,,,,,campaignindia
-Heineken,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Daikin,,,Air Conditioner,[],,,,,,,,,,,,,,,campaignindia
-Head & Shoulders,,,Shampoo,[],,,,,,,,,,,,,,,campaignindia
-SK-II,,,Female Skincare Product,[],,,,,,,,,,,,,,,campaignindia
-Wrigley’s Arrow,,,Chewing/Bubble Gum,[],,,,,,,,,,,,,,,campaignindia
-Sanyo,,,Consumer Electronics,[],,,,,,,,,,,,,,,campaignindia
-Amul,,,Milk powder/Milk/Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Hyundai,,,Car/Automobile,[],,,,,,,,,,,,,,,campaignindia
-Lancomé,,,Cosmetics/Fagrance/Female Skincare,[],,,,,,,,,,,,,,,campaignindia
-Seiko,,,Watch,[],,,,,,,,,,,,,,,campaignindia
-Wall’s,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Casio,,,Watch,[],,,,,,,,,,,,,,,campaignindia
-Xbox,,,Gaming Console,[],,,,,,,,,,,,,,,campaignindia
-Tesco,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-NTUC FairPrice,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Whirlpool,,,White Goods,[],,,,,,,,,,,,,,,campaignindia
-Olay,,,Female Skincare Product,[],,,,,,,,,,,,,,,campaignindia
-HTC,,,Mobile Phone,[],,,,,,,,,,,,,,,campaignindia
-Evian,,,Mineral Water,[],,,,,,,,,,,,,,,campaignindia
-Haier,,,Consumer Electronics,[],,,,,,,,,,,,,,,campaignindia
-Sunsilk,,,Shampoo,[],,,,,,,,,,,,,,,campaignindia
-Hilton,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-Cathay Pacific,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-Heinz,,,Baby Food (excluding milk powder),[],,,,,,,,,,,,,,,campaignindia
-Sony Ericsson,,,Mobile Phone,[],,,,,,,,,,,,,,,campaignindia
-100 Plus,,,Sports Drink,[],,,,,,,,,,,,,,,campaignindia
-Morinaga,,,Sweets and Candy,[],,,,,,,,,,,,,,,campaignindia
-Breeze,,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-Caltex,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-Vodafone,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Esso,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-Johnson & Johnson,,,Personal Care,[],,,,,,,,,,,,,,,campaignindia
-Calvin Klein,,,Fragrance/Perfume/Luxury Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Kingfisher,,,Beer/Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-Fujitsu,,,Computer,[],,,,,,,,,,,,,,,campaignindia
-Guardian,,,Pharmacy/Drugstore,[],,,,,,,,,,,,,,,campaignindia
-Suzuki,,,Motorcycle,[],,,,,,,,,,,,,,,campaignindia
-Baskin Robbins,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Lenovo,,,Computer,[],,,,,,,,,,,,,,,campaignindia
-Omega,,,Watch,[],,,,,,,,,,,,,,,campaignindia
-Louis Vuitton (LV),,,Luxury Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Wellcome,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Coles,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Armani,,,Men’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Lee Kum Kee,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-Johnnie Walker,,,Spirits,[],,,,,,,,,,,,,,,campaignindia
-Reebok,,,Sporting Apparel,[],,,,,,,,,,,,,,,campaignindia
-Lay’s,,,Snack Food,[],,,,,,,,,,,,,,,campaignindia
-Marigold,,,Fruit Juice,[],,,,,,,,,,,,,,,campaignindia
-Circle K,,,Convenience Store,[],,,,,,,,,,,,,,,campaignindia
-Harley Davidson,,,Motorcycle,[],,,,,,,,,,,,,,,campaignindia
-Goodyear,,,Tyre,[],,,,,,,,,,,,,,,campaignindia
-Quaker,,,Cereal,[],,,,,,,,,,,,,,,campaignindia
-Carlsberg,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Puma,,,Sporting Equipment/Apparel,[],,,,,,,,,,,,,,,campaignindia
-Jetstar,,,Budget Airlines,[],,,,,,,,,,,,,,,campaignindia
-Thai Airways,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-Asus,,,Computer,[],,,,,,,,,,,,,,,campaignindia
-JVC,,,Camcorder,[],,,,,,,,,,,,,,,campaignindia
-Prudential (UK),,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Maxims,,,Coffee,[],,,,,,,,,,,,,,,campaignindia
-Lion,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-BlackBerry,,,Mobile Phone,[],,,,,,,,,,,,,,,campaignindia
-Olympus,,,Camera,[],,,,,,,,,,,,,,,campaignindia
-Extra,,,Chewing/Bubble Gum,[],,,,,,,,,,,,,,,campaignindia
-Suntory,,,Spirits/Beer,[],,,,,,,,,,,,,,,campaignindia
-Garnier,,,Skincare Product,[],,,,,,,,,,,,,,,campaignindia
-Rejoice,,,Shampoo,[],,,,,,,,,,,,,,,campaignindia
-Virgin,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-Doublemint,,,Chewing/Bubble Gum,[],,,,,,,,,,,,,,,campaignindia
-Palmolive,,,Shower Gel/Soap,[],,,,,,,,,,,,,,,campaignindia
-IBM,,,Computer,[],,,,,,,,,,,,,,,campaignindia
-Mamy Poko,,,Diaper,[],,,,,,,,,,,,,,,campaignindia
-Dettol,,,Shower Gel/Soap,[],,,,,,,,,,,,,,,campaignindia
-Estée Lauder,,,Cosmetics,[],,,,,,,,,,,,,,,campaignindia
-Clinique,,,Female Skincare Product/Cosmetics,[],,,,,,,,,,,,,,,campaignindia
-Mengniu,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Lindt,,,Chocolate,[],,,,,,,,,,,,,,,campaignindia
-Hershey’s,,,Chocolate,[],,,,,,,,,,,,,,,campaignindia
-Cartier,,,Jewellery,[],,,,,,,,,,,,,,,campaignindia
-Malaysia Airlines,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-Tropicana,,,Fruit Juice,[],,,,,,,,,,,,,,,campaignindia
-Baidu,,,Internet Search Engine,[],,,,,,,,,,,,,,,campaignindia
-Pond’s,,,Female Skincare Product,[],,,,,,,,,,,,,,,campaignindia
-Dutch Lady,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Bank of China,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-BATA,,,Shoes,[],,,,,,,,,,,,,,,campaignindia
-Carrefour,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Tsingtao,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Maybank,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Kirin,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Kookmin Bank (KB),,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Dunlop,,,Tyre,[],,,,,,,,,,,,,,,campaignindia
-Red Bull,,,Sports Drink,[],,,,,,,,,,,,,,,campaignindia
-UPS,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-Tiger Airways,,,Budget Airlines,[],,,,,,,,,,,,,,,campaignindia
-Swensen’s,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Pedigree,,,Pet Food,[],,,,,,,,,,,,,,,campaignindia
-Naver,,,Internet Search Engine,[],,,,,,,,,,,,,,,campaignindia
-Wei Chuan,,,Food and Beverage,[],,,,,,,,,,,,,,,campaignindia
-China Mobile,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Big Bazaar,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Dove (Chocolate),,,Chocolate,[],,,,,,,,,,,,,,,campaignindia
-Mama,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-CPC (Taiwan),,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-Bing,,,Internet Search Engine,[],,,,,,,,,,,,,,,campaignindia
-Standard Chartered,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Siemens,,,Consumer Electronics,[],,,,,,,,,,,,,,,campaignindia
-ANA,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-Tiffany & Co.,,,Jewellery,[],,,,,,,,,,,,,,,campaignindia
-Minute Maid,,,Fruit Juice,[],,,,,,,,,,,,,,,campaignindia
-Burger King,,,Fast-Food,[],,,,,,,,,,,,,,,campaignindia
-Tiger Beer,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Singtel,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Korean Air,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-NTT,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Qantas,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-Nongshim,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-Ralph Lauren,,,Men’s Fashion Retailer/Fragrance,[],,,,,,,,,,,,,,,campaignindia
-Siam Commercial Bank,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Asiana,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-Park n shop,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Seoul Milk,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-G2000,,,Men’s and Women’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-SK Telecom,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Dunhill,,,Cigarette,[],,,,,,,,,,,,,,,campaignindia
-Adobe,,,Computer Software,[],,,,,,,,,,,,,,,campaignindia
-Shinhan bank,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Lotteria,,,Fast-Food,[],,,,,,,,,,,,,,,campaignindia
-Kuroneko Yamato,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-DBS,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Pioneer,,,Consumer Electronics,[],,,,,,,,,,,,,,,campaignindia
-ICICI Bank,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-State Bank of India (SBI),,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Telstra,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Citizen,,,Watch,[],,,,,,,,,,,,,,,campaignindia
-Dumex,,,Milk Powder,[],,,,,,,,,,,,,,,campaignindia
-Avon,,,Cosmetics,[],,,,,,,,,,,,,,,campaignindia
-Airtel,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Sinopec,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-Asahi,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-PTT,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-Coffee Bean,,,Coffee Shop,[],,,,,,,,,,,,,,,campaignindia
-Mos Burger,,,Fast-Food,[],,,,,,,,,,,,,,,campaignindia
-China Airlines,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-NEC,,,Computer,[],,,,,,,,,,,,,,,campaignindia
-Sunkist,,,Fruit Juice,[],,,,,,,,,,,,,,,campaignindia
-KTF,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Japan Airlines (JAL),,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-China Trust,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Woolworths,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Sprite,,,Carbonated Soft Drink,[],,,,,,,,,,,,,,,campaignindia
-Shangri-La,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-Yili,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Electrolux,,,White Goods,[],,,,,,,,,,,,,,,campaignindia
-F&N,,,Carbonated Soft Drink,[],,,,,,,,,,,,,,,campaignindia
-Chunghwa Telecom (CHT),,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-ICBC Asia,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Tag Heuer,,,Watch,[],,,,,,,,,,,,,,,campaignindia
-China Merchants Bank,,,Credit Card/Bank,[],,,,,,,,,,,,,,,campaignindia
-The Body Shop,,,Shower Gel/Soap,[],,,,,,,,,,,,,,,campaignindia
-Giant,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Old Town,,,Coffee Shop,[],,,,,,,,,,,,,,,campaignindia
-Hankook,,,Tyre,[],,,,,,,,,,,,,,,campaignindia
-Taiwan Beer,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Bulgari,,,Fragrance/Jewellery,[],,,,,,,,,,,,,,,campaignindia
-Nissan,,,Car/Automobile,[],,,,,,,,,,,,,,,campaignindia
-Kumkang,,,Men’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-Emirates,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-LIC,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Kasikorn Bank,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Fisher & Paykel,,,White Goods,[],,,,,,,,,,,,,,,campaignindia
-Sensodyne,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-Yokohama,,,Tyre,[],,,,,,,,,,,,,,,campaignindia
-Brother,,,Printer,[],,,,,,,,,,,,,,,campaignindia
-British Petroleum (BP),,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-Hyatt,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-Supau,,,Sports Drink,[],,,,,,,,,,,,,,,campaignindia
-CPC (China),,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-Moccona,,,Coffee,[],,,,,,,,,,,,,,,campaignindia
-Powerade,,,Sports Drink,[],,,,,,,,,,,,,,,campaignindia
-Cafe Coffee Day,,,Coffee,[],,,,,,,,,,,,,,,campaignindia
-Advance Info Service,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-MSN,,,Social Networking site,[],,,,,,,,,,,,,,,campaignindia
-OMO,,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-Singha,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Subway,,,Fast-Food,[],,,,,,,,,,,,,,,campaignindia
-Titan,,,Watch,[],,,,,,,,,,,,,,,campaignindia
-Chow Tai Fook,,,Jewellery,[],,,,,,,,,,,,,,,campaignindia
-Lawson,,,Convenience Store,[],,,,,,,,,,,,,,,campaignindia
-SK,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-DTAC,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Ethnicans,,,Savoury Snack Food,[],,,,,,,,,,,,,,,campaignindia
-Godiva,,,Chocolate,[],,,,,,,,,,,,,,,campaignindia
-Pacific Coffee,,,Coffee Shop,[],,,,,,,,,,,,,,,campaignindia
-Audi,,,Car/Automobile,[],,,,,,,,,,,,,,,campaignindia
-Amway,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-Café De Coral,,,Fast-Food,[],,,,,,,,,,,,,,,campaignindia
-Surf,,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-GS 25,,,Convenience Store,[],,,,,,,,,,,,,,,campaignindia
-Mild Seven,,,Cigarette,[],,,,,,,,,,,,,,,campaignindia
-Maxis,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Kawasaki,,,Motorcycle,[],,,,,,,,,,,,,,,campaignindia
-Bru,,,Coffee,[],,,,,,,,,,,,,,,campaignindia
-Fab,,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-Lakme,,,Cosmetics,[],,,,,,,,,,,,,,,campaignindia
-Optus,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-HDFC Bank,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Pringles,,,Snack Food,[],,,,,,,,,,,,,,,campaignindia
-Westinghouse,,,White Goods,[],,,,,,,,,,,,,,,campaignindia
-Haitai,,,Food,[],,,,,,,,,,,,,,,campaignindia
-Oishi,,,Tea,[],,,,,,,,,,,,,,,campaignindia
-Bangkok Bank,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Nok Air,,,Budget Airlines,[],,,,,,,,,,,,,,,campaignindia
-Attack,,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-Samyang,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-Clarks,,,Men’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-Vita,,,Beverage,[],,,,,,,,,,,,,,,campaignindia
-Pokka,,,Beverage,[],,,,,,,,,,,,,,,campaignindia
-Cheers,,,Convenience Store,[],,,,,,,,,,,,,,,campaignindia
-Petronas,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-Apollo,,,Pharmacy/Drugstore,[],,,,,,,,,,,,,,,campaignindia
-Mentos,,,Sweets and Candy,[],,,,,,,,,,,,,,,campaignindia
-Jusco,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Namyang,,,Milk Powder/Milk,[],,,,,,,,,,,,,,,campaignindia
-Kopitiam,,,Coffee Shop,[],,,,,,,,,,,,,,,campaignindia
-Daum,,,Internet Search Engine,[],,,,,,,,,,,,,,,campaignindia
-Ping An Insurance,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Kuang-Chuan,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Tatung,,,Consumer Electronics,[],,,,,,,,,,,,,,,campaignindia
-Midea,,,White Goods,[],,,,,,,,,,,,,,,campaignindia
-Magnolia,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Swatch,,,Watch,[],,,,,,,,,,,,,,,campaignindia
-Maeil,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Revlon,,,Cosmetics,[],,,,,,,,,,,,,,,campaignindia
-Nongfu Shan Quan,,,Mineral Water,[],,,,,,,,,,,,,,,campaignindia
-Great Eastern,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Hang Seng Bank,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Wai Wai,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-Maybelline,,,Cosmetics,[],,,,,,,,,,,,,,,campaignindia
-StarHub,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Kodak,,,Camera,[],,,,,,,,,,,,,,,campaignindia
-Outback,,,Restaurant Chain,[],,,,,,,,,,,,,,,campaignindia
-Madras Rubber Factory,,,Tyre,[],,,,,,,,,,,,,,,campaignindia
-Glico,,,Snack Food,[],,,,,,,,,,,,,,,campaignindia
-Mr. Brown,,,Coffee,[],,,,,,,,,,,,,,,campaignindia
-Dairy Farm,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Fuji,,,Camera,[],,,,,,,,,,,,,,,campaignindia
-Vidal Sassoon,,,Shampoo,[],,,,,,,,,,,,,,,campaignindia
-Hugo Boss,,,Fragrance,[],,,,,,,,,,,,,,,campaignindia
-Chivas,,,Spirits,[],,,,,,,,,,,,,,,campaignindia
-Bisleri,,,Mineral Water,[],,,,,,,,,,,,,,,campaignindia
-AXA,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Taj,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-United Overseas Bank,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Hite,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Ariel,,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-Dynamo,,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-Biotherm,,,Skincare Product,[],,,,,,,,,,,,,,,campaignindia
-Malee,,,Fruit Juice,[],,,,,,,,,,,,,,,campaignindia
-China Unicom,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Burberry,,,Luxury Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Cosmed,,,Pharmacy/Drugstore,[],,,,,,,,,,,,,,,campaignindia
-M&M’s,,,Chocolate,[],,,,,,,,,,,,,,,campaignindia
-Manning’s,,,Pharmacy/Drugstore,[],,,,,,,,,,,,,,,campaignindia
-Prada,,,Luxury Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Sheraton,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-CIMB Bank,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-China Southern Airlines,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-UCC,,,Coffee,[],,,,,,,,,,,,,,,campaignindia
-Airwaves,,,Chewing/Bubble Gum,[],,,,,,,,,,,,,,,campaignindia
-Kumho,,,Tyre,[],,,,,,,,,,,,,,,campaignindia
-Sponsor,,,Sports Drink,[],,,,,,,,,,,,,,,campaignindia
-GS Caltex,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-Eva Air,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-Kissan,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-Bose,,,Home Audio,[],,,,,,,,,,,,,,,campaignindia
-Kelvinator,,,White Goods,[],,,,,,,,,,,,,,,campaignindia
-OCBC,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Ford,,,Car/Automobile,[],,,,,,,,,,,,,,,campaignindia
-Teco,,,White Goods,[],,,,,,,,,,,,,,,campaignindia
-Air China,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-Fubon,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Softbank,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Hey Song,,,Carbonated Soft Drink,[],,,,,,,,,,,,,,,campaignindia
-Del Monte,,,Fruit Juice,[],,,,,,,,,,,,,,,campaignindia
-Maxwell House,,,Coffee,[],,,,,,,,,,,,,,,campaignindia
-Kia,,,Car/Automobile,[],,,,,,,,,,,,,,,campaignindia
-Cheil Jedang (CJ),,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-Barista Lavazza (India),,,Coffee Shop,[],,,,,,,,,,,,,,,campaignindia
-Sagawa,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-Tao Ti,,,Tea,[],,,,,,,,,,,,,,,campaignindia
-Shokubutsu,,,Shower Gel/Soap,[],,,,,,,,,,,,,,,campaignindia
-Pepsodent,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-Cold Storage,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Mr. Juicy,,,Fruit Juice,[],,,,,,,,,,,,,,,campaignindia
-Aquarius,,,Sports Drink,[],,,,,,,,,,,,,,,campaignindia
-Nippon Oil Corporation,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-American Express,,,Credit Card,[],,,,,,,,,,,,,,,campaignindia
-Orion,,,Snack Food,[],,,,,,,,,,,,,,,campaignindia
-Tipco,,,Fruit Juice,[],,,,,,,,,,,,,,,campaignindia
-Reliance (RIL),,,Pharmacy/Drugstore,[],,,,,,,,,,,,,,,campaignindia
-3,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Bioré,,,Skincare Product,[],,,,,,,,,,,,,,,campaignindia
-Orkut,,,Social Networking Site,[],,,,,,,,,,,,,,,campaignindia
-Aekyung 2080,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-Anlene,,,Milk Powder,[],,,,,,,,,,,,,,,campaignindia
-Aeon,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Bally,,,Men’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-Gloria Jeans,,,Coffee Shop,[],,,,,,,,,,,,,,,campaignindia
-Gree,,,White Goods,[],,,,,,,,,,,,,,,campaignindia
-Kwality,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Celcom,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Mother Dairy,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-China Eastern Airlines,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-China Construction Bank,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Cass,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-SF Express,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-Kanebo,,,Cosmetics,[],,,,,,,,,,,,,,,campaignindia
-Chow Sang Sang,,,Jewellery,[],,,,,,,,,,,,,,,campaignindia
-Foremost,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Spritzer,,,Mineral Water,[],,,,,,,,,,,,,,,campaignindia
-Ferrari,,,Car/Automobile,[],,,,,,,,,,,,,,,campaignindia
-Doutor,,,Coffee Shop,[],,,,,,,,,,,,,,,campaignindia
-Formosa Petrochemical,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-Hush Puppies,,,Men’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-Boss,,,Fragrance/Men’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-VIPS,,,Restaurant Chain,[],,,,,,,,,,,,,,,campaignindia
-Bajaj,,,Motorcycle,[],,,,,,,,,,,,,,,campaignindia
-Nestea,,,Tea,[],,,,,,,,,,,,,,,campaignindia
-Schweppes,,,Mineral Water/Carbonated Soft Drink,[],,,,,,,,,,,,,,,campaignindia
-M1,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Carrier,,,Air Conditioner,[],,,,,,,,,,,,,,,campaignindia
-Halls,,,Sweets and Candy,[],,,,,,,,,,,,,,,campaignindia
-Boh,,,Tea,[],,,,,,,,,,,,,,,campaignindia
-MUFG,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-MK suki,,,Restaurant Chain,[],,,,,,,,,,,,,,,campaignindia
-Sugus,,,Sweets and Candy,[],,,,,,,,,,,,,,,campaignindia
-Ghana,,,Chocolate,[],,,,,,,,,,,,,,,campaignindia
-AU,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Macleans,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-Crest,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-Close up,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-Whiskas,,,Pet Food,[],,,,,,,,,,,,,,,campaignindia
-Mead Johnson,,,Milk Powder,[],,,,,,,,,,,,,,,campaignindia
-Maruti,,,Car/Automobile,[],,,,,,,,,,,,,,,campaignindia
-POSB,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-ANZ,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Abbott,,,Milk Powder,[],,,,,,,,,,,,,,,campaignindia
-Van Houten,,,Chocolate,[],,,,,,,,,,,,,,,campaignindia
-T-cat,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-Motorola,,,Mobile Phone,[],,,,,,,,,,,,,,,campaignindia
-Indian Oil Corporation,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-Crocodile,,,Men’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Pizza Hut,,,Restaurant Chain,[],,,,,,,,,,,,,,,campaignindia
-Real,,,Fruit Juice,[],,,,,,,,,,,,,,,campaignindia
-Xiaonei/Renren,,,Social Networking Site,[],,,,,,,,,,,,,,,campaignindia
-Dentyne,,,Chewing/Bubble Gum,[],,,,,,,,,,,,,,,campaignindia
-Four Seasons,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-Peters,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-TNT,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-Budweiser,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Berri,,,Fruit Juice,[],,,,,,,,,,,,,,,campaignindia
-Ben & Jerry’s,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Commonwealth,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Tata,,,Automobile,[],,,,,,,,,,,,,,,campaignindia
-Doll,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-Mobil,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-Taiwan Mobile,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Amore Pacific,,,Cosmetics,[],,,,,,,,,,,,,,,campaignindia
-Jet Airways,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-SYM,,,Motorcycle,[],,,,,,,,,,,,,,,campaignindia
-Kikkoman,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-Kowloon Dairy,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Walmart,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Zipel,,,White Goods,[],,,,,,,,,,,,,,,campaignindia
-Oral B,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-Compaq,,,Computer,[],,,,,,,,,,,,,,,campaignindia
-Dreyer’s,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Firefly,,,Budget Airlines,[],,,,,,,,,,,,,,,campaignindia
-Kymco,,,Motorcycle,[],,,,,,,,,,,,,,,campaignindia
-Guess,,,Watch,[],,,,,,,,,,,,,,,campaignindia
-Golden Mountain,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-IGA,,,Convenience Store/Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Cathay Life,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-MAC,,,Cosmetics,[],,,,,,,,,,,,,,,campaignindia
-Perrier,,,Mineral Water,[],,,,,,,,,,,,,,,campaignindia
-Korea Express,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-Calbee,,,Snack Food,[],,,,,,,,,,,,,,,campaignindia
-Cyworld,,,Social Networking Site,[],,,,,,,,,,,,,,,campaignindia
-Wyeth,,,Milk Powder,[],,,,,,,,,,,,,,,campaignindia
-Clinic,,,Shampoo,[],,,,,,,,,,,,,,,campaignindia
-Hanjin,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-Jeju Air,,,Budget Airlines,[],,,,,,,,,,,,,,,campaignindia
-Air India,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-Korea Post,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-HL,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Hui Yuan,,,Fruit Juice,[],,,,,,,,,,,,,,,campaignindia
-Digi,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Shinramyun,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-85°C,,,Coffee Shop,[],,,,,,,,,,,,,,,campaignindia
-Lin Fong Ying (LFY),,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Salvatore Ferragamo,,,Women’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-Donna Karan (DKNY),,,Fragrance/Watch,[],,,,,,,,,,,,,,,campaignindia
-Godrej,,,Consumer Electronics,[],,,,,,,,,,,,,,,campaignindia
-Zara,,,Men’s and Women’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Pauls,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Hero Honda,,,Motorcycle,[],,,,,,,,,,,,,,,campaignindia
-Myojo,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-Westpac,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Vaseline,,,Female Skincare Product,[],,,,,,,,,,,,,,,campaignindia
-Nissay,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Top Ramen,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-Hungry Jack’s,,,Fast-Food,[],,,,,,,,,,,,,,,campaignindia
-Neutrogena,,,Female Skincare Product,[],,,,,,,,,,,,,,,campaignindia
-Fairwood,,,Fast-Food,[],,,,,,,,,,,,,,,campaignindia
-Chupa Chups,,,Sweets and Candy,[],,,,,,,,,,,,,,,campaignindia
-Peninsula,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-Matsumoto Kiyoshi,,,Pharmacy/Drugstore,[],,,,,,,,,,,,,,,campaignindia
-Li Ning,,,Sporting Apparel,[],,,,,,,,,,,,,,,campaignindia
-Twisties,,,Savoury Snack Food,[],,,,,,,,,,,,,,,campaignindia
-Bear Brand,,,Milk/Milk Powder,[],,,,,,,,,,,,,,,campaignindia
-My space,,,Social Networking Site,[],,,,,,,,,,,,,,,campaignindia
-Snow Brand,,,Milk Powder/Milk,[],,,,,,,,,,,,,,,campaignindia
-Kagome,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-Tissot,,,Watch,[],,,,,,,,,,,,,,,campaignindia
-JCB,,,Credit Card,[],,,,,,,,,,,,,,,campaignindia
-Kimlan,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-Iriver,,,Personal portable music player,[],,,,,,,,,,,,,,,campaignindia
-Bull-Dog,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-Longines,,,Watch,[],,,,,,,,,,,,,,,campaignindia
-Amoy,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-Krung Thai,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Fanta,,,Carbonated Soft Drink,[],,,,,,,,,,,,,,,campaignindia
-Mixi,,,Social Networking Site,[],,,,,,,,,,,,,,,campaignindia
-Zhonghua (Cigarette),,,Cigarette,[],,,,,,,,,,,,,,,campaignindia
-Meiji (Milk Powder),,,Milk Powder,[],,,,,,,,,,,,,,,campaignindia
-Volvic,,,Mineral Water,[],,,,,,,,,,,,,,,campaignindia
-China Life,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-ING,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-TRUE,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Videocon,,,Consumer Electronics,[],,,,,,,,,,,,,,,campaignindia
-Gusto,,,Restaurant Chain,[],,,,,,,,,,,,,,,campaignindia
-Xu Fu Ji,,,Sweets and Candy,[],,,,,,,,,,,,,,,campaignindia
-Tide,,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-Manulife,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-CSL,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-IndoMie,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-Safeguard,,,Shower Gel/Soap,[],,,,,,,,,,,,,,,campaignindia
-Holden,,,Car/Automobile,[],,,,,,,,,,,,,,,campaignindia
-Aquafina,,,Mineral Water,[],,,,,,,,,,,,,,,campaignindia
-Panadol,,,Over-the-counter Pharmaceuticals,[],,,,,,,,,,,,,,,campaignindia
-Chilsung Cider,,,Mineral Water,[],,,,,,,,,,,,,,,campaignindia
-Shilla,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-Regal,,,Men’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-Mazda,,,Car/Automobile,[],,,,,,,,,,,,,,,campaignindia
-Allen’s,,,Sweets and Candy,[],,,,,,,,,,,,,,,campaignindia
-FETnet,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-S26,,,Milk Powder,[],,,,,,,,,,,,,,,campaignindia
-Fruit Tree,,,Fruit Juice,[],,,,,,,,,,,,,,,campaignindia
-Paos,,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-York,,,Air Conditioner,[],,,,,,,,,,,,,,,campaignindia
-China Pacific Insurance,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Hermès,,,Luxury Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Hai Tian,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-DHC,,,Female Skincare Product,[],,,,,,,,,,,,,,,campaignindia
-Crystal Jade,,,Restaurant Chain,[],,,,,,,,,,,,,,,campaignindia
-Volkswagen,,,Car/Automobile,[],,,,,,,,,,,,,,,campaignindia
-Blue Dart,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-Nan Shan,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Drypers,,,Diaper,[],,,,,,,,,,,,,,,campaignindia
-ASO,,,Men’s/Women’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-White Rabbit,,,Sweets and Candy,[],,,,,,,,,,,,,,,campaignindia
-Sumitomo Misui (SMBC),,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Marriott,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-SpiceJet Airlines,,,Budget Airlines,[],,,,,,,,,,,,,,,campaignindia
-Pentax,,,Camera,[],,,,,,,,,,,,,,,campaignindia
-Lexus,,,Car/Automobile,[],,,,,,,,,,,,,,,campaignindia
-Pon Pon,,,Shower Gel/Soap,[],,,,,,,,,,,,,,,campaignindia
-Public Bank,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-ICICI Prudential,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Yves Saint Laurent (YSL),,,Fragrance/Luxury Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Masterfood,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-PosLaju,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-Habib Jewels,,,Jewellery,[],,,,,,,,,,,,,,,campaignindia
-PCCW,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Yum Yum,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-7-Up,,,Carbonated Soft Drink,[],,,,,,,,,,,,,,,campaignindia
-Spencer,,,Convenience Store/Supermarket,[],,,,,,,,,,,,,,,campaignindia
-China-SSS,,,Budget Airlines,[],,,,,,,,,,,,,,,campaignindia
-Poh Kong,,,Jewellery,[],,,,,,,,,,,,,,,campaignindia
-Dragonair,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-Little Swan,,,White Goods,[],,,,,,,,,,,,,,,campaignindia
-Dairy Farmers,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Maidong,,,Sports Drink,[],,,,,,,,,,,,,,,campaignindia
-Thai Post,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-Cerelac,,,Baby Food (excluding milk powder),[],,,,,,,,,,,,,,,campaignindia
-Top,,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-H-TWO-O,,,Sports Drink,[],,,,,,,,,,,,,,,campaignindia
-Patek Philippe,,,Watch,[],,,,,,,,,,,,,,,campaignindia
-Rolls Royce,,,Car/Automobile,[],,,,,,,,,,,,,,,campaignindia
-NAB,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Thai Life Insurance,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Clear,,,Shampoo,[],,,,,,,,,,,,,,,campaignindia
-Chiclet,,,Chewing/Bubble Gum,[],,,,,,,,,,,,,,,campaignindia
-Kaixin001,,,Social Networking Site,[],,,,,,,,,,,,,,,campaignindia
-Perioe,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-Enfa,,,Milk Powder,[],,,,,,,,,,,,,,,campaignindia
-Alfred Dunhill,,,Fragrance,[],,,,,,,,,,,,,,,campaignindia
-TGI Friday’s,,,Restaurant Chain,[],,,,,,,,,,,,,,,campaignindia
-Wahaha,,,Mineral Water,[],,,,,,,,,,,,,,,campaignindia
-Ceat,,,Tyre,[],,,,,,,,,,,,,,,campaignindia
-Tanishq,,,Jewellery,[],,,,,,,,,,,,,,,campaignindia
-Hennessy,,,Spirits,[],,,,,,,,,,,,,,,campaignindia
-Homeplus,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Bright Dairy,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-China Telecom,,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-Angelinus,,,Coffee Shop,[],,,,,,,,,,,,,,,campaignindia
-Creative,,,Personal portable music player,[],,,,,,,,,,,,,,,campaignindia
-Holiday Inn,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-AAMI,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Post,,,Cereal,[],,,,,,,,,,,,,,,campaignindia
-La New,,,Men’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-Lifebuoy,,,Shower Gel/Soap,[],,,,,,,,,,,,,,,campaignindia
-Yeo Hiap Seng (YEO),,,Tea,[],,,,,,,,,,,,,,,campaignindia
-Bangchak,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-Esquire,,,Men’s/Women’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-Moutai,,,Spirits,[],,,,,,,,,,,,,,,campaignindia
-IndiGo,,,Budget Airlines,[],,,,,,,,,,,,,,,campaignindia
-Bank of Ayudhya,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Volvo,,,Automobile/Car,[],,,,,,,,,,,,,,,campaignindia
-Kit Kat,,,Chocolate,[],,,,,,,,,,,,,,,campaignindia
-Bank of Taiwan,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-S-oil,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-BPCL,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-Cintan,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-Streets,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Aura,,,Mineral Water,[],,,,,,,,,,,,,,,campaignindia
-Ito-en,,,Ready-to-drink Tea,[],,,,,,,,,,,,,,,campaignindia
-Blue Girl,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Kose,,,Cosmetics,[],,,,,,,,,,,,,,,campaignindia
-Y.E.S Mineral Water,,,Mineral Water,[],,,,,,,,,,,,,,,campaignindia
-Ritz-Carlton,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-Haldiram,,,Savoury Snack Food,[],,,,,,,,,,,,,,,campaignindia
-Milo,,,Sports Drink,[],,,,,,,,,,,,,,,campaignindia
-General Electric (GE),,,White Goods,[],,,,,,,,,,,,,,,campaignindia
-Beat,,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-Tops,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Woori Bank,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Big Babool,,,Chewing/Bubble Gum,[],,,,,,,,,,,,,,,campaignindia
-Timberland,,,Men’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-Nespray,,,Milk Powder,[],,,,,,,,,,,,,,,campaignindia
-Sulwhasoo,,,Female Skincare Product,[],,,,,,,,,,,,,,,campaignindia
-Wangsteak,,,Restaurant Chain,[],,,,,,,,,,,,,,,campaignindia
-Koka,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-Mamee,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-Matsusei,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Lacoste,,,Luxury Fashion Retailer/Fragrance,[],,,,,,,,,,,,,,,campaignindia
-Idemitsu,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-Woodland,,,Men’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-San Miguel,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Elizabeth Arden,,,Fragrance,[],,,,,,,,,,,,,,,campaignindia
-Clarins,,,Skincare Product,[],,,,,,,,,,,,,,,campaignindia
-Black Canyon,,,Coffee Shop,[],,,,,,,,,,,,,,,campaignindia
-Sunstar,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-EMS,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-Fair and Lovely,,,Female Skincare Product,[],,,,,,,,,,,,,,,campaignindia
-Ducati,,,Motorcycle,[],,,,,,,,,,,,,,,campaignindia
-Dairy Queen,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-E-Mart,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-UBC Coffee,,,Coffee Shop,[],,,,,,,,,,,,,,,campaignindia
-Oksusu Tea,,,Ready-to-drink Tea,[],,,,,,,,,,,,,,,campaignindia
-Mizuno,,,Sporting Apparel,[],,,,,,,,,,,,,,,campaignindia
-Lucozade,,,Sports Drink,[],,,,,,,,,,,,,,,campaignindia
-Wuliangye,,,Spirits,[],,,,,,,,,,,,,,,campaignindia
-Golden Circle,,,Fruit Juice,[],,,,,,,,,,,,,,,campaignindia
-Levi’s,,,Men’s and Women’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-AXE (Detergent),,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-Hacks,,,Sweets and Candy,[],,,,,,,,,,,,,,,campaignindia
-Davidoff,,,Cigarette,[],,,,,,,,,,,,,,,campaignindia
-Krong Thip,,,Cigarette,[],,,,,,,,,,,,,,,campaignindia
-XIAO-MEI,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Merries,,,Diaper,[],,,,,,,,,,,,,,,campaignindia
-Cha Li Won,,,Ready-to-drink Tea,[],,,,,,,,,,,,,,,campaignindia
-E.SUN,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-QQ,,,Social Networking Site,[],,,,,,,,,,,,,,,campaignindia
-Bonaqua,,,Mineral Water,[],,,,,,,,,,,,,,,campaignindia
-Clairol Herbal Essences,,,Shampoo,[],,,,,,,,,,,,,,,campaignindia
-Domino’s,,,Fast-Food,[],,,,,,,,,,,,,,,campaignindia
-Toblerone,,,Chocolate,[],,,,,,,,,,,,,,,campaignindia
-Wills,,,Cigarette,[],,,,,,,,,,,,,,,campaignindia
-Bosch,,,White Goods,[],,,,,,,,,,,,,,,campaignindia
-Takaful,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-SPC,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-Jack’n Jill,,,Savoury Snack Food,[],,,,,,,,,,,,,,,campaignindia
-Onida,,,Consumer Electronics,[],,,,,,,,,,,,,,,campaignindia
-Salem,,,Cigarette,[],,,,,,,,,,,,,,,campaignindia
-Dairy Milk,,,Chocolate,[],,,,,,,,,,,,,,,campaignindia
-Timex,,,Watch,[],,,,,,,,,,,,,,,campaignindia
-Intel,,,Computer,[],,,,,,,,,,,,,,,campaignindia
-Aoyama,,,Men’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Ba Wang,,,Shampoo,[],,,,,,,,,,,,,,,campaignindia
-Dutchmilk,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Anna Sui,,,Fragrance,[],,,,,,,,,,,,,,,campaignindia
-Mizuho,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Max Factor,,,Cosmetics,[],,,,,,,,,,,,,,,campaignindia
-NPC,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-Continental,,,Tyre,[],,,,,,,,,,,,,,,campaignindia
-Fila,,,Sporting Apparel,[],,,,,,,,,,,,,,,campaignindia
-Pura,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Japan Post (JP),,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Swarovski,,,Jewellery,[],,,,,,,,,,,,,,,campaignindia
-Shen Tong,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-Axis Bank,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Khao Shong,,,Coffee,[],,,,,,,,,,,,,,,campaignindia
-Absolut,,,Spirits,[],,,,,,,,,,,,,,,campaignindia
-Big C,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Metro,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Topman/Topshop,,,Men’s and Women’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Pears,,,Personal Care,[],,,,,,,,,,,,,,,campaignindia
-Wantwant,,,Savoury Snack Food,[],,,,,,,,,,,,,,,campaignindia
-Dongsuh,,,Tea/Cereal,[],,,,,,,,,,,,,,,campaignindia
-Zhonghua,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-Lexmark,,,Printer,[],,,,,,,,,,,,,,,campaignindia
-Peel Fresh,,,Fruit Juice,[],,,,,,,,,,,,,,,campaignindia
-Arrow,,,Men’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Luk Fook,,,Jewellery,[],,,,,,,,,,,,,,,campaignindia
-Boomer,,,Chewing/Bubble Gum,[],,,,,,,,,,,,,,,campaignindia
-Ballantine’s,,,Spirits,[],,,,,,,,,,,,,,,campaignindia
-TCL,,,TV,[],,,,,,,,,,,,,,,campaignindia
-British Airways,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-Porsche,,,Automobile/Car,[],,,,,,,,,,,,,,,campaignindia
-Muang Thai Insurance,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Sapporo,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Bonia,,,Women’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-Life,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-Ice Mountain,,,Mineral Water,[],,,,,,,,,,,,,,,campaignindia
-Zanussi,,,White Goods,[],,,,,,,,,,,,,,,campaignindia
-Belle,,,Women’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-Fernleaf,,,Milk Powder,[],,,,,,,,,,,,,,,campaignindia
-Wei Lih,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-DTDC,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-17 Tea,,,Ready-to-drink Tea,[],,,,,,,,,,,,,,,campaignindia
-Grand Hyatt,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-Miwon,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-Elastine,,,Shampoo,[],,,,,,,,,,,,,,,campaignindia
-Chang Beer,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Leo,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Giordano,,,Men’s and Women’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Kent,,,Cigarette,[],,,,,,,,,,,,,,,campaignindia
-Kenwood,,,Home Audio,[],,,,,,,,,,,,,,,campaignindia
-Mango (MNG),,,Women’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Yanjing,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Dolce & Gabbana,,,Fragrance/Luxury Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Royal Host,,,Restaurant Chain,[],,,,,,,,,,,,,,,campaignindia
-Superbubble,,,Chewing/Bubble Gum,[],,,,,,,,,,,,,,,campaignindia
-Liby,,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-Maruchan,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-AXE,,,Fragrance,[],,,,,,,,,,,,,,,campaignindia
-Nestum,,,Baby Food (excluding milk powder),[],,,,,,,,,,,,,,,campaignindia
-Oriental,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-Martell,,,Spirits,[],,,,,,,,,,,,,,,campaignindia
-Elcanto,,,Shoes,[],,,,,,,,,,,,,,,campaignindia
-Pxmart,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Kinley,,,Mineral Water,[],,,,,,,,,,,,,,,campaignindia
-Cow Soap,,,Shower Gel/Soap,[],,,,,,,,,,,,,,,campaignindia
-Protex,,,Shower Gel/Soap,[],,,,,,,,,,,,,,,campaignindia
-Ryoe,,,Shampoo,[],,,,,,,,,,,,,,,campaignindia
-Taishin International Bank,,,Credit Card/Bank,[],,,,,,,,,,,,,,,campaignindia
-Lee Hwa,,,Jewellery,[],,,,,,,,,,,,,,,campaignindia
-RT Mart,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Bulla,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Renault Samsung Motors,,,Automobile/Car,[],,,,,,,,,,,,,,,campaignindia
-Parle,,,Sweets and Candy,[],,,,,,,,,,,,,,,campaignindia
-Morewater,,,Mineral Water,[],,,,,,,,,,,,,,,campaignindia
-Minere,,,Mineral Water,[],,,,,,,,,,,,,,,campaignindia
-Inter-Continental,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-Shanghaojia,,,Food,[],,,,,,,,,,,,,,,campaignindia
-Chungjungwon,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-Boots,,,Pharmacy/Drugstore,[],,,,,,,,,,,,,,,campaignindia
-Versace,,,Luxury Fashion Retailer/Fragrance,[],,,,,,,,,,,,,,,campaignindia
-Yuan Tong Express,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-Dusit,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-Camel,,,Cigarette,[],,,,,,,,,,,,,,,campaignindia
-Taywin,,,Men’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-Danggimeori,,,Shampoo,[],,,,,,,,,,,,,,,campaignindia
-TVS,,,Motorcycle,[],,,,,,,,,,,,,,,campaignindia
-Hubba Bubba,,,Chewing/Bubble Gum,[],,,,,,,,,,,,,,,campaignindia
-Super Coffee Mix,,,Coffee,[],,,,,,,,,,,,,,,campaignindia
-77,,,Chocolate,[],,,,,,,,,,,,,,,campaignindia
-I-MEI,,,Sweets and Candy,[],,,,,,,,,,,,,,,campaignindia
-Rado,,,Watch,[],,,,,,,,,,,,,,,campaignindia
-Bubble Yum,,,Chewing/Bubble Gum,[],,,,,,,,,,,,,,,campaignindia
-Knorr,,,Food,[],,,,,,,,,,,,,,,campaignindia
-Pirelli,,,Tyre,[],,,,,,,,,,,,,,,campaignindia
-King’s Creameries,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Asics,,,Sporting Apparel,[],,,,,,,,,,,,,,,campaignindia
-Hyundai Logiem,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-Indian Airlines,,,Full-service Airlines,[],,,,,,,,,,,,,,,campaignindia
-Guinness,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Sanitarium,,,Cereal,[],,,,,,,,,,,,,,,campaignindia
-Tung Lok,,,Restaurant,[],,,,,,,,,,,,,,,campaignindia
-Rin,,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-Priceline,,,Pharmacy/Drugstore,[],,,,,,,,,,,,,,,campaignindia
-Unity Pharmacy,,,Pharmacy/Drugstore,[],,,,,,,,,,,,,,,campaignindia
-Café Bene,,,Coffee Shop,[],,,,,,,,,,,,,,,campaignindia
-Norton,,,Computer Software,[],,,,,,,,,,,,,,,campaignindia
-Victor,,,Home Audio,[],,,,,,,,,,,,,,,campaignindia
-SE 555,,,Cigarette,[],,,,,,,,,,,,,,,campaignindia
-Ochaen,,,Tea,[],,,,,,,,,,,,,,,campaignindia
-Friendster,,,Social Networking Site,[],,,,,,,,,,,,,,,campaignindia
-Sizzler,,,Restaurant Chain,[],,,,,,,,,,,,,,,campaignindia
-Megumilk,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Salz,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-Diners Club,,,Credit card,[],,,,,,,,,,,,,,,campaignindia
-Wanjashan,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-ITC,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-Pasteur,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Fountain,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-RAC,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Linux,,,Computer Software,[],,,,,,,,,,,,,,,campaignindia
-Friskies,,,Pet Food,[],,,,,,,,,,,,,,,campaignindia
-Cosmo Oil,,,Petrol/Gas Station,[],,,,,,,,,,,,,,,campaignindia
-Cold Stone,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Fujiya,,,Food,[],,,,,,,,,,,,,,,campaignindia
-Trident,,,Chewing/Bubble Gum,[],,,,,,,,,,,,,,,campaignindia
-BC Card,,,Credit Card,[],,,,,,,,,,,,,,,campaignindia
-Sumitomo Life,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Benson & Hedges,,,Cigarette,[],,,,,,,,,,,,,,,campaignindia
-Smith’s,,,Snack Food,[],,,,,,,,,,,,,,,campaignindia
-Oberoi,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-Hi5,,,Social Networking Site,[],,,,,,,,,,,,,,,campaignindia
-KLIM,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Target,,,Retailer,[],,,,,,,,,,,,,,,campaignindia
-Gillette,,,Male Skincare Product,[],,,,,,,,,,,,,,,campaignindia
-Amcal,,,Pharmacy/Drugstore,[],,,,,,,,,,,,,,,campaignindia
-Konka,,,Consumer Electronics,[],,,,,,,,,,,,,,,campaignindia
-Soda,,,Women’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-IFB,,,Home & Kitchen Appliances,[],,,,,,,,,,,,,,,campaignindia
-Poh Heng,,,Jewellery,[],,,,,,,,,,,,,,,campaignindia
-Barista (Taiwan),,,Coffee/Coffee shop,[],,,,,,,,,,,,,,,campaignindia
-General,,,Air Conditioner,[],,,,,,,,,,,,,,,campaignindia
-Kimball,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-Mandarin Oriental,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-Mirinda,,,Carbonated Soft Drink,[],,,,,,,,,,,,,,,campaignindia
-Aflac,,,Insurance Provider,[],,,,,,,,,,,,,,,campaignindia
-Simpson,,,Washing Machine,[],,,,,,,,,,,,,,,campaignindia
-Winfield,,,Cigarette,[],,,,,,,,,,,,,,,campaignindia
-Pierre Cardin,,,Men’s Shoes/Men’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Taj Mahal (Tea),,,Tea,[],,,,,,,,,,,,,,,campaignindia
-Trappist,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Gold Flake,,,Cigarette,[],,,,,,,,,,,,,,,campaignindia
-Agricultural Bank of China,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-ito Yokado,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Novotel,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-China Mobile (HK),,,Mobile Service Provider,[],,,,,,,,,,,,,,,campaignindia
-KoKo Krunch (Nestlé),,,Cereal,[],,,,,,,,,,,,,,,campaignindia
-NRMA,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Fantastic,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-Hainan Airlines,,,Airlines (Budget/Full service),[],,,,,,,,,,,,,,,campaignindia
-Healthy Boy,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-Aavin,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Coffee Club,,,Coffee Shop,[],,,,,,,,,,,,,,,campaignindia
-Aoki,,,Men’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Jimmy Choo,,,Fashion,[],,,,,,,,,,,,,,,campaignindia
-Long Life,,,Cigarette,[],,,,,,,,,,,,,,,campaignindia
-Natural Confectionery Co.,,,Sweets and Candy,[],,,,,,,,,,,,,,,campaignindia
-S&P,,,Restaurant Chain,[],,,,,,,,,,,,,,,campaignindia
-Haywards,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Voltas,,,Air Conditioner,[],,,,,,,,,,,,,,,campaignindia
-Sheng Shiong,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Trigem,,,Computer,[],,,,,,,,,,,,,,,campaignindia
-Blue Moon,,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-Aldi,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Remy Martin,,,Spirits,[],,,,,,,,,,,,,,,campaignindia
-Cathay United Bank,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Arnott’s,,,Savoury Snack Food,[],,,,,,,,,,,,,,,campaignindia
-Prouds,,,Jewellery,[],,,,,,,,,,,,,,,campaignindia
-Uncle Toby,,,Cereal,[],,,,,,,,,,,,,,,campaignindia
-Capico,,,Savoury Snack Food,[],,,,,,,,,,,,,,,campaignindia
-Imperial Hotel,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-Allianz,,,Insurance Provider,[],,,,,,,,,,,,,,,campaignindia
-Scholl,,,Shoes,[],,,,,,,,,,,,,,,campaignindia
-Pro Sweat,,,Sports Drink,[],,,,,,,,,,,,,,,campaignindia
-Mitsuya Cider,,,Carbonated Soft Drink,[],,,,,,,,,,,,,,,campaignindia
-Zhenkungfu,,,Restaurant,[],,,,,,,,,,,,,,,campaignindia
-Raymonds,,,Men’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Mr Muscle,,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-BenQ,,,Consumer Electronics,[],,,,,,,,,,,,,,,campaignindia
-Denon,,,Home Audio,[],,,,,,,,,,,,,,,campaignindia
-Mister Potato,,,Savoury Snack Food,[],,,,,,,,,,,,,,,campaignindia
-Saravana Bhavan,,,Restaurant,[],,,,,,,,,,,,,,,campaignindia
-New Balance,,,Sporting Apparel,[],,,,,,,,,,,,,,,campaignindia
-Ali Café,,,Coffee,[],,,,,,,,,,,,,,,campaignindia
-Jin Air,,,Budget Airlines,[],,,,,,,,,,,,,,,campaignindia
-Aekyung,,,Shower Gel/Soap,[],,,,,,,,,,,,,,,campaignindia
-Esprit,,,Men’s and Women’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Choice,,,Coffee,[],,,,,,,,,,,,,,,campaignindia
-Chemist Warehouse,,,Pharmacy/Drugstore,[],,,,,,,,,,,,,,,campaignindia
-KTC,,,Credit Card,[],,,,,,,,,,,,,,,campaignindia
-Charles & Keith,,,Women’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-Jukyum,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-Crown,,,Food,[],,,,,,,,,,,,,,,campaignindia
-Nine West,,,Women’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-Happy Bath,,,Shower Gel/Soap,[],,,,,,,,,,,,,,,campaignindia
-Cornetto,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Sisley,,,Cosmetics/Skincare Product,[],,,,,,,,,,,,,,,campaignindia
-Sanyuan,,,Milk,[],,,,,,,,,,,,,,,campaignindia
-Grand Formosa Regent,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-Hyosung,,,Motorcycle,[],,,,,,,,,,,,,,,campaignindia
-Rivers,,,Men’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Kolon,,,Sporting Apparel,[],,,,,,,,,,,,,,,campaignindia
-Clorets,,,Chewing/Bubble Gum/Sweets and Candy,[],,,,,,,,,,,,,,,campaignindia
-Twinings,,,Tea,[],,,,,,,,,,,,,,,campaignindia
-OB,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-GUM,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-Nate,,,Social Networking Site/Internet Search Engine,[],,,,,,,,,,,,,,,campaignindia
-Sina,,,Social Networking Site,[],,,,,,,,,,,,,,,campaignindia
-Daiichi Life,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-566,,,Shampoo,[],,,,,,,,,,,,,,,campaignindia
-Aigo,,,Digital Products,[],,,,,,,,,,,,,,,campaignindia
-UHA Mikakuto,,,Sweets and Candy,[],,,,,,,,,,,,,,,campaignindia
-Ajinomoto,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-Tully’s,,,Coffee,[],,,,,,,,,,,,,,,campaignindia
-Chi Mei,,,TV,[],,,,,,,,,,,,,,,campaignindia
-Tooheys,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Daelim,,,Motorcycle,[],,,,,,,,,,,,,,,campaignindia
-Imperial,,,Personal care,[],,,,,,,,,,,,,,,campaignindia
-Hera,,,Female Skincare Product,[],,,,,,,,,,,,,,,campaignindia
-Toll,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-GS,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Himalaya,,,Mineral Water,[],,,,,,,,,,,,,,,campaignindia
-Fancl,,,Female Skincare Product,[],,,,,,,,,,,,,,,campaignindia
-Proton,,,Automobile/Car,[],,,,,,,,,,,,,,,campaignindia
-Safi,,,Personal care,[],,,,,,,,,,,,,,,campaignindia
-Wei-Wei,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-Jack Daniel,,,Spirits,[],,,,,,,,,,,,,,,campaignindia
-Terry White,,,Pharmacy/Drugstore,[],,,,,,,,,,,,,,,campaignindia
-Gerber,,,Baby Food (excluding milk powder),[],,,,,,,,,,,,,,,campaignindia
-Uniqlo,,,Men’s and Women’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Swipe,,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-Bingrae,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Mie Sedap,,,Instant Noodles,[],,,,,,,,,,,,,,,campaignindia
-Victoria Bitter (VB),,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Koikeya,,,Savoury snack food,[],,,,,,,,,,,,,,,campaignindia
-Wakodo,,,Baby Food (excluding milk powder),[],,,,,,,,,,,,,,,campaignindia
-Michael Hill,,,Jewellery,[],,,,,,,,,,,,,,,campaignindia
-Florsheim,,,Men’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-Mövenpick,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Da Da,,,Chewing/Bubble Gum,[],,,,,,,,,,,,,,,campaignindia
-Fresh Delight,,,Dairy Products,[],,,,,,,,,,,,,,,campaignindia
-Dentiste,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-Duroyal,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Center Fresh,,,Chewing/Bubble Gum,[],,,,,,,,,,,,,,,campaignindia
-M-Sport,,,Sports Drink,[],,,,,,,,,,,,,,,campaignindia
-Dabur,,,Toothpaste,[],,,,,,,,,,,,,,,campaignindia
-SPD Bank,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-City Super,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-PAL,,,Pet Food,[],,,,,,,,,,,,,,,campaignindia
-Royce’/Royce,,,Chocolate,[],,,,,,,,,,,,,,,campaignindia
-Morning Fresh,,,Detergent,[],,,,,,,,,,,,,,,campaignindia
-Soo Kee (SKJ),,,Jewellery,[],,,,,,,,,,,,,,,campaignindia
-Suncorp,,,Financial Service,[],,,,,,,,,,,,,,,campaignindia
-Ottogi,,,Sauce/Condiment,[],,,,,,,,,,,,,,,campaignindia
-Carlton,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Fuji (Restaurant chain),,,Restaurant Chain,[],,,,,,,,,,,,,,,campaignindia
-Revive isotonic,,,Sports Drink,[],,,,,,,,,,,,,,,campaignindia
-Frooti,,,Fruit Juice,[],,,,,,,,,,,,,,,campaignindia
-Heaven & Earth,,,Ready-to-drink Tea,[],,,,,,,,,,,,,,,campaignindia
-CBA,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Fair And Handsome,,,Male Skincare Product,[],,,,,,,,,,,,,,,campaignindia
-Saizeriya,,,Restaurant Chain,[],,,,,,,,,,,,,,,campaignindia
-Guangdong Development,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Ricoh,,,Digital Products,[],,,,,,,,,,,,,,,campaignindia
-Miele,,,Consumer Electronics,[],,,,,,,,,,,,,,,campaignindia
-Heart Beat,,,Sweets and Candy,[],,,,,,,,,,,,,,,campaignindia
-Mei Ri C,,,Fruit Juice,[],,,,,,,,,,,,,,,campaignindia
-Cesar,,,Pet Food,[],,,,,,,,,,,,,,,campaignindia
-Royal,,,Pet Food,[],,,,,,,,,,,,,,,campaignindia
-Asience,,,Shampoo,[],,,,,,,,,,,,,,,campaignindia
-Otafuku,,,Food,[],,,,,,,,,,,,,,,campaignindia
-Wu Yang,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Tommy Hilfiger,,,Fragrance/Men’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Café Amazon,,,Coffee Shop,[],,,,,,,,,,,,,,,campaignindia
-Kerasys,,,Shampoo,[],,,,,,,,,,,,,,,campaignindia
-Pigeon,,,Baby Product,[],,,,,,,,,,,,,,,campaignindia
-Thums Up,,,Carbonated Soft Drink,[],,,,,,,,,,,,,,,campaignindia
-Hogs Breath,,,Restaurant Chain,[],,,,,,,,,,,,,,,campaignindia
-Kinmen Kao Liang,,,Spirits,[],,,,,,,,,,,,,,,campaignindia
-Bank of Communications,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Ginvera,,,Shower Gel/Soap,[],,,,,,,,,,,,,,,campaignindia
-Shin Kong Life Insurance,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Nippon Express,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-Centara,,,Hotel,[],,,,,,,,,,,,,,,campaignindia
-IT,,,Men’s and Women’s Fashion Retailer,[],,,,,,,,,,,,,,,campaignindia
-Australia post,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-Gogo no Kocha,,,Ready-to-drink Tea,[],,,,,,,,,,,,,,,campaignindia
-Mister Donut,,,Fast-Food,[],,,,,,,,,,,,,,,campaignindia
-99 Speedmart,,,Convenience Store,[],,,,,,,,,,,,,,,campaignindia
-Fosters,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-The Professional Couriers,,,Courier Company,[],,,,,,,,,,,,,,,campaignindia
-XXXX,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Hana,,,Bank,[],,,,,,,,,,,,,,,campaignindia
-Park Avenue,,,Personal Care/Men’s Shoes,[],,,,,,,,,,,,,,,campaignindia
-Sansui,,,DVD Player,[],,,,,,,,,,,,,,,campaignindia
-Magnum,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Taster’s Choice,,,Coffee,[],,,,,,,,,,,,,,,campaignindia
-Fossil,,,Jewellery/Watch,[],,,,,,,,,,,,,,,campaignindia
-Arun,,,Ice-cream,[],,,,,,,,,,,,,,,campaignindia
-Aviva,,,Insurance,[],,,,,,,,,,,,,,,campaignindia
-Double Happiness,,,Cigarette,[],,,,,,,,,,,,,,,campaignindia
-Bacardi,,,Spirits,[],,,,,,,,,,,,,,,campaignindia
-Leconte,,,Chocolate,[],,,,,,,,,,,,,,,campaignindia
-Devondale,,,Dairy Products,[],,,,,,,,,,,,,,,campaignindia
-More,,,Supermarket,[],,,,,,,,,,,,,,,campaignindia
-Corona,,,Beer,[],,,,,,,,,,,,,,,campaignindia
-Harvey Fresh,,,Fruit Juice,[],,,,,,,,,,,,,,,campaignindia
-Gatsby,,,Male Skincare Product,[],,,,,,,,,,,,,,,campaignindia
+company_name,industry,headquarters_address,headquarters_city,headquarters_country,year_founded,ownership,company_number,employee_count,market_cap_usd,total_revenue_usd,net_profit_usd,total_assets_usd,company_website,social_media_links,representative_name,total_raised,company_description,company_stage,share_price,legal_form,_source_table
+Sony,Consumer electronics,,,,,,,,,,,,,,,,,,,,campaignindia
+Samsung,Electronics/White goods,,,,,,,,,,,,,,,,,,,,campaignindia
+Panasonic,Consumer electronics,,,,,,,,,,,,,,,,,,,,campaignindia
+LG,Electronics/White goods,,,,,,,,,,,,,,,,,,,,campaignindia
+Canon,Camera/Office equipment,,,,,,,,,,,,,,,,,,,,campaignindia
+Apple,Mobile Phone,,,,,,,,,,,,,,,,,,,,campaignindia
+Hewlett-Packard,Computer,,,,,,,,,,,,,,,,,,,,campaignindia
+Google,Internet search engine,,,,,,,,,,,,,,,,,,,,campaignindia
+Nestlé,Food and drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Nike,Sports retail,,,,,,,,,,,,,,,,,,,,campaignindia
+McDonald’s,Fast food,,,,,,,,,,,,,,,,,,,,campaignindia
+adidas,Sports retail,,,,,,,,,,,,,,,,,,,,campaignindia
+Coca-Cola,Soft drinks,,,,,,,,,,,,,,,,,,,,campaignindia
+7-Eleven,Convenience store,,,,,,,,,,,,,,,,,,,,campaignindia
+Starbucks,Coffee chain,,,,,,,,,,,,,,,,,,,,campaignindia
+Colgate,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+Facebook,Social networking,,,,,,,,,,,,,,,,,,,,campaignindia
+Yahoo,Internet search engine,,,,,,,,,,,,,,,,,,,,campaignindia
+Honda,Car/Motorcycle,,,,,,,,,,,,,,,,,,,,campaignindia
+Toshiba,Electronics/White goods,,,,,,,,,,,,,,,,,,,,campaignindia
+Microsoft,Computer Software,,,,,,,,,,,,,,,,,,,,campaignindia
+Maggi,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+Lotte,Chewing/ Bubble gum,,,,,,,,,,,,,,,,,,,,campaignindia
+KFC,Fast-Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Nikon,Camera,,,,,,,,,,,,,,,,,,,,campaignindia
+Hitachi,Consumer Electronics,,,,,,,,,,,,,,,,,,,,campaignindia
+Sharp,Consumer Electronics,,,,,,,,,,,,,,,,,,,,campaignindia
+Nokia,Mobile Phone,,,,,,,,,,,,,,,,,,,,campaignindia
+Playstation,Gaming Console,,,,,,,,,,,,,,,,,,,,campaignindia
+Chanel,Fragrance/Perfume/Luxury Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Dove,Shower Gel/Soap /Shampoo,,,,,,,,,,,,,,,,,,,,campaignindia
+Pepsi,Carbonated Soft Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Nescafé,Coffee,,,,,,,,,,,,,,,,,,,,campaignindia
+Cadbury,Chocolate,,,,,,,,,,,,,,,,,,,,campaignindia
+Mitsubishi,Consumer electronics,,,,,,,,,,,,,,,,,,,,campaignindia
+Epson,Printer,,,,,,,,,,,,,,,,,,,,campaignindia
+Uni-president,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+Yamaha,Motorcycle,,,,,,,,,,,,,,,,,,,,campaignindia
+Shell,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+DHL,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+Toyota,Car/Automobile,,,,,,,,,,,,,,,,,,,,campaignindia
+Rolex,Watch,,,,,,,,,,,,,,,,,,,,campaignindia
+Meiji,Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Darlie,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+Michelin,Tyre,,,,,,,,,,,,,,,,,,,,campaignindia
+Nintendo,Gaming Console,,,,,,,,,,,,,,,,,,,,campaignindia
+Lux,Shower Gel/Soap,,,,,,,,,,,,,,,,,,,,campaignindia
+Häagen-Dazs,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+BMW,Car/Automobile,,,,,,,,,,,,,,,,,,,,campaignindia
+Dell,Computer,,,,,,,,,,,,,,,,,,,,campaignindia
+Bridgestone,Tyre,,,,,,,,,,,,,,,,,,,,campaignindia
+VISA,Credit Card,,,,,,,,,,,,,,,,,,,,campaignindia
+L’Oréal,Cosmetics/Skincare Shampoo,,,,,,,,,,,,,,,,,,,,campaignindia
+Pantene,Shampoo,,,,,,,,,,,,,,,,,,,,campaignindia
+Shiseido,Cosmetics,,,,,,,,,,,,,,,,,,,,campaignindia
+Pampers,Diaper,,,,,,,,,,,,,,,,,,,,campaignindia
+Philips,Consumer Electronics,,,,,,,,,,,,,,,,,,,,campaignindia
+Air Asia,Budget Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Mercedes-Benz,Car/Automobile,,,,,,,,,,,,,,,,,,,,campaignindia
+Twitter,Social Networking Site,,,,,,,,,,,,,,,,,,,,campaignindia
+Watsons,Pharmacy/Drugstore,,,,,,,,,,,,,,,,,,,,campaignindia
+Nivea,Skincare,,,,,,,,,,,,,,,,,,,,campaignindia
+FamilyMart,Convenience Store,,,,,,,,,,,,,,,,,,,,campaignindia
+HSBC,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Citibank,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Christian Dior,Fragrance/Perfume/Cosmetics,,,,,,,,,,,,,,,,,,,,campaignindia
+Nissin,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+Huggies,Diaper,,,,,,,,,,,,,,,,,,,,campaignindia
+FedEx,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+Acer,Computer,,,,,,,,,,,,,,,,,,,,campaignindia
+Pocari Sweat,Sports Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Kao,Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+Ferrero Rocher,Chocolate,,,,,,,,,,,,,,,,,,,,campaignindia
+AIA,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Singapore,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Lipton,Tea,,,,,,,,,,,,,,,,,,,,campaignindia
+Marlboro,Cigarette,,,,,,,,,,,,,,,,,,,,campaignindia
+MasterKong,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+MasterCard,Credit Card,,,,,,,,,,,,,,,,,,,,campaignindia
+Gatorade,Sports Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Gucci,Luxury Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Kellogg’s,Cereal,,,,,,,,,,,,,,,,,,,,campaignindia
+Heineken,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Daikin,Air Conditioner,,,,,,,,,,,,,,,,,,,,campaignindia
+Head & Shoulders,Shampoo,,,,,,,,,,,,,,,,,,,,campaignindia
+SK-II,Female Skincare Product,,,,,,,,,,,,,,,,,,,,campaignindia
+Wrigley’s Arrow,Chewing/Bubble Gum,,,,,,,,,,,,,,,,,,,,campaignindia
+Sanyo,Consumer Electronics,,,,,,,,,,,,,,,,,,,,campaignindia
+Amul,Milk powder/Milk/Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Hyundai,Car/Automobile,,,,,,,,,,,,,,,,,,,,campaignindia
+Lancomé,Cosmetics/Fagrance/Female Skincare,,,,,,,,,,,,,,,,,,,,campaignindia
+Seiko,Watch,,,,,,,,,,,,,,,,,,,,campaignindia
+Wall’s,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Casio,Watch,,,,,,,,,,,,,,,,,,,,campaignindia
+Xbox,Gaming Console,,,,,,,,,,,,,,,,,,,,campaignindia
+Tesco,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+NTUC FairPrice,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Whirlpool,White Goods,,,,,,,,,,,,,,,,,,,,campaignindia
+Olay,Female Skincare Product,,,,,,,,,,,,,,,,,,,,campaignindia
+HTC,Mobile Phone,,,,,,,,,,,,,,,,,,,,campaignindia
+Evian,Mineral Water,,,,,,,,,,,,,,,,,,,,campaignindia
+Haier,Consumer Electronics,,,,,,,,,,,,,,,,,,,,campaignindia
+Sunsilk,Shampoo,,,,,,,,,,,,,,,,,,,,campaignindia
+Hilton,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+Cathay Pacific,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Heinz,Baby Food (excluding milk powder),,,,,,,,,,,,,,,,,,,,campaignindia
+Sony Ericsson,Mobile Phone,,,,,,,,,,,,,,,,,,,,campaignindia
+100 Plus,Sports Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Morinaga,Sweets and Candy,,,,,,,,,,,,,,,,,,,,campaignindia
+Breeze,Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+Caltex,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+Vodafone,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Esso,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+Johnson & Johnson,Personal Care,,,,,,,,,,,,,,,,,,,,campaignindia
+Calvin Klein,Fragrance/Perfume/Luxury Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Kingfisher,Beer/Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Fujitsu,Computer,,,,,,,,,,,,,,,,,,,,campaignindia
+Guardian,Pharmacy/Drugstore,,,,,,,,,,,,,,,,,,,,campaignindia
+Suzuki,Motorcycle,,,,,,,,,,,,,,,,,,,,campaignindia
+Baskin Robbins,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Lenovo,Computer,,,,,,,,,,,,,,,,,,,,campaignindia
+Omega,Watch,,,,,,,,,,,,,,,,,,,,campaignindia
+Louis Vuitton (LV),Luxury Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Wellcome,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Coles,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Armani,Men’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Lee Kum Kee,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+Johnnie Walker,Spirits,,,,,,,,,,,,,,,,,,,,campaignindia
+Reebok,Sporting Apparel,,,,,,,,,,,,,,,,,,,,campaignindia
+Lay’s,Snack Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Marigold,Fruit Juice,,,,,,,,,,,,,,,,,,,,campaignindia
+Circle K,Convenience Store,,,,,,,,,,,,,,,,,,,,campaignindia
+Harley Davidson,Motorcycle,,,,,,,,,,,,,,,,,,,,campaignindia
+Goodyear,Tyre,,,,,,,,,,,,,,,,,,,,campaignindia
+Quaker,Cereal,,,,,,,,,,,,,,,,,,,,campaignindia
+Carlsberg,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Puma,Sporting Equipment/Apparel,,,,,,,,,,,,,,,,,,,,campaignindia
+Jetstar,Budget Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Thai Airways,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Asus,Computer,,,,,,,,,,,,,,,,,,,,campaignindia
+JVC,Camcorder,,,,,,,,,,,,,,,,,,,,campaignindia
+Prudential (UK),Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Maxims,Coffee,,,,,,,,,,,,,,,,,,,,campaignindia
+Lion,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+BlackBerry,Mobile Phone,,,,,,,,,,,,,,,,,,,,campaignindia
+Olympus,Camera,,,,,,,,,,,,,,,,,,,,campaignindia
+Extra,Chewing/Bubble Gum,,,,,,,,,,,,,,,,,,,,campaignindia
+Suntory,Spirits/Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Garnier,Skincare Product,,,,,,,,,,,,,,,,,,,,campaignindia
+Rejoice,Shampoo,,,,,,,,,,,,,,,,,,,,campaignindia
+Virgin,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Doublemint,Chewing/Bubble Gum,,,,,,,,,,,,,,,,,,,,campaignindia
+Palmolive,Shower Gel/Soap,,,,,,,,,,,,,,,,,,,,campaignindia
+IBM,Computer,,,,,,,,,,,,,,,,,,,,campaignindia
+Mamy Poko,Diaper,,,,,,,,,,,,,,,,,,,,campaignindia
+Dettol,Shower Gel/Soap,,,,,,,,,,,,,,,,,,,,campaignindia
+Estée Lauder,Cosmetics,,,,,,,,,,,,,,,,,,,,campaignindia
+Clinique,Female Skincare Product/Cosmetics,,,,,,,,,,,,,,,,,,,,campaignindia
+Mengniu,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Lindt,Chocolate,,,,,,,,,,,,,,,,,,,,campaignindia
+Hershey’s,Chocolate,,,,,,,,,,,,,,,,,,,,campaignindia
+Cartier,Jewellery,,,,,,,,,,,,,,,,,,,,campaignindia
+Malaysia Airlines,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Tropicana,Fruit Juice,,,,,,,,,,,,,,,,,,,,campaignindia
+Baidu,Internet Search Engine,,,,,,,,,,,,,,,,,,,,campaignindia
+Pond’s,Female Skincare Product,,,,,,,,,,,,,,,,,,,,campaignindia
+Dutch Lady,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Bank of China,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+BATA,Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Carrefour,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Tsingtao,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Maybank,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Kirin,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Kookmin Bank (KB),Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Dunlop,Tyre,,,,,,,,,,,,,,,,,,,,campaignindia
+Red Bull,Sports Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+UPS,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+Tiger Airways,Budget Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Swensen’s,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Pedigree,Pet Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Naver,Internet Search Engine,,,,,,,,,,,,,,,,,,,,campaignindia
+Wei Chuan,Food and Beverage,,,,,,,,,,,,,,,,,,,,campaignindia
+China Mobile,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Big Bazaar,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Dove (Chocolate),Chocolate,,,,,,,,,,,,,,,,,,,,campaignindia
+Mama,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+CPC (Taiwan),Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+Bing,Internet Search Engine,,,,,,,,,,,,,,,,,,,,campaignindia
+Standard Chartered,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Siemens,Consumer Electronics,,,,,,,,,,,,,,,,,,,,campaignindia
+ANA,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Tiffany & Co.,Jewellery,,,,,,,,,,,,,,,,,,,,campaignindia
+Minute Maid,Fruit Juice,,,,,,,,,,,,,,,,,,,,campaignindia
+Burger King,Fast-Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Tiger Beer,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Singtel,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Korean Air,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+NTT,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Qantas,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Nongshim,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+Ralph Lauren,Men’s Fashion Retailer/Fragrance,,,,,,,,,,,,,,,,,,,,campaignindia
+Siam Commercial Bank,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Asiana,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Park n shop,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Seoul Milk,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+G2000,Men’s and Women’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+SK Telecom,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Dunhill,Cigarette,,,,,,,,,,,,,,,,,,,,campaignindia
+Adobe,Computer Software,,,,,,,,,,,,,,,,,,,,campaignindia
+Shinhan bank,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Lotteria,Fast-Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Kuroneko Yamato,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+DBS,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Pioneer,Consumer Electronics,,,,,,,,,,,,,,,,,,,,campaignindia
+ICICI Bank,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+State Bank of India (SBI),Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Telstra,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Citizen,Watch,,,,,,,,,,,,,,,,,,,,campaignindia
+Dumex,Milk Powder,,,,,,,,,,,,,,,,,,,,campaignindia
+Avon,Cosmetics,,,,,,,,,,,,,,,,,,,,campaignindia
+Airtel,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Sinopec,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+Asahi,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+PTT,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+Coffee Bean,Coffee Shop,,,,,,,,,,,,,,,,,,,,campaignindia
+Mos Burger,Fast-Food,,,,,,,,,,,,,,,,,,,,campaignindia
+China Airlines,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+NEC,Computer,,,,,,,,,,,,,,,,,,,,campaignindia
+Sunkist,Fruit Juice,,,,,,,,,,,,,,,,,,,,campaignindia
+KTF,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Japan Airlines (JAL),Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+China Trust,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Woolworths,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Sprite,Carbonated Soft Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Shangri-La,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+Yili,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Electrolux,White Goods,,,,,,,,,,,,,,,,,,,,campaignindia
+F&N,Carbonated Soft Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Chunghwa Telecom (CHT),Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+ICBC Asia,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Tag Heuer,Watch,,,,,,,,,,,,,,,,,,,,campaignindia
+China Merchants Bank,Credit Card/Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+The Body Shop,Shower Gel/Soap,,,,,,,,,,,,,,,,,,,,campaignindia
+Giant,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Old Town,Coffee Shop,,,,,,,,,,,,,,,,,,,,campaignindia
+Hankook,Tyre,,,,,,,,,,,,,,,,,,,,campaignindia
+Taiwan Beer,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Bulgari,Fragrance/Jewellery,,,,,,,,,,,,,,,,,,,,campaignindia
+Nissan,Car/Automobile,,,,,,,,,,,,,,,,,,,,campaignindia
+Kumkang,Men’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Emirates,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+LIC,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Kasikorn Bank,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Fisher & Paykel,White Goods,,,,,,,,,,,,,,,,,,,,campaignindia
+Sensodyne,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+Yokohama,Tyre,,,,,,,,,,,,,,,,,,,,campaignindia
+Brother,Printer,,,,,,,,,,,,,,,,,,,,campaignindia
+British Petroleum (BP),Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+Hyatt,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+Supau,Sports Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+CPC (China),Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+Moccona,Coffee,,,,,,,,,,,,,,,,,,,,campaignindia
+Powerade,Sports Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Cafe Coffee Day,Coffee,,,,,,,,,,,,,,,,,,,,campaignindia
+Advance Info Service,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+MSN,Social Networking site,,,,,,,,,,,,,,,,,,,,campaignindia
+OMO,Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+Singha,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Subway,Fast-Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Titan,Watch,,,,,,,,,,,,,,,,,,,,campaignindia
+Chow Tai Fook,Jewellery,,,,,,,,,,,,,,,,,,,,campaignindia
+Lawson,Convenience Store,,,,,,,,,,,,,,,,,,,,campaignindia
+SK,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+DTAC,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Ethnicans,Savoury Snack Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Godiva,Chocolate,,,,,,,,,,,,,,,,,,,,campaignindia
+Pacific Coffee,Coffee Shop,,,,,,,,,,,,,,,,,,,,campaignindia
+Audi,Car/Automobile,,,,,,,,,,,,,,,,,,,,campaignindia
+Amway,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+Café De Coral,Fast-Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Surf,Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+GS 25,Convenience Store,,,,,,,,,,,,,,,,,,,,campaignindia
+Mild Seven,Cigarette,,,,,,,,,,,,,,,,,,,,campaignindia
+Maxis,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Kawasaki,Motorcycle,,,,,,,,,,,,,,,,,,,,campaignindia
+Bru,Coffee,,,,,,,,,,,,,,,,,,,,campaignindia
+Fab,Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+Lakme,Cosmetics,,,,,,,,,,,,,,,,,,,,campaignindia
+Optus,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+HDFC Bank,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Pringles,Snack Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Westinghouse,White Goods,,,,,,,,,,,,,,,,,,,,campaignindia
+Haitai,Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Oishi,Tea,,,,,,,,,,,,,,,,,,,,campaignindia
+Bangkok Bank,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Nok Air,Budget Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Attack,Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+Samyang,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+Clarks,Men’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Vita,Beverage,,,,,,,,,,,,,,,,,,,,campaignindia
+Pokka,Beverage,,,,,,,,,,,,,,,,,,,,campaignindia
+Cheers,Convenience Store,,,,,,,,,,,,,,,,,,,,campaignindia
+Petronas,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+Apollo,Pharmacy/Drugstore,,,,,,,,,,,,,,,,,,,,campaignindia
+Mentos,Sweets and Candy,,,,,,,,,,,,,,,,,,,,campaignindia
+Jusco,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Namyang,Milk Powder/Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Kopitiam,Coffee Shop,,,,,,,,,,,,,,,,,,,,campaignindia
+Daum,Internet Search Engine,,,,,,,,,,,,,,,,,,,,campaignindia
+Ping An Insurance,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Kuang-Chuan,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Tatung,Consumer Electronics,,,,,,,,,,,,,,,,,,,,campaignindia
+Midea,White Goods,,,,,,,,,,,,,,,,,,,,campaignindia
+Magnolia,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Swatch,Watch,,,,,,,,,,,,,,,,,,,,campaignindia
+Maeil,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Revlon,Cosmetics,,,,,,,,,,,,,,,,,,,,campaignindia
+Nongfu Shan Quan,Mineral Water,,,,,,,,,,,,,,,,,,,,campaignindia
+Great Eastern,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Hang Seng Bank,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Wai Wai,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+Maybelline,Cosmetics,,,,,,,,,,,,,,,,,,,,campaignindia
+StarHub,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Kodak,Camera,,,,,,,,,,,,,,,,,,,,campaignindia
+Outback,Restaurant Chain,,,,,,,,,,,,,,,,,,,,campaignindia
+Madras Rubber Factory,Tyre,,,,,,,,,,,,,,,,,,,,campaignindia
+Glico,Snack Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Mr. Brown,Coffee,,,,,,,,,,,,,,,,,,,,campaignindia
+Dairy Farm,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Fuji,Camera,,,,,,,,,,,,,,,,,,,,campaignindia
+Vidal Sassoon,Shampoo,,,,,,,,,,,,,,,,,,,,campaignindia
+Hugo Boss,Fragrance,,,,,,,,,,,,,,,,,,,,campaignindia
+Chivas,Spirits,,,,,,,,,,,,,,,,,,,,campaignindia
+Bisleri,Mineral Water,,,,,,,,,,,,,,,,,,,,campaignindia
+AXA,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Taj,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+United Overseas Bank,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Hite,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Ariel,Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+Dynamo,Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+Biotherm,Skincare Product,,,,,,,,,,,,,,,,,,,,campaignindia
+Malee,Fruit Juice,,,,,,,,,,,,,,,,,,,,campaignindia
+China Unicom,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Burberry,Luxury Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Cosmed,Pharmacy/Drugstore,,,,,,,,,,,,,,,,,,,,campaignindia
+M&M’s,Chocolate,,,,,,,,,,,,,,,,,,,,campaignindia
+Manning’s,Pharmacy/Drugstore,,,,,,,,,,,,,,,,,,,,campaignindia
+Prada,Luxury Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Sheraton,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+CIMB Bank,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+China Southern Airlines,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+UCC,Coffee,,,,,,,,,,,,,,,,,,,,campaignindia
+Airwaves,Chewing/Bubble Gum,,,,,,,,,,,,,,,,,,,,campaignindia
+Kumho,Tyre,,,,,,,,,,,,,,,,,,,,campaignindia
+Sponsor,Sports Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+GS Caltex,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+Eva Air,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Kissan,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+Bose,Home Audio,,,,,,,,,,,,,,,,,,,,campaignindia
+Kelvinator,White Goods,,,,,,,,,,,,,,,,,,,,campaignindia
+OCBC,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Ford,Car/Automobile,,,,,,,,,,,,,,,,,,,,campaignindia
+Teco,White Goods,,,,,,,,,,,,,,,,,,,,campaignindia
+Air China,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Fubon,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Softbank,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Hey Song,Carbonated Soft Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Del Monte,Fruit Juice,,,,,,,,,,,,,,,,,,,,campaignindia
+Maxwell House,Coffee,,,,,,,,,,,,,,,,,,,,campaignindia
+Kia,Car/Automobile,,,,,,,,,,,,,,,,,,,,campaignindia
+Cheil Jedang (CJ),Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+Barista Lavazza (India),Coffee Shop,,,,,,,,,,,,,,,,,,,,campaignindia
+Sagawa,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+Tao Ti,Tea,,,,,,,,,,,,,,,,,,,,campaignindia
+Shokubutsu,Shower Gel/Soap,,,,,,,,,,,,,,,,,,,,campaignindia
+Pepsodent,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+Cold Storage,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Mr. Juicy,Fruit Juice,,,,,,,,,,,,,,,,,,,,campaignindia
+Aquarius,Sports Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Nippon Oil Corporation,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+American Express,Credit Card,,,,,,,,,,,,,,,,,,,,campaignindia
+Orion,Snack Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Tipco,Fruit Juice,,,,,,,,,,,,,,,,,,,,campaignindia
+Reliance (RIL),Pharmacy/Drugstore,,,,,,,,,,,,,,,,,,,,campaignindia
+3,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Bioré,Skincare Product,,,,,,,,,,,,,,,,,,,,campaignindia
+Orkut,Social Networking Site,,,,,,,,,,,,,,,,,,,,campaignindia
+Aekyung 2080,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+Anlene,Milk Powder,,,,,,,,,,,,,,,,,,,,campaignindia
+Aeon,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Bally,Men’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Gloria Jeans,Coffee Shop,,,,,,,,,,,,,,,,,,,,campaignindia
+Gree,White Goods,,,,,,,,,,,,,,,,,,,,campaignindia
+Kwality,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Celcom,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Mother Dairy,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+China Eastern Airlines,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+China Construction Bank,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Cass,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+SF Express,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+Kanebo,Cosmetics,,,,,,,,,,,,,,,,,,,,campaignindia
+Chow Sang Sang,Jewellery,,,,,,,,,,,,,,,,,,,,campaignindia
+Foremost,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Spritzer,Mineral Water,,,,,,,,,,,,,,,,,,,,campaignindia
+Ferrari,Car/Automobile,,,,,,,,,,,,,,,,,,,,campaignindia
+Doutor,Coffee Shop,,,,,,,,,,,,,,,,,,,,campaignindia
+Formosa Petrochemical,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+Hush Puppies,Men’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Boss,Fragrance/Men’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+VIPS,Restaurant Chain,,,,,,,,,,,,,,,,,,,,campaignindia
+Bajaj,Motorcycle,,,,,,,,,,,,,,,,,,,,campaignindia
+Nestea,Tea,,,,,,,,,,,,,,,,,,,,campaignindia
+Schweppes,Mineral Water/Carbonated Soft Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+M1,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Carrier,Air Conditioner,,,,,,,,,,,,,,,,,,,,campaignindia
+Halls,Sweets and Candy,,,,,,,,,,,,,,,,,,,,campaignindia
+Boh,Tea,,,,,,,,,,,,,,,,,,,,campaignindia
+MUFG,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+MK suki,Restaurant Chain,,,,,,,,,,,,,,,,,,,,campaignindia
+Sugus,Sweets and Candy,,,,,,,,,,,,,,,,,,,,campaignindia
+Ghana,Chocolate,,,,,,,,,,,,,,,,,,,,campaignindia
+AU,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Macleans,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+Crest,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+Close up,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+Whiskas,Pet Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Mead Johnson,Milk Powder,,,,,,,,,,,,,,,,,,,,campaignindia
+Maruti,Car/Automobile,,,,,,,,,,,,,,,,,,,,campaignindia
+POSB,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+ANZ,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Abbott,Milk Powder,,,,,,,,,,,,,,,,,,,,campaignindia
+Van Houten,Chocolate,,,,,,,,,,,,,,,,,,,,campaignindia
+T-cat,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+Motorola,Mobile Phone,,,,,,,,,,,,,,,,,,,,campaignindia
+Indian Oil Corporation,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+Crocodile,Men’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Pizza Hut,Restaurant Chain,,,,,,,,,,,,,,,,,,,,campaignindia
+Real,Fruit Juice,,,,,,,,,,,,,,,,,,,,campaignindia
+Xiaonei/Renren,Social Networking Site,,,,,,,,,,,,,,,,,,,,campaignindia
+Dentyne,Chewing/Bubble Gum,,,,,,,,,,,,,,,,,,,,campaignindia
+Four Seasons,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+Peters,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+TNT,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+Budweiser,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Berri,Fruit Juice,,,,,,,,,,,,,,,,,,,,campaignindia
+Ben & Jerry’s,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Commonwealth,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Tata,Automobile,,,,,,,,,,,,,,,,,,,,campaignindia
+Doll,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+Mobil,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+Taiwan Mobile,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Amore Pacific,Cosmetics,,,,,,,,,,,,,,,,,,,,campaignindia
+Jet Airways,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+SYM,Motorcycle,,,,,,,,,,,,,,,,,,,,campaignindia
+Kikkoman,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+Kowloon Dairy,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Walmart,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Zipel,White Goods,,,,,,,,,,,,,,,,,,,,campaignindia
+Oral B,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+Compaq,Computer,,,,,,,,,,,,,,,,,,,,campaignindia
+Dreyer’s,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Firefly,Budget Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Kymco,Motorcycle,,,,,,,,,,,,,,,,,,,,campaignindia
+Guess,Watch,,,,,,,,,,,,,,,,,,,,campaignindia
+Golden Mountain,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+IGA,Convenience Store/Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Cathay Life,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+MAC,Cosmetics,,,,,,,,,,,,,,,,,,,,campaignindia
+Perrier,Mineral Water,,,,,,,,,,,,,,,,,,,,campaignindia
+Korea Express,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+Calbee,Snack Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Cyworld,Social Networking Site,,,,,,,,,,,,,,,,,,,,campaignindia
+Wyeth,Milk Powder,,,,,,,,,,,,,,,,,,,,campaignindia
+Clinic,Shampoo,,,,,,,,,,,,,,,,,,,,campaignindia
+Hanjin,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+Jeju Air,Budget Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Air India,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Korea Post,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+HL,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Hui Yuan,Fruit Juice,,,,,,,,,,,,,,,,,,,,campaignindia
+Digi,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Shinramyun,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+85°C,Coffee Shop,,,,,,,,,,,,,,,,,,,,campaignindia
+Lin Fong Ying (LFY),Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Salvatore Ferragamo,Women’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Donna Karan (DKNY),Fragrance/Watch,,,,,,,,,,,,,,,,,,,,campaignindia
+Godrej,Consumer Electronics,,,,,,,,,,,,,,,,,,,,campaignindia
+Zara,Men’s and Women’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Pauls,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Hero Honda,Motorcycle,,,,,,,,,,,,,,,,,,,,campaignindia
+Myojo,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+Westpac,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Vaseline,Female Skincare Product,,,,,,,,,,,,,,,,,,,,campaignindia
+Nissay,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Top Ramen,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+Hungry Jack’s,Fast-Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Neutrogena,Female Skincare Product,,,,,,,,,,,,,,,,,,,,campaignindia
+Fairwood,Fast-Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Chupa Chups,Sweets and Candy,,,,,,,,,,,,,,,,,,,,campaignindia
+Peninsula,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+Matsumoto Kiyoshi,Pharmacy/Drugstore,,,,,,,,,,,,,,,,,,,,campaignindia
+Li Ning,Sporting Apparel,,,,,,,,,,,,,,,,,,,,campaignindia
+Twisties,Savoury Snack Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Bear Brand,Milk/Milk Powder,,,,,,,,,,,,,,,,,,,,campaignindia
+My space,Social Networking Site,,,,,,,,,,,,,,,,,,,,campaignindia
+Snow Brand,Milk Powder/Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Kagome,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+Tissot,Watch,,,,,,,,,,,,,,,,,,,,campaignindia
+JCB,Credit Card,,,,,,,,,,,,,,,,,,,,campaignindia
+Kimlan,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+Iriver,Personal portable music player,,,,,,,,,,,,,,,,,,,,campaignindia
+Bull-Dog,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+Longines,Watch,,,,,,,,,,,,,,,,,,,,campaignindia
+Amoy,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+Krung Thai,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Fanta,Carbonated Soft Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Mixi,Social Networking Site,,,,,,,,,,,,,,,,,,,,campaignindia
+Zhonghua (Cigarette),Cigarette,,,,,,,,,,,,,,,,,,,,campaignindia
+Meiji (Milk Powder),Milk Powder,,,,,,,,,,,,,,,,,,,,campaignindia
+Volvic,Mineral Water,,,,,,,,,,,,,,,,,,,,campaignindia
+China Life,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+ING,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+TRUE,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Videocon,Consumer Electronics,,,,,,,,,,,,,,,,,,,,campaignindia
+Gusto,Restaurant Chain,,,,,,,,,,,,,,,,,,,,campaignindia
+Xu Fu Ji,Sweets and Candy,,,,,,,,,,,,,,,,,,,,campaignindia
+Tide,Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+Manulife,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+CSL,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+IndoMie,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+Safeguard,Shower Gel/Soap,,,,,,,,,,,,,,,,,,,,campaignindia
+Holden,Car/Automobile,,,,,,,,,,,,,,,,,,,,campaignindia
+Aquafina,Mineral Water,,,,,,,,,,,,,,,,,,,,campaignindia
+Panadol,Over-the-counter Pharmaceuticals,,,,,,,,,,,,,,,,,,,,campaignindia
+Chilsung Cider,Mineral Water,,,,,,,,,,,,,,,,,,,,campaignindia
+Shilla,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+Regal,Men’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Mazda,Car/Automobile,,,,,,,,,,,,,,,,,,,,campaignindia
+Allen’s,Sweets and Candy,,,,,,,,,,,,,,,,,,,,campaignindia
+FETnet,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+S26,Milk Powder,,,,,,,,,,,,,,,,,,,,campaignindia
+Fruit Tree,Fruit Juice,,,,,,,,,,,,,,,,,,,,campaignindia
+Paos,Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+York,Air Conditioner,,,,,,,,,,,,,,,,,,,,campaignindia
+China Pacific Insurance,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Hermès,Luxury Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Hai Tian,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+DHC,Female Skincare Product,,,,,,,,,,,,,,,,,,,,campaignindia
+Crystal Jade,Restaurant Chain,,,,,,,,,,,,,,,,,,,,campaignindia
+Volkswagen,Car/Automobile,,,,,,,,,,,,,,,,,,,,campaignindia
+Blue Dart,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+Nan Shan,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Drypers,Diaper,,,,,,,,,,,,,,,,,,,,campaignindia
+ASO,Men’s/Women’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+White Rabbit,Sweets and Candy,,,,,,,,,,,,,,,,,,,,campaignindia
+Sumitomo Misui (SMBC),Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Marriott,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+SpiceJet Airlines,Budget Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Pentax,Camera,,,,,,,,,,,,,,,,,,,,campaignindia
+Lexus,Car/Automobile,,,,,,,,,,,,,,,,,,,,campaignindia
+Pon Pon,Shower Gel/Soap,,,,,,,,,,,,,,,,,,,,campaignindia
+Public Bank,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+ICICI Prudential,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Yves Saint Laurent (YSL),Fragrance/Luxury Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Masterfood,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+PosLaju,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+Habib Jewels,Jewellery,,,,,,,,,,,,,,,,,,,,campaignindia
+PCCW,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Yum Yum,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+7-Up,Carbonated Soft Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Spencer,Convenience Store/Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+China-SSS,Budget Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Poh Kong,Jewellery,,,,,,,,,,,,,,,,,,,,campaignindia
+Dragonair,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Little Swan,White Goods,,,,,,,,,,,,,,,,,,,,campaignindia
+Dairy Farmers,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Maidong,Sports Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Thai Post,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+Cerelac,Baby Food (excluding milk powder),,,,,,,,,,,,,,,,,,,,campaignindia
+Top,Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+H-TWO-O,Sports Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Patek Philippe,Watch,,,,,,,,,,,,,,,,,,,,campaignindia
+Rolls Royce,Car/Automobile,,,,,,,,,,,,,,,,,,,,campaignindia
+NAB,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Thai Life Insurance,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Clear,Shampoo,,,,,,,,,,,,,,,,,,,,campaignindia
+Chiclet,Chewing/Bubble Gum,,,,,,,,,,,,,,,,,,,,campaignindia
+Kaixin001,Social Networking Site,,,,,,,,,,,,,,,,,,,,campaignindia
+Perioe,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+Enfa,Milk Powder,,,,,,,,,,,,,,,,,,,,campaignindia
+Alfred Dunhill,Fragrance,,,,,,,,,,,,,,,,,,,,campaignindia
+TGI Friday’s,Restaurant Chain,,,,,,,,,,,,,,,,,,,,campaignindia
+Wahaha,Mineral Water,,,,,,,,,,,,,,,,,,,,campaignindia
+Ceat,Tyre,,,,,,,,,,,,,,,,,,,,campaignindia
+Tanishq,Jewellery,,,,,,,,,,,,,,,,,,,,campaignindia
+Hennessy,Spirits,,,,,,,,,,,,,,,,,,,,campaignindia
+Homeplus,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Bright Dairy,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+China Telecom,Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Angelinus,Coffee Shop,,,,,,,,,,,,,,,,,,,,campaignindia
+Creative,Personal portable music player,,,,,,,,,,,,,,,,,,,,campaignindia
+Holiday Inn,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+AAMI,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Post,Cereal,,,,,,,,,,,,,,,,,,,,campaignindia
+La New,Men’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Lifebuoy,Shower Gel/Soap,,,,,,,,,,,,,,,,,,,,campaignindia
+Yeo Hiap Seng (YEO),Tea,,,,,,,,,,,,,,,,,,,,campaignindia
+Bangchak,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+Esquire,Men’s/Women’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Moutai,Spirits,,,,,,,,,,,,,,,,,,,,campaignindia
+IndiGo,Budget Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Bank of Ayudhya,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Volvo,Automobile/Car,,,,,,,,,,,,,,,,,,,,campaignindia
+Kit Kat,Chocolate,,,,,,,,,,,,,,,,,,,,campaignindia
+Bank of Taiwan,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+S-oil,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+BPCL,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+Cintan,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+Streets,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Aura,Mineral Water,,,,,,,,,,,,,,,,,,,,campaignindia
+Ito-en,Ready-to-drink Tea,,,,,,,,,,,,,,,,,,,,campaignindia
+Blue Girl,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Kose,Cosmetics,,,,,,,,,,,,,,,,,,,,campaignindia
+Y.E.S Mineral Water,Mineral Water,,,,,,,,,,,,,,,,,,,,campaignindia
+Ritz-Carlton,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+Haldiram,Savoury Snack Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Milo,Sports Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+General Electric (GE),White Goods,,,,,,,,,,,,,,,,,,,,campaignindia
+Beat,Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+Tops,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Woori Bank,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Big Babool,Chewing/Bubble Gum,,,,,,,,,,,,,,,,,,,,campaignindia
+Timberland,Men’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Nespray,Milk Powder,,,,,,,,,,,,,,,,,,,,campaignindia
+Sulwhasoo,Female Skincare Product,,,,,,,,,,,,,,,,,,,,campaignindia
+Wangsteak,Restaurant Chain,,,,,,,,,,,,,,,,,,,,campaignindia
+Koka,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+Mamee,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+Matsusei,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Lacoste,Luxury Fashion Retailer/Fragrance,,,,,,,,,,,,,,,,,,,,campaignindia
+Idemitsu,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+Woodland,Men’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+San Miguel,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Elizabeth Arden,Fragrance,,,,,,,,,,,,,,,,,,,,campaignindia
+Clarins,Skincare Product,,,,,,,,,,,,,,,,,,,,campaignindia
+Black Canyon,Coffee Shop,,,,,,,,,,,,,,,,,,,,campaignindia
+Sunstar,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+EMS,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+Fair and Lovely,Female Skincare Product,,,,,,,,,,,,,,,,,,,,campaignindia
+Ducati,Motorcycle,,,,,,,,,,,,,,,,,,,,campaignindia
+Dairy Queen,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+E-Mart,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+UBC Coffee,Coffee Shop,,,,,,,,,,,,,,,,,,,,campaignindia
+Oksusu Tea,Ready-to-drink Tea,,,,,,,,,,,,,,,,,,,,campaignindia
+Mizuno,Sporting Apparel,,,,,,,,,,,,,,,,,,,,campaignindia
+Lucozade,Sports Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Wuliangye,Spirits,,,,,,,,,,,,,,,,,,,,campaignindia
+Golden Circle,Fruit Juice,,,,,,,,,,,,,,,,,,,,campaignindia
+Levi’s,Men’s and Women’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+AXE (Detergent),Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+Hacks,Sweets and Candy,,,,,,,,,,,,,,,,,,,,campaignindia
+Davidoff,Cigarette,,,,,,,,,,,,,,,,,,,,campaignindia
+Krong Thip,Cigarette,,,,,,,,,,,,,,,,,,,,campaignindia
+XIAO-MEI,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Merries,Diaper,,,,,,,,,,,,,,,,,,,,campaignindia
+Cha Li Won,Ready-to-drink Tea,,,,,,,,,,,,,,,,,,,,campaignindia
+E.SUN,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+QQ,Social Networking Site,,,,,,,,,,,,,,,,,,,,campaignindia
+Bonaqua,Mineral Water,,,,,,,,,,,,,,,,,,,,campaignindia
+Clairol Herbal Essences,Shampoo,,,,,,,,,,,,,,,,,,,,campaignindia
+Domino’s,Fast-Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Toblerone,Chocolate,,,,,,,,,,,,,,,,,,,,campaignindia
+Wills,Cigarette,,,,,,,,,,,,,,,,,,,,campaignindia
+Bosch,White Goods,,,,,,,,,,,,,,,,,,,,campaignindia
+Takaful,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+SPC,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+Jack’n Jill,Savoury Snack Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Onida,Consumer Electronics,,,,,,,,,,,,,,,,,,,,campaignindia
+Salem,Cigarette,,,,,,,,,,,,,,,,,,,,campaignindia
+Dairy Milk,Chocolate,,,,,,,,,,,,,,,,,,,,campaignindia
+Timex,Watch,,,,,,,,,,,,,,,,,,,,campaignindia
+Intel,Computer,,,,,,,,,,,,,,,,,,,,campaignindia
+Aoyama,Men’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Ba Wang,Shampoo,,,,,,,,,,,,,,,,,,,,campaignindia
+Dutchmilk,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Anna Sui,Fragrance,,,,,,,,,,,,,,,,,,,,campaignindia
+Mizuho,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Max Factor,Cosmetics,,,,,,,,,,,,,,,,,,,,campaignindia
+NPC,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+Continental,Tyre,,,,,,,,,,,,,,,,,,,,campaignindia
+Fila,Sporting Apparel,,,,,,,,,,,,,,,,,,,,campaignindia
+Pura,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Japan Post (JP),Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Swarovski,Jewellery,,,,,,,,,,,,,,,,,,,,campaignindia
+Shen Tong,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+Axis Bank,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Khao Shong,Coffee,,,,,,,,,,,,,,,,,,,,campaignindia
+Absolut,Spirits,,,,,,,,,,,,,,,,,,,,campaignindia
+Big C,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Metro,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Topman/Topshop,Men’s and Women’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Pears,Personal Care,,,,,,,,,,,,,,,,,,,,campaignindia
+Wantwant,Savoury Snack Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Dongsuh,Tea/Cereal,,,,,,,,,,,,,,,,,,,,campaignindia
+Zhonghua,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+Lexmark,Printer,,,,,,,,,,,,,,,,,,,,campaignindia
+Peel Fresh,Fruit Juice,,,,,,,,,,,,,,,,,,,,campaignindia
+Arrow,Men’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Luk Fook,Jewellery,,,,,,,,,,,,,,,,,,,,campaignindia
+Boomer,Chewing/Bubble Gum,,,,,,,,,,,,,,,,,,,,campaignindia
+Ballantine’s,Spirits,,,,,,,,,,,,,,,,,,,,campaignindia
+TCL,TV,,,,,,,,,,,,,,,,,,,,campaignindia
+British Airways,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Porsche,Automobile/Car,,,,,,,,,,,,,,,,,,,,campaignindia
+Muang Thai Insurance,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Sapporo,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Bonia,Women’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Life,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+Ice Mountain,Mineral Water,,,,,,,,,,,,,,,,,,,,campaignindia
+Zanussi,White Goods,,,,,,,,,,,,,,,,,,,,campaignindia
+Belle,Women’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Fernleaf,Milk Powder,,,,,,,,,,,,,,,,,,,,campaignindia
+Wei Lih,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+DTDC,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+17 Tea,Ready-to-drink Tea,,,,,,,,,,,,,,,,,,,,campaignindia
+Grand Hyatt,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+Miwon,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+Elastine,Shampoo,,,,,,,,,,,,,,,,,,,,campaignindia
+Chang Beer,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Leo,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Giordano,Men’s and Women’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Kent,Cigarette,,,,,,,,,,,,,,,,,,,,campaignindia
+Kenwood,Home Audio,,,,,,,,,,,,,,,,,,,,campaignindia
+Mango (MNG),Women’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Yanjing,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Dolce & Gabbana,Fragrance/Luxury Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Royal Host,Restaurant Chain,,,,,,,,,,,,,,,,,,,,campaignindia
+Superbubble,Chewing/Bubble Gum,,,,,,,,,,,,,,,,,,,,campaignindia
+Liby,Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+Maruchan,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+AXE,Fragrance,,,,,,,,,,,,,,,,,,,,campaignindia
+Nestum,Baby Food (excluding milk powder),,,,,,,,,,,,,,,,,,,,campaignindia
+Oriental,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+Martell,Spirits,,,,,,,,,,,,,,,,,,,,campaignindia
+Elcanto,Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Pxmart,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Kinley,Mineral Water,,,,,,,,,,,,,,,,,,,,campaignindia
+Cow Soap,Shower Gel/Soap,,,,,,,,,,,,,,,,,,,,campaignindia
+Protex,Shower Gel/Soap,,,,,,,,,,,,,,,,,,,,campaignindia
+Ryoe,Shampoo,,,,,,,,,,,,,,,,,,,,campaignindia
+Taishin International Bank,Credit Card/Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Lee Hwa,Jewellery,,,,,,,,,,,,,,,,,,,,campaignindia
+RT Mart,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Bulla,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Renault Samsung Motors,Automobile/Car,,,,,,,,,,,,,,,,,,,,campaignindia
+Parle,Sweets and Candy,,,,,,,,,,,,,,,,,,,,campaignindia
+Morewater,Mineral Water,,,,,,,,,,,,,,,,,,,,campaignindia
+Minere,Mineral Water,,,,,,,,,,,,,,,,,,,,campaignindia
+Inter-Continental,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+Shanghaojia,Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Chungjungwon,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+Boots,Pharmacy/Drugstore,,,,,,,,,,,,,,,,,,,,campaignindia
+Versace,Luxury Fashion Retailer/Fragrance,,,,,,,,,,,,,,,,,,,,campaignindia
+Yuan Tong Express,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+Dusit,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+Camel,Cigarette,,,,,,,,,,,,,,,,,,,,campaignindia
+Taywin,Men’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Danggimeori,Shampoo,,,,,,,,,,,,,,,,,,,,campaignindia
+TVS,Motorcycle,,,,,,,,,,,,,,,,,,,,campaignindia
+Hubba Bubba,Chewing/Bubble Gum,,,,,,,,,,,,,,,,,,,,campaignindia
+Super Coffee Mix,Coffee,,,,,,,,,,,,,,,,,,,,campaignindia
+77,Chocolate,,,,,,,,,,,,,,,,,,,,campaignindia
+I-MEI,Sweets and Candy,,,,,,,,,,,,,,,,,,,,campaignindia
+Rado,Watch,,,,,,,,,,,,,,,,,,,,campaignindia
+Bubble Yum,Chewing/Bubble Gum,,,,,,,,,,,,,,,,,,,,campaignindia
+Knorr,Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Pirelli,Tyre,,,,,,,,,,,,,,,,,,,,campaignindia
+King’s Creameries,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Asics,Sporting Apparel,,,,,,,,,,,,,,,,,,,,campaignindia
+Hyundai Logiem,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+Indian Airlines,Full-service Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Guinness,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Sanitarium,Cereal,,,,,,,,,,,,,,,,,,,,campaignindia
+Tung Lok,Restaurant,,,,,,,,,,,,,,,,,,,,campaignindia
+Rin,Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+Priceline,Pharmacy/Drugstore,,,,,,,,,,,,,,,,,,,,campaignindia
+Unity Pharmacy,Pharmacy/Drugstore,,,,,,,,,,,,,,,,,,,,campaignindia
+Café Bene,Coffee Shop,,,,,,,,,,,,,,,,,,,,campaignindia
+Norton,Computer Software,,,,,,,,,,,,,,,,,,,,campaignindia
+Victor,Home Audio,,,,,,,,,,,,,,,,,,,,campaignindia
+SE 555,Cigarette,,,,,,,,,,,,,,,,,,,,campaignindia
+Ochaen,Tea,,,,,,,,,,,,,,,,,,,,campaignindia
+Friendster,Social Networking Site,,,,,,,,,,,,,,,,,,,,campaignindia
+Sizzler,Restaurant Chain,,,,,,,,,,,,,,,,,,,,campaignindia
+Megumilk,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Salz,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+Diners Club,Credit card,,,,,,,,,,,,,,,,,,,,campaignindia
+Wanjashan,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+ITC,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+Pasteur,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Fountain,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+RAC,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Linux,Computer Software,,,,,,,,,,,,,,,,,,,,campaignindia
+Friskies,Pet Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Cosmo Oil,Petrol/Gas Station,,,,,,,,,,,,,,,,,,,,campaignindia
+Cold Stone,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Fujiya,Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Trident,Chewing/Bubble Gum,,,,,,,,,,,,,,,,,,,,campaignindia
+BC Card,Credit Card,,,,,,,,,,,,,,,,,,,,campaignindia
+Sumitomo Life,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Benson & Hedges,Cigarette,,,,,,,,,,,,,,,,,,,,campaignindia
+Smith’s,Snack Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Oberoi,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+Hi5,Social Networking Site,,,,,,,,,,,,,,,,,,,,campaignindia
+KLIM,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Target,Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Gillette,Male Skincare Product,,,,,,,,,,,,,,,,,,,,campaignindia
+Amcal,Pharmacy/Drugstore,,,,,,,,,,,,,,,,,,,,campaignindia
+Konka,Consumer Electronics,,,,,,,,,,,,,,,,,,,,campaignindia
+Soda,Women’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+IFB,Home & Kitchen Appliances,,,,,,,,,,,,,,,,,,,,campaignindia
+Poh Heng,Jewellery,,,,,,,,,,,,,,,,,,,,campaignindia
+Barista (Taiwan),Coffee/Coffee shop,,,,,,,,,,,,,,,,,,,,campaignindia
+General,Air Conditioner,,,,,,,,,,,,,,,,,,,,campaignindia
+Kimball,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+Mandarin Oriental,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+Mirinda,Carbonated Soft Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Aflac,Insurance Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Simpson,Washing Machine,,,,,,,,,,,,,,,,,,,,campaignindia
+Winfield,Cigarette,,,,,,,,,,,,,,,,,,,,campaignindia
+Pierre Cardin,Men’s Shoes/Men’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Taj Mahal (Tea),Tea,,,,,,,,,,,,,,,,,,,,campaignindia
+Trappist,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Gold Flake,Cigarette,,,,,,,,,,,,,,,,,,,,campaignindia
+Agricultural Bank of China,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+ito Yokado,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Novotel,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+China Mobile (HK),Mobile Service Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+KoKo Krunch (Nestlé),Cereal,,,,,,,,,,,,,,,,,,,,campaignindia
+NRMA,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Fantastic,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+Hainan Airlines,Airlines (Budget/Full service),,,,,,,,,,,,,,,,,,,,campaignindia
+Healthy Boy,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+Aavin,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Coffee Club,Coffee Shop,,,,,,,,,,,,,,,,,,,,campaignindia
+Aoki,Men’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Jimmy Choo,Fashion,,,,,,,,,,,,,,,,,,,,campaignindia
+Long Life,Cigarette,,,,,,,,,,,,,,,,,,,,campaignindia
+Natural Confectionery Co.,Sweets and Candy,,,,,,,,,,,,,,,,,,,,campaignindia
+S&P,Restaurant Chain,,,,,,,,,,,,,,,,,,,,campaignindia
+Haywards,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Voltas,Air Conditioner,,,,,,,,,,,,,,,,,,,,campaignindia
+Sheng Shiong,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Trigem,Computer,,,,,,,,,,,,,,,,,,,,campaignindia
+Blue Moon,Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+Aldi,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Remy Martin,Spirits,,,,,,,,,,,,,,,,,,,,campaignindia
+Cathay United Bank,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Arnott’s,Savoury Snack Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Prouds,Jewellery,,,,,,,,,,,,,,,,,,,,campaignindia
+Uncle Toby,Cereal,,,,,,,,,,,,,,,,,,,,campaignindia
+Capico,Savoury Snack Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Imperial Hotel,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+Allianz,Insurance Provider,,,,,,,,,,,,,,,,,,,,campaignindia
+Scholl,Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Pro Sweat,Sports Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Mitsuya Cider,Carbonated Soft Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Zhenkungfu,Restaurant,,,,,,,,,,,,,,,,,,,,campaignindia
+Raymonds,Men’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Mr Muscle,Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+BenQ,Consumer Electronics,,,,,,,,,,,,,,,,,,,,campaignindia
+Denon,Home Audio,,,,,,,,,,,,,,,,,,,,campaignindia
+Mister Potato,Savoury Snack Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Saravana Bhavan,Restaurant,,,,,,,,,,,,,,,,,,,,campaignindia
+New Balance,Sporting Apparel,,,,,,,,,,,,,,,,,,,,campaignindia
+Ali Café,Coffee,,,,,,,,,,,,,,,,,,,,campaignindia
+Jin Air,Budget Airlines,,,,,,,,,,,,,,,,,,,,campaignindia
+Aekyung,Shower Gel/Soap,,,,,,,,,,,,,,,,,,,,campaignindia
+Esprit,Men’s and Women’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Choice,Coffee,,,,,,,,,,,,,,,,,,,,campaignindia
+Chemist Warehouse,Pharmacy/Drugstore,,,,,,,,,,,,,,,,,,,,campaignindia
+KTC,Credit Card,,,,,,,,,,,,,,,,,,,,campaignindia
+Charles & Keith,Women’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Jukyum,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+Crown,Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Nine West,Women’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Happy Bath,Shower Gel/Soap,,,,,,,,,,,,,,,,,,,,campaignindia
+Cornetto,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Sisley,Cosmetics/Skincare Product,,,,,,,,,,,,,,,,,,,,campaignindia
+Sanyuan,Milk,,,,,,,,,,,,,,,,,,,,campaignindia
+Grand Formosa Regent,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+Hyosung,Motorcycle,,,,,,,,,,,,,,,,,,,,campaignindia
+Rivers,Men’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Kolon,Sporting Apparel,,,,,,,,,,,,,,,,,,,,campaignindia
+Clorets,Chewing/Bubble Gum/Sweets and Candy,,,,,,,,,,,,,,,,,,,,campaignindia
+Twinings,Tea,,,,,,,,,,,,,,,,,,,,campaignindia
+OB,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+GUM,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+Nate,Social Networking Site/Internet Search Engine,,,,,,,,,,,,,,,,,,,,campaignindia
+Sina,Social Networking Site,,,,,,,,,,,,,,,,,,,,campaignindia
+Daiichi Life,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+566,Shampoo,,,,,,,,,,,,,,,,,,,,campaignindia
+Aigo,Digital Products,,,,,,,,,,,,,,,,,,,,campaignindia
+UHA Mikakuto,Sweets and Candy,,,,,,,,,,,,,,,,,,,,campaignindia
+Ajinomoto,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+Tully’s,Coffee,,,,,,,,,,,,,,,,,,,,campaignindia
+Chi Mei,TV,,,,,,,,,,,,,,,,,,,,campaignindia
+Tooheys,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Daelim,Motorcycle,,,,,,,,,,,,,,,,,,,,campaignindia
+Imperial,Personal care,,,,,,,,,,,,,,,,,,,,campaignindia
+Hera,Female Skincare Product,,,,,,,,,,,,,,,,,,,,campaignindia
+Toll,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+GS,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Himalaya,Mineral Water,,,,,,,,,,,,,,,,,,,,campaignindia
+Fancl,Female Skincare Product,,,,,,,,,,,,,,,,,,,,campaignindia
+Proton,Automobile/Car,,,,,,,,,,,,,,,,,,,,campaignindia
+Safi,Personal care,,,,,,,,,,,,,,,,,,,,campaignindia
+Wei-Wei,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+Jack Daniel,Spirits,,,,,,,,,,,,,,,,,,,,campaignindia
+Terry White,Pharmacy/Drugstore,,,,,,,,,,,,,,,,,,,,campaignindia
+Gerber,Baby Food (excluding milk powder),,,,,,,,,,,,,,,,,,,,campaignindia
+Uniqlo,Men’s and Women’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Swipe,Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+Bingrae,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Mie Sedap,Instant Noodles,,,,,,,,,,,,,,,,,,,,campaignindia
+Victoria Bitter (VB),Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Koikeya,Savoury snack food,,,,,,,,,,,,,,,,,,,,campaignindia
+Wakodo,Baby Food (excluding milk powder),,,,,,,,,,,,,,,,,,,,campaignindia
+Michael Hill,Jewellery,,,,,,,,,,,,,,,,,,,,campaignindia
+Florsheim,Men’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Mövenpick,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Da Da,Chewing/Bubble Gum,,,,,,,,,,,,,,,,,,,,campaignindia
+Fresh Delight,Dairy Products,,,,,,,,,,,,,,,,,,,,campaignindia
+Dentiste,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+Duroyal,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Center Fresh,Chewing/Bubble Gum,,,,,,,,,,,,,,,,,,,,campaignindia
+M-Sport,Sports Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Dabur,Toothpaste,,,,,,,,,,,,,,,,,,,,campaignindia
+SPD Bank,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+City Super,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+PAL,Pet Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Royce’/Royce,Chocolate,,,,,,,,,,,,,,,,,,,,campaignindia
+Morning Fresh,Detergent,,,,,,,,,,,,,,,,,,,,campaignindia
+Soo Kee (SKJ),Jewellery,,,,,,,,,,,,,,,,,,,,campaignindia
+Suncorp,Financial Service,,,,,,,,,,,,,,,,,,,,campaignindia
+Ottogi,Sauce/Condiment,,,,,,,,,,,,,,,,,,,,campaignindia
+Carlton,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Fuji (Restaurant chain),Restaurant Chain,,,,,,,,,,,,,,,,,,,,campaignindia
+Revive isotonic,Sports Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Frooti,Fruit Juice,,,,,,,,,,,,,,,,,,,,campaignindia
+Heaven & Earth,Ready-to-drink Tea,,,,,,,,,,,,,,,,,,,,campaignindia
+CBA,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Fair And Handsome,Male Skincare Product,,,,,,,,,,,,,,,,,,,,campaignindia
+Saizeriya,Restaurant Chain,,,,,,,,,,,,,,,,,,,,campaignindia
+Guangdong Development,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Ricoh,Digital Products,,,,,,,,,,,,,,,,,,,,campaignindia
+Miele,Consumer Electronics,,,,,,,,,,,,,,,,,,,,campaignindia
+Heart Beat,Sweets and Candy,,,,,,,,,,,,,,,,,,,,campaignindia
+Mei Ri C,Fruit Juice,,,,,,,,,,,,,,,,,,,,campaignindia
+Cesar,Pet Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Royal,Pet Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Asience,Shampoo,,,,,,,,,,,,,,,,,,,,campaignindia
+Otafuku,Food,,,,,,,,,,,,,,,,,,,,campaignindia
+Wu Yang,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Tommy Hilfiger,Fragrance/Men’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Café Amazon,Coffee Shop,,,,,,,,,,,,,,,,,,,,campaignindia
+Kerasys,Shampoo,,,,,,,,,,,,,,,,,,,,campaignindia
+Pigeon,Baby Product,,,,,,,,,,,,,,,,,,,,campaignindia
+Thums Up,Carbonated Soft Drink,,,,,,,,,,,,,,,,,,,,campaignindia
+Hogs Breath,Restaurant Chain,,,,,,,,,,,,,,,,,,,,campaignindia
+Kinmen Kao Liang,Spirits,,,,,,,,,,,,,,,,,,,,campaignindia
+Bank of Communications,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Ginvera,Shower Gel/Soap,,,,,,,,,,,,,,,,,,,,campaignindia
+Shin Kong Life Insurance,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Nippon Express,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+Centara,Hotel,,,,,,,,,,,,,,,,,,,,campaignindia
+IT,Men’s and Women’s Fashion Retailer,,,,,,,,,,,,,,,,,,,,campaignindia
+Australia post,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+Gogo no Kocha,Ready-to-drink Tea,,,,,,,,,,,,,,,,,,,,campaignindia
+Mister Donut,Fast-Food,,,,,,,,,,,,,,,,,,,,campaignindia
+99 Speedmart,Convenience Store,,,,,,,,,,,,,,,,,,,,campaignindia
+Fosters,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+The Professional Couriers,Courier Company,,,,,,,,,,,,,,,,,,,,campaignindia
+XXXX,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Hana,Bank,,,,,,,,,,,,,,,,,,,,campaignindia
+Park Avenue,Personal Care/Men’s Shoes,,,,,,,,,,,,,,,,,,,,campaignindia
+Sansui,DVD Player,,,,,,,,,,,,,,,,,,,,campaignindia
+Magnum,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Taster’s Choice,Coffee,,,,,,,,,,,,,,,,,,,,campaignindia
+Fossil,Jewellery/Watch,,,,,,,,,,,,,,,,,,,,campaignindia
+Arun,Ice-cream,,,,,,,,,,,,,,,,,,,,campaignindia
+Aviva,Insurance,,,,,,,,,,,,,,,,,,,,campaignindia
+Double Happiness,Cigarette,,,,,,,,,,,,,,,,,,,,campaignindia
+Bacardi,Spirits,,,,,,,,,,,,,,,,,,,,campaignindia
+Leconte,Chocolate,,,,,,,,,,,,,,,,,,,,campaignindia
+Devondale,Dairy Products,,,,,,,,,,,,,,,,,,,,campaignindia
+More,Supermarket,,,,,,,,,,,,,,,,,,,,campaignindia
+Corona,Beer,,,,,,,,,,,,,,,,,,,,campaignindia
+Harvey Fresh,Fruit Juice,,,,,,,,,,,,,,,,,,,,campaignindia
+Gatsby,Male Skincare Product,,,,,,,,,,,,,,,,,,,,campaignindia

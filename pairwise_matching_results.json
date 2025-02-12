@@ -1,0 +1,2312 @@
+[
+    {
+        "company_a": "Nissan Motor Co Ltd",
+        "source_a": "output_globaldata",
+        "company_b": "Nissan Motor Corporation Careers",
+        "source_b": "DDD-teamblind-com"
+    },
+    {
+        "company_a": "Nippon Paint Holdings Co Ltd",
+        "source_a": "output_globaldata",
+        "company_b": "Nippon Paint India",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "BESIX Group SA",
+        "source_a": "output_globaldata",
+        "company_b": "BMA Group",
+        "source_b": "ft-com"
+    },
+    {
+        "company_a": "Construcciones Antedi",
+        "source_a": "ft-com",
+        "company_b": "Construction Partners Inc",
+        "source_b": "output_globaldata"
+    },
+    {
+        "company_a": "Aditya Birla Capital Ltd",
+        "source_a": "output_globaldata",
+        "company_b": "Aditya Birla Finance",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "Aditya Birla Finance",
+        "source_a": "AmbitionBox",
+        "company_b": "Aditya Birla Sun Life Amc Limited",
+        "source_b": "valueToday_dataset"
+    },
+    {
+        "company_a": "Aditya Birla Sun Life Amc Limited",
+        "source_a": "valueToday_dataset",
+        "company_b": "Aditya Birla SunLife Asset Management Company",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "Aeon Credit Service",
+        "source_a": "AmbitionBox",
+        "company_b": "Aeon Financial Service",
+        "source_b": "valueToday_dataset"
+    },
+    {
+        "company_a": "Capital India Finance",
+        "source_a": "ft-com",
+        "company_b": "Capital One Financial Corp",
+        "source_b": "output_globaldata"
+    },
+    {
+        "company_a": "Credit Saison Co Ltd",
+        "source_a": "output_globaldata",
+        "company_b": "Credit Suisse",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "Federal Agricultural Mortgage Corporation",
+        "source_a": "valueToday_dataset",
+        "company_b": "Federal Home Loan Mortgage Corp",
+        "source_b": "output_globaldata"
+    },
+    {
+        "company_a": "GoHenry",
+        "source_a": "ft-com",
+        "company_b": "Goeasy",
+        "source_b": "valueToday_dataset"
+    },
+    {
+        "company_a": "ICICI Prudential Life Insurance Co Ltd",
+        "source_a": "output_globaldata",
+        "company_b": "ICICI Prudential Mutual Fund",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "ING Group Careers",
+        "source_a": "DDD-teamblind-com",
+        "company_b": "ING Group NV",
+        "source_b": "output_globaldata"
+    },
+    {
+        "company_a": "Intrum AB",
+        "source_a": "output_globaldata",
+        "company_b": "Intrum Ab (publ)",
+        "source_b": "valueToday_dataset"
+    },
+    {
+        "company_a": "K3 Capital Group",
+        "source_a": "ft-com",
+        "company_b": "KB Financial Group Inc",
+        "source_b": "output_globaldata"
+    },
+    {
+        "company_a": "MSCI",
+        "source_a": "AmbitionBox",
+        "company_b": "MSCI Inc",
+        "source_b": "output_globaldata"
+    },
+    {
+        "company_a": "Mr Cooper",
+        "source_a": "AmbitionBox",
+        "company_b": "Mr Cooper Group Inc",
+        "source_b": "output_globaldata"
+    },
+    {
+        "company_a": "Natixis Careers",
+        "source_a": "DDD-teamblind-com",
+        "company_b": "Natixis SA",
+        "source_b": "output_globaldata"
+    },
+    {
+        "company_a": "Northern Trust Corp",
+        "source_a": "output_globaldata",
+        "company_b": "Northern Trust Operating Services",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "Northern Trust Operating Services",
+        "source_a": "AmbitionBox",
+        "company_b": "Northern Trust Wealth Management",
+        "source_b": "output_globaldata"
+    },
+    {
+        "company_a": "Poonawalla Fincorp Limited",
+        "source_a": "valueToday_dataset",
+        "company_b": "Poonawalla Housing Finance",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "Shriram City",
+        "source_a": "AmbitionBox",
+        "company_b": "Shriram City Union Finance",
+        "source_b": "valueToday_dataset"
+    },
+    {
+        "company_a": "Shriram City Union Finance",
+        "source_a": "valueToday_dataset",
+        "company_b": "Shriram Finance Ltd",
+        "source_b": "output_globaldata"
+    },
+    {
+        "company_a": "Shriram Housing Finance",
+        "source_a": "AmbitionBox",
+        "company_b": "Shriram Transport Finance Company",
+        "source_b": "valueToday_dataset"
+    },
+    {
+        "company_a": "Societe Generale SA",
+        "source_a": "output_globaldata",
+        "company_b": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Careers",
+        "source_b": "DDD-teamblind-com"
+    },
+    {
+        "company_a": "Synchrony",
+        "source_a": "AmbitionBox",
+        "company_b": "Synchrony Financial",
+        "source_b": "output_globaldata"
+    },
+    {
+        "company_a": "TransUnion LLC",
+        "source_a": "output_globaldata",
+        "company_b": "Transaction Capital",
+        "source_b": "valueToday_dataset"
+    },
+    {
+        "company_a": "Visa Inc",
+        "source_a": "output_globaldata",
+        "company_b": "Vistaar Finance",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "FalconX",
+        "source_a": "DDD-cbinsight-com",
+        "company_b": "Famoco",
+        "source_b": "ft-com"
+    },
+    {
+        "company_a": "Smarkets",
+        "source_a": "ft-com",
+        "company_b": "SmartAsset",
+        "source_b": "DDD-cbinsight-com"
+    },
+    {
+        "company_a": "Doctify",
+        "source_a": "ft-com",
+        "company_b": "Doctolib",
+        "source_b": "DDD-cbinsight-com"
+    },
+    {
+        "company_a": "Oura",
+        "source_a": "DDD-cbinsight-com",
+        "company_b": "Oxray",
+        "source_b": "ft-com"
+    },
+    {
+        "company_a": "AIA",
+        "source_a": "campaignindia",
+        "company_b": "AIG",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "HD Insurance",
+        "source_a": "ft-com",
+        "company_b": "HDFC Ergo General Insurance",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "ICICI Prudential",
+        "source_a": "campaignindia",
+        "company_b": "ICICI Prudential Life Insurance",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "Mansutti",
+        "source_a": "ft-com",
+        "company_b": "Manulife",
+        "source_b": "campaignindia"
+    },
+    {
+        "company_a": "Patra Corporation Careers",
+        "source_a": "DDD-teamblind-com",
+        "company_b": "People Corporation",
+        "source_b": "valueToday_dataset"
+    },
+    {
+        "company_a": "Shin Kong Life Insurance",
+        "source_a": "campaignindia",
+        "company_b": "Shriram General Insurance",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "Thai Life Insurance",
+        "source_a": "campaignindia",
+        "company_b": "The New India Assurance Co.",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "Toho Co Ltd",
+        "source_a": "output_globaldata",
+        "company_b": "Toothlife Co., Ltd.",
+        "source_b": "ft-com"
+    },
+    {
+        "company_a": "Terumo Corp",
+        "source_a": "output_globaldata",
+        "company_b": "Terumo Penpol",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "Adani Power Ltd",
+        "source_a": "output_globaldata",
+        "company_b": "Adani Solar",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "CESC",
+        "source_a": "AmbitionBox",
+        "company_b": "CESC Ltd",
+        "source_b": "output_globaldata"
+    },
+    {
+        "company_a": "NTPC",
+        "source_a": "AmbitionBox",
+        "company_b": "NTPC Ltd",
+        "source_b": "output_globaldata"
+    },
+    {
+        "company_a": "Siemens AG",
+        "source_a": "output_globaldata",
+        "company_b": "Siemens Energy",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "Vietnam Electricity",
+        "source_a": "output_globaldata",
+        "company_b": "Vijai Electricals",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "Brigade Enterprises",
+        "source_a": "valueToday_dataset",
+        "company_b": "Brigade Group",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "Investis Holding Sa",
+        "source_a": "valueToday_dataset",
+        "company_b": "Investors Clinic",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "K. Wah International Holdings",
+        "source_a": "valueToday_dataset",
+        "company_b": "KEC International",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "Big C",
+        "source_a": "AmbitionBox",
+        "company_b": "Big Mama",
+        "source_b": "ft-com"
+    },
+    {
+        "company_a": "Praxis home Retail",
+        "source_a": "AmbitionBox",
+        "company_b": "Prima Retail",
+        "source_b": "ft-com"
+    },
+    {
+        "company_a": "Basemark",
+        "source_a": "ft-com",
+        "company_b": "Basware",
+        "source_b": "MalPatSaj-wikipedia-org"
+    },
+    {
+        "company_a": "Black Sea Studios",
+        "source_a": "MalPatSaj-wikipedia-org",
+        "company_b": "Black Swan Data",
+        "source_b": "ft-com"
+    },
+    {
+        "company_a": "Brainhub",
+        "source_a": "ft-com",
+        "company_b": "Brainly",
+        "source_b": "MalPatSaj-wikipedia-org"
+    },
+    {
+        "company_a": "Groupe Bull",
+        "source_a": "MalPatSaj-wikipedia-org",
+        "company_b": "Groupe Hisi",
+        "source_b": "ft-com"
+    },
+    {
+        "company_a": "Interxion",
+        "source_a": "MalPatSaj-wikipedia-org",
+        "company_b": "Intito",
+        "source_b": "ft-com"
+    },
+    {
+        "company_a": "Macropix",
+        "source_a": "ft-com",
+        "company_b": "Magix",
+        "source_b": "MalPatSaj-wikipedia-org"
+    },
+    {
+        "company_a": "Nanoradio",
+        "source_a": "MalPatSaj-wikipedia-org",
+        "company_b": "Nanovo",
+        "source_b": "ft-com"
+    },
+    {
+        "company_a": "Novabase",
+        "source_a": "MalPatSaj-wikipedia-org",
+        "company_b": "Novastar",
+        "source_b": "ft-com"
+    },
+    {
+        "company_a": "Quantexa",
+        "source_a": "ft-com",
+        "company_b": "Quantic Dream",
+        "source_b": "MalPatSaj-wikipedia-org"
+    },
+    {
+        "company_a": "Sogeti",
+        "source_a": "MalPatSaj-wikipedia-org",
+        "company_b": "Solectric",
+        "source_b": "ft-com"
+    },
+    {
+        "company_a": "Techland",
+        "source_a": "MalPatSaj-wikipedia-org",
+        "company_b": "Technacy",
+        "source_b": "ft-com"
+    },
+    {
+        "company_a": "ARGO GRAPHICS, Inc.",
+        "source_a": "disfold-com",
+        "company_b": "ARGO GROUP US, INC.",
+        "source_b": "wissel-aziende-info-clipper-com"
+    },
+    {
+        "company_a": "ASOS PLC",
+        "source_a": "wissel-aziende-info-clipper-com",
+        "company_b": "ASOS plc",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "AXA SA",
+        "source_a": "disfold-com",
+        "company_b": "AXWAY SRL",
+        "source_b": "wissel-aziende-info-clipper-com"
+    },
+    {
+        "company_a": "Advantech Co. Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Advantest",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Adyen",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Adyen N.V.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Aegon",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Aegon N.V.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Airports of Thailand",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Airports of Thailand Public Company Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Ajinomoto",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Ajinomoto Co., Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Akbank",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Akbank T.A.S.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Alcon",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Alcon Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Alfen",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Alfen N.V.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Alliance Trust plc",
+        "source_a": "disfold-com",
+        "company_b": "Alliancebernstein",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "American Airlines Group Inc.",
+        "source_a": "disfold-com",
+        "company_b": "American Assets Trust",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "American Eagle Outfitters",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "American Electric",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "American Electric",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "American Electric Power Company, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "American States Water",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "American Tower",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "American Tower",
+        "source_a": "disfold-com",
+        "company_b": "American Water Works",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Am\u00e9rica M\u00f3vil",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Am\u00e9rica M\u00f3vil, S.A.B. de C.V.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Anglo American",
+        "source_a": "company_social_urls",
+        "company_b": "Anglo American Platinum Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Appfolio",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Apple",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Aramark",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Aramco",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "Arca Continental",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Arca Continental, S.A.B. de C.V.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "ArcelorMittal",
+        "source_a": "company_social_urls",
+        "company_b": "ArcelorMittal South Africa Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Archer Daniels Midland",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Archer Materials Limited",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Arrowhead Pharmaceuticals",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Arrowhead Properties Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Assura plc",
+        "source_a": "disfold-com",
+        "company_b": "Assurant",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Atmos Energy",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Atmos Energy Corporation",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Automatic Bank Services Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Automatic Data Processing",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "BAIC Motor",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "BAIC Motor Corp Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "BBMG",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "BBMG Corp",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "BOK Financial",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "BOK Financial Corporation",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Baidu",
+        "source_a": "company_social_urls",
+        "company_b": "Baidu, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Bank Of Hangzhou",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Bank Of Hawaii",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Bank Of Ningbo",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Bank Of Shanghai",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "Bank of Guiyang Co.,Ltd.",
+        "source_a": "disfold-com",
+        "company_b": "Bank of Guizhou",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Bank of Jiangsu Co. Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Bank of Jinzhou",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Bank of Ningbo",
+        "source_a": "company_social_urls",
+        "company_b": "Bank of Nova Scotia",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Bankinter, SA",
+        "source_a": "disfold-com",
+        "company_b": "Bankunited",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Banque Cantonale du Jura SA",
+        "source_a": "disfold-com",
+        "company_b": "Banque Centrale Populaire",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Barrick Gold",
+        "source_a": "company_social_urls",
+        "company_b": "Barrick Gold Corporation",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Basic-Fit N.V.",
+        "source_a": "disfold-com",
+        "company_b": "Basic-fit",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Beijing Enterprises",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Beijing Enterprises Clean Energy Group Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Beijing Oriental Yuhong Waterproof Technology",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Beijing Originwater Technology Co. Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Best Buy",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Best Buy Co., Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "BlackWall Limited",
+        "source_a": "disfold-com",
+        "company_b": "Blackline",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Block",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Block, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Bonvests Holdings Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Booking Holdings",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "Brown-Forman",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Brown-Forman Corporation",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "C.H. Robinson",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "C.H. Robinson Worldwide, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "CGG",
+        "source_a": "disfold-com",
+        "company_b": "CGI",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "CGN Power",
+        "source_a": "company_social_urls",
+        "company_b": "CGN Power Co. Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "CK Hutchison",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "CK Hutchison Holdings Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "CMS Energy",
+        "source_a": "company_social_urls",
+        "company_b": "CMS Energy Corporation",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "CTBC Financial",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "CTBC Financial Holding Co. Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Cadence Design",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Cadence Design Systems, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Canadian Solar Inc.",
+        "source_a": "disfold-com",
+        "company_b": "Canadian Tire",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Canadian Western Bank",
+        "source_a": "disfold-com",
+        "company_b": "Canara Bank",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Capital Gearing Trust plc",
+        "source_a": "disfold-com",
+        "company_b": "Capital Group",
+        "source_b": "valueToday_dataset"
+    },
+    {
+        "company_a": "Capital Group",
+        "source_a": "valueToday_dataset",
+        "company_b": "Capital One",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "CarMax",
+        "source_a": "company_social_urls",
+        "company_b": "CarMax, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Cardinal Energy Ltd.",
+        "source_a": "disfold-com",
+        "company_b": "Cardinal Health",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Carrier",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Carrier Global",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "Cathay Financial",
+        "source_a": "company_social_urls",
+        "company_b": "Cathay Financial Holding Co. Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Chang Hwa Bank",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Chang Hwa Commercial Bank Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Charoen Pokphand Foods",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Charoen Pokphand Foods Public Company Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Check Point Software",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Check Point Software Technologies Ltd.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Cheniere Energy",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Cheniere Energy Partners, L.P.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Chewy",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Chewy, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "China Aoyuan Group",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "China Apex Group Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "China Aviation Oil",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "China Aviation Oil (Singapore) Corp Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "China Communications Construction Co Ltd",
+        "source_a": "disfold-com",
+        "company_b": "China Communications Services",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "China Eastern Airlines",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "China Eastern Airlines Corporation Limited",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "China Evergrande Group",
+        "source_a": "company_social_urls",
+        "company_b": "China Evergrande New Energy Vehicle Group Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "China International Marine",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "China International Marine Containers (Group) Co. Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "China Merchants Land Ltd",
+        "source_a": "disfold-com",
+        "company_b": "China Merchants Port Holdings",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "China National Chemical",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "China National Chemical Engineering Co. Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "China Overseas Grand Oceans Group",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "China Overseas Land & Investment Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "China Railway Construction Corp Ltd",
+        "source_a": "disfold-com",
+        "company_b": "China Railway Group",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "China Taiping Insurance",
+        "source_a": "company_social_urls",
+        "company_b": "China Taiping Insurance Holdings Company Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "China Unicom",
+        "source_a": "company_social_urls",
+        "company_b": "China Unicom Hong Kong Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Chongqing Rural Bank",
+        "source_a": "company_social_urls",
+        "company_b": "Chongqing Rural Commercial Bank Co. Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Churchill China plc",
+        "source_a": "disfold-com",
+        "company_b": "Churchill Downs",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Churchill Downs",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Churchill Downs Incorporated",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Cintac SA",
+        "source_a": "disfold-com",
+        "company_b": "Cintas",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Citic Limited",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Citic Securities",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "Constellation Brands, Inc.",
+        "source_a": "disfold-com",
+        "company_b": "Constellation Energy",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "Continental Holdings Corp",
+        "source_a": "disfold-com",
+        "company_b": "Continental Resources",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Copart",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Copart, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Credit Agricole",
+        "source_a": "company_social_urls",
+        "company_b": "Credit Agricole Atlantique Vendee",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "DISH Network",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "DISH Network Corporation",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Dai-ichi Life Holdings, Inc.",
+        "source_a": "disfold-com",
+        "company_b": "Dai-ichi Life Insurance",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "De' Longhi",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "De'Longhi S.p.A.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Dermapharm",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Dermapharm Holding SE",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Devon Energy",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Devon Energy Corporation",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "DexCom",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "DexCom, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Digital China Group",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Digital China Holdings Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Duke Energy",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Duke Energy Corporation",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Duke Realty",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Duke Realty Corporation",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "ENM Holdings Ltd",
+        "source_a": "disfold-com",
+        "company_b": "ENN Energy Holdings",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "EVRAZ PLC",
+        "source_a": "wissel-aziende-info-clipper-com",
+        "company_b": "EVRAZ plc",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "EastGroup Properties, Inc.",
+        "source_a": "disfold-com",
+        "company_b": "Easterly Government Properties",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Electrical Industries Company",
+        "source_a": "disfold-com",
+        "company_b": "Electrical Maintenance",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "Electrolux Group",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Electrolux Professional AB",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "EnBW Energie Baden-Wuerttemberg AG",
+        "source_a": "disfold-com",
+        "company_b": "EnBW-Energie Baden",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "Endurance Motive, SA",
+        "source_a": "disfold-com",
+        "company_b": "Endurance Technologies",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Enersize Oyj",
+        "source_a": "disfold-com",
+        "company_b": "Enersys",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Equinor",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Equinox Gold",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Equitable Group Inc.",
+        "source_a": "disfold-com",
+        "company_b": "Equitable Holdings",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Evergy",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Evergy, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Ezcater",
+        "source_a": "valueToday_dataset",
+        "company_b": "Ezcorp",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Fairfax Financial",
+        "source_a": "company_social_urls",
+        "company_b": "Fairfax Financial Holdings Limited",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Far East Group Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Far East Horizon",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Farfetch",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Farfetch Limited",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Fastenal",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Fastenal Company",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Fastighets AB Trianon ",
+        "source_a": "disfold-com",
+        "company_b": "Fastighets Balder",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "FibraHotel",
+        "source_a": "disfold-com",
+        "company_b": "Fibrogen",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Financiere Moncey",
+        "source_a": "disfold-com",
+        "company_b": "Financiere de l'Odet",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "First Citizens BancShares, Inc.",
+        "source_a": "disfold-com",
+        "company_b": "First Citizens Bank (NC)",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "First Financial Bankshares, Inc.",
+        "source_a": "disfold-com",
+        "company_b": "First Financial Holding",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "First Horizon",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "First Horizon Corporation",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "First Pacific",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "First Pacific Company Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Fiserv",
+        "source_a": "company_social_urls",
+        "company_b": "Fiserv, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Fiskars",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Fiskars OYJ Abp",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Flex",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Flex Ltd.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Fortis (Canada)",
+        "source_a": "company_social_urls",
+        "company_b": "Fortis Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Franco-Nevada",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Franco-Nevada Corporation",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Franklin Electric",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Franklin Resources",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Freelancer Limited",
+        "source_a": "disfold-com",
+        "company_b": "Freelancer.com",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "Fubon Financial",
+        "source_a": "company_social_urls",
+        "company_b": "Fubon Financial Holding Co. Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Fujifilm Holdings",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Fujikon Industrial Holdings Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Gabriel Holding A/S",
+        "source_a": "disfold-com",
+        "company_b": "Gabriel India",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "General Mills, Inc.",
+        "source_a": "disfold-com",
+        "company_b": "General Motors",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "Goldman Sachs Group",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Goldpac Group Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Goodman Group",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Goodman Property Trust",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Graco",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Graco Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Graphite India",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Graphite One, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Grupo Bimbo",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Grupo Bimbo SAB de CV",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Guolian Securities Co. Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Guosen Securities",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "HDFC",
+        "source_a": "company_social_urls",
+        "company_b": "HDFC Bank",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Heidelberg Pharma AG",
+        "source_a": "disfold-com",
+        "company_b": "HeidelbergCement",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "Hon Hai Precision",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Hon Hai Precision Industry Co. Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Honda Motor",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Honda Motor Co., Ltd.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Hormel Foods",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Hormel Foods Corporation",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Hua Nan Financial",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Hua Nan Financial Holdings Co. Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Huabao International Holdings Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Huadian Power International",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Huafa Industrial",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Huafa Industrial Co.,Ltd.Zhuhai",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Huntington Bancshares, Inc.",
+        "source_a": "disfold-com",
+        "company_b": "Huntington Bank",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Hyderabad Industries Limited",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Hydratec Industries NV",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Hydro One",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Hydro One Limited",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "ING Groep N.V.",
+        "source_a": "disfold-com",
+        "company_b": "ING Group",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "INTERPLEX",
+        "source_a": "AmbitionBox",
+        "company_b": "INTERPOLIMERI SPA",
+        "source_b": "wissel-aziende-info-clipper-com"
+    },
+    {
+        "company_a": "Immersion Corporation",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Immersion SA",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Immunovant",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Immunovia AB ",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Indorama Ventures",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Indorama Ventures Public Company Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Infosys",
+        "source_a": "company_social_urls",
+        "company_b": "Infosys Limited",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Inner Mongolia Yili",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Inner Mongolia Yili Industrial Group Co. Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Inner Mongolia Yili Industrial Group Co. Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Inner Mongolia Yitai Coal",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Inpex",
+        "source_a": "company_social_urls",
+        "company_b": "Inpex Corp",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "International Holding Company",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "International Housewares Retail Company Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Interpublic Group",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Interpump Group S.p.A.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Intevac",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Intexa SA",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Invesque Inc.",
+        "source_a": "disfold-com",
+        "company_b": "Investec",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Investec",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Investec Bank Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Iveco",
+        "source_a": "disfold-com",
+        "company_b": "Iveco Group",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "JBS",
+        "source_a": "company_social_urls",
+        "company_b": "JBS SA",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Jabil Circuit",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Jabil Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Japan Securities",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Japan Securities Finance Co. Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Jiangsu Hengli Hydraulic Co. Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Jiangsu Hengrui Medicine",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Johnson & Johnson",
+        "source_a": "disfold-com",
+        "company_b": "Johnson Controls",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Johnson Controls",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Johnson Controls International",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Jones Lang LaSalle Incorporated",
+        "source_a": "disfold-com",
+        "company_b": "Jones Lang Lasalle",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "K+S",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "K+S AG",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "KDDI",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "KDDI Corp",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Kainos Group plc",
+        "source_a": "disfold-com",
+        "company_b": "Kaisa Group Holdings",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Kellogg",
+        "source_a": "company_social_urls",
+        "company_b": "Kellogg Company",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Kewpie Corp",
+        "source_a": "disfold-com",
+        "company_b": "KeyCorp",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Kimco Realty",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Kimco Realty Corporation",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Kinden Corp",
+        "source_a": "disfold-com",
+        "company_b": "Kinder Morgan",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Kingfa Sci. & Tech. Co. Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Kingfa Science & Technology",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Lam Research",
+        "source_a": "company_social_urls",
+        "company_b": "Lam Research Corporation",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Leapmotor",
+        "source_a": "valueToday_dataset",
+        "company_b": "Lear",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Leonardo",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Leonardo S.p.A.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Li Ning",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Li Ning Co Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Lincoln Electric",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Lincoln Electric Holdings, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "MGM Resorts",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "MGM Resorts International",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "MSCI",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "MSCI Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Macy's",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Macy's, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Magic Software",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Magic Software Enterprises Ltd.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Mahindra & Mahindra",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Mahindra & Mahindra Financial Services Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Manpower",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "ManpowerGroup Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Marathon Oil",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Marathon Oil Corporation",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Marsh & McLennan",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Marsh & McLennan Companies, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Mastercard",
+        "source_a": "disfold-com",
+        "company_b": "Mastercraft Boat",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Matson",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Matson, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Merck",
+        "source_a": "disfold-com",
+        "company_b": "Merck & Co.",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Mercury NZ Limited",
+        "source_a": "disfold-com",
+        "company_b": "Mercury Systems",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Meta Materials",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Meta Platforms",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "Metcash",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Metcash Limited",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Mitsubishi",
+        "source_a": "company_social_urls",
+        "company_b": "Mitsubishi Chemical",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Mitsubishi Electric Corporation",
+        "source_a": "disfold-com",
+        "company_b": "Mitsubishi Estate",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Mitsubishi UFJ Lease",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Mitsubishi UFJ Lease & Finance Company Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Molson Coors Beverage Company",
+        "source_a": "disfold-com",
+        "company_b": "Molson Coors Brewing",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Molson Coors Brewing",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Molson Coors Canada Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Moscow Exchange",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Moscow Exchange MICEX-RTS PJSC",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Naturgy",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Naturgy BAN, SA",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Naver",
+        "source_a": "company_social_urls",
+        "company_b": "Navient",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "NetApp",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "NetApp, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Newmont Corporation",
+        "source_a": "disfold-com",
+        "company_b": "Newmont Mining",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "NextEra Energy",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "NextEra Energy Partners, LP",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Nintendo",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Nintendo Co Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Nippon Steel Nisshin Co. Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Nippon Steel Trading",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Nuvei Corporation",
+        "source_a": "disfold-com",
+        "company_b": "Nuvoco Vistas Corporation Limited",
+        "source_b": "valueToday_dataset"
+    },
+    {
+        "company_a": "Origin Enterprises plc",
+        "source_a": "disfold-com",
+        "company_b": "Origin Materials",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Osaka Gas",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Osaka Gas Co. Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Otsuka Corp",
+        "source_a": "disfold-com",
+        "company_b": "Otsuka Holding",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "PTT Global Chemical",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "PTT Global Chemical Public Company Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Panasonic",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Panasonic Appliances",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "Panasonic Appliances",
+        "source_a": "AmbitionBox",
+        "company_b": "Panasonic Corp",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Parker-Hannifin Corporation",
+        "source_a": "disfold-com",
+        "company_b": "Parker-hannifin",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Pennymac",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Pensana plc",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Petro Rabigh",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Petro Rio SA",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Pfeiffer Vacuum",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Pfeiffer Vacuum Technology AG",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Philip Morris",
+        "source_a": "disfold-com",
+        "company_b": "Philip Morris International",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Phillips 66",
+        "source_a": "company_social_urls",
+        "company_b": "Phillips 66 Partners LP",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "PhosAgro PJSC",
+        "source_a": "disfold-com",
+        "company_b": "Phosagro",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Premier",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Premier Energies",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "Premier Energies",
+        "source_a": "AmbitionBox",
+        "company_b": "Premier Explosives Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Pricer AB",
+        "source_a": "disfold-com",
+        "company_b": "Pricesmart",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Prudential",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Prudential Financial",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "Prysmian",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Prysmian S.p.A.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Publicis",
+        "source_a": "disfold-com",
+        "company_b": "Publicis Groupe",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Qorvo",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Qorvo, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "RELX PLC",
+        "source_a": "wissel-aziende-info-clipper-com",
+        "company_b": "RELX plc",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "RWE AG",
+        "source_a": "disfold-com",
+        "company_b": "RWE Group",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Ramaco Resources",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Ramelius Resources Limited",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Raytheon Technologies",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Raytron Technology Co.,Ltd.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Realty Income",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Realty Income Corporation",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Red El\u00e9ctrica",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Red El\u00e9ctrica Corporaci\u00f3n, SA",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Reliance Smart Point",
+        "source_a": "AmbitionBox",
+        "company_b": "Reliance Steel",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Reliance Steel",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Reliance Steel & Aluminum Co.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Revolution Medicines",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Revolution Precrafted",
+        "source_b": "valueToday_dataset"
+    },
+    {
+        "company_a": "SAIC Motor",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "SAIC Motor Corp Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "SG Group Holdings Ltd",
+        "source_a": "disfold-com",
+        "company_b": "SG Holdings",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "SGS",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "SGS SA",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "SS&C Technologies",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "SS&C Technologies Holdings, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Safari Industries India",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Safari Investments RSA Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Sampo",
+        "source_a": "company_social_urls",
+        "company_b": "Sampo Corp",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Samsung Heavy Industries",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Samsung Life Insurance",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "Saudi Arabian Mining Company ",
+        "source_a": "disfold-com",
+        "company_b": "Saudi Arabian Oil Company (Saudi Aramco)",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Schindler Group",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Schindler Holding",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Sembcorp Industries Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Sembcorp Marine",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Sempra",
+        "source_a": "company_social_urls",
+        "company_b": "Sempra Energy",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Sensec Holding AB",
+        "source_a": "disfold-com",
+        "company_b": "Senshu Ikeda Holdings",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Service Corp Intl",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Service Corporation International",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Sharp",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Sharp Corp",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Shenwan Hongyuan (H.K.) Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Shenwan Hongyuan Group",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Shenzhen Kinwong Electronic Co. Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Shenzhen Mindray Bio-Medical Electronics",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Shinsegae",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Shinsei Bank",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Shionogi",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Shionogi & Co. Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Shiseido",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Shiseido Co Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Shizuoka Bank",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Shizuoka Gas Co. Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Siemens",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Siemens Energy",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "Siemens Energy",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Siemens Gamesa",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Sino-Life Group Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Sino-Ocean Group Holding",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "SinoPac Financial",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "SinoPac Financial Holdings Company Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Snap",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Snap Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Snap Inc.",
+        "source_a": "disfold-com",
+        "company_b": "Snap-on",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "South32",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "South32 Limited",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Spectrum Brands",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "SpectrumOne AB",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Standard Bank Group Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Standard Chartered",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "State Street",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "State Street Corporation",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Sumco Corp",
+        "source_a": "disfold-com",
+        "company_b": "Sumec Corporation",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Sumit Woods Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Sumitomo",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Sumitomo Electric",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Sumitomo Electric Industries, Ltd.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Sumitomo Mitsui Financial Group, Inc.",
+        "source_a": "disfold-com",
+        "company_b": "Sumitomo Mitsui Trust",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "Sun Hung Kai & Co. Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Sun Hung Kai Properties",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Suzuken",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Suzuken Co. Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "T T J Holdings Ltd",
+        "source_a": "disfold-com",
+        "company_b": "T&D Holdings",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "TMX Group",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "TMX Group Limited",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Taimei Technology",
+        "source_a": "valueToday_dataset",
+        "company_b": "Taimide Tech., Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Telef\u00f3nica",
+        "source_a": "company_social_urls",
+        "company_b": "Telef\u00f3nica Chile SA",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Tencent",
+        "source_a": "disfold-com",
+        "company_b": "Tencent Holdings",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "Tetra Tech, Inc.",
+        "source_a": "disfold-com",
+        "company_b": "Tetra Technologies",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Teva Pharmaceutical",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Teva Pharmaceutical Industries Limited",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "The Saudi Investment Bank",
+        "source_a": "disfold-com",
+        "company_b": "The Saudi National Bank",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "Times Property Holdings",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Times Universal Group Holdings Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Tokyo Century Corp",
+        "source_a": "disfold-com",
+        "company_b": "Tokyo Electric Power",
+        "source_b": "company_social_urls"
+    },
+    {
+        "company_a": "Tokyo Electric Power",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Tokyo Electric Power Co Holdings, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Tokyo Gas",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Tokyo Gas Co.,Ltd.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Tokyu Corp",
+        "source_a": "disfold-com",
+        "company_b": "Tokyu Fudosan",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Tokyu Fudosan",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Tokyu Fudosan Holdings Corp",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Tongwei",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Tongwei Co. Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Tosoh",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Tosoh Corp",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "TransDigm Group",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "TransDigm Group Incorporated",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Trinity Industries",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Trinity Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "UCB",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "UCB SA",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Unibail-Rodamco",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Unibail-Rodamco-Westfield SE",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "United Overseas Australia Limited",
+        "source_a": "disfold-com",
+        "company_b": "United Overseas Bank",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Usertesting, Inc.",
+        "source_a": "valueToday_dataset",
+        "company_b": "Ushio, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "VEON",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "VEON Ltd.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "VMware",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "VMware, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Vale SA",
+        "source_a": "disfold-com",
+        "company_b": "Valeo",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Valero Energy",
+        "source_a": "company_social_urls",
+        "company_b": "Valero Energy Corporation",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Velan",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Velan Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Ventas",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Ventas, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Vesuvius India",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Vesuvius plc",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Viasat",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Viatris",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Vistra Corp.",
+        "source_a": "disfold-com",
+        "company_b": "Vistra Energy",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Vodafone",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Vodafone Group plc",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Vulcan International Corp",
+        "source_a": "disfold-com",
+        "company_b": "Vulcan Materials",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "WestRock",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "WestRock Company",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Westamerica Bancorporation",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Western Alliance Bancorp.",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Whirlpool Corporation",
+        "source_a": "disfold-com",
+        "company_b": "Whirlpool India",
+        "source_b": "companiesMarketCap_dataset"
+    },
+    {
+        "company_a": "Williams",
+        "source_a": "company_social_urls",
+        "company_b": "Williams-Sonoma",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Xiamen Xiangyu Co. Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Xiamen Xinde",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Xinyi Energy Holdings Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Xinyi Glass Holdings",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Xylem",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Xylem Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Yara International",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Yashili International Holdings Ltd",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "Yunnan Chihong Zinc & Germanium Co. Ltd",
+        "source_a": "disfold-com",
+        "company_b": "Yunnan Copper Co. Ltd.",
+        "source_b": "MalPatSaj-forbes-com"
+    },
+    {
+        "company_a": "Zentek",
+        "source_a": "companiesMarketCap_dataset",
+        "company_b": "Zentiva",
+        "source_b": "AmbitionBox"
+    },
+    {
+        "company_a": "Zimmer Biomet",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "Zimmer Biomet Holdings, Inc.",
+        "source_b": "disfold-com"
+    },
+    {
+        "company_a": "eBay",
+        "source_a": "MalPatSaj-forbes-com",
+        "company_b": "eBay Inc.",
+        "source_b": "disfold-com"
+    }
+]
