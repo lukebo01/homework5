@@ -29,26 +29,37 @@
             "hitHorizons_dataset.industry",
             "output_globaldata.industry",
             "ft-com.industry",
-            "wissel-ariregister.Area of Activity"
-        ],
-        "relation": "one-to-one"
-    },
-    "sector": {
-        "sources": [
-            "MalPatSaj-wikipedia-org.Sector"
-        ],
-        "relation": "many-to-one",
-        "merge_delimiter": " "
-    },
-    "business_category": {
-        "sources": [
+            "wissel-ariregister.Area of Activity",
             "campaignindia.CATEGORY",
             "companiesMarketCap_dataset.categories",
             "valueToday_dataset.company_business",
             "output_govuk_bigsize.nature_of_business"
         ],
         "relation": "one-to-one",
-        "split_delimiter": ","
+        "table_rules": {
+            "MalPatSaj-wikipedia-org": {
+                "relation": "one-to-many",
+                "split_delimiter": ",",
+                "take_index": 0
+            }
+        }
+    },
+    "headquarters_address": {
+        "sources": [
+            "hitHorizons_dataset.address",
+            "output_globaldata.address",
+            "output_govuk_bigsize.registered_office_address",
+            "wissel-ariregister.Address",
+            "wissel-aziende-info-clipper-com.Address Name"
+        ],
+        "relation": "one-to-one",
+        "table_rules": {
+            "hitHorizons_dataset": {
+                "relation": "one-to-many",
+                "split_delimiter": ",",
+                "take_index": 0
+            }
+        }
     },
     "headquarters_city": {
         "sources": [
@@ -109,23 +120,6 @@
                 "relation": "one-to-many",
                 "split_delimiter": ",",
                 "take_index": 5
-            }
-        }
-    },
-    "headquarters_full_address": {
-        "sources": [
-            "hitHorizons_dataset.address",
-            "output_globaldata.address",
-            "output_govuk_bigsize.registered_office_address",
-            "wissel-ariregister.Address",
-            "wissel-aziende-info-clipper-com.Address Name"
-        ],
-        "relation": "one-to-one",
-        "table_rules": {
-            "hitHorizons_dataset": {
-                "relation": "one-to-many",
-                "split_delimiter": ",",
-                "take_index": 0
             }
         }
     },
