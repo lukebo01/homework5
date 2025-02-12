@@ -70,7 +70,7 @@
             "wissel-aziende-info-clipper-com.City",
             "hitHorizons_dataset.address"
         ],
-        "relation": "one-to-many",
+        "relation": "one-to-one",
         "split_delimiter": ",",
         "table_rules": {
             "DDD-teamblind-com": {
@@ -219,15 +219,41 @@
         "relation": "many-to-one",
         "split_delimiter": null
     },
+    "representative_name": {
+        "sources": [
+            "disfold-com.ceo",
+            "valueToday_dataset.ceo",
+            "wissel-ariregister.Representative Name"
+        ],
+        "relation": "one-to-one"
+    },
     "total_raised": {
         "sources": [
             "DDD-cbinsight-com.totalRaised"
         ],
         "relation": "one-to-one"
     },
-    "representative_name": {
+    "company_description": {
         "sources": [
-            "wissel-ariregister.Representative Name"
+            "MalPatSaj-wikipedia-org.Notes"
+        ],
+        "relation": "one-to-one"
+    },
+    "company_stage": {
+        "sources": [
+            "DDD-cbinsight-com.stage"
+        ],
+        "relation": "one-to-one"
+    },
+    "share_price": {
+        "sources": [
+            "companiesMarketCap_dataset.share_price"
+        ],
+        "relation": "one-to-one"
+    },
+    "legal_form": {
+        "sources": [
+            "wissel-ariregister.Legal form"
         ],
         "relation": "one-to-one"
     }

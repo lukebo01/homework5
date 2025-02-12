@@ -6,7 +6,7 @@ import json
 
 def create_raw_file():
     print("creating raw file")
-    final_schema = pd.read_csv("final_mediated_schema.csv", low_memory=False)
+    final_schema = pd.read_csv("main_outputs/final_mediated_schema.csv", low_memory=False)
     reduced: pd.DataFrame = final_schema[["company_name", "_source_table"]].sort_values(by="company_name")
     reduced.to_csv("final.csv")
 
