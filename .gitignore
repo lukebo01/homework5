@@ -1,7 +1,13 @@
 venv
+.venv
+.venvDitto
 venvDitto
 __pycache__
 # Ignora i file JSON di grandi dimensioni
 old_record_linkage/candidate_pairs_strategy_*.json
 old_record_linkage/pairwise_matching_results.json
 old_record_linkage/blocking_output_*.json
+pairwise_matching_results.json
+# Ignora i file CSV di grandi dimensioni
+matched_companies_detailed.csv
+matched_companies_sampled.csv
