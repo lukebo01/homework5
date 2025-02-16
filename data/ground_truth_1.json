@@ -78,25 +78,6 @@
         {
             "pairs": [
                 {
-                    "company-name": "Accelerant",
-                    "industry": "Other",
-                    "country": "United Kingdom",
-                    "source": "DDD-cbinsight-com"
-                },
-                {
-                    "company-name": "Accelerate Diagnostics",
-                    "industry": [
-                        "Diagnostics and Testing"
-                    ],
-                    "country": "USA",
-                    "source": "companiesMarketCap_dataset"
-                }
-            ],
-            "match": false
-        },
-        {
-            "pairs": [
-                {
                     "company-name": "Acer",
                     "industry": [
                         "Tech"
@@ -225,26 +206,6 @@
         {
             "pairs": [
                 {
-                    "company-name": "Alphabet Inc",
-                    "industry": "Technology and Communications",
-                    "country": null,
-                    "source": "output_globaldata"
-                },
-                {
-                    "company-name": "Alphamab Oncology",
-                    "industry": [
-                        "Healthcare",
-                        "Biotechnology"
-                    ],
-                    "country": "China",
-                    "source": "valueToday_dataset"
-                }
-            ],
-            "match": false
-        },
-        {
-            "pairs": [
-                {
                     "company-name": "Amadeus Careers",
                     "industry": "Information Technology & Services",
                     "country": "Spain",
@@ -255,25 +216,6 @@
                     "industry": null,
                     "country": "Germany",
                     "source": "disfold-com"
-                }
-            ],
-            "match": false
-        },
-        {
-            "pairs": [
-                {
-                    "company-name": "American Precoat",
-                    "industry": "Iron & Steel",
-                    "country": null,
-                    "source": "AmbitionBox"
-                },
-                {
-                    "company-name": "American Public Education",
-                    "industry": [
-                        "Education"
-                    ],
-                    "country": "USA",
-                    "source": "companiesMarketCap_dataset"
                 }
             ],
             "match": false
@@ -294,26 +236,6 @@
                     "industry": "Pulp & Paper",
                     "country": null,
                     "source": "AmbitionBox"
-                }
-            ],
-            "match": false
-        },
-        {
-            "pairs": [
-                {
-                    "company-name": "Applifting",
-                    "industry": "Technology",
-                    "country": "Czech Republic",
-                    "source": "ft-com"
-                },
-                {
-                    "company-name": "Applovin",
-                    "industry": [
-                        "Software",
-                        "Tech"
-                    ],
-                    "country": "USA",
-                    "source": "companiesMarketCap_dataset"
                 }
             ],
             "match": false
@@ -468,29 +390,6 @@
                     "industry": null,
                     "country": "Poland",
                     "source": "MalPatSaj-forbes-com"
-                }
-            ],
-            "match": false
-        },
-        {
-            "pairs": [
-                {
-                    "company-name": "Bankfinancial",
-                    "industry": [
-                        "Banks",
-                        "Financial services"
-                    ],
-                    "country": "USA",
-                    "source": "companiesMarketCap_dataset"
-                },
-                {
-                    "company-name": "Bankia",
-                    "industry": [
-                        "Financial Services",
-                        "Banking Services"
-                    ],
-                    "country": "Spain",
-                    "source": "valueToday_dataset"
                 }
             ],
             "match": false
@@ -4001,6 +3900,124 @@
                 }
             ],
             "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Hewlett-Packard",
+                    "industry": "Computer",
+                    "country": null,
+                    "source": "campaignindia"
+                },
+                {
+                    "company-name": "Hp",
+                    "industry": [
+                        "Tech",
+                        "Tech Hardware",
+                        "Electronics"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "International Business Machines Corp",
+                    "industry": "Technology and Communications",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "IBM",
+                    "industry": "Software Product",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Amd",
+                    "industry": [
+                        "Tech",
+                        "Semiconductors",
+                        "Electronics",
+                        "Tech Hardware"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Advanced Micro Devices Inc",
+                    "industry": "Technology and Communications",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Bmw",
+                    "industry": [
+                        "Automakers",
+                        "DAX",
+                        "Manufacturing"
+                    ],
+                    "country": "Germany",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Bayerische Motoren Werke AG",
+                    "industry": "Automotive",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "United Parcel Service",
+                    "industry": [
+                        "Courier",
+                        "Transportation"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "UPS",
+                    "industry": "Courier Company",
+                    "country": null,
+                    "source": "campaignindia"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "BBC Careers",
+                    "industry": "Broadcast & Online Media",
+                    "country": null,
+                    "source": "DDD-teamblind-com"
+                },
+                {
+                    "company-name": "BRITISH BROADCASTING CORPORATION",
+                    "industry": null,
+                    "country": "UNITED KINGDOM",
+                    "source": "wissel-aziende-info-clipper-com"
+                }
+            ],
+            "match": false
         }
     ]
 }
