@@ -2,6 +2,7 @@ venv
 .venv
 .venvDitto
 venvDitto
+.venvEMT
 ditto/
 __pycache__
 # Ignora i file JSON di grandi dimensioni
