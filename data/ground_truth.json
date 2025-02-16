@@ -1,824 +1,3966 @@
 {
     "ground_truth": [
         {
-            "1&1": "companiesMarketCap_dataset",
-            "1&1 AG": "disfold-com"
-        },
-        {
-            "AMPLUS": "ft-com",
-            "AMPLUS SOLAR": "AmbitionBox"
-        },
-        {
-            "Accelerant": "DDD-cbinsight-com",
-            "Accelerate Diagnostics": "companiesMarketCap_dataset"
-        },
-        {
-            "Adani Solar": "AmbitionBox",
-            "Adani Total Gas": "companiesMarketCap_dataset"
-        },
-        {
-            "Advantech Co. Ltd": "disfold-com",
-            "Advantest": "ft-com"
-        },
-        {
-            "Agora, Inc.": "valueToday_dataset",
-            "Agora.io": "companiesMarketCap_dataset"
-        },
-        {
-            "Airports of Thailand": "MalPatSaj-forbes-com",
-            "Airports of Thailand Public Company Ltd": "disfold-com"
-        },
-        {
-            "Alchemy": "DDD-cbinsight-com",
-            "Alchemy Careers": "DDD-teamblind-com"
-        },
-        {
-            "Alliance Healthcare Group Ltd": "disfold-com",
-            "Alliance Healthcare Italia Distribuzione Spa": "hitHorizons_dataset"
-        },
-        {
-            "Alphabet Inc": "output_globaldata",
-            "Alphamab Oncology": "valueToday_dataset"
-        },
-        {
-            "Amadeus Careers": "DDD-teamblind-com",
-            "Amadeus Fire AG": "disfold-com"
-        },
-        {
-            "American Precoat": "AmbitionBox",
-            "American Public Education": "companiesMarketCap_dataset"
-        },
-        {
-            "Andhra Bank": "valueToday_dataset",
-            "Andhra Paper": "AmbitionBox"
-        },
-        {
-            "Applifting": "ft-com",
-            "Applovin": "companiesMarketCap_dataset"
-        },
-        {
-            "Arca Continental": "MalPatSaj-forbes-com",
-            "Arca Continental, S.A.B. de C.V.": "disfold-com"
-        },
-        {
-            "Asahi": "campaignindia",
-            "Asahi Group": "companiesMarketCap_dataset"
-        },
-        {
-            "Atlas Corp.": "valueToday_dataset",
-            "Atlas Cycles": "AmbitionBox"
-        },
-        {
-            "Autogrill": "valueToday_dataset",
-            "Autogrill Italia Spa": "hitHorizons_dataset"
-        },
-        {
-            "BAIC Motor": "MalPatSaj-forbes-com",
-            "BAIC Motor Corp Ltd": "disfold-com"
-        },
-        {
-            "Balaji Telefilms": "companiesMarketCap_dataset",
-            "Balaji Wafers": "AmbitionBox"
-        },
-        {
-            "Bangkok Airways": "companiesMarketCap_dataset",
-            "Bangkok Airways Public Company Ltd": "disfold-com"
-        },
-        {
-            "Bank Ozk": "valueToday_dataset",
-            "Bank Pekao": "MalPatSaj-forbes-com"
-        },
-        {
-            "Bankfinancial": "companiesMarketCap_dataset",
-            "Bankia": "valueToday_dataset"
-        },
-        {
-            "Bechtel Corp": "output_globaldata",
-            "Bechtle": "MalPatSaj-wikipedia-org"
-        },
-        {
-            "Beneteau": "valueToday_dataset",
-            "Benetti": "MalPatSaj-wikipedia-org"
-        },
-        {
-            "Bid Corp Ltd": "output_globaldata",
-            "Bid Corporation": "valueToday_dataset"
-        },
-        {
-            "Biotest": "companiesMarketCap_dataset",
-            "Biotherm": "campaignindia"
-        },
-        {
-            "Bnp Paribas": "companiesMarketCap_dataset",
-            "Bnp Paribas 3 Step It": "hitHorizons_dataset"
-        },
-        {
-            "Borussia Dortmund": "companiesMarketCap_dataset",
-            "Borussia Dortmund GmbH & Co KGaA": "disfold-com"
-        },
-        {
-            "Bridgestone Corporation": "valueToday_dataset",
-            "Bridgestone Europe Nv Sa": "hitHorizons_dataset"
-        },
-        {
-            "Brookfield Infrastructure Partners LP": "output_globaldata",
-            "Brookfield Office Properties": "valueToday_dataset"
-        },
-        {
-            "C.H. Robinson": "MalPatSaj-forbes-com",
-            "C.H. Robinson Worldwide Inc": "output_globaldata"
-        },
-        {
-            "CMC Markets plc": "disfold-com",
-            "CMC Materials Inc": "output_globaldata"
-        },
-        {
-            "Cadence Bancorporation": "valueToday_dataset",
-            "Cadence Bank": "MalPatSaj-forbes-com"
-        },
-        {
-            "Capelli": "disfold-com",
-            "Capelli For You": "ft-com"
-        },
-        {
-            "Cargoair": "MalPatSaj-wikipedia-org",
-            "Cargojet": "companiesMarketCap_dataset"
-        },
-        {
-            "Celebrity Cruises": "AmbitionBox",
-            "Celeritas": "ft-com"
-        },
-        {
-            "Cepo": "ft-com",
-            "Cepsa": "MalPatSaj-wikipedia-org"
-        },
-        {
-            "Chico's": "companiesMarketCap_dataset",
-            "Chico's FAS Inc": "output_globaldata"
-        },
-        {
-            "China Gas": "companiesMarketCap_dataset",
-            "China Gas Holdings": "MalPatSaj-forbes-com"
-        },
-        {
-            "China Railway Group Ltd": "output_globaldata",
-            "China Railway Hi-tech Industry Corp Ltd": "disfold-com"
-        },
-        {
-            "China Zheshang Bank Co. Ltd": "valueToday_dataset",
-            "China Zhongwang Holdings Ltd": "output_globaldata"
-        },
-        {
-            "Ci&t": "companiesMarketCap_dataset",
-            "Ci&t Inc": "valueToday_dataset"
-        },
-        {
-            "Citadele Banka": "MalPatSaj-wikipedia-org",
-            "Citadelo": "ft-com"
-        },
-        {
-            "ClickUp": "DDD-cbinsight-com",
-            "Clicks Group": "companiesMarketCap_dataset"
-        },
-        {
-            "Codere, SA": "disfold-com",
-            "Codete": "ft-com"
-        },
-        {
-            "Collector AB": "disfold-com",
-            "Collectors Universe": "valueToday_dataset"
-        },
-        {
-            "Compagnie de L\u2019arc Atlantique": "ft-com",
-            "Compagnie de Saint-Gobain": "output_globaldata"
-        },
-        {
-            "Connect Broadband": "AmbitionBox",
-            "Connect Group": "ft-com"
-        },
-        {
-            "Copado": "DDD-cbinsight-com",
-            "Copart": "valueToday_dataset"
-        },
-        {
-            "Countryside Partnerships Plc": "output_globaldata",
-            "Countryside Properties": "valueToday_dataset"
-        },
-        {
-            "Cream Team": "ft-com",
-            "Creambell": "AmbitionBox"
-        },
-        {
-            "Cummins": "valueToday_dataset",
-            "Cummins Careers": "DDD-teamblind-com"
-        },
-        {
-            "DIGITAL LEDGER OU": "wissel-aziende-info-clipper-com",
-            "DIGITAL TRIO LTD": "output_govuk_bigsize"
-        },
-        {
-            "Dalmia Bharat Ltd": "output_globaldata",
-            "Dalmia Bharat Sugar & Industries": "AmbitionBox"
-        },
-        {
-            "DealerOn Careers": "DDD-teamblind-com",
-            "Dealernet": "ft-com"
-        },
-        {
-            "Denso": "MalPatSaj-forbes-com",
-            "Denso Corp": "output_globaldata"
-        },
-        {
-            "Digital Domain": "companiesMarketCap_dataset",
-            "Digital Garage": "valueToday_dataset"
-        },
-        {
-            "Docgo": "companiesMarketCap_dataset",
-            "Dock": "DDD-cbinsight-com"
-        },
-        {
-            "Dormakaba": "companiesMarketCap_dataset",
-            "Dormakaba Holding AG": "output_globaldata"
-        },
-        {
-            "Dxy": "valueToday_dataset",
-            "Dxy.cn": "DDD-cbinsight-com"
-        },
-        {
-            "EaseMyTrip.com": "AmbitionBox",
-            "Easemytrip": "companiesMarketCap_dataset"
-        },
-        {
-            "El.en": "valueToday_dataset",
-            "El.en. Spa": "hitHorizons_dataset"
-        },
-        {
-            "Electrolux Group": "MalPatSaj-forbes-com",
-            "Electrolux Italia Spa": "hitHorizons_dataset"
-        },
-        {
-            "Empire State Bank Careers": "DDD-teamblind-com",
-            "Empire State Realty Op": "valueToday_dataset"
-        },
-        {
-            "Energean plc": "disfold-com",
-            "Energetic": "ft-com"
-        },
-        {
-            "Ericpol": "MalPatSaj-wikipedia-org",
-            "Ericsson": "MalPatSaj-forbes-com"
-        },
-        {
-            "Exl Service Sez Bpo Solutions": "AmbitionBox",
-            "ExlService Holdings Inc": "output_globaldata"
-        },
-        {
-            "FLSmidth": "AmbitionBox",
-            "FLSmidth & Co A-S": "disfold-com"
-        },
-        {
-            "Fashion Commerce": "ft-com",
-            "Fashion TV": "AmbitionBox"
-        },
-        {
-            "Figure Careers": "DDD-teamblind-com",
-            "Figure Technologies": "valueToday_dataset"
-        },
-        {
-            "Firefly AB": "disfold-com",
-            "Firefly Aerospace": "DDD-cbinsight-com"
-        },
-        {
-            "FirstPhone": "ft-com",
-            "FirstRand": "MalPatSaj-forbes-com"
-        },
-        {
-            "Fortis Healthcare": "companiesMarketCap_dataset",
-            "Fortis Hospitals": "AmbitionBox"
-        },
-        {
-            "Franco-nevada": "companiesMarketCap_dataset",
-            "Franco-nevada Corporation": "valueToday_dataset"
-        },
-        {
-            "Fuji Oil Co Ltd": "output_globaldata",
-            "Fuji Oil Holdings": "valueToday_dataset"
-        },
-        {
-            "GREEN PARK RENOVATIONS LTD": "output_govuk_bigsize",
-            "GREEN POWER INTERNATIONAL": "AmbitionBox"
-        },
-        {
-            "Gati": "companiesMarketCap_dataset",
-            "Gati kwe": "AmbitionBox"
-        },
-        {
-            "Genius Group": "companiesMarketCap_dataset",
-            "Genius Progetti": "ft-com"
-        },
-        {
-            "Global Partners Lp": "companiesMarketCap_dataset",
-            "Global Payments": "valueToday_dataset"
-        },
-        {
-            "Golden Star Ferries": "MalPatSaj-wikipedia-org",
-            "Golden Star Resources Ltd.": "disfold-com"
-        },
-        {
-            "Graphite India": "valueToday_dataset",
-            "Graphite One, Inc.": "disfold-com"
-        },
-        {
-            "Grindrod Ltd": "disfold-com",
-            "Grindrod Shipping": "companiesMarketCap_dataset"
-        },
-        {
-            "Groupe Seb": "AmbitionBox",
-            "Groupe Tera SACA": "disfold-com"
-        },
-        {
-            "Gsretail": "valueToday_dataset",
-            "Gsrtc": "AmbitionBox"
-        },
-        {
-            "HKScan Corp": "output_globaldata",
-            "HKScan Oyj": "disfold-com"
-        },
-        {
-            "Harvey Fresh": "campaignindia",
-            "Harvey Norman": "companiesMarketCap_dataset"
-        },
-        {
-            "Heidelberg Pharma AG": "disfold-com",
-            "HeidelbergCement": "MalPatSaj-wikipedia-org"
-        },
-        {
-            "Heritage Foods": "AmbitionBox",
-            "Heritage Insurance": "companiesMarketCap_dataset"
-        },
-        {
-            "Hitachi Ltd": "output_globaldata",
-            "Hitachi MGRM Net": "AmbitionBox"
-        },
-        {
-            "Horiba": "valueToday_dataset",
-            "Horiba India": "AmbitionBox"
-        },
-        {
-            "Huber Suhner Electronics": "AmbitionBox",
-            "Huber+Suhner AG": "disfold-com"
-        },
-        {
-            "Hypera SA": "disfold-com",
-            "Hyperchain": "DDD-cbinsight-com"
-        },
-        {
-            "INTERPLEX": "AmbitionBox",
-            "INTERPOLIMERI SPA": "wissel-aziende-info-clipper-com"
-        },
-        {
-            "Imprecom": "ft-com",
-            "Impresa": "MalPatSaj-wikipedia-org"
-        },
-        {
-            "Indigo Ag": "DDD-cbinsight-com",
-            "Indigo Ag Careers": "DDD-teamblind-com"
-        },
-        {
-            "Infogene": "ft-com",
-            "Infojini": "AmbitionBox"
-        },
-        {
-            "Insidemarketing": "ft-com",
-            "Insider": "DDD-cbinsight-com"
-        },
-        {
-            "Intellicheck": "companiesMarketCap_dataset",
-            "Intellienergy": "ft-com"
-        },
-        {
-            "Interroll": "companiesMarketCap_dataset",
-            "Interroll Holding AG": "disfold-com"
-        },
-        {
-            "Isprava": "ft-com",
-            "Isracard": "valueToday_dataset"
-        },
-        {
-            "Japfa Comfeed": "AmbitionBox",
-            "Japfa Ltd": "disfold-com"
-        },
-        {
-            "Johnson Lifts": "AmbitionBox",
-            "Johnson Matthey": "MalPatSaj-forbes-com"
-        },
-        {
-            "KDDI": "MalPatSaj-forbes-com",
-            "KDDI Corp": "output_globaldata"
-        },
-        {
-            "Kalyan Jewellers": "AmbitionBox",
-            "Kalyan Jewellers India Limited": "valueToday_dataset"
-        },
-        {
-            "Katerra": "AmbitionBox",
-            "Katerra Careers": "DDD-teamblind-com"
-        },
-        {
-            "Killam Apartment Real Estate Investment Trust": "disfold-com",
-            "Killam Apartment Reit": "companiesMarketCap_dataset"
-        },
-        {
-            "Kokuyo": "valueToday_dataset",
-            "Kokuyo Camlin": "AmbitionBox"
-        },
-        {
-            "Kothari Medical Centre": "AmbitionBox",
-            "Kothari Petrochemicals Ltd": "disfold-com"
-        },
-        {
-            "Kyndryl": "companiesMarketCap_dataset",
-            "Kyndryl Holdings": "MalPatSaj-forbes-com"
-        },
-        {
-            "Lagardere Sca": "valueToday_dataset",
-            "Lagard\u00e8re Group": "MalPatSaj-wikipedia-org"
-        },
-        {
-            "Lending Works": "ft-com",
-            "LendingKart": "AmbitionBox"
-        },
-        {
-            "Liberty Global plc": "output_globaldata",
-            "Liberty Gold Corp.": "disfold-com"
-        },
-        {
-            "Lotto24": "disfold-com",
-            "Lottoland": "ft-com"
-        },
-        {
-            "Mahindra Logistics": "companiesMarketCap_dataset",
-            "Mahindra Retail": "AmbitionBox"
-        },
-        {
-            "Marathon Electric India": "AmbitionBox",
-            "Marathon Gold": "companiesMarketCap_dataset"
-        },
-        {
-            "Maruti": "campaignindia",
-            "Maruti Suzuki": "AmbitionBox"
-        },
-        {
-            "Mayfair Gold Corp": "disfold-com",
-            "Mayfair Hotels & Resorts": "AmbitionBox"
-        },
-        {
-            "Megaport": "valueToday_dataset",
-            "Megaport Limited": "disfold-com"
-        },
-        {
-            "Merus": "companiesMarketCap_dataset",
-            "Merus N.V.": "disfold-com"
-        },
-        {
-            "Midea": "campaignindia",
-            "Midea Group": "MalPatSaj-forbes-com"
-        },
-        {
-            "Mirae Asset Securities Co., Ltd.": "output_globaldata",
-            "Miraeasset Maps REIT 1 Co. Ltd": "disfold-com"
-        },
-        {
-            "Mitsui Sugar Co. Ltd": "disfold-com",
-            "Mitsui-Soko Holdings Co Ltd": "output_globaldata"
-        },
-        {
-            "MoneyMe": "ft-com",
-            "MoneyMe Limited": "disfold-com"
-        },
-        {
-            "MphasiS Ltd": "output_globaldata",
-            "Mphasis": "ft-com"
-        },
-        {
-            "Myoung Shin India Automotive": "AmbitionBox",
-            "Myoung Shin Industrial": "valueToday_dataset"
-        },
-        {
-            "NTPC": "AmbitionBox",
-            "NTPC Ltd": "output_globaldata"
-        },
-        {
-            "National Bank Holdings Corporation": "valueToday_dataset",
-            "National Bank Of Canada": "companiesMarketCap_dataset"
-        },
-        {
-            "Natra": "MalPatSaj-wikipedia-org",
-            "Natura & Co": "valueToday_dataset"
-        },
-        {
-            "Neovasc": "companiesMarketCap_dataset",
-            "Neovaude": "ft-com"
-        },
-        {
-            "Netlink Trust": "companiesMarketCap_dataset",
-            "Netlinkz Limited": "disfold-com"
-        },
-        {
-            "Nhn Corp": "companiesMarketCap_dataset",
-            "Nhn Corporation": "valueToday_dataset"
-        },
-        {
-            "Nippon Express Holdings, Inc.": "disfold-com",
-            "Nippon Express Italia Spa": "hitHorizons_dataset"
-        },
-        {
-            "Nomura Co Ltd": "output_globaldata",
-            "Nomura Holdings": "valueToday_dataset"
-        },
-        {
-            "Northvolt": "DDD-cbinsight-com",
-            "Northwave": "ft-com"
-        },
-        {
-            "OMV AG": "output_globaldata",
-            "OMV Group": "company_social_urls"
-        },
-        {
-            "Olympus Airways": "MalPatSaj-wikipedia-org",
-            "Olympus Corp": "output_globaldata"
-        },
-        {
-            "Optimus Pharma": "AmbitionBox",
-            "Optimus S.A.": "MalPatSaj-wikipedia-org"
-        },
-        {
-            "Oriental Energy Co Ltd": "output_globaldata",
-            "Oriental Land": "companiesMarketCap_dataset"
-        },
-        {
-            "PAL GROUP Holdings CO. Ltd": "disfold-com",
-            "PAL Holdings Inc": "output_globaldata"
-        },
-        {
-            "PT Bumi Resources Tbk": "output_globaldata",
-            "PT Bumi Serpong Damai Tbk": "disfold-com"
-        },
-        {
-            "PZU": "MalPatSaj-wikipedia-org",
-            "PZU SA": "output_globaldata"
-        },
-        {
-            "Park Aerospace": "companiesMarketCap_dataset",
-            "Park Avenue": "campaignindia"
-        },
-        {
-            "Pavillon Holdings Ltd": "disfold-com",
-            "Pavillon noir": "ft-com"
-        },
-        {
-            "Perfect Corp.": "companiesMarketCap_dataset",
-            "Perfect Diary": "valueToday_dataset"
-        },
-        {
-            "Pharmaceutical job": "AmbitionBox",
-            "Pharmacia": "MalPatSaj-wikipedia-org"
-        },
-        {
-            "Piramal Pharma": "companiesMarketCap_dataset",
-            "Piramal Realty": "AmbitionBox"
-        },
-        {
-            "Pokarna": "AmbitionBox",
-            "Pokka": "campaignindia"
-        },
-        {
-            "Pool": "MalPatSaj-forbes-com",
-            "Pool Corp": "output_globaldata"
-        },
-        {
-            "Premier Oil plc": "disfold-com",
-            "Premier Plasmotec": "AmbitionBox"
-        },
-        {
-            "Progressive": "MalPatSaj-forbes-com",
-            "Progressive Corporation": "valueToday_dataset"
-        },
-        {
-            "Ptt Public Company": "valueToday_dataset",
-            "Public Bank": "company_social_urls"
-        },
-        {
-            "Qualitest": "AmbitionBox",
-            "Qualitest Careers": "DDD-teamblind-com"
-        },
-        {
-            "RADIODETECTION LIMITED": "wissel-aziende-info-clipper-com",
-            "RADIOS R US LIMITED": "output_govuk_bigsize"
-        },
-        {
-            "Raksul": "valueToday_dataset",
-            "Raksul, Inc.": "disfold-com"
-        },
-        {
-            "Razor Labs": "disfold-com",
-            "Razorpay": "DDD-cbinsight-com"
-        },
-        {
-            "Reliance Jio": "valueToday_dataset",
-            "Reliance Jio Infocomm Ltd": "output_globaldata"
-        },
-        {
-            "Rexceed": "ft-com",
-            "Rexel": "MalPatSaj-forbes-com"
-        },
-        {
-            "Rosneft": "MalPatSaj-forbes-com",
-            "Rosneft Oil Co": "output_globaldata"
-        },
-        {
-            "SGR": "ft-com",
-            "SGS": "MalPatSaj-forbes-com"
-        },
-        {
-            "Sace Spa": "hitHorizons_dataset",
-            "Sacee": "ft-com"
-        },
-        {
-            "Samsung SDI Co Ltd": "output_globaldata",
-            "Samsung SDS": "MalPatSaj-forbes-com"
-        },
-        {
-            "Sapphire Corp Ltd": "disfold-com",
-            "Sapphire Foods India": "AmbitionBox"
-        },
-        {
-            "Saudi Public Transport Company": "disfold-com",
-            "Saudi Real Estate Company": "valueToday_dataset"
-        },
-        {
-            "Schott Packaging": "ft-com",
-            "Schott Poonawalla": "AmbitionBox"
-        },
-        {
-            "Seiko Group Corp": "output_globaldata",
-            "Seiko Holdings Corp": "disfold-com"
-        },
-        {
-            "Sesa": "valueToday_dataset",
-            "Sesa Spa": "hitHorizons_dataset"
-        },
-        {
-            "Shanghai Jin Jiang Capital Company Ltd": "disfold-com",
-            "Shanghai Jin Jiang International Hotels Development": "valueToday_dataset"
-        },
-        {
-            "Shenzhen Minde Electronics Technology": "valueToday_dataset",
-            "Shenzhen Mindray Bio-Medical Electronics": "MalPatSaj-forbes-com"
-        },
-        {
-            "Siam City Cement (insee)": "companiesMarketCap_dataset",
-            "Siam City Cement Public Co Ltd": "output_globaldata"
-        },
-        {
-            "Silicon Laboratories Inc.": "disfold-com",
-            "Silicon Motion": "companiesMarketCap_dataset"
-        },
-        {
-            "Sixt Leasing SE": "disfold-com",
-            "Sixt SE": "output_globaldata"
-        },
-        {
-            "Smeg": "MalPatSaj-wikipedia-org",
-            "Smeg Spa": "hitHorizons_dataset"
-        },
-        {
-            "Sofidys": "ft-com",
-            "Sofina": "MalPatSaj-wikipedia-org"
-        },
-        {
-            "Sonder Holdings": "companiesMarketCap_dataset",
-            "SonderMind": "DDD-cbinsight-com"
-        },
-        {
-            "Sphere 3D Corp.": "disfold-com",
-            "Sphere 3d": "companiesMarketCap_dataset"
-        },
-        {
-            "Sprout Social": "companiesMarketCap_dataset",
-            "Sprout Solutions": "ft-com"
-        },
-        {
-            "Sterling Infosystems": "AmbitionBox",
-            "Sterling Infrastructure Inc": "output_globaldata"
-        },
-        {
-            "Straumann": "companiesMarketCap_dataset",
-            "Straumann Holding AG": "output_globaldata"
-        },
-        {
-            "Sundaram Motors": "AmbitionBox",
-            "Sundaram-clayton": "valueToday_dataset"
-        },
-        {
-            "Svolder AB": "disfold-com",
-            "Svolder Ab (publ)": "valueToday_dataset"
-        },
-        {
-            "SynapseIndia": "AmbitionBox",
-            "Synapsy": "ft-com"
-        },
-        {
-            "TELUS International (Cda) Inc.": "disfold-com",
-            "TELUS International Philippines": "AmbitionBox"
-        },
-        {
-            "Taimei Technology": "valueToday_dataset",
-            "Taimide Tech., Inc.": "disfold-com"
-        },
-        {
-            "Tata Metaliks": "AmbitionBox",
-            "Tata Motors": "valueToday_dataset"
-        },
-        {
-            "Tecan": "companiesMarketCap_dataset",
-            "Tecan Group": "valueToday_dataset"
-        },
-        {
-            "Telef\u00f3nica": "MalPatSaj-wikipedia-org",
-            "Telef\u00f3nica Chile SA": "disfold-com"
-        },
-        {
-            "Telstra": "AmbitionBox",
-            "Telstra Corp Ltd": "output_globaldata"
-        },
-        {
-            "Thales SA": "disfold-com",
-            "ThalesNano": "MalPatSaj-wikipedia-org"
-        },
-        {
-            "The Phoenix Holdings Ltd": "output_globaldata",
-            "The Phoenix Mills": "AmbitionBox"
-        },
-        {
-            "Thomson Digital": "AmbitionBox",
-            "Thomson Medical Group": "valueToday_dataset"
-        },
-        {
-            "Titan Art": "ft-com",
-            "Titan Cement": "MalPatSaj-wikipedia-org"
-        },
-        {
-            "Top Ramen": "campaignindia",
-            "Top Reform": "ft-com"
-        },
-        {
-            "Tradeweb": "companiesMarketCap_dataset",
-            "Tradeweb Markets": "valueToday_dataset"
-        },
-        {
-            "Tri Pointe Group": "valueToday_dataset",
-            "Tri Pointe Homes Inc": "output_globaldata"
-        },
-        {
-            "Twitter": "valueToday_dataset",
-            "Twitter Careers": "DDD-teamblind-com"
-        },
-        {
-            "UniCredit Bulbank": "MalPatSaj-wikipedia-org",
-            "UniCredit S.p.A.": "disfold-com"
-        },
-        {
-            "Unite Us": "DDD-cbinsight-com",
-            "Unitech": "AmbitionBox"
-        },
-        {
-            "Uniti": "companiesMarketCap_dataset",
-            "Uniti Group": "valueToday_dataset"
-        },
-        {
-            "Valvole Italia": "ft-com",
-            "Valvoline": "valueToday_dataset"
-        },
-        {
-            "Vedant Fashions": "AmbitionBox",
-            "Vedanta": "valueToday_dataset"
-        },
-        {
-            "Vimeo": "companiesMarketCap_dataset",
-            "Vimeo, Inc.": "valueToday_dataset"
-        },
-        {
-            "Viva Energy Group Limited": "disfold-com",
-            "Viva Energy Reit": "valueToday_dataset"
-        },
-        {
-            "Vroom": "companiesMarketCap_dataset",
-            "Vroom, Inc.": "valueToday_dataset"
-        },
-        {
-            "Weatherford": "AmbitionBox",
-            "Weatherford International": "companiesMarketCap_dataset"
+            "pairs": [
+                {
+                    "company-name": "1&1",
+                    "industry": [
+                        "Telecommunication",
+                        "Internet"
+                    ],
+                    "country": "Germany",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "1&1 AG",
+                    "industry": null,
+                    "country": "Germany",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "AMPLUS",
+                    "industry": "Technology",
+                    "country": "Japan",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "AMPLUS SOLAR",
+                    "industry": "Internet",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Accelerant",
+                    "industry": "Other",
+                    "country": "United Kingdom",
+                    "source": "DDD-cbinsight-com"
+                },
+                {
+                    "company-name": "Accelerate Diagnostics",
+                    "industry": [
+                        "Diagnostics and Testing"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Adani Solar",
+                    "industry": "Power",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Adani Total Gas",
+                    "industry": [
+                        "Energy",
+                        "Oil&Gas",
+                        "Utility companies"
+                    ],
+                    "country": "India",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Advantech Co. Ltd",
+                    "industry": null,
+                    "country": "Taiwan",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Advantest",
+                    "industry": "Industrial Goods",
+                    "country": "Japan",
+                    "source": "ft-com"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Agora, Inc.",
+                    "industry": "Software and IT",
+                    "country": "China",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Agora.io",
+                    "industry": [
+                        "Software",
+                        "Tech"
+                    ],
+                    "country": "China",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Airports of Thailand",
+                    "industry": null,
+                    "country": "Thailand",
+                    "source": "MalPatSaj-forbes-com"
+                },
+                {
+                    "company-name": "Airports of Thailand Public Company Ltd",
+                    "industry": null,
+                    "country": "Thailand",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Alchemy",
+                    "industry": "Fintech",
+                    "country": "United States",
+                    "source": "DDD-cbinsight-com"
+                },
+                {
+                    "company-name": "Alchemy Careers",
+                    "industry": "Computer Software",
+                    "country": "CA",
+                    "source": "DDD-teamblind-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Alliance Healthcare Group Ltd",
+                    "industry": null,
+                    "country": "Singapore",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Alliance Healthcare Italia Distribuzione Spa",
+                    "industry": "Wholesale Trade",
+                    "country": "ITALY",
+                    "source": "hitHorizons_dataset"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Alphabet Inc",
+                    "industry": "Technology and Communications",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "Alphamab Oncology",
+                    "industry": [
+                        "Healthcare",
+                        "Biotechnology"
+                    ],
+                    "country": "China",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Amadeus Careers",
+                    "industry": "Information Technology & Services",
+                    "country": "Spain",
+                    "source": "DDD-teamblind-com"
+                },
+                {
+                    "company-name": "Amadeus Fire AG",
+                    "industry": null,
+                    "country": "Germany",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "American Precoat",
+                    "industry": "Iron & Steel",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "American Public Education",
+                    "industry": [
+                        "Education"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Andhra Bank",
+                    "industry": [
+                        "Financial Services",
+                        "Banking Services"
+                    ],
+                    "country": "India",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Andhra Paper",
+                    "industry": "Pulp & Paper",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Applifting",
+                    "industry": "Technology",
+                    "country": "Czech Republic",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "Applovin",
+                    "industry": [
+                        "Software",
+                        "Tech"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Arca Continental",
+                    "industry": null,
+                    "country": "Mexico",
+                    "source": "MalPatSaj-forbes-com"
+                },
+                {
+                    "company-name": "Arca Continental, S.A.B. de C.V.",
+                    "industry": null,
+                    "country": "NL",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Asahi",
+                    "industry": "Beer",
+                    "country": null,
+                    "source": "campaignindia"
+                },
+                {
+                    "company-name": "Asahi Group",
+                    "industry": [
+                        "Beverages",
+                        "Alcoholic beverages"
+                    ],
+                    "country": "Japan",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Atlas Corp.",
+                    "industry": [
+                        "Financial Services",
+                        "Asset Management"
+                    ],
+                    "country": "Hong Kong",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Atlas Cycles",
+                    "industry": "Automobile",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Autogrill",
+                    "industry": [
+                        "Consumer Cyclical",
+                        "Restaurants"
+                    ],
+                    "country": "Italy",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Autogrill Italia Spa",
+                    "industry": "Retail Trade",
+                    "country": "ITALY",
+                    "source": "hitHorizons_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "BAIC Motor",
+                    "industry": null,
+                    "country": "China",
+                    "source": "MalPatSaj-forbes-com"
+                },
+                {
+                    "company-name": "BAIC Motor Corp Ltd",
+                    "industry": null,
+                    "country": "China",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Balaji Telefilms",
+                    "industry": [
+                        "Entertainment"
+                    ],
+                    "country": "India",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Balaji Wafers",
+                    "industry": "Food Processing",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Bangkok Airways",
+                    "industry": [
+                        "Airlines",
+                        "Travel",
+                        "Transportation"
+                    ],
+                    "country": "Thailand",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Bangkok Airways Public Company Ltd",
+                    "industry": null,
+                    "country": "Thailand",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Bank Ozk",
+                    "industry": [
+                        "Financial Services",
+                        "Banking Services"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Bank Pekao",
+                    "industry": null,
+                    "country": "Poland",
+                    "source": "MalPatSaj-forbes-com"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Bankfinancial",
+                    "industry": [
+                        "Banks",
+                        "Financial services"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Bankia",
+                    "industry": [
+                        "Financial Services",
+                        "Banking Services"
+                    ],
+                    "country": "Spain",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Bechtel Corp",
+                    "industry": "Construction",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "Bechtle",
+                    "industry": "Technology",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Beneteau",
+                    "industry": [
+                        "Consumer Cyclical",
+                        "Boats",
+                        "Leisure"
+                    ],
+                    "country": "France",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Benetti",
+                    "industry": "Industrials",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Bid Corp Ltd",
+                    "industry": "Wholesale",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "Bid Corporation",
+                    "industry": [
+                        "Consumer Defensive",
+                        "Food Chains / Distributor",
+                        "Food Service"
+                    ],
+                    "country": "South Africa",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Biotest",
+                    "industry": null,
+                    "country": "Germany",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Biotherm",
+                    "industry": "Skincare Product",
+                    "country": null,
+                    "source": "campaignindia"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Bnp Paribas",
+                    "industry": [
+                        "Banks",
+                        "Financial services",
+                        "CAC 40"
+                    ],
+                    "country": "France",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Bnp Paribas 3 Step It",
+                    "industry": "Services",
+                    "country": "ITALY",
+                    "source": "hitHorizons_dataset"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Borussia Dortmund",
+                    "industry": [
+                        "Football"
+                    ],
+                    "country": "Germany",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Borussia Dortmund GmbH & Co KGaA",
+                    "industry": null,
+                    "country": "Germany",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Bridgestone Corporation",
+                    "industry": [
+                        "Consumer Cyclical",
+                        "Automobile",
+                        "Automobile Parts",
+                        "Tyres"
+                    ],
+                    "country": "Japan",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Bridgestone Europe Nv Sa",
+                    "industry": "Manufacturing",
+                    "country": "ITALY",
+                    "source": "hitHorizons_dataset"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Brookfield Infrastructure Partners LP",
+                    "industry": "Construction",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "Brookfield Office Properties",
+                    "industry": [
+                        "Real Estate",
+                        "Property Investments",
+                        "Commercial Properties"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "C.H. Robinson",
+                    "industry": null,
+                    "country": "United States",
+                    "source": "MalPatSaj-forbes-com"
+                },
+                {
+                    "company-name": "C.H. Robinson Worldwide Inc",
+                    "industry": "Transport and Logistics",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "CMC Markets plc",
+                    "industry": null,
+                    "country": "United Kingdom",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "CMC Materials Inc",
+                    "industry": "Technology and Communications",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Cadence Bancorporation",
+                    "industry": [
+                        "Financial Services",
+                        "Banking Services"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Cadence Bank",
+                    "industry": null,
+                    "country": "United States",
+                    "source": "MalPatSaj-forbes-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Capelli",
+                    "industry": null,
+                    "country": "France",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Capelli For You",
+                    "industry": "Beauty",
+                    "country": "Italy",
+                    "source": "ft-com"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Cargoair",
+                    "industry": "Industrials",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                },
+                {
+                    "company-name": "Cargojet",
+                    "industry": [
+                        "Airlines",
+                        "Transportation"
+                    ],
+                    "country": "Canada",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Celebrity Cruises",
+                    "industry": "Travel & Tourism",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Celeritas",
+                    "industry": "Transport",
+                    "country": "Spain",
+                    "source": "ft-com"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Cepo",
+                    "industry": "Industrial Goods",
+                    "country": "Italy",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "Cepsa",
+                    "industry": "Oil & gas",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Chico's",
+                    "industry": [
+                        "Clothing",
+                        "Retail"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Chico's FAS Inc",
+                    "industry": "Retailing",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "China Gas",
+                    "industry": [
+                        "Oil&Gas",
+                        "Energy"
+                    ],
+                    "country": "China",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "China Gas Holdings",
+                    "industry": null,
+                    "country": "Hong Kong",
+                    "source": "MalPatSaj-forbes-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "China Railway Group Ltd",
+                    "industry": "Construction",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "China Railway Hi-tech Industry Corp Ltd",
+                    "industry": null,
+                    "country": "China",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "China Zheshang Bank Co. Ltd",
+                    "industry": [
+                        "Financial Services",
+                        "Banking Services",
+                        "Credit Cards",
+                        "Mortgage"
+                    ],
+                    "country": "China",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "China Zhongwang Holdings Ltd",
+                    "industry": "Metals and Mining",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Ci&t",
+                    "industry": [
+                        "Software",
+                        "Tech"
+                    ],
+                    "country": "Brazil",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Ci&t Inc",
+                    "industry": null,
+                    "country": null,
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Citadele Banka",
+                    "industry": "Financials",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                },
+                {
+                    "company-name": "Citadelo",
+                    "industry": "Cyber Security",
+                    "country": "Czech Republic",
+                    "source": "ft-com"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "ClickUp",
+                    "industry": "Internet software & services",
+                    "country": "United States",
+                    "source": "DDD-cbinsight-com"
+                },
+                {
+                    "company-name": "Clicks Group",
+                    "industry": [
+                        "Retail",
+                        "Pharmaceuticals",
+                        "Drugstore"
+                    ],
+                    "country": "South Africa",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Codere, SA",
+                    "industry": null,
+                    "country": "Spain",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Codete",
+                    "industry": "Technology",
+                    "country": "Poland",
+                    "source": "ft-com"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Collector AB",
+                    "industry": null,
+                    "country": "Sweden",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Collectors Universe",
+                    "industry": [
+                        "Industries",
+                        "Business Services"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Compagnie de L\u2019arc Atlantique",
+                    "industry": "Financial Services",
+                    "country": "France",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "Compagnie de Saint-Gobain",
+                    "industry": "Construction",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Connect Broadband",
+                    "industry": "Telecom",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Connect Group",
+                    "industry": "Travel & Leisure",
+                    "country": "Singapore",
+                    "source": "ft-com"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Copado",
+                    "industry": "Data management & analytics",
+                    "country": "United States",
+                    "source": "DDD-cbinsight-com"
+                },
+                {
+                    "company-name": "Copart",
+                    "industry": [
+                        "Industries",
+                        "Automobile Parts",
+                        "eCommerce",
+                        "Automobile",
+                        "Consumer Durables",
+                        "Business Services"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Countryside Partnerships Plc",
+                    "industry": "Construction",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "Countryside Properties",
+                    "industry": [
+                        "Consumer Cyclical",
+                        "Construction"
+                    ],
+                    "country": "UK",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Cream Team",
+                    "industry": "Beauty",
+                    "country": "Greece",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "Creambell",
+                    "industry": "FMCG",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Cummins",
+                    "industry": [
+                        "Industries",
+                        "Engineering Products",
+                        "Electrical Products",
+                        "Engines Manufacturing",
+                        "Machinery Manufacturing",
+                        "Energy",
+                        "Manufacturing",
+                        "Industry Machinery"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Cummins Careers",
+                    "industry": "Automotive",
+                    "country": "IN",
+                    "source": "DDD-teamblind-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "DIGITAL LEDGER OU",
+                    "industry": null,
+                    "country": "ESTONIA",
+                    "source": "wissel-aziende-info-clipper-com"
+                },
+                {
+                    "company-name": "DIGITAL TRIO LTD",
+                    "industry": "62020 - Information technology consultancy activities",
+                    "country": null,
+                    "source": "output_govuk_bigsize"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Dalmia Bharat Ltd",
+                    "industry": "Construction",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "Dalmia Bharat Sugar & Industries",
+                    "industry": "Food Processing",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "DealerOn Careers",
+                    "industry": "Marketing & Advertising",
+                    "country": "MD",
+                    "source": "DDD-teamblind-com"
+                },
+                {
+                    "company-name": "Dealernet",
+                    "industry": "Automobiles",
+                    "country": "Italy",
+                    "source": "ft-com"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Denso",
+                    "industry": null,
+                    "country": "Japan",
+                    "source": "MalPatSaj-forbes-com"
+                },
+                {
+                    "company-name": "Denso Corp",
+                    "industry": "Automotive",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Digital Domain",
+                    "industry": [
+                        "Entertainment"
+                    ],
+                    "country": "Hong Kong",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Digital Garage",
+                    "industry": [
+                        "Technology",
+                        "Software and IT"
+                    ],
+                    "country": "Japan",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Docgo",
+                    "industry": [
+                        "Healthcare"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Dock",
+                    "industry": "Fintech",
+                    "country": "Brazil",
+                    "source": "DDD-cbinsight-com"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Dormakaba",
+                    "industry": [
+                        "Security & Protection Services"
+                    ],
+                    "country": "Switzerland",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Dormakaba Holding AG",
+                    "industry": "Technology and Communications",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Dxy",
+                    "industry": null,
+                    "country": "China",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Dxy.cn",
+                    "industry": "Health",
+                    "country": "China",
+                    "source": "DDD-cbinsight-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "EaseMyTrip.com",
+                    "industry": "Internet",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Easemytrip",
+                    "industry": [
+                        "Online Travel",
+                        "Travel",
+                        "Internet",
+                        "Tech"
+                    ],
+                    "country": "India",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "El.en",
+                    "industry": [
+                        "Healthcare",
+                        "Medical Equipment"
+                    ],
+                    "country": "Italy",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "El.en. Spa",
+                    "industry": "Manufacturing",
+                    "country": "ITALY",
+                    "source": "hitHorizons_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Electrolux Group",
+                    "industry": null,
+                    "country": "Sweden",
+                    "source": "MalPatSaj-forbes-com"
+                },
+                {
+                    "company-name": "Electrolux Italia Spa",
+                    "industry": "Manufacturing",
+                    "country": "ITALY",
+                    "source": "hitHorizons_dataset"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Empire State Bank Careers",
+                    "industry": "Banking",
+                    "country": "NY",
+                    "source": "DDD-teamblind-com"
+                },
+                {
+                    "company-name": "Empire State Realty Op",
+                    "industry": [
+                        "Real Estate",
+                        "Property Investments"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Energean plc",
+                    "industry": null,
+                    "country": "United Kingdom",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Energetic",
+                    "industry": "Energy",
+                    "country": "Italy",
+                    "source": "ft-com"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Ericpol",
+                    "industry": "Technology",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                },
+                {
+                    "company-name": "Ericsson",
+                    "industry": null,
+                    "country": "Sweden",
+                    "source": "MalPatSaj-forbes-com"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Exl Service Sez Bpo Solutions",
+                    "industry": "BPO",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "ExlService Holdings Inc",
+                    "industry": "Technology and Communications",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "FLSmidth",
+                    "industry": "Industrial Machinery",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "FLSmidth & Co A-S",
+                    "industry": null,
+                    "country": "Denmark",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Fashion Commerce",
+                    "industry": "Ecommerce",
+                    "country": "Italy",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "Fashion TV",
+                    "industry": "Broadcasting",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Figure Careers",
+                    "industry": "Financial Services",
+                    "country": "CA",
+                    "source": "DDD-teamblind-com"
+                },
+                {
+                    "company-name": "Figure Technologies",
+                    "industry": [
+                        "Technology",
+                        "Software and IT"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Firefly AB",
+                    "industry": null,
+                    "country": "Sweden",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Firefly Aerospace",
+                    "industry": "Other",
+                    "country": "United States",
+                    "source": "DDD-cbinsight-com"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "FirstPhone",
+                    "industry": "Retail",
+                    "country": "Hungary",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "FirstRand",
+                    "industry": null,
+                    "country": "South Africa",
+                    "source": "MalPatSaj-forbes-com"
+                }
+            ],
+            "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Fortis Healthcare",
+                    "industry": [
+                        "Healthcare"
+                    ],
+                    "country": "India",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Fortis Hospitals",
+                    "industry": "Healthcare / Pharma",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Franco-nevada",
+                    "industry": [
+                        "Mining",
+                        "Investment",
+                        "Gold mining"
+                    ],
+                    "country": "Canada",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Franco-nevada Corporation",
+                    "industry": [
+                        "Basic Materials",
+                        "Mining",
+                        "Gold Mining",
+                        "Precious Metals",
+                        "Metals"
+                    ],
+                    "country": "Canada",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Fuji Oil Co Ltd",
+                    "industry": "Energy and Utilities",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "Fuji Oil Holdings",
+                    "industry": [
+                        "Consumer Defensive",
+                        "FMCG",
+                        "Package Foods",
+                        "Food Products"
+                    ],
+                    "country": "Japan",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "GREEN PARK RENOVATIONS LTD",
+                    "industry": "41100 - Development of building projects",
+                    "country": null,
+                    "source": "output_govuk_bigsize"
+                },
+                {
+                    "company-name": "GREEN POWER INTERNATIONAL",
+                    "industry": "Oil & Gas",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Gati",
+                    "industry": [
+                        "Courier"
+                    ],
+                    "country": "India",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Gati kwe",
+                    "industry": "Logistics",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Genius Group",
+                    "industry": [
+                        "Education"
+                    ],
+                    "country": "Singapore",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Genius Progetti",
+                    "industry": "Support Services",
+                    "country": "Italy",
+                    "source": "ft-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Global Partners Lp",
+                    "industry": [
+                        "Oil&Gas",
+                        "Energy"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Global Payments",
+                    "industry": [
+                        "Industries",
+                        "Digital Payment Solution Services",
+                        "Software and IT",
+                        "Software Products",
+                        "Business Services"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Golden Star Ferries",
+                    "industry": "Industrials",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                },
+                {
+                    "company-name": "Golden Star Resources Ltd.",
+                    "industry": null,
+                    "country": "ON",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Graphite India",
+                    "industry": [
+                        "Industries",
+                        "Electrical Products",
+                        "Capital Goods"
+                    ],
+                    "country": "India",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Graphite One, Inc.",
+                    "industry": null,
+                    "country": "BC",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Grindrod Ltd",
+                    "industry": null,
+                    "country": "South Africa",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Grindrod Shipping",
+                    "industry": [
+                        "Transportation",
+                        "Maritime transportation"
+                    ],
+                    "country": "Singapore",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Groupe Seb",
+                    "industry": "Consumer Electronics & Appliances",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Groupe Tera SACA",
+                    "industry": null,
+                    "country": "France",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Gsretail",
+                    "industry": [
+                        "Consumer Cyclical",
+                        "Retail"
+                    ],
+                    "country": "South Korea",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Gsrtc",
+                    "industry": "Urban Transport",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "HKScan Corp",
+                    "industry": "Consumer Packaged Goods",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "HKScan Oyj",
+                    "industry": null,
+                    "country": "Finland",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Harvey Fresh",
+                    "industry": "Fruit Juice",
+                    "country": null,
+                    "source": "campaignindia"
+                },
+                {
+                    "company-name": "Harvey Norman",
+                    "industry": [
+                        "Retail",
+                        "Furniture"
+                    ],
+                    "country": "Australia",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Heidelberg Pharma AG",
+                    "industry": null,
+                    "country": "Germany",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "HeidelbergCement",
+                    "industry": "Industrials",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Heritage Foods",
+                    "industry": "FMCG",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Heritage Insurance",
+                    "industry": [
+                        "Insurance"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Hitachi Ltd",
+                    "industry": "Technology and Communications",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "Hitachi MGRM Net",
+                    "industry": "IT Services & Consulting",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Horiba",
+                    "industry": [
+                        "Technology",
+                        "Technology Hardware and Instruments"
+                    ],
+                    "country": "Japan",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Horiba India",
+                    "industry": null,
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Huber Suhner Electronics",
+                    "industry": "Electrical Equipment",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Huber+Suhner AG",
+                    "industry": null,
+                    "country": "Switzerland",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Hypera SA",
+                    "industry": null,
+                    "country": "SP",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Hyperchain",
+                    "industry": "Fintech",
+                    "country": "China",
+                    "source": "DDD-cbinsight-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "INTERPLEX",
+                    "industry": null,
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "INTERPOLIMERI SPA",
+                    "industry": null,
+                    "country": "ITALY",
+                    "source": "wissel-aziende-info-clipper-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Imprecom",
+                    "industry": "Construction",
+                    "country": "Italy",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "Impresa",
+                    "industry": "Consumer services",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Indigo Ag",
+                    "industry": "Artificial intelligence",
+                    "country": "United States",
+                    "source": "DDD-cbinsight-com"
+                },
+                {
+                    "company-name": "Indigo Ag Careers",
+                    "industry": "Food & Beverages",
+                    "country": "MA",
+                    "source": "DDD-teamblind-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Infogene",
+                    "industry": "Management Consulting",
+                    "country": "France",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "Infojini",
+                    "industry": "IT Services & Consulting",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Insidemarketing",
+                    "industry": "Technology",
+                    "country": "Germany",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "Insider",
+                    "industry": "Internet software & services",
+                    "country": "Turkey",
+                    "source": "DDD-cbinsight-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Intellicheck",
+                    "industry": [
+                        "Software",
+                        "Tech"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Intellienergy",
+                    "industry": "Industrial Goods",
+                    "country": "Italy",
+                    "source": "ft-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Interroll",
+                    "industry": [
+                        "Manufacturing"
+                    ],
+                    "country": "Switzerland",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Interroll Holding AG",
+                    "industry": null,
+                    "country": "Switzerland",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Isprava",
+                    "industry": "Construction",
+                    "country": "India",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "Isracard",
+                    "industry": "Financial Services",
+                    "country": "Israel",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Japfa Comfeed",
+                    "industry": "Agriculture",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Japfa Ltd",
+                    "industry": null,
+                    "country": "Singapore",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Johnson Lifts",
+                    "industry": "Industrial Machinery",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Johnson Matthey",
+                    "industry": null,
+                    "country": "United Kingdom",
+                    "source": "MalPatSaj-forbes-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "KDDI",
+                    "industry": null,
+                    "country": "Japan",
+                    "source": "MalPatSaj-forbes-com"
+                },
+                {
+                    "company-name": "KDDI Corp",
+                    "industry": "Technology and Communications",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Kalyan Jewellers",
+                    "industry": "Metals & Mining",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Kalyan Jewellers India Limited",
+                    "industry": [
+                        "Luxury Goods",
+                        "Retail",
+                        "Jewellery"
+                    ],
+                    "country": "India",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Katerra",
+                    "industry": "Engineering & Construction",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Katerra Careers",
+                    "industry": "Construction",
+                    "country": "CA",
+                    "source": "DDD-teamblind-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Killam Apartment Real Estate Investment Trust",
+                    "industry": null,
+                    "country": "NS",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Killam Apartment Reit",
+                    "industry": [
+                        "REITs",
+                        "Real estate",
+                        "Investment"
+                    ],
+                    "country": "Canada",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Kokuyo",
+                    "industry": [
+                        "Industries",
+                        "Furniture",
+                        "Pens & Stationery",
+                        "Toys",
+                        "Office Equipment"
+                    ],
+                    "country": "Japan",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Kokuyo Camlin",
+                    "industry": "FMCG",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Kothari Medical Centre",
+                    "industry": "Healthcare",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Kothari Petrochemicals Ltd",
+                    "industry": null,
+                    "country": "India",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Kyndryl",
+                    "industry": [
+                        "IT services"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Kyndryl Holdings",
+                    "industry": null,
+                    "country": "United States",
+                    "source": "MalPatSaj-forbes-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Lagardere Sca",
+                    "industry": [
+                        "Consumer Cyclical",
+                        "Media",
+                        "Broadcasting",
+                        "Radio Broadcasting",
+                        "Television Services",
+                        "News Papers / Magazines",
+                        "Retail",
+                        "Conglomerate",
+                        "Multi-Sector",
+                        "Advertising",
+                        "Entertainment",
+                        "Travel and Transport"
+                    ],
+                    "country": "France",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Lagard\u00e8re Group",
+                    "industry": "Consumer services",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Lending Works",
+                    "industry": "Fintech",
+                    "country": "UK",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "LendingKart",
+                    "industry": "FinTech",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Liberty Global plc",
+                    "industry": "Technology and Communications",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "Liberty Gold Corp.",
+                    "industry": null,
+                    "country": "BC",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Linux",
+                    "industry": "Computer Software",
+                    "country": null,
+                    "source": "campaignindia"
+                },
+                {
+                    "company-name": "Linx SA",
+                    "industry": null,
+                    "country": "SP",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Lotto24",
+                    "industry": null,
+                    "country": "Germany",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Lottoland",
+                    "industry": "Games industry",
+                    "country": "United Kingdom",
+                    "source": "ft-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "MNC Group",
+                    "industry": "Investment Banking / Venture Capital / Private Equity",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "MNF Group Limited",
+                    "industry": null,
+                    "country": "NSW",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Mahindra Logistics",
+                    "industry": null,
+                    "country": "India",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Mahindra Retail",
+                    "industry": "Retail",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Marathon Electric India",
+                    "industry": "Semiconductors",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Marathon Gold",
+                    "industry": [
+                        "Mining",
+                        "Gold mining"
+                    ],
+                    "country": "Canada",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Maruti",
+                    "industry": "Car/Automobile",
+                    "country": null,
+                    "source": "campaignindia"
+                },
+                {
+                    "company-name": "Maruti Suzuki",
+                    "industry": "Automobile",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Mayfair Gold Corp",
+                    "industry": null,
+                    "country": "ON",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Mayfair Hotels & Resorts",
+                    "industry": "Hospitality",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Megaport",
+                    "industry": [
+                        "Technology",
+                        "Software and IT Infrastructure"
+                    ],
+                    "country": "Australia",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Megaport Limited",
+                    "industry": null,
+                    "country": "QLD",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Merus",
+                    "industry": [
+                        "Biotech",
+                        "Pharmaceuticals"
+                    ],
+                    "country": "Netherlands",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Merus N.V.",
+                    "industry": null,
+                    "country": "Netherlands",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Midea",
+                    "industry": "White Goods",
+                    "country": null,
+                    "source": "campaignindia"
+                },
+                {
+                    "company-name": "Midea Group",
+                    "industry": null,
+                    "country": "China",
+                    "source": "MalPatSaj-forbes-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Mirae Asset Securities Co., Ltd.",
+                    "industry": "Financial Services",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "Miraeasset Maps REIT 1 Co. Ltd",
+                    "industry": null,
+                    "country": "South Korea",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Mitsui Sugar Co. Ltd",
+                    "industry": null,
+                    "country": "Japan",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Mitsui-Soko Holdings Co Ltd",
+                    "industry": "Transport and Logistics",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "MoneyMe",
+                    "industry": "Fintech",
+                    "country": "Australia",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "MoneyMe Limited",
+                    "industry": null,
+                    "country": "NSW",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "MphasiS Ltd",
+                    "industry": "Technology and Communications",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "Mphasis",
+                    "industry": "Technology",
+                    "country": "India",
+                    "source": "ft-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Myoung Shin India Automotive",
+                    "industry": "Auto Components",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Myoung Shin Industrial",
+                    "industry": [
+                        "Consumer Cyclical",
+                        "Automobile Parts"
+                    ],
+                    "country": "South Korea",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "NTPC",
+                    "industry": "Power",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "NTPC Ltd",
+                    "industry": "Power",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "National Bank Holdings Corporation",
+                    "industry": [
+                        "Financial Services",
+                        "Banking Services"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "National Bank Of Canada",
+                    "industry": [
+                        "Banks",
+                        "Financial services"
+                    ],
+                    "country": "Canada",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Natra",
+                    "industry": "Conglomerates",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                },
+                {
+                    "company-name": "Natura & Co",
+                    "industry": [
+                        "Cosmetics",
+                        "FMCG"
+                    ],
+                    "country": "Brazil",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Neovasc",
+                    "industry": [
+                        "Medical devices"
+                    ],
+                    "country": "Canada",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Neovaude",
+                    "industry": "Sales & Marketing",
+                    "country": "Germany",
+                    "source": "ft-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Netlink Trust",
+                    "industry": [
+                        "Telecommunication"
+                    ],
+                    "country": "Singapore",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Netlinkz Limited",
+                    "industry": null,
+                    "country": "NSW",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Nhn Corp",
+                    "industry": [
+                        "Video games",
+                        "Entertainment"
+                    ],
+                    "country": "South Korea",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Nhn Corporation",
+                    "industry": [
+                        "Communication Services",
+                        "Gaming",
+                        "Software and IT"
+                    ],
+                    "country": "South Korea",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Nippon Express Holdings, Inc.",
+                    "industry": null,
+                    "country": "Japan",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Nippon Express Italia Spa",
+                    "industry": "Transportation, Communications, Electric, Gas, and Sanitary Services",
+                    "country": "ITALY",
+                    "source": "hitHorizons_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Nomura Co Ltd",
+                    "industry": "Construction",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "Nomura Holdings",
+                    "industry": [
+                        "Financial Services",
+                        "Asset Management",
+                        "Investments",
+                        "Securities",
+                        "Banking Services",
+                        "Stock Markets, Trading, Capital Markets"
+                    ],
+                    "country": "Japan",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Northvolt",
+                    "industry": "Other",
+                    "country": "Sweden",
+                    "source": "DDD-cbinsight-com"
+                },
+                {
+                    "company-name": "Northwave",
+                    "industry": "Cyber Security",
+                    "country": "Netherlands",
+                    "source": "ft-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "OMV AG",
+                    "industry": "Energy and Utilities",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "OMV Group",
+                    "industry": null,
+                    "country": null,
+                    "source": "company_social_urls"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Olympus Airways",
+                    "industry": "Consumer services",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                },
+                {
+                    "company-name": "Olympus Corp",
+                    "industry": "Medical Equipment",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Optimus Pharma",
+                    "industry": "Healthcare / Pharma",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Optimus S.A.",
+                    "industry": "Technology",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Oriental Energy Co Ltd",
+                    "industry": "Energy and Utilities",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "Oriental Land",
+                    "industry": [
+                        "Entertainment",
+                        "Hotels",
+                        "Travel"
+                    ],
+                    "country": "Japan",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "PAL GROUP Holdings CO. Ltd",
+                    "industry": null,
+                    "country": "Japan",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "PAL Holdings Inc",
+                    "industry": "Transport and Logistics",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "PT Bumi Resources Tbk",
+                    "industry": "Metals and Mining",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "PT Bumi Serpong Damai Tbk",
+                    "industry": null,
+                    "country": "Indonesia",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "PZU",
+                    "industry": "Financials",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                },
+                {
+                    "company-name": "PZU SA",
+                    "industry": "Financial Services",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Park Aerospace",
+                    "industry": [
+                        "Aerospace"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Park Avenue",
+                    "industry": "Personal Care/Men\u2019s Shoes",
+                    "country": null,
+                    "source": "campaignindia"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Pavillon Holdings Ltd",
+                    "industry": null,
+                    "country": "Singapore",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Pavillon noir",
+                    "industry": "Media",
+                    "country": "France",
+                    "source": "ft-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Perfect Corp.",
+                    "industry": [
+                        "Software",
+                        "Tech",
+                        "Cosmetics and Beauty"
+                    ],
+                    "country": "Taiwan",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Perfect Diary",
+                    "industry": null,
+                    "country": "China",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Pharmaceutical job",
+                    "industry": "Pharma",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Pharmacia",
+                    "industry": "Health care",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Piramal Pharma",
+                    "industry": [
+                        "Pharmaceuticals",
+                        "Biotech"
+                    ],
+                    "country": "India",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Piramal Realty",
+                    "industry": "Real Estate",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Pokarna",
+                    "industry": "Building Material",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Pokka",
+                    "industry": "Beverage",
+                    "country": null,
+                    "source": "campaignindia"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Pool",
+                    "industry": null,
+                    "country": "United States",
+                    "source": "MalPatSaj-forbes-com"
+                },
+                {
+                    "company-name": "Pool Corp",
+                    "industry": "Wholesale",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Premier Oil plc",
+                    "industry": null,
+                    "country": "United Kingdom",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Premier Plasmotec",
+                    "industry": "Petrochemicals",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Progressive",
+                    "industry": null,
+                    "country": "United States",
+                    "source": "MalPatSaj-forbes-com"
+                },
+                {
+                    "company-name": "Progressive Corporation",
+                    "industry": [
+                        "Financial Services",
+                        "Insurance"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Ptt Public Company",
+                    "industry": [
+                        "Energy",
+                        "Oil and Gas",
+                        "Coal Mining",
+                        "Natural Gas Generation",
+                        "Petrochemicals"
+                    ],
+                    "country": "Thailand",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Public Bank",
+                    "industry": null,
+                    "country": null,
+                    "source": "company_social_urls"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Qualitest",
+                    "industry": "IT Services & Consulting",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Qualitest Careers",
+                    "industry": "Information Technology & Services",
+                    "country": "United Kingdom",
+                    "source": "DDD-teamblind-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "RADIODETECTION LIMITED",
+                    "industry": null,
+                    "country": "UNITED KINGDOM",
+                    "source": "wissel-aziende-info-clipper-com"
+                },
+                {
+                    "company-name": "RADIOS R US LIMITED",
+                    "industry": "82990 - Other business support service activities not elsewhere classified",
+                    "country": null,
+                    "source": "output_govuk_bigsize"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Raksul",
+                    "industry": [
+                        "Industries",
+                        "Printing",
+                        "Business Services"
+                    ],
+                    "country": "Japan",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Raksul, Inc.",
+                    "industry": null,
+                    "country": "Japan",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Razor Labs",
+                    "industry": null,
+                    "country": "Israel",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Razorpay",
+                    "industry": "Fintech",
+                    "country": "India",
+                    "source": "DDD-cbinsight-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Reliance Jio",
+                    "industry": [
+                        "Telecom",
+                        "Mobile Services",
+                        "Internet Providers"
+                    ],
+                    "country": "India",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Reliance Jio Infocomm Ltd",
+                    "industry": "Technology and Communications",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Rexceed",
+                    "industry": "Construction",
+                    "country": "Japan",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "Rexel",
+                    "industry": null,
+                    "country": "France",
+                    "source": "MalPatSaj-forbes-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Rosneft",
+                    "industry": null,
+                    "country": "Russia",
+                    "source": "MalPatSaj-forbes-com"
+                },
+                {
+                    "company-name": "Rosneft Oil Co",
+                    "industry": "Energy and Utilities",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "SGR",
+                    "industry": "Pharmaceuticals",
+                    "country": "India",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "SGS",
+                    "industry": null,
+                    "country": "Switzerland",
+                    "source": "MalPatSaj-forbes-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Sace Spa",
+                    "industry": "Finance, Insurance, and Real Estate",
+                    "country": "ITALY",
+                    "source": "hitHorizons_dataset"
+                },
+                {
+                    "company-name": "Sacee",
+                    "industry": "Support Services",
+                    "country": "Italy",
+                    "source": "ft-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Samsung SDI Co Ltd",
+                    "industry": "Technology and Communications",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "Samsung SDS",
+                    "industry": null,
+                    "country": "South Korea",
+                    "source": "MalPatSaj-forbes-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Sapphire Corp Ltd",
+                    "industry": null,
+                    "country": "Singapore",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Sapphire Foods India",
+                    "industry": "Retail",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Saudi Public Transport Company",
+                    "industry": null,
+                    "country": "Saudi Arabia",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Saudi Real Estate Company",
+                    "industry": "Real Estate",
+                    "country": "Saudi Arabia",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Schott Packaging",
+                    "industry": "Ecommerce",
+                    "country": "UK",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "Schott Poonawalla",
+                    "industry": "Packaging",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Seiko Group Corp",
+                    "industry": "Consumer Packaged Goods",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "Seiko Holdings Corp",
+                    "industry": null,
+                    "country": "Japan",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Sesa",
+                    "industry": [
+                        "Technology",
+                        "Software and IT"
+                    ],
+                    "country": "Italy",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Sesa Spa",
+                    "industry": "Services",
+                    "country": "ITALY",
+                    "source": "hitHorizons_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Shanghai Jin Jiang Capital Company Ltd",
+                    "industry": null,
+                    "country": "China",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Shanghai Jin Jiang International Hotels Development",
+                    "industry": [
+                        "Consumer Cyclical",
+                        "Hotels",
+                        "Restaurants"
+                    ],
+                    "country": "China",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Shenzhen Minde Electronics Technology",
+                    "industry": [
+                        "Industries",
+                        "Electronics"
+                    ],
+                    "country": "China",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Shenzhen Mindray Bio-Medical Electronics",
+                    "industry": null,
+                    "country": "China",
+                    "source": "MalPatSaj-forbes-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Siam City Cement (insee)",
+                    "industry": [
+                        "Cement",
+                        "Building materials"
+                    ],
+                    "country": "Thailand",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Siam City Cement Public Co Ltd",
+                    "industry": "Construction",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Silicon Laboratories Inc.",
+                    "industry": null,
+                    "country": "TX",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Silicon Motion",
+                    "industry": [
+                        "Semiconductors",
+                        "Tech",
+                        "Tech Hardware"
+                    ],
+                    "country": "Hong Kong",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Sixt Leasing SE",
+                    "industry": null,
+                    "country": "Germany",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Sixt SE",
+                    "industry": "Transport and Logistics",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Smeg",
+                    "industry": "Consumer goods",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                },
+                {
+                    "company-name": "Smeg Spa",
+                    "industry": "Manufacturing",
+                    "country": "ITALY",
+                    "source": "hitHorizons_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Sofidys",
+                    "industry": "Technology",
+                    "country": "France",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "Sofina",
+                    "industry": "Financials",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Sonder Holdings",
+                    "industry": [
+                        "Rental & Leasing Services",
+                        "Real estate",
+                        "Travel"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "SonderMind",
+                    "industry": "Health",
+                    "country": "United States",
+                    "source": "DDD-cbinsight-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Sphere 3D Corp.",
+                    "industry": null,
+                    "country": "ON",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Sphere 3d",
+                    "industry": [
+                        "Software",
+                        "Tech"
+                    ],
+                    "country": "Canada",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Sprout Social",
+                    "industry": [
+                        "Software",
+                        "Tech"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Sprout Solutions",
+                    "industry": "Technology",
+                    "country": "Philippines",
+                    "source": "ft-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Sterling Infosystems",
+                    "industry": "IT Services & Consulting",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Sterling Infrastructure Inc",
+                    "industry": "Construction",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Straumann",
+                    "industry": [
+                        "Medical devices"
+                    ],
+                    "country": "Switzerland",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Straumann Holding AG",
+                    "industry": "Medical Equipment",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Sundaram Motors",
+                    "industry": "Automobile",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Sundaram-clayton",
+                    "industry": [
+                        "Consumer Cyclical",
+                        "Automobile",
+                        "Automobile Parts",
+                        "Metal Products Manufacturing"
+                    ],
+                    "country": "India",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Svolder AB",
+                    "industry": null,
+                    "country": "Sweden",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Svolder Ab (publ)",
+                    "industry": [
+                        "Financial Services",
+                        "Asset Management",
+                        "Investments"
+                    ],
+                    "country": "Sweden",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "SynapseIndia",
+                    "industry": "IT Services & Consulting",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Synapsy",
+                    "industry": "Advertising",
+                    "country": "Italy",
+                    "source": "ft-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "TELUS International (Cda) Inc.",
+                    "industry": null,
+                    "country": "BC",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "TELUS International Philippines",
+                    "industry": "IT Services & Consulting",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Taimei Technology",
+                    "industry": null,
+                    "country": "China",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Taimide Tech., Inc.",
+                    "industry": null,
+                    "country": "Taiwan",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Tata Metaliks",
+                    "industry": "Iron & Steel",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Tata Motors",
+                    "industry": [
+                        "Consumer Cyclical",
+                        "Automobile",
+                        "Automobile Parts",
+                        "Construction Equipment",
+                        "Cars",
+                        "Sports Vehicles",
+                        "Bus Manufacturing",
+                        "Commercial Vehicles",
+                        "Manufacturing",
+                        "Trucks",
+                        "Passenger Vehicles",
+                        "Electric Vehicles"
+                    ],
+                    "country": "India",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Tecan",
+                    "industry": null,
+                    "country": "Switzerland",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Tecan Group",
+                    "industry": [
+                        "Healthcare",
+                        "Medical Equipment"
+                    ],
+                    "country": "Switzerland",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Telef\u00f3nica",
+                    "industry": "Telecommunications",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                },
+                {
+                    "company-name": "Telef\u00f3nica Chile SA",
+                    "industry": null,
+                    "country": "Chile",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Telstra",
+                    "industry": "Telecom",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Telstra Corp Ltd",
+                    "industry": "Technology and Communications",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Thales SA",
+                    "industry": null,
+                    "country": "France",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "ThalesNano",
+                    "industry": "Industrials",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "The Phoenix Holdings Ltd",
+                    "industry": "Financial Services",
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "The Phoenix Mills",
+                    "industry": "Real Estate",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Thomson Digital",
+                    "industry": "Printing & Publishing",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Thomson Medical Group",
+                    "industry": [
+                        "Hospitals",
+                        "Healthcare Service"
+                    ],
+                    "country": "Singapore",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Titan Art",
+                    "industry": "Advertising",
+                    "country": "Japan",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "Titan Cement",
+                    "industry": "Industrials",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Top Ramen",
+                    "industry": "Instant Noodles",
+                    "country": null,
+                    "source": "campaignindia"
+                },
+                {
+                    "company-name": "Top Reform",
+                    "industry": "Architecture",
+                    "country": "Japan",
+                    "source": "ft-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Tradeweb",
+                    "industry": [
+                        "Financial services"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Tradeweb Markets",
+                    "industry": [
+                        "Financial Services",
+                        "Stock Markets, Trading, Capital Markets",
+                        "Trading"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Tri Pointe Group",
+                    "industry": [
+                        "Real Estate",
+                        "Construction",
+                        "Capital Goods"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Tri Pointe Homes Inc",
+                    "industry": "Construction",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Twitter",
+                    "industry": [
+                        "Communication Services",
+                        "Software and IT",
+                        "Software Products",
+                        "Technology",
+                        "Internet or Mobile App Based Business",
+                        "Advertising",
+                        "Media",
+                        "Social Media",
+                        "Artificial Intelligence"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Twitter Careers",
+                    "industry": "Internet",
+                    "country": "CA",
+                    "source": "DDD-teamblind-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "UniCredit Bulbank",
+                    "industry": "Financials",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                },
+                {
+                    "company-name": "UniCredit S.p.A.",
+                    "industry": null,
+                    "country": "MI",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Unite Us",
+                    "industry": "Health",
+                    "country": "United States",
+                    "source": "DDD-cbinsight-com"
+                },
+                {
+                    "company-name": "Unitech",
+                    "industry": "Real Estate",
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Uniti",
+                    "industry": [
+                        "Real estate",
+                        "REITs",
+                        "Investment",
+                        "Telecommunication",
+                        "Infrastructure"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Uniti Group",
+                    "industry": [
+                        "Real Estate",
+                        "Consumer Services",
+                        "Property Investments"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Valvole Italia",
+                    "industry": "Industrial Goods",
+                    "country": "Italy",
+                    "source": "ft-com"
+                },
+                {
+                    "company-name": "Valvoline",
+                    "industry": [
+                        "Energy",
+                        "Chemicals",
+                        "Oil and Gas"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Vedant Fashions",
+                    "industry": "Fashion & Textile",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Vedanta",
+                    "industry": [
+                        "Basic Materials",
+                        "Mining",
+                        "Iron and Steel",
+                        "Metals",
+                        "Zinc",
+                        "Aluminum"
+                    ],
+                    "country": "India",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Verity",
+                    "industry": "Investment Banking / Venture Capital / Private Equity",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Verizon",
+                    "industry": null,
+                    "country": "NY",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Vimeo",
+                    "industry": [
+                        "Internet",
+                        "Tech"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Vimeo, Inc.",
+                    "industry": [
+                        "Technology",
+                        "Software and IT",
+                        "Television Services"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Viva Energy Group Limited",
+                    "industry": null,
+                    "country": "VIC",
+                    "source": "disfold-com"
+                },
+                {
+                    "company-name": "Viva Energy Reit",
+                    "industry": "Real Estate",
+                    "country": "Australia",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Vroom",
+                    "industry": [
+                        "Used car retailer",
+                        "Internet",
+                        "Car retail"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Vroom, Inc.",
+                    "industry": [
+                        "Retail",
+                        "Automobile",
+                        "Automobile Dealers"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Weatherford",
+                    "industry": "Oil & Gas",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Weatherford International",
+                    "industry": [
+                        "Energy",
+                        "Oil&Gas"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Western Coalfields",
+                    "industry": "Metals & Mining",
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Western Copper And Gold",
+                    "industry": [
+                        "Mining",
+                        "Gold mining"
+                    ],
+                    "country": "Canada",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": true
         }
     ]
 }
