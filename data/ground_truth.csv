@@ -1,206 +1,212 @@
-company_a,source_a,company_b,source_b
-1&1,companiesMarketCap_dataset,1&1 AG,disfold-com
-AMPLUS,ft-com,AMPLUS SOLAR,AmbitionBox
-Accelerant,DDD-cbinsight-com,Accelerate Diagnostics,companiesMarketCap_dataset
-Adani Solar,AmbitionBox,Adani Total Gas,companiesMarketCap_dataset
-Advantech Co. Ltd,disfold-com,Advantest,ft-com
-"Agora, Inc.",valueToday_dataset,Agora.io,companiesMarketCap_dataset
-Airports of Thailand,MalPatSaj-forbes-com,Airports of Thailand Public Company Ltd,disfold-com
-Alchemy,DDD-cbinsight-com,Alchemy Careers,DDD-teamblind-com
-Alliance Healthcare Group Ltd,disfold-com,Alliance Healthcare Italia Distribuzione Spa,hitHorizons_dataset
-Alphabet Inc,output_globaldata,Alphamab Oncology,valueToday_dataset
-Amadeus Careers,DDD-teamblind-com,Amadeus Fire AG,disfold-com
-American Precoat,AmbitionBox,American Public Education,companiesMarketCap_dataset
-Andhra Bank,valueToday_dataset,Andhra Paper,AmbitionBox
-Applifting,ft-com,Applovin,companiesMarketCap_dataset
-Arca Continental,MalPatSaj-forbes-com,"Arca Continental, S.A.B. de C.V.",disfold-com
-Asahi,campaignindia,Asahi Group,companiesMarketCap_dataset
-Atlas Corp.,valueToday_dataset,Atlas Cycles,AmbitionBox
-Autogrill,valueToday_dataset,Autogrill Italia Spa,hitHorizons_dataset
-BAIC Motor,MalPatSaj-forbes-com,BAIC Motor Corp Ltd,disfold-com
-Balaji Telefilms,companiesMarketCap_dataset,Balaji Wafers,AmbitionBox
-Bangkok Airways,companiesMarketCap_dataset,Bangkok Airways Public Company Ltd,disfold-com
-Bank Ozk,valueToday_dataset,Bank Pekao,MalPatSaj-forbes-com
-Bankfinancial,companiesMarketCap_dataset,Bankia,valueToday_dataset
-Bechtel Corp,output_globaldata,Bechtle,MalPatSaj-wikipedia-org
-Beneteau,valueToday_dataset,Benetti,MalPatSaj-wikipedia-org
-Bid Corp Ltd,output_globaldata,Bid Corporation,valueToday_dataset
-Biotest,companiesMarketCap_dataset,Biotherm,campaignindia
-Bnp Paribas,companiesMarketCap_dataset,Bnp Paribas 3 Step It,hitHorizons_dataset
-Borussia Dortmund,companiesMarketCap_dataset,Borussia Dortmund GmbH & Co KGaA,disfold-com
-Bridgestone Corporation,valueToday_dataset,Bridgestone Europe Nv Sa,hitHorizons_dataset
-Brookfield Infrastructure Partners LP,output_globaldata,Brookfield Office Properties,valueToday_dataset
-C.H. Robinson,MalPatSaj-forbes-com,C.H. Robinson Worldwide Inc,output_globaldata
-CMC Markets plc,disfold-com,CMC Materials Inc,output_globaldata
-Cadence Bancorporation,valueToday_dataset,Cadence Bank,MalPatSaj-forbes-com
-Capelli,disfold-com,Capelli For You,ft-com
-Cargoair,MalPatSaj-wikipedia-org,Cargojet,companiesMarketCap_dataset
-Celebrity Cruises,AmbitionBox,Celeritas,ft-com
-Cepo,ft-com,Cepsa,MalPatSaj-wikipedia-org
-Chico's,companiesMarketCap_dataset,Chico's FAS Inc,output_globaldata
-China Gas,companiesMarketCap_dataset,China Gas Holdings,MalPatSaj-forbes-com
-China Railway Group Ltd,output_globaldata,China Railway Hi-tech Industry Corp Ltd,disfold-com
-China Zheshang Bank Co. Ltd,valueToday_dataset,China Zhongwang Holdings Ltd,output_globaldata
-Ci&t,companiesMarketCap_dataset,Ci&t Inc,valueToday_dataset
-Citadele Banka,MalPatSaj-wikipedia-org,Citadelo,ft-com
-ClickUp,DDD-cbinsight-com,Clicks Group,companiesMarketCap_dataset
-"Codere, SA",disfold-com,Codete,ft-com
-Collector AB,disfold-com,Collectors Universe,valueToday_dataset
-Compagnie de L’arc Atlantique,ft-com,Compagnie de Saint-Gobain,output_globaldata
-Connect Broadband,AmbitionBox,Connect Group,ft-com
-Copado,DDD-cbinsight-com,Copart,valueToday_dataset
-Countryside Partnerships Plc,output_globaldata,Countryside Properties,valueToday_dataset
-Cream Team,ft-com,Creambell,AmbitionBox
-Cummins,valueToday_dataset,Cummins Careers,DDD-teamblind-com
-DIGITAL LEDGER OU,wissel-aziende-info-clipper-com,DIGITAL TRIO LTD,output_govuk_bigsize
-Dalmia Bharat Ltd,output_globaldata,Dalmia Bharat Sugar & Industries,AmbitionBox
-DealerOn Careers,DDD-teamblind-com,Dealernet,ft-com
-Denso,MalPatSaj-forbes-com,Denso Corp,output_globaldata
-Digital Domain,companiesMarketCap_dataset,Digital Garage,valueToday_dataset
-Docgo,companiesMarketCap_dataset,Dock,DDD-cbinsight-com
-Dormakaba,companiesMarketCap_dataset,Dormakaba Holding AG,output_globaldata
-Dxy,valueToday_dataset,Dxy.cn,DDD-cbinsight-com
-EaseMyTrip.com,AmbitionBox,Easemytrip,companiesMarketCap_dataset
-El.en,valueToday_dataset,El.en. Spa,hitHorizons_dataset
-Electrolux Group,MalPatSaj-forbes-com,Electrolux Italia Spa,hitHorizons_dataset
-Empire State Bank Careers,DDD-teamblind-com,Empire State Realty Op,valueToday_dataset
-Energean plc,disfold-com,Energetic,ft-com
-Ericpol,MalPatSaj-wikipedia-org,Ericsson,MalPatSaj-forbes-com
-Exl Service Sez Bpo Solutions,AmbitionBox,ExlService Holdings Inc,output_globaldata
-FLSmidth,AmbitionBox,FLSmidth & Co A-S,disfold-com
-Fashion Commerce,ft-com,Fashion TV,AmbitionBox
-Figure Careers,DDD-teamblind-com,Figure Technologies,valueToday_dataset
-Firefly AB,disfold-com,Firefly Aerospace,DDD-cbinsight-com
-FirstPhone,ft-com,FirstRand,MalPatSaj-forbes-com
-Fortis Healthcare,companiesMarketCap_dataset,Fortis Hospitals,AmbitionBox
-Franco-nevada,companiesMarketCap_dataset,Franco-nevada Corporation,valueToday_dataset
-Fuji Oil Co Ltd,output_globaldata,Fuji Oil Holdings,valueToday_dataset
-GREEN PARK RENOVATIONS LTD,output_govuk_bigsize,GREEN POWER INTERNATIONAL,AmbitionBox
-Gati,companiesMarketCap_dataset,Gati kwe,AmbitionBox
-Genius Group,companiesMarketCap_dataset,Genius Progetti,ft-com
-Global Partners Lp,companiesMarketCap_dataset,Global Payments,valueToday_dataset
-Golden Star Ferries,MalPatSaj-wikipedia-org,Golden Star Resources Ltd.,disfold-com
-Graphite India,valueToday_dataset,"Graphite One, Inc.",disfold-com
-Grindrod Ltd,disfold-com,Grindrod Shipping,companiesMarketCap_dataset
-Groupe Seb,AmbitionBox,Groupe Tera SACA,disfold-com
-Gsretail,valueToday_dataset,Gsrtc,AmbitionBox
-HKScan Corp,output_globaldata,HKScan Oyj,disfold-com
-Harvey Fresh,campaignindia,Harvey Norman,companiesMarketCap_dataset
-Heidelberg Pharma AG,disfold-com,HeidelbergCement,MalPatSaj-wikipedia-org
-Heritage Foods,AmbitionBox,Heritage Insurance,companiesMarketCap_dataset
-Hitachi Ltd,output_globaldata,Hitachi MGRM Net,AmbitionBox
-Horiba,valueToday_dataset,Horiba India,AmbitionBox
-Huber Suhner Electronics,AmbitionBox,Huber+Suhner AG,disfold-com
-Hypera SA,disfold-com,Hyperchain,DDD-cbinsight-com
-INTERPLEX,AmbitionBox,INTERPOLIMERI SPA,wissel-aziende-info-clipper-com
-Imprecom,ft-com,Impresa,MalPatSaj-wikipedia-org
-Indigo Ag,DDD-cbinsight-com,Indigo Ag Careers,DDD-teamblind-com
-Infogene,ft-com,Infojini,AmbitionBox
-Insidemarketing,ft-com,Insider,DDD-cbinsight-com
-Intellicheck,companiesMarketCap_dataset,Intellienergy,ft-com
-Interroll,companiesMarketCap_dataset,Interroll Holding AG,disfold-com
-Isprava,ft-com,Isracard,valueToday_dataset
-Japfa Comfeed,AmbitionBox,Japfa Ltd,disfold-com
-Johnson Lifts,AmbitionBox,Johnson Matthey,MalPatSaj-forbes-com
-KDDI,MalPatSaj-forbes-com,KDDI Corp,output_globaldata
-Kalyan Jewellers,AmbitionBox,Kalyan Jewellers India Limited,valueToday_dataset
-Katerra,AmbitionBox,Katerra Careers,DDD-teamblind-com
-Killam Apartment Real Estate Investment Trust,disfold-com,Killam Apartment Reit,companiesMarketCap_dataset
-Kokuyo,valueToday_dataset,Kokuyo Camlin,AmbitionBox
-Kothari Medical Centre,AmbitionBox,Kothari Petrochemicals Ltd,disfold-com
-Kyndryl,companiesMarketCap_dataset,Kyndryl Holdings,MalPatSaj-forbes-com
-Lagardere Sca,valueToday_dataset,Lagardère Group,MalPatSaj-wikipedia-org
-Lending Works,ft-com,LendingKart,AmbitionBox
-Liberty Global plc,output_globaldata,Liberty Gold Corp.,disfold-com
-Lotto24,disfold-com,Lottoland,ft-com
-Mahindra Logistics,companiesMarketCap_dataset,Mahindra Retail,AmbitionBox
-Marathon Electric India,AmbitionBox,Marathon Gold,companiesMarketCap_dataset
-Maruti,campaignindia,Maruti Suzuki,AmbitionBox
-Mayfair Gold Corp,disfold-com,Mayfair Hotels & Resorts,AmbitionBox
-Megaport,valueToday_dataset,Megaport Limited,disfold-com
-Merus,companiesMarketCap_dataset,Merus N.V.,disfold-com
-Midea,campaignindia,Midea Group,MalPatSaj-forbes-com
-"Mirae Asset Securities Co., Ltd.",output_globaldata,Miraeasset Maps REIT 1 Co. Ltd,disfold-com
-Mitsui Sugar Co. Ltd,disfold-com,Mitsui-Soko Holdings Co Ltd,output_globaldata
-MoneyMe,ft-com,MoneyMe Limited,disfold-com
-MphasiS Ltd,output_globaldata,Mphasis,ft-com
-Myoung Shin India Automotive,AmbitionBox,Myoung Shin Industrial,valueToday_dataset
-NTPC,AmbitionBox,NTPC Ltd,output_globaldata
-National Bank Holdings Corporation,valueToday_dataset,National Bank Of Canada,companiesMarketCap_dataset
-Natra,MalPatSaj-wikipedia-org,Natura & Co,valueToday_dataset
-Neovasc,companiesMarketCap_dataset,Neovaude,ft-com
-Netlink Trust,companiesMarketCap_dataset,Netlinkz Limited,disfold-com
-Nhn Corp,companiesMarketCap_dataset,Nhn Corporation,valueToday_dataset
-"Nippon Express Holdings, Inc.",disfold-com,Nippon Express Italia Spa,hitHorizons_dataset
-Nomura Co Ltd,output_globaldata,Nomura Holdings,valueToday_dataset
-Northvolt,DDD-cbinsight-com,Northwave,ft-com
-OMV AG,output_globaldata,OMV Group,company_social_urls
-Olympus Airways,MalPatSaj-wikipedia-org,Olympus Corp,output_globaldata
-Optimus Pharma,AmbitionBox,Optimus S.A.,MalPatSaj-wikipedia-org
-Oriental Energy Co Ltd,output_globaldata,Oriental Land,companiesMarketCap_dataset
-PAL GROUP Holdings CO. Ltd,disfold-com,PAL Holdings Inc,output_globaldata
-PT Bumi Resources Tbk,output_globaldata,PT Bumi Serpong Damai Tbk,disfold-com
-PZU,MalPatSaj-wikipedia-org,PZU SA,output_globaldata
-Park Aerospace,companiesMarketCap_dataset,Park Avenue,campaignindia
-Pavillon Holdings Ltd,disfold-com,Pavillon noir,ft-com
-Perfect Corp.,companiesMarketCap_dataset,Perfect Diary,valueToday_dataset
-Pharmaceutical job,AmbitionBox,Pharmacia,MalPatSaj-wikipedia-org
-Piramal Pharma,companiesMarketCap_dataset,Piramal Realty,AmbitionBox
-Pokarna,AmbitionBox,Pokka,campaignindia
-Pool,MalPatSaj-forbes-com,Pool Corp,output_globaldata
-Premier Oil plc,disfold-com,Premier Plasmotec,AmbitionBox
-Progressive,MalPatSaj-forbes-com,Progressive Corporation,valueToday_dataset
-Ptt Public Company,valueToday_dataset,Public Bank,company_social_urls
-Qualitest,AmbitionBox,Qualitest Careers,DDD-teamblind-com
-RADIODETECTION LIMITED,wissel-aziende-info-clipper-com,RADIOS R US LIMITED,output_govuk_bigsize
-Raksul,valueToday_dataset,"Raksul, Inc.",disfold-com
-Razor Labs,disfold-com,Razorpay,DDD-cbinsight-com
-Reliance Jio,valueToday_dataset,Reliance Jio Infocomm Ltd,output_globaldata
-Rexceed,ft-com,Rexel,MalPatSaj-forbes-com
-Rosneft,MalPatSaj-forbes-com,Rosneft Oil Co,output_globaldata
-SGR,ft-com,SGS,MalPatSaj-forbes-com
-Sace Spa,hitHorizons_dataset,Sacee,ft-com
-Samsung SDI Co Ltd,output_globaldata,Samsung SDS,MalPatSaj-forbes-com
-Sapphire Corp Ltd,disfold-com,Sapphire Foods India,AmbitionBox
-Saudi Public Transport Company,disfold-com,Saudi Real Estate Company,valueToday_dataset
-Schott Packaging,ft-com,Schott Poonawalla,AmbitionBox
-Seiko Group Corp,output_globaldata,Seiko Holdings Corp,disfold-com
-Sesa,valueToday_dataset,Sesa Spa,hitHorizons_dataset
-Shanghai Jin Jiang Capital Company Ltd,disfold-com,Shanghai Jin Jiang International Hotels Development,valueToday_dataset
-Shenzhen Minde Electronics Technology,valueToday_dataset,Shenzhen Mindray Bio-Medical Electronics,MalPatSaj-forbes-com
-Siam City Cement (insee),companiesMarketCap_dataset,Siam City Cement Public Co Ltd,output_globaldata
-Silicon Laboratories Inc.,disfold-com,Silicon Motion,companiesMarketCap_dataset
-Sixt Leasing SE,disfold-com,Sixt SE,output_globaldata
-Smeg,MalPatSaj-wikipedia-org,Smeg Spa,hitHorizons_dataset
-Sofidys,ft-com,Sofina,MalPatSaj-wikipedia-org
-Sonder Holdings,companiesMarketCap_dataset,SonderMind,DDD-cbinsight-com
-Sphere 3D Corp.,disfold-com,Sphere 3d,companiesMarketCap_dataset
-Sprout Social,companiesMarketCap_dataset,Sprout Solutions,ft-com
-Sterling Infosystems,AmbitionBox,Sterling Infrastructure Inc,output_globaldata
-Straumann,companiesMarketCap_dataset,Straumann Holding AG,output_globaldata
-Sundaram Motors,AmbitionBox,Sundaram-clayton,valueToday_dataset
-Svolder AB,disfold-com,Svolder Ab (publ),valueToday_dataset
-SynapseIndia,AmbitionBox,Synapsy,ft-com
-TELUS International (Cda) Inc.,disfold-com,TELUS International Philippines,AmbitionBox
-Taimei Technology,valueToday_dataset,"Taimide Tech., Inc.",disfold-com
-Tata Metaliks,AmbitionBox,Tata Motors,valueToday_dataset
-Tecan,companiesMarketCap_dataset,Tecan Group,valueToday_dataset
-Telefónica,MalPatSaj-wikipedia-org,Telefónica Chile SA,disfold-com
-Telstra,AmbitionBox,Telstra Corp Ltd,output_globaldata
-Thales SA,disfold-com,ThalesNano,MalPatSaj-wikipedia-org
-The Phoenix Holdings Ltd,output_globaldata,The Phoenix Mills,AmbitionBox
-Thomson Digital,AmbitionBox,Thomson Medical Group,valueToday_dataset
-Titan Art,ft-com,Titan Cement,MalPatSaj-wikipedia-org
-Top Ramen,campaignindia,Top Reform,ft-com
-Tradeweb,companiesMarketCap_dataset,Tradeweb Markets,valueToday_dataset
-Tri Pointe Group,valueToday_dataset,Tri Pointe Homes Inc,output_globaldata
-Twitter,valueToday_dataset,Twitter Careers,DDD-teamblind-com
-UniCredit Bulbank,MalPatSaj-wikipedia-org,UniCredit S.p.A.,disfold-com
-Unite Us,DDD-cbinsight-com,Unitech,AmbitionBox
-Uniti,companiesMarketCap_dataset,Uniti Group,valueToday_dataset
-Valvole Italia,ft-com,Valvoline,valueToday_dataset
-Vedant Fashions,AmbitionBox,Vedanta,valueToday_dataset
-Vimeo,companiesMarketCap_dataset,"Vimeo, Inc.",valueToday_dataset
-Viva Energy Group Limited,disfold-com,Viva Energy Reit,valueToday_dataset
-Vroom,companiesMarketCap_dataset,"Vroom, Inc.",valueToday_dataset
-Weatherford,AmbitionBox,Weatherford International,companiesMarketCap_dataset
+company_a,industry_a,country_a,source_a,company_b,industry_b,country_b,source_b,label
+1&1,Telecommunication; Internet,Germany,companiesMarketCap_dataset,1&1 AG,,Germany,disfold-com,1
+51job,Industries; Technology; Outsourcing and Staffing,China,valueToday_dataset,"51job, Inc.",,China,disfold-com,1
+ABN AMRO,Financials,,MalPatSaj-wikipedia-org,ABN AMRO Bank N.V.,,Netherlands,disfold-com,1
+AMPLUS,Technology,Japan,ft-com,AMPLUS SOLAR,Internet,,AmbitionBox,0
+Accelerant,Other,United Kingdom,DDD-cbinsight-com,Accelerate Diagnostics,Diagnostics and Testing,USA,companiesMarketCap_dataset,0
+Acer,Tech,Taiwan,companiesMarketCap_dataset,Acer Inc,Technology and Communications,,output_globaldata,1
+Adani Solar,Power,,AmbitionBox,Adani Total Gas,Energy; Oil&Gas; Utility companies,India,companiesMarketCap_dataset,1
+Advantech Co. Ltd,,Taiwan,disfold-com,Advantest,Industrial Goods,Japan,ft-com,0
+"Agora, Inc.",Software and IT,China,valueToday_dataset,Agora.io,Software; Tech,China,companiesMarketCap_dataset,1
+Airports of Thailand,,Thailand,MalPatSaj-forbes-com,Airports of Thailand Public Company Ltd,,Thailand,disfold-com,1
+Alchemy,Fintech,United States,DDD-cbinsight-com,Alchemy Careers,Computer Software,CA,DDD-teamblind-com,1
+Alliance Healthcare Group Ltd,,Singapore,disfold-com,Alliance Healthcare Italia Distribuzione Spa,Wholesale Trade,ITALY,hitHorizons_dataset,0
+Alphabet Inc,Technology and Communications,,output_globaldata,Alphamab Oncology,Healthcare; Biotechnology,China,valueToday_dataset,0
+Amadeus Careers,Information Technology & Services,Spain,DDD-teamblind-com,Amadeus Fire AG,,Germany,disfold-com,0
+American Precoat,Iron & Steel,,AmbitionBox,American Public Education,Education,USA,companiesMarketCap_dataset,0
+Andhra Bank,Financial Services; Banking Services,India,valueToday_dataset,Andhra Paper,Pulp & Paper,,AmbitionBox,0
+Applifting,Technology,Czech Republic,ft-com,Applovin,Software; Tech,USA,companiesMarketCap_dataset,0
+Arca Continental,,Mexico,MalPatSaj-forbes-com,"Arca Continental, S.A.B. de C.V.",,NL,disfold-com,1
+Asahi,Beer,,campaignindia,Asahi Group,Beverages; Alcoholic beverages,Japan,companiesMarketCap_dataset,1
+Atlas Corp.,Financial Services; Asset Management,Hong Kong,valueToday_dataset,Atlas Cycles,Automobile,,AmbitionBox,0
+Autogrill,Consumer Cyclical; Restaurants,Italy,valueToday_dataset,Autogrill Italia Spa,Retail Trade,ITALY,hitHorizons_dataset,1
+BAIC Motor,,China,MalPatSaj-forbes-com,BAIC Motor Corp Ltd,,China,disfold-com,1
+Balaji Telefilms,Entertainment,India,companiesMarketCap_dataset,Balaji Wafers,Food Processing,,AmbitionBox,0
+Bangkok Airways,Airlines; Travel; Transportation,Thailand,companiesMarketCap_dataset,Bangkok Airways Public Company Ltd,,Thailand,disfold-com,1
+Bank Ozk,Financial Services; Banking Services,USA,valueToday_dataset,Bank Pekao,,Poland,MalPatSaj-forbes-com,0
+Bankfinancial,Banks; Financial services,USA,companiesMarketCap_dataset,Bankia,Financial Services; Banking Services,Spain,valueToday_dataset,0
+Bechtel Corp,Construction,,output_globaldata,Bechtle,Technology,,MalPatSaj-wikipedia-org,0
+Beneteau,Consumer Cyclical; Boats; Leisure,France,valueToday_dataset,Benetti,Industrials,,MalPatSaj-wikipedia-org,0
+Bid Corp Ltd,Wholesale,,output_globaldata,Bid Corporation,Consumer Defensive; Food Chains / Distributor; Food Service,South Africa,valueToday_dataset,1
+Biotest,,Germany,companiesMarketCap_dataset,Biotherm,Skincare Product,,campaignindia,0
+Bnp Paribas,Banks; Financial services; CAC 40,France,companiesMarketCap_dataset,Bnp Paribas 3 Step It,Services,ITALY,hitHorizons_dataset,0
+Borussia Dortmund,Football,Germany,companiesMarketCap_dataset,Borussia Dortmund GmbH & Co KGaA,,Germany,disfold-com,1
+Bridgestone Corporation,Consumer Cyclical; Automobile; Automobile Parts; Tyres,Japan,valueToday_dataset,Bridgestone Europe Nv Sa,Manufacturing,ITALY,hitHorizons_dataset,0
+Brookfield Infrastructure Partners LP,Construction,,output_globaldata,Brookfield Office Properties,Real Estate; Property Investments; Commercial Properties,USA,valueToday_dataset,0
+C.H. Robinson,,United States,MalPatSaj-forbes-com,C.H. Robinson Worldwide Inc,Transport and Logistics,,output_globaldata,1
+CMC Markets plc,,United Kingdom,disfold-com,CMC Materials Inc,Technology and Communications,,output_globaldata,0
+Cadence Bancorporation,Financial Services; Banking Services,USA,valueToday_dataset,Cadence Bank,,United States,MalPatSaj-forbes-com,1
+Capelli,,France,disfold-com,Capelli For You,Beauty,Italy,ft-com,0
+Cargoair,Industrials,,MalPatSaj-wikipedia-org,Cargojet,Airlines; Transportation,Canada,companiesMarketCap_dataset,0
+Celebrity Cruises,Travel & Tourism,,AmbitionBox,Celeritas,Transport,Spain,ft-com,0
+Cepo,Industrial Goods,Italy,ft-com,Cepsa,Oil & gas,,MalPatSaj-wikipedia-org,0
+Chico's,Clothing; Retail,USA,companiesMarketCap_dataset,Chico's FAS Inc,Retailing,,output_globaldata,1
+China Gas,Oil&Gas; Energy,China,companiesMarketCap_dataset,China Gas Holdings,,Hong Kong,MalPatSaj-forbes-com,1
+China Railway Group Ltd,Construction,,output_globaldata,China Railway Hi-tech Industry Corp Ltd,,China,disfold-com,1
+China Zheshang Bank Co. Ltd,Financial Services; Banking Services; Credit Cards; Mortgage,China,valueToday_dataset,China Zhongwang Holdings Ltd,Metals and Mining,,output_globaldata,0
+Ci&t,Software; Tech,Brazil,companiesMarketCap_dataset,Ci&t Inc,,,valueToday_dataset,1
+Citadele Banka,Financials,,MalPatSaj-wikipedia-org,Citadelo,Cyber Security,Czech Republic,ft-com,0
+ClickUp,Internet software & services,United States,DDD-cbinsight-com,Clicks Group,Retail; Pharmaceuticals; Drugstore,South Africa,companiesMarketCap_dataset,0
+"Codere, SA",,Spain,disfold-com,Codete,Technology,Poland,ft-com,0
+Collector AB,,Sweden,disfold-com,Collectors Universe,Industries; Business Services,USA,valueToday_dataset,0
+Compagnie de L’arc Atlantique,Financial Services,France,ft-com,Compagnie de Saint-Gobain,Construction,,output_globaldata,0
+Connect Broadband,Telecom,,AmbitionBox,Connect Group,Travel & Leisure,Singapore,ft-com,0
+Copado,Data management & analytics,United States,DDD-cbinsight-com,Copart,Industries; Automobile Parts; eCommerce; Automobile; Consumer Durables; Business Services,USA,valueToday_dataset,1
+Countryside Partnerships Plc,Construction,,output_globaldata,Countryside Properties,Consumer Cyclical; Construction,UK,valueToday_dataset,1
+Cream Team,Beauty,Greece,ft-com,Creambell,FMCG,,AmbitionBox,0
+Cummins,Industries; Engineering Products; Electrical Products; Engines Manufacturing; Machinery Manufacturing; Energy; Manufacturing; Industry Machinery,USA,valueToday_dataset,Cummins Careers,Automotive,IN,DDD-teamblind-com,1
+DIGITAL LEDGER OU,,ESTONIA,wissel-aziende-info-clipper-com,DIGITAL TRIO LTD,62020 - Information technology consultancy activities,,output_govuk_bigsize,0
+Dalmia Bharat Ltd,Construction,,output_globaldata,Dalmia Bharat Sugar & Industries,Food Processing,,AmbitionBox,0
+DealerOn Careers,Marketing & Advertising,MD,DDD-teamblind-com,Dealernet,Automobiles,Italy,ft-com,0
+Denso,,Japan,MalPatSaj-forbes-com,Denso Corp,Automotive,,output_globaldata,1
+Digital Domain,Entertainment,Hong Kong,companiesMarketCap_dataset,Digital Garage,Technology; Software and IT,Japan,valueToday_dataset,0
+Docgo,Healthcare,USA,companiesMarketCap_dataset,Dock,Fintech,Brazil,DDD-cbinsight-com,0
+Dormakaba,Security & Protection Services,Switzerland,companiesMarketCap_dataset,Dormakaba Holding AG,Technology and Communications,,output_globaldata,1
+Dxy,,China,valueToday_dataset,Dxy.cn,Health,China,DDD-cbinsight-com,1
+EaseMyTrip.com,Internet,,AmbitionBox,Easemytrip,Online Travel; Travel; Internet; Tech,India,companiesMarketCap_dataset,1
+El.en,Healthcare; Medical Equipment,Italy,valueToday_dataset,El.en. Spa,Manufacturing,ITALY,hitHorizons_dataset,1
+Electrolux Group,,Sweden,MalPatSaj-forbes-com,Electrolux Italia Spa,Manufacturing,ITALY,hitHorizons_dataset,0
+Empire State Bank Careers,Banking,NY,DDD-teamblind-com,Empire State Realty Op,Real Estate; Property Investments,USA,valueToday_dataset,0
+Energean plc,,United Kingdom,disfold-com,Energetic,Energy,Italy,ft-com,0
+Ericpol,Technology,,MalPatSaj-wikipedia-org,Ericsson,,Sweden,MalPatSaj-forbes-com,0
+Exl Service Sez Bpo Solutions,BPO,,AmbitionBox,ExlService Holdings Inc,Technology and Communications,,output_globaldata,0
+FLSmidth,Industrial Machinery,,AmbitionBox,FLSmidth & Co A-S,,Denmark,disfold-com,1
+Fashion Commerce,Ecommerce,Italy,ft-com,Fashion TV,Broadcasting,,AmbitionBox,0
+Figure Careers,Financial Services,CA,DDD-teamblind-com,Figure Technologies,Technology; Software and IT,USA,valueToday_dataset,0
+Firefly AB,,Sweden,disfold-com,Firefly Aerospace,Other,United States,DDD-cbinsight-com,0
+FirstPhone,Retail,Hungary,ft-com,FirstRand,,South Africa,MalPatSaj-forbes-com,0
+Fortis Healthcare,Healthcare,India,companiesMarketCap_dataset,Fortis Hospitals,Healthcare / Pharma,,AmbitionBox,1
+Franco-nevada,Mining; Investment; Gold mining,Canada,companiesMarketCap_dataset,Franco-nevada Corporation,Basic Materials; Mining; Gold Mining; Precious Metals; Metals,Canada,valueToday_dataset,1
+Fuji Oil Co Ltd,Energy and Utilities,,output_globaldata,Fuji Oil Holdings,Consumer Defensive; FMCG; Package Foods; Food Products,Japan,valueToday_dataset,0
+GREEN PARK RENOVATIONS LTD,41100 - Development of building projects,,output_govuk_bigsize,GREEN POWER INTERNATIONAL,Oil & Gas,,AmbitionBox,0
+Gati,Courier,India,companiesMarketCap_dataset,Gati kwe,Logistics,,AmbitionBox,1
+Genius Group,Education,Singapore,companiesMarketCap_dataset,Genius Progetti,Support Services,Italy,ft-com,0
+Global Partners Lp,Oil&Gas; Energy,USA,companiesMarketCap_dataset,Global Payments,Industries; Digital Payment Solution Services; Software and IT; Software Products; Business Services,USA,valueToday_dataset,0
+Golden Star Ferries,Industrials,,MalPatSaj-wikipedia-org,Golden Star Resources Ltd.,,ON,disfold-com,0
+Graphite India,Industries; Electrical Products; Capital Goods,India,valueToday_dataset,"Graphite One, Inc.",,BC,disfold-com,0
+Grindrod Ltd,,South Africa,disfold-com,Grindrod Shipping,Transportation; Maritime transportation,Singapore,companiesMarketCap_dataset,0
+Groupe Seb,Consumer Electronics & Appliances,,AmbitionBox,Groupe Tera SACA,,France,disfold-com,0
+Gsretail,Consumer Cyclical; Retail,South Korea,valueToday_dataset,Gsrtc,Urban Transport,,AmbitionBox,0
+HKScan Corp,Consumer Packaged Goods,,output_globaldata,HKScan Oyj,,Finland,disfold-com,1
+Harvey Fresh,Fruit Juice,,campaignindia,Harvey Norman,Retail; Furniture,Australia,companiesMarketCap_dataset,0
+Heidelberg Pharma AG,,Germany,disfold-com,HeidelbergCement,Industrials,,MalPatSaj-wikipedia-org,0
+Heritage Foods,FMCG,,AmbitionBox,Heritage Insurance,Insurance,USA,companiesMarketCap_dataset,0
+Hitachi Ltd,Technology and Communications,,output_globaldata,Hitachi MGRM Net,IT Services & Consulting,,AmbitionBox,0
+Horiba,Technology; Technology Hardware and Instruments,Japan,valueToday_dataset,Horiba India,,,AmbitionBox,0
+Huber Suhner Electronics,Electrical Equipment,,AmbitionBox,Huber+Suhner AG,,Switzerland,disfold-com,1
+Hypera SA,,SP,disfold-com,Hyperchain,Fintech,China,DDD-cbinsight-com,0
+INTERPLEX,,,AmbitionBox,INTERPOLIMERI SPA,,ITALY,wissel-aziende-info-clipper-com,0
+Imprecom,Construction,Italy,ft-com,Impresa,Consumer services,,MalPatSaj-wikipedia-org,0
+Indigo Ag,Artificial intelligence,United States,DDD-cbinsight-com,Indigo Ag Careers,Food & Beverages,MA,DDD-teamblind-com,1
+Infogene,Management Consulting,France,ft-com,Infojini,IT Services & Consulting,,AmbitionBox,0
+Insidemarketing,Technology,Germany,ft-com,Insider,Internet software & services,Turkey,DDD-cbinsight-com,0
+Intellicheck,Software; Tech,USA,companiesMarketCap_dataset,Intellienergy,Industrial Goods,Italy,ft-com,0
+Interroll,Manufacturing,Switzerland,companiesMarketCap_dataset,Interroll Holding AG,,Switzerland,disfold-com,1
+Isprava,Construction,India,ft-com,Isracard,Financial Services,Israel,valueToday_dataset,0
+Japfa Comfeed,Agriculture,,AmbitionBox,Japfa Ltd,,Singapore,disfold-com,0
+Johnson Lifts,Industrial Machinery,,AmbitionBox,Johnson Matthey,,United Kingdom,MalPatSaj-forbes-com,0
+KDDI,,Japan,MalPatSaj-forbes-com,KDDI Corp,Technology and Communications,,output_globaldata,1
+Kalyan Jewellers,Metals & Mining,,AmbitionBox,Kalyan Jewellers India Limited,Luxury Goods; Retail; Jewellery,India,valueToday_dataset,1
+Katerra,Engineering & Construction,,AmbitionBox,Katerra Careers,Construction,CA,DDD-teamblind-com,1
+Killam Apartment Real Estate Investment Trust,,NS,disfold-com,Killam Apartment Reit,REITs; Real estate; Investment,Canada,companiesMarketCap_dataset,1
+Kokuyo,Industries; Furniture; Pens & Stationery; Toys; Office Equipment,Japan,valueToday_dataset,Kokuyo Camlin,FMCG,,AmbitionBox,0
+Kothari Medical Centre,Healthcare,,AmbitionBox,Kothari Petrochemicals Ltd,,India,disfold-com,0
+Kyndryl,IT services,USA,companiesMarketCap_dataset,Kyndryl Holdings,,United States,MalPatSaj-forbes-com,1
+Lagardere Sca,Consumer Cyclical; Media; Broadcasting; Radio Broadcasting; Television Services; News Papers / Magazines; Retail; Conglomerate; Multi-Sector; Advertising; Entertainment; Travel and Transport,France,valueToday_dataset,Lagardère Group,Consumer services,,MalPatSaj-wikipedia-org,1
+Lending Works,Fintech,UK,ft-com,LendingKart,FinTech,,AmbitionBox,0
+Liberty Global plc,Technology and Communications,,output_globaldata,Liberty Gold Corp.,,BC,disfold-com,0
+Linux,Computer Software,,campaignindia,Linx SA,,SP,disfold-com,0
+Lotto24,,Germany,disfold-com,Lottoland,Games industry,United Kingdom,ft-com,0
+MNC Group,Investment Banking / Venture Capital / Private Equity,,AmbitionBox,MNF Group Limited,,NSW,disfold-com,0
+Mahindra Logistics,,India,companiesMarketCap_dataset,Mahindra Retail,Retail,,AmbitionBox,0
+Marathon Electric India,Semiconductors,,AmbitionBox,Marathon Gold,Mining; Gold mining,Canada,companiesMarketCap_dataset,0
+Maruti,Car/Automobile,,campaignindia,Maruti Suzuki,Automobile,,AmbitionBox,1
+Mayfair Gold Corp,,ON,disfold-com,Mayfair Hotels & Resorts,Hospitality,,AmbitionBox,0
+Megaport,Technology; Software and IT Infrastructure,Australia,valueToday_dataset,Megaport Limited,,QLD,disfold-com,1
+Merus,Biotech; Pharmaceuticals,Netherlands,companiesMarketCap_dataset,Merus N.V.,,Netherlands,disfold-com,1
+Midea,White Goods,,campaignindia,Midea Group,,China,MalPatSaj-forbes-com,1
+"Mirae Asset Securities Co., Ltd.",Financial Services,,output_globaldata,Miraeasset Maps REIT 1 Co. Ltd,,South Korea,disfold-com,0
+Mitsui Sugar Co. Ltd,,Japan,disfold-com,Mitsui-Soko Holdings Co Ltd,Transport and Logistics,,output_globaldata,0
+MoneyMe,Fintech,Australia,ft-com,MoneyMe Limited,,NSW,disfold-com,1
+MphasiS Ltd,Technology and Communications,,output_globaldata,Mphasis,Technology,India,ft-com,1
+Myoung Shin India Automotive,Auto Components,,AmbitionBox,Myoung Shin Industrial,Consumer Cyclical; Automobile Parts,South Korea,valueToday_dataset,0
+NTPC,Power,,AmbitionBox,NTPC Ltd,Power,,output_globaldata,1
+National Bank Holdings Corporation,Financial Services; Banking Services,USA,valueToday_dataset,National Bank Of Canada,Banks; Financial services,Canada,companiesMarketCap_dataset,0
+Natra,Conglomerates,,MalPatSaj-wikipedia-org,Natura & Co,Cosmetics; FMCG,Brazil,valueToday_dataset,0
+Neovasc,Medical devices,Canada,companiesMarketCap_dataset,Neovaude,Sales & Marketing,Germany,ft-com,0
+Netlink Trust,Telecommunication,Singapore,companiesMarketCap_dataset,Netlinkz Limited,,NSW,disfold-com,0
+Nhn Corp,Video games; Entertainment,South Korea,companiesMarketCap_dataset,Nhn Corporation,Communication Services; Gaming; Software and IT,South Korea,valueToday_dataset,1
+"Nippon Express Holdings, Inc.",,Japan,disfold-com,Nippon Express Italia Spa,"Transportation, Communications, Electric, Gas, and Sanitary Services",ITALY,hitHorizons_dataset,0
+Nomura Co Ltd,Construction,,output_globaldata,Nomura Holdings,"Financial Services; Asset Management; Investments; Securities; Banking Services; Stock Markets, Trading, Capital Markets",Japan,valueToday_dataset,0
+Northvolt,Other,Sweden,DDD-cbinsight-com,Northwave,Cyber Security,Netherlands,ft-com,0
+OMV AG,Energy and Utilities,,output_globaldata,OMV Group,,,company_social_urls,0
+Olympus Airways,Consumer services,,MalPatSaj-wikipedia-org,Olympus Corp,Medical Equipment,,output_globaldata,0
+Optimus Pharma,Healthcare / Pharma,,AmbitionBox,Optimus S.A.,Technology,,MalPatSaj-wikipedia-org,0
+Oriental Energy Co Ltd,Energy and Utilities,,output_globaldata,Oriental Land,Entertainment; Hotels; Travel,Japan,companiesMarketCap_dataset,0
+PAL GROUP Holdings CO. Ltd,,Japan,disfold-com,PAL Holdings Inc,Transport and Logistics,,output_globaldata,0
+PT Bumi Resources Tbk,Metals and Mining,,output_globaldata,PT Bumi Serpong Damai Tbk,,Indonesia,disfold-com,0
+PZU,Financials,,MalPatSaj-wikipedia-org,PZU SA,Financial Services,,output_globaldata,1
+Park Aerospace,Aerospace,USA,companiesMarketCap_dataset,Park Avenue,Personal Care/Men’s Shoes,,campaignindia,0
+Pavillon Holdings Ltd,,Singapore,disfold-com,Pavillon noir,Media,France,ft-com,0
+Perfect Corp.,Software; Tech; Cosmetics and Beauty,Taiwan,companiesMarketCap_dataset,Perfect Diary,,China,valueToday_dataset,0
+Pharmaceutical job,Pharma,,AmbitionBox,Pharmacia,Health care,,MalPatSaj-wikipedia-org,0
+Piramal Pharma,Pharmaceuticals; Biotech,India,companiesMarketCap_dataset,Piramal Realty,Real Estate,,AmbitionBox,0
+Pokarna,Building Material,,AmbitionBox,Pokka,Beverage,,campaignindia,0
+Pool,,United States,MalPatSaj-forbes-com,Pool Corp,Wholesale,,output_globaldata,1
+Premier Oil plc,,United Kingdom,disfold-com,Premier Plasmotec,Petrochemicals,,AmbitionBox,1
+Progressive,,United States,MalPatSaj-forbes-com,Progressive Corporation,Financial Services; Insurance,USA,valueToday_dataset,1
+Ptt Public Company,Energy; Oil and Gas; Coal Mining; Natural Gas Generation; Petrochemicals,Thailand,valueToday_dataset,Public Bank,,,company_social_urls,0
+Qualitest,IT Services & Consulting,,AmbitionBox,Qualitest Careers,Information Technology & Services,United Kingdom,DDD-teamblind-com,1
+RADIODETECTION LIMITED,,UNITED KINGDOM,wissel-aziende-info-clipper-com,RADIOS R US LIMITED,82990 - Other business support service activities not elsewhere classified,,output_govuk_bigsize,0
+Raksul,Industries; Printing; Business Services,Japan,valueToday_dataset,"Raksul, Inc.",,Japan,disfold-com,1
+Razor Labs,,Israel,disfold-com,Razorpay,Fintech,India,DDD-cbinsight-com,0
+Reliance Jio,Telecom; Mobile Services; Internet Providers,India,valueToday_dataset,Reliance Jio Infocomm Ltd,Technology and Communications,,output_globaldata,1
+Rexceed,Construction,Japan,ft-com,Rexel,,France,MalPatSaj-forbes-com,0
+Rosneft,,Russia,MalPatSaj-forbes-com,Rosneft Oil Co,Energy and Utilities,,output_globaldata,1
+SGR,Pharmaceuticals,India,ft-com,SGS,,Switzerland,MalPatSaj-forbes-com,0
+Sace Spa,"Finance, Insurance, and Real Estate",ITALY,hitHorizons_dataset,Sacee,Support Services,Italy,ft-com,0
+Samsung SDI Co Ltd,Technology and Communications,,output_globaldata,Samsung SDS,,South Korea,MalPatSaj-forbes-com,0
+Sapphire Corp Ltd,,Singapore,disfold-com,Sapphire Foods India,Retail,,AmbitionBox,0
+Saudi Public Transport Company,,Saudi Arabia,disfold-com,Saudi Real Estate Company,Real Estate,Saudi Arabia,valueToday_dataset,0
+Schott Packaging,Ecommerce,UK,ft-com,Schott Poonawalla,Packaging,,AmbitionBox,0
+Seiko Group Corp,Consumer Packaged Goods,,output_globaldata,Seiko Holdings Corp,,Japan,disfold-com,0
+Sesa,Technology; Software and IT,Italy,valueToday_dataset,Sesa Spa,Services,ITALY,hitHorizons_dataset,1
+Shanghai Jin Jiang Capital Company Ltd,,China,disfold-com,Shanghai Jin Jiang International Hotels Development,Consumer Cyclical; Hotels; Restaurants,China,valueToday_dataset,0
+Shenzhen Minde Electronics Technology,Industries; Electronics,China,valueToday_dataset,Shenzhen Mindray Bio-Medical Electronics,,China,MalPatSaj-forbes-com,0
+Siam City Cement (insee),Cement; Building materials,Thailand,companiesMarketCap_dataset,Siam City Cement Public Co Ltd,Construction,,output_globaldata,1
+Silicon Laboratories Inc.,,TX,disfold-com,Silicon Motion,Semiconductors; Tech; Tech Hardware,Hong Kong,companiesMarketCap_dataset,0
+Sixt Leasing SE,,Germany,disfold-com,Sixt SE,Transport and Logistics,,output_globaldata,0
+Smeg,Consumer goods,,MalPatSaj-wikipedia-org,Smeg Spa,Manufacturing,ITALY,hitHorizons_dataset,1
+Sonder Holdings,Rental & Leasing Services; Real estate; Travel,USA,companiesMarketCap_dataset,SonderMind,Health,United States,DDD-cbinsight-com,0
+Sphere 3D Corp.,,ON,disfold-com,Sphere 3d,Software; Tech,Canada,companiesMarketCap_dataset,1
+Sprout Social,Software; Tech,USA,companiesMarketCap_dataset,Sprout Solutions,Technology,Philippines,ft-com,0
+Sterling Infosystems,IT Services & Consulting,,AmbitionBox,Sterling Infrastructure Inc,Construction,,output_globaldata,0
+Straumann,Medical devices,Switzerland,companiesMarketCap_dataset,Straumann Holding AG,Medical Equipment,,output_globaldata,1
+Sundaram Motors,Automobile,,AmbitionBox,Sundaram-clayton,Consumer Cyclical; Automobile; Automobile Parts; Metal Products Manufacturing,India,valueToday_dataset,0
+Svolder AB,,Sweden,disfold-com,Svolder Ab (publ),Financial Services; Asset Management; Investments,Sweden,valueToday_dataset,1
+SynapseIndia,IT Services & Consulting,,AmbitionBox,Synapsy,Advertising,Italy,ft-com,0
+TELUS International (Cda) Inc.,,BC,disfold-com,TELUS International Philippines,IT Services & Consulting,,AmbitionBox,0
+Taimei Technology,,China,valueToday_dataset,"Taimide Tech., Inc.",,Taiwan,disfold-com,0
+Tata Metaliks,Iron & Steel,,AmbitionBox,Tata Motors,Consumer Cyclical; Automobile; Automobile Parts; Construction Equipment; Cars; Sports Vehicles; Bus Manufacturing; Commercial Vehicles; Manufacturing; Trucks; Passenger Vehicles; Electric Vehicles,India,valueToday_dataset,0
+Tecan,,Switzerland,companiesMarketCap_dataset,Tecan Group,Healthcare; Medical Equipment,Switzerland,valueToday_dataset,1
+Telefónica,Telecommunications,,MalPatSaj-wikipedia-org,Telefónica Chile SA,,Chile,disfold-com,0
+Telstra,Telecom,,AmbitionBox,Telstra Corp Ltd,Technology and Communications,,output_globaldata,1
+Thales SA,,France,disfold-com,ThalesNano,Industrials,,MalPatSaj-wikipedia-org,0
+The Phoenix Holdings Ltd,Financial Services,,output_globaldata,The Phoenix Mills,Real Estate,,AmbitionBox,0
+Thomson Digital,Printing & Publishing,,AmbitionBox,Thomson Medical Group,Hospitals; Healthcare Service,Singapore,valueToday_dataset,0
+Titan Art,Advertising,Japan,ft-com,Titan Cement,Industrials,,MalPatSaj-wikipedia-org,0
+Top Ramen,Instant Noodles,,campaignindia,Top Reform,Architecture,Japan,ft-com,0
+Tradeweb,Financial services,USA,companiesMarketCap_dataset,Tradeweb Markets,"Financial Services; Stock Markets, Trading, Capital Markets; Trading",USA,valueToday_dataset,1
+Tri Pointe Group,Real Estate; Construction; Capital Goods,USA,valueToday_dataset,Tri Pointe Homes Inc,Construction,,output_globaldata,1
+Twitter,Communication Services; Software and IT; Software Products; Technology; Internet or Mobile App Based Business; Advertising; Media; Social Media; Artificial Intelligence,USA,valueToday_dataset,Twitter Careers,Internet,CA,DDD-teamblind-com,0
+UniCredit Bulbank,Financials,,MalPatSaj-wikipedia-org,UniCredit S.p.A.,,MI,disfold-com,0
+Unite Us,Health,United States,DDD-cbinsight-com,Unitech,Real Estate,,AmbitionBox,0
+Uniti,Real estate; REITs; Investment; Telecommunication; Infrastructure,USA,companiesMarketCap_dataset,Uniti Group,Real Estate; Consumer Services; Property Investments,USA,valueToday_dataset,1
+Valvole Italia,Industrial Goods,Italy,ft-com,Valvoline,Energy; Chemicals; Oil and Gas,USA,valueToday_dataset,0
+Vedant Fashions,Fashion & Textile,,AmbitionBox,Vedanta,Basic Materials; Mining; Iron and Steel; Metals; Zinc; Aluminum,India,valueToday_dataset,0
+Verity,Investment Banking / Venture Capital / Private Equity,,AmbitionBox,Verizon,,NY,disfold-com,0
+Vimeo,Internet; Tech,USA,companiesMarketCap_dataset,"Vimeo, Inc.",Technology; Software and IT; Television Services,USA,valueToday_dataset,1
+Viva Energy Group Limited,,VIC,disfold-com,Viva Energy Reit,Real Estate,Australia,valueToday_dataset,1
+Vroom,Used car retailer; Internet; Car retail,USA,companiesMarketCap_dataset,"Vroom, Inc.",Retail; Automobile; Automobile Dealers,USA,valueToday_dataset,1
+Weatherford,Oil & Gas,,AmbitionBox,Weatherford International,Energy; Oil&Gas,USA,companiesMarketCap_dataset,1
+Western Coalfields,Metals & Mining,,AmbitionBox,Western Copper And Gold,Mining; Gold mining,Canada,companiesMarketCap_dataset,1
