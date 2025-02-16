@@ -2,6 +2,7 @@ venv
 .venv
 .venvDitto
 venvDitto
+ditto/
 __pycache__
 # Ignora i file JSON di grandi dimensioni
 old_record_linkage/candidate_pairs_strategy_*.json
