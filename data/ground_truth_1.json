@@ -23,6 +23,44 @@
         {
             "pairs": [
                 {
+                    "company-name": "51job",
+                    "industry": [
+                        "Industries",
+                        "Technology",
+                        "Outsourcing and Staffing"
+                    ],
+                    "country": "China",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "51job, Inc.",
+                    "industry": null,
+                    "country": "China",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "ABN AMRO",
+                    "industry": "Financials",
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                },
+                {
+                    "company-name": "ABN AMRO Bank N.V.",
+                    "industry": null,
+                    "country": "Netherlands",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
                     "company-name": "AMPLUS",
                     "industry": "Technology",
                     "country": "Japan",
@@ -55,6 +93,25 @@
                 }
             ],
             "match": false
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Acer",
+                    "industry": [
+                        "Tech"
+                    ],
+                    "country": "Taiwan",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Acer Inc",
+                    "industry": "Technology and Communications",
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
         },
         {
             "pairs": [
