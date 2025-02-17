@@ -18,3 +18,4 @@ matched_companies_sampled.csv
 entity-matching-transformer/experiments/
 entity-matching-transformer/filtered_pairs.tsv
 entity-matching-transformer/matching_results.tsv
+entity-matching-transformer/blocked_pairs.tsv

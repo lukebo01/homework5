@@ -4,7 +4,7 @@ from transformers import AutoModelForSequenceClassification, AutoTokenizer
 from safetensors.torch import load_file
 
 # Carica il modello
-model_path = "experiments/DATA/DIRTY_AMAZON_ITUNES/DEEP_MATCHER__DISTILBERT__20250216_211628"
+model_path = "experiments/DATASET__DISTILBERT__20250217_120057"
 tokenizer = AutoTokenizer.from_pretrained(model_path)
 model = AutoModelForSequenceClassification.from_pretrained(model_path)
 state_dict = load_file(f"{model_path}/model.safetensors")

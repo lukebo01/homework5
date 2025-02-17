@@ -1,0 +1,147 @@
+id	sentence1	sentence2	label
+0	Schumm PLC	SchummPLC	0
+6	Casper-Schaden	CaspRr-Schaden	1
+9	Swaniawski Ltd	Swaniawskx Ltd	1
+12	Hilpert-Gibson	Hil_pert-Gibson	1
+15	Zboncak, Heathcote and Sanford	Zboncak, Heathcote and San,ford	1
+18	Ankunding-Harber	Ankunding-Harb-er	1
+21	Willms-Lebsack	BiZlms-Lebsack	0
+27	Schmidt-Haley	Schmidt-Raley	1
+33	Torphy-Bogan	Torphy.-Bogan	1
+45	Kuhlman-Bogisich	Kuhlyan-BoTisich	0
+48	Pagac, Erdman and Shanahan	Pagac, Erdman and Shgnahan	1
+51	Emard, Reilly and Jerde	Emard, Reilly and _Jerde	1
+54	Kassulke, Little and Leuschke	Kassulke, Litle and Leuschke	1
+57	Kerluke-Ferry	berluke-Ferry	1
+60	Pouros Inc	Pouros IU]	0
+63	O'Hara-Kohler	O'Hara-Kohle.r	1
+66	Kreiger, Jerde and Altenwerth	Kreiger, Jerde dnd Altenwerth	1
+69	Schmidt PLC	Schmijs PLC	0
+72	Koch, Casper and Batz	"Koch, Casper and	Batz"	1
+75	Champlin PLC	Champlin PLC	1
+78	Pollich PLC	Pol_lich PLC	1
+81	Keeling, Gusikowski and Koepp	Keeling, Gusik]wski and Koepp	1
+84	Willms Ltd	Willms Lr]	0
+87	Kshlerin-Schumm	Ksfltrin-Schumm	0
+90	Klocko-Schimmel	K^oco-Schimmel	0
+93	Skiles Ltd	Skihes Ltd	0
+96	Jaskolski-Rogahn	JMskolski-Rogahn	1
+99	Wehner-Hansen	Wehnea-Hansen	1
+102	Armstrong, Grady and Beier	Armstrong, Grady and Yemer	1
+108	Nolan, Armstrong and Schaden	N|lan,3Armstrong and Schaden	1
+114	Runolfsson-O'Conner	Runolfsson-C'Conner	1
+117	Effertz, Wiegand and Willms	Effertz, Wiegand Xnd Willms	1
+120	Doyle, Kerluke and Fay	Doyle& Kerlukb asd Fay	0
+126	Baumbach and Sons	Baumbach ad Sons	1
+129	Marquardt, Sauer and Altenwerth	MarquUrdt, SPuer and Altenwerth	1
+132	Jaskolski, Feil and Gutmann	Jaskolski, Fmil,and Gutmann	1
+138	Corwin, Kerluke and Wyman	Corwin, Kerluke -and Wyman	1
+141	Veum and Sons	Veum and _Sons	1
+144	Heidenreich-Gulgowski	Heidenre[Uh-Gulgowski	0
+147	Pacocha, Wiegand and Witting	Pacocha, Wiegand and Witt-ing	1
+150	Schoen-Daugherty	Schoen-Daugherty	1
+153	Lakin-Schneider	9akin-Schnvider	0
+159	Mosciski-Kunde	Xosciski-Kunde	1
+162	Beahan, McLaughlin and Herman	and McLaughlin Beahan, Herman	0
+168	O'Reilly and Sons	O'Reilly and Sons	1
+171	Bahringer, Kunde and Legros	Bahringer, Kunde and_ Legros	1
+174	Rippin-Lindgren	Rippin-Lnndgren	1
+177	Cassin and Sons	Cassin and S}ns	1
+180	Lesch-Vandervort	Lesch-Vandervort	1
+186	Schaefer, Haley and Botsford	Schaefer, Haley7and Botsford	1
+192	Murphy, Champlin and Spinka	Murphy, Champlin ana Spinka	1
+195	Marquardt, Keebler and Oberbrunner	Maquardt, Keebzerand Oberbrunner	0
+198	Considine Group	ConsiWin]'Group	0
+201	Reynolds, Beier and Gorczany	Reynolds, Beier and Gorczan	1
+204	Pacocha, Schmeler and Jacobi	Pacocja, Schmeler and Jacobi	1
+207	O'Kon PLC	O'Kon YLC	0
+210	Williamson and Sons	Williams_on and Sons	1
+213	McClure, Cole and Kunze	Mc8lure, Cole and Kunze	1
+216	Kulas-Kris	Kua-Kris	0
+219	Yost-Mueller	YostMueller	1
+222	Ledner-Cummerata	Ledneh-Cum_erata	0
+225	Tromp-Goodwin	Tromp-Goodwin	1
+228	Boyer LLC	Boer L;C	0
+231	Gerhold, Runolfsdottir and Reilly	Gerho}d, Runolfsdottir and Reilly	1
+234	Bashirian-Reichel	BashiqRa~-Reichel	0
+243	Batz LLC	Batz. LLC	1
+246	Lemke, Fahey and O'Kon	Lemkf, Fahey and O'Kon	1
+249	Hermiston-Nikolaus	/ermistn-Nikolaus	0
+252	Rohan Inc	Rohan Inc	1
+255	Gleichner-Sawayn	Gleichner-Sawayn	1
+258	Herman-Leuschke	Herman-LeuscRke	1
+261	Roberts Group	Robertc Group	1
+264	Botsford-Sanford	BltsfordSanford	0
+267	Adams, Stokes and Goldner	Adams, Stokes and Toldner	1
+270	Greenholt Inc	Greenwolt Inc	1
+273	Pollich LLC	Po}lich LLC	0
+276	Barton Ltd	Garton Ltd	0
+282	Hettinger-Zulauf	Hettinger-Zuljuf	1
+285	Kling Inc	Kling Inx	0
+288	Reilly Ltd	Reil,ly Ltd	1
+290	Hill Inc	HillsInc	0
+291	Lindgren, Mante and Beer	8indgren; Mante and Beer	1
+294	Grimes-Dickens	Grimes-Dickdns	1
+297	Gerhold, Waelchi and Powlowski	Gerhold, Waelchi and Powlwwski	1
+300	McDermott-Koepp	McDerm{tt-Koepp	1
+303	Morar, Raynor and Smitham	Morar, Raynor and_ Smitham	1
+306	Nienow Group	Nienow Gqoup	1
+309	Ankunding, Zulauf and Bradtke	,nkunding, ZulauS and Bradtke	1
+312	Berge-Hermiston	Berge-Hermiston	1
+315	Block, Renner and Klocko	Block, Reneer ad Klocko	1
+318	Schoen-Marks	Scioen-Marks	1
+321	Orn, Hahn and Stracke	Orn; Hah asd Stracke	0
+327	Auer, Cummerata and Stanton	Auer,Cummerat] and StaVton	0
+330	Heidenreich PLC	Heidenreich PDC	1
+333	Murazik-Bednar	Guazik-Bednar	0
+336	Koepp Group	Koepp Grout	0
+339	Lehner-Miller	Le{neu-Miller	0
+342	Frami, Streich and Murphy	FramiA Streich and Murphy	1
+345	Grady-Lubowitz	Grady-Lubowitz	1
+348	Runolfsdottir-Kulas	Runolfsdottyr-Kulas	1
+354	Langosh, Goldner and Bosco	Langoh, Goldner and Boscv	1
+357	Tromp, Walter and Turcotte	Tromp, Walter and Turcoste	1
+360	Bednar-Conn	Bednar-Conn	1
+363	Dietrich-Turner	Rietrimh-Turner	0
+366	Koelpin, Kiehn and Marquardt	9oelpin, Kiehn aZd Marquardt	1
+369	Heathcote-Bradtke	Heathcote-Bradtke	1
+375	Mayert, Tremblay and Mante	MayertA Hremblay andMante	0
+378	Considine and Sons	Considine and Sows	1
+381	Jast-Quitzon	Jast-Quitcvn	0
+384	Hermiston, Bogisich and D'Amore	Hermiston, Bo]isich `nd D'Amore	1
+387	Jakubowski-Larkin	Jakubows-ki-Larkin	1
+390	Steuber-Bahringer	Steub}r9Bahringgr	0
+393	Altenwerth, Witting and Huels	Altenwerth, Witting and Huelg	1
+396	Dickinson Inc	Dickinson Inc	1
+402	Willms, Corkery and Johns	Willms, Corker,y and Johns	1
+405	Pacocha, Dicki and Hamill	Dicki and Pacocha, Hamill	0
+408	Collier, Mayert and Bahringer	Collier, Mlyert and Bahringer	1
+411	Hudson-Fisher	Hudson-FishSr	1
+414	Gaylord Ltd	Gayloqd Ltd	0
+417	Lueilwitz-Rempel	Lueilwitz-Rempel	1
+420	Reynolds Ltd	ReynoldsLtd	1
+423	Schuster, Raynor and Hermann	Sch-ster, Raynor an[ Hermann	1
+426	Predovic-McCullough	Predovic-Mc9ullough	1
+429	Trantow PLC	Tjantow PL@	0
+432	Ösinski-Schinner	Osinski-Schinneg	0
+438	Towne-Raynor	Tone-Raynor	1
+441	Zieme-Krajcik	Zieme_-Krajcik	1
+444	Feeney Group	Feeney Goup	1
+447	Upton-Zemlak	Upton-Zemlbk	1
+450	Ernser, Abshire and Weber	Ernser, Abshire fnc Weber	1
+453	Quigley PLC	Quigley PLC	1
+456	Mitchell Group	Mitlhell GrWup	0
+459	Grady, Cruickshank and Turner	Grad, Cruickshank and Turner	1
+462	Bosco Ltd	Bosco Ltd	1
+465	Adams, Stehr and Cronin	Adams, Stehr and Cronin	1
+468	Heidenreich, Koss and Nikolaus	Heidenreich, Koss and N|kolaus	1
+471	Powlowski, Denesik and Hartmann	Powlowski, Denesyk and Hartmann	1
+474	Streich, Reichert and Dach	Streich, ReichPrt and Dach	1
+477	Leannon, Towne and Ullrich	Yeannon, Towne and Ullrich	1
+480	Bahringer-Gorczany	Ba|ringer-Gorczqny	0
+483	Becker-Strosin	Becker-StrYsin	1
+486	Cummerata-Mohr	Cummerata.-Mohr	1
+489	Hegmann Group	Hegma.nn Group	1
+492	Bednar, Boyer and Krajcik	Bednar,Boyer and Krajcik	1
+495	D'Amore, Jones and Block	DAmore, Jones and Block	1
+498	Von-Stracke	Von-Strac-ke	1

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATA_PATH=data/dirty_amazon_itunes/deep_matcher
+DATA_PATH=dataset
 
 PYTHON_EXE=python3  # Usa Python del container
 
@@ -19,5 +19,5 @@ cecho(){
 SEED=22
 
 # Addestramento su un dataset simile (ad esempio dirty_amazon_itunes)
-cecho "YELLOW" "Start pre-training with DistilBERT on dirty_amazon_itunes"
+cecho "YELLOW" "Start pre-training with DistilBERT on dataset"
 $PYTHON_EXE $RUN_PY_PATH --model_type=distilbert --model_name_or_path=distilbert-base-uncased --data_processor=DeepMatcherProcessor --data_dir=$DATA_PATH --train_batch_size=16 --eval_batch_size=16 --max_seq_length=180 --num_epochs=10 --seed=${SEED}

@@ -1,0 +1,212 @@
+id	sentence1	sentence2	label
+2	Towne, Johnston and Murray	Tjwne, Johnston and Murray	1
+3	Quitzon Group		0
+5	Torphy-Corkery	Torphy-Xorkery	1
+8	Terry and Sons	Temry aUd Sons	0
+11	Jenkins Group	Jenkins G[up	0
+14	Emard Inc	Emard Hnc	0
+17	Skiles-Huels	Skples-Huels	1
+20	Kozey, Armstrong and Gibson	Kozey, Armstrobg and Gibson	1
+23	Hansen, Hoppe and Tillman	Hasen, Hoppe and TillmHn	1
+24	Ratke Ltd		0
+26	Harris, Armstrong and Brown	Harris, Armscrong and B}on	0
+29	Toy and Sons	Toy and(Sons	1
+30	Klein, Daniel and Lubowitz		0
+32	Kessler, Bergstrom and Kuhn	Kessler, Bergstrom and K.uhn	1
+35	Sanford-Boyer	Sanford-Boyer	1
+36	Will PLC		0
+38	Ruecker, Wilderman and Gleichner	Ruecker,(Wilderman an] Gleichner	1
+39	Hessel-Waelchi		0
+40	Abbott-Borer		0
+41	Simonis-Weber	Simonis#Weber	1
+42	Little PLC		0
+44	Schneider, Lubowitz and Wiza	Schneider, Lubowitz and W-iza	1
+47	Gleason-Goyette	Gleason-Goyette	1
+50	Kling Group	Kling .roup	0
+53	Daugherty-Jacobson	Dhugherty-Jacobson	1
+56	Langworth, Bauch and Berge	LNngworth, Bauch und Berge	1
+59	Hyatt, Durgan and Senger	Hyats, Durgan and S|nger	1
+62	Kiehn, Cronin and Bernier		0
+65	Mills, Borer and Greenfelder	Mills, Burer and Greenfelder	1
+68	O'Connell LLC	O'Connell LL<	1
+71	Gaylord Inc	Gaylord _nc	0
+74	Wintheiser New LLC	Winheiser LLC	0
+77	Hettinger and Sons	Hettinger ad Sons	1
+79	Lynch LLC		0
+80	Murazik LLC	MuraziU LLC	0
+83	Wolff LLC	Womff LLC	0
+86	Mayert-Frami	"<ayert""Frami"	0
+88	Koepp, Heathcote and Goldner		0
+89	Harvey and Sons		0
+92	Anderson, Turcotte and Okuneva	Anderson, Turcotte and OkunevL	1
+95	Dach PLC		0
+97	Prohaska and Sons		0
+98	Parisian, Stiedemann and Ortiz	Parisian, Stiedemann and Or.tiz	1
+101	Becker-Klein	Bec_ker-Klein	1
+104	Towne LLC		0
+105	Turner Group		0
+107	Luettgen, Lueilwitz and Watsica	Luetgen, Lueilwitz and Watsica	1
+110	Keebler, McKenzie and Zieme	Keebler, McKenzie and Zieye	1
+111	Hills and Sons		0
+113	Kuvalis Ltd	-Kuvalis Ltd	1
+116	Gerlach, Fritsch and Luettgen	Ger{ach, Fritsch and Luetvgen	1
+119	Crist LLC	Criwt LLC	0
+122	Schowalter-Wolf	Schowalter-Wolf	1
+123	Legros-Pouros		0
+125	Parisian Group	Pahisian Group	1
+128	Mitchell, Luettgen and Carroll	Mitchell, Luettgen'and Carroll	1
+131	Harvey-Bergstrom	Hnvey-Bergstrox	0
+134	West PLC	West- PLC	1
+135	Jenkins Ltd		0
+137	Roberts-Schuster	Roberts-Schuster	1
+140	Stroman Ltd	Strman Ltd	0
+142	Hyatt LLC		0
+143	O'Connell, Bogisich and Carter	O'Connel[, Bogisich and Carter	1
+145	Kohler, Pacocha and Baumbach		0
+146	Wisozk, Swaniawski and Price	Wisozk, Swaniawski and Prce	1
+149	Dickens Ltd	Dicke~s Lad	0
+152	Hand Inc	Hand Imc	0
+155	Willms Group	Willms Go`p	0
+156	Grady-Grady		0
+158	Ward-Gutmann	Ward-Gutmann	1
+161	Torphy PLC		0
+163	White-Hayes		0
+164	Bahringer, Bashirian and Von	BahrsnVer, Bashirian and Von	1
+165	Bayer and Sons		0
+166	Schiller LLC		0
+167	Prohaska LLC		0
+170	Hartmann, Hilpert and Bernier		0
+173	Jakubowski Inc		0
+176	Conroy, Ledner and Ward	Conroy, Ledne{ and Ward	1
+179	Leffler-Bode	Leffler-Brde	1
+181	Blick Ltd		0
+182	Waelchi and Sons	Wae~chi and S{ns	0
+183	Hilltop Inc		0
+185	Herman-Zieme	Herman-Zie-me	1
+188	Sipes-Weissnat	Sipes-Weisnat	1
+189	Luettgen-Jacobi		0
+191	Jerde-Paucek	Jerde-Pauc_k	1
+194	Kiehn, Cassin and Rempel	and Kiehn, Cassin Rempel	0
+196	Buckridge Ltd		0
+197	Adams LLC	Adams LLL	0
+200	Brakus-Pouros	Br-akus-Pouros	1
+203	VonRueden, Hirthe and Gleichner	VonRuedYn,*Hirthe and Gleichner	1
+206	Hoppe, Boyer and Ortiz	Hoppe,Boyer and Ortiz	1
+209	Kilback, Lueilwitz and Mann	KilbacV, Lueilwitz and Mann	1
+212	Lehner LLC		0
+215	Kunde Group	"Kunde
+Group"	0
+218	Graham, Kirlin and Effertz	Graham= Kirlin and Effertz	1
+221	Kessler-Yost		0
+224	Halvorson-Abernathy	Halvorton-Abernathy	1
+226	Hintz, Harris and Rau		0
+227	Hartmann-Gutmann	Harcmann-Gutmann	1
+230	Dickinson, Schaden and Effertz	Dmckinson,0Schaden and Effertz	1
+233	Cummerata, Metz and Harvey	Cummerjta, Metz and Hardey	1
+236	Schmitt, Nader and Lueilwitz	Schmikt, Nader and Luejlwitz	1
+237	West-Osinski		0
+239	Herman, Brakus and Boyer	Herz_o, Brakus and Boyer	0
+240	Collier Group		0
+242	Huel PLC	Huel PLC	1
+245	Herzog-Strosin	Herzog-Strosin	1
+248	Gibson, Haag and Wisozk	GibsWn, Haag and Wisozk	1
+251	McClure-Moen	McClure-Moen	1
+254	O'Kon LLC	O'Zon LLC	0
+257	VonRueden, Schinner and Mills	VonRueden Schinner and Mil_s	1
+260	Schroeder-Tillman	Ichroeder-Tillman	1
+262	Maggio PLC		0
+263	Stokes LLC		0
+266	Armstrong, Parisian and Smitham	Armstrong, Parisian and Smihham	1
+269	Bartell PLC	Batell PLC	0
+272	Brakus-Pacocha	Lrakus-=acocha	0
+275	Krajcik-Mayer	Krajcik-Mayet	1
+278	Padberg LLC	Padberg LLC	1
+279	Rosenbaum and Sons		0
+281	Howe, Smith and Strosin	HowY, Smith and Strosin	1
+284	Hilpert and Sons		0
+287	Bernier Group	Bernier 4roup	1
+292	Ruecker LLC		0
+293	Daugherty-Walsh	Daughetz-Walsh	0
+295	Simonis PLC		0
+296	Nitzsche-Miller	Nitzsch-e-Miller	1
+299	Oberbrunner Inc	Ober]rnner Inc	0
+302	Toy PLC	Toy_ PLC	1
+305	Zulauf, Dach and Hyatt	Zulauf, Dach and H-yatt	1
+308	Bahringer-Wiza	2ahringer-Wiza	1
+311	Muller-Zemlak	Muller-Zbmlak	1
+314	Bartell LLC	BartYll LLC	0
+317	Bruen-Heaney	Bruen-HYqney	0
+320	Hills-Kuhic	HillsKuhic	0
+323	Hill, Dicki and Wilderman	Hill, Dicki and Wilderma.n	1
+324	Miller-Graham		0
+326	Jones-Watsica	Jones-WatsiWa	1
+329	Satterfield, DuBuque and Hickle	Sa]terfield, DuBuque and Hickle	1
+332	Casper Ltd	Caspex Ltd	0
+335	Wyman Inc	WymQn Inc	0
+338	Zieme, Miller and Hackett	Zieme, Miller and Hack-ett	1
+341	Cole-Gerlach	Cole-Gerlach	1
+344	Kuphal-Jacobson	Kuphal-Jacoxson	1
+347	O'Kon-Kiehn	O'Kon-Kijhn	0
+350	Rowe PLC	Rlwe PLC	0
+351	Gottlieb PLC		0
+353	Hodkiewicz Ltd	7odkievicz Ltd	0
+356	Rosenbaum-Marquardt	Rosenbaui-Marquardt	1
+359	Ledner, Kozey and Terry	LeVner, Kozey aUd Tsrry	0
+361	Wintheiser LLC	Winheiser LLC	1
+362	Bartell and Sons	Bartewl and Sons	1
+364	Rosenbaum-Rath		0
+365	Towne, Smith and Ebert	Vow`e, Smith and EbeZt	0
+368	Ritchie, Kirlin and Bailey	ditchiR, Kirlin and Bailey	1
+371	Medhurst-Cole	Medgur|t-Cole	0
+372	Rutherford Inc		0
+374	Brownish Group		0
+377	Lynch Ltd		0
+379	Stehr Group		0
+380	Carroll Group	Carrdll Group	1
+383	Kuhic-Rempel	Khic-Rempvl	0
+385	Block-Waters		0
+386	Labadie-Rogahn	Labadqe1Rogahn	0
+389	Hartmann-Gaylord	Hxrtmana-Gaylord	0
+392	Schinnerschine Inc		0
+395	Moore PLC	Moore PLC	1
+398	Rogahn PLC		0
+399	Bogan PLC		0
+401	Cummerata-Herzog	Dummera{a-Herzog	0
+404	Gaylord, Beahan and White	Gaylord, Beahan and Write	1
+407	Hayes-Sawayn	Hayes-Uawayn	1
+409	Wunsch Ltd		0
+410	Hickle-Jacobi	Hickle-Jacobi	1
+413	Kerluke LLC	Kerlu.ke LLC	1
+415	Orn Inc		0
+416	Gutkowski-Goyette	Gutkowski5Goyette	1
+419	Boyle Ltd	Bomle Ltd	0
+422	Marquardt, Schulist and Gutmann	Marquadt,#Schulist aod Gutmann	0
+425	Altenwerth Ltd	Alenwerth Ltd	1
+428	Huels Inc	H^els Inc	0
+431	Lakin, Schowalter and Homenick	[akin, Schowalter and Homenick	1
+434	Brakus, Weissnat and Deckow	Brakus, Weissnat nnd DeMkow	1
+435	Boehm Inc		0
+437	Bins, Daugherty and Marquardt	Bins,Daugherty and Marquardt	1
+440	Welch-Kuhlman	Welch-Kuhlian	1
+442	Mitchell Inc		0
+443	Ernser Inc	ErnserInc	0
+446	Treutel-Doyle	TreutMl1Doyle	0
+449	Weimann PLC	W{imann PLC	0
+452	Witting, Kuhic and Watsica	Witking, Kxhic and Watdica	0
+454	Kehner LLC		0
+455	Hoppe-Koelpin	Hyppe-Koelpin	1
+458	Wolff, Hermann and Heller	Wolff, and Heller Hermann	0
+461	Koch-Altenwerth	Koch-.Altenwerth	1
+464	Hamill, Kassulke and Pfannerstill	Hamill, Kassulke and Ofannerstill	1
+467	Weber, Kerluke and Kilback	Weber, Kerluke and KilQack	1
+470	Eichmann, Rath and Kris	Eichmann, Reth and Kris	1
+473	Jerde, Greenholt and Stanton	Greenholt and Jerde, Stanton	0
+476	Yundt-Okuneva	Yundt-O~uneva	1
+479	Padberg, Terry and Heller	Padberg, Terry and HeXler	1
+481	Klein LLC		0
+482	Senger Group	SLnger Group	1
+485	Gibson, Grant and Koelpin	Gibson, Grayt and Koelpin	1
+488	Beatty Inc	4eatty Inc	0
+491	Runolfsson-Prosacco	Runol~sson-=rosacco	0
+494	Ernser LLC	Frnser LLC	0
+497	Flatley LLC	Flatley _LLC	1

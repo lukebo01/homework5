@@ -1,0 +1,504 @@
+company_name,country,name_matching_data,match_index,score,original_name,match_name,company_name_matched,country_matched,name_matching_data_matched
+Schumm PLC,BE,schumm plc,0.0,85.57894736842107,schumm plc,schummplc,SchummPLC,BE,schummplc
+"Feeney, Aufderhar and Kirlin",UK,feeney aufderhar and kirlin,1.0,100.0,,,"Feeney, Aufderhar an-d Kirlin",UK,feeney aufderhar and kirlin
+"Towne, Johnston and Murray",FR,towne johnston and murray,2.0,95.00890688259108,towne johnston and murray,tjwne johnston and murray,"Tjwne, Johnston and Murray",FR,tjwne johnston and murray
+Quitzon Group,IT,quitzon group,,,,,,,
+Frami-Orn,SP,framiorn,4.0,84.85555555555555,framiorn,framqorn,Framq-Orn,SP,framqorn
+Torphy-Corkery,UK,torphycorkery,5.0,90.52747252747254,torphycorkery,torphyxorkery,Torphy-Xorkery,UK,torphyxorkery
+Casper-Schaden,FR,casperschaden,6.0,90.52747252747254,casperschaden,casprrschaden,CaspRr-Schaden,FR,casprrschaden
+Cormier-Stanton,BE,cormierstanton,7.0,87.91208791208793,cormierstanton,comierstnton,Comier-St^nton,BE,comierstnton
+Terry and Sons,NL,terry and sons,8.0,82.19279907084787,terry and sons,temry aud sons,Temry aUd Sons,NL,temry aud sons
+Swaniawski Ltd,LU,swaniawski ltd,9.0,91.18715393133998,swaniawski ltd,swaniawskx ltd,Swaniawskx Ltd,LU,swaniawskx ltd
+"Bauch, Anderson and Schiller",LU,bauch anderson and schiller,10.0,94.75890985324946,bauch anderson and schiller,bauch anderson nd schiller,"Bauch, Anderson \nd Schiller",LU,bauch anderson nd schiller
+Jenkins Group,LU,jenkins group,11.0,89.76091476091476,jenkins group,jenkins gup,Jenkins G[up,LU,jenkins gup
+Hilpert-Gibson,IT,hilpertgibson,12.0,94.23280423280423,hilpertgibson,hil_pertgibson,Hil_pert-Gibson,IT,hil_pertgibson
+Veum-Carroll,SP,veumcarroll,13.0,88.85918003565064,veumcarroll,veumcarholl,Veum-Carholl,SP,veumcarholl
+Emard Inc,LU,emard inc,14.0,86.47619047619047,emard inc,emard hnc,Emard Hnc,LU,emard hnc
+"Zboncak, Heathcote and Sanford",DE,zboncak heathcote and sanford,15.0,100.0,,,"Zboncak, Heathcote and San,ford",DE,zboncak heathcote and sanford
+Yost Group,SP,yost group,16.0,100.0,,,Yost .Group,SP,yost group
+Skiles-Huels,NL,skileshuels,17.0,88.85918003565064,skileshuels,skpleshuels,Skples-Huels,NL,skpleshuels
+Ankunding-Harber,BE,ankundingharber,18.0,100.0,,,Ankunding-Harb-er,BE,ankundingharber
+Hettinger LLC,IT,hettinger llc,19.0,85.91208791208793,hettinger llc,hettinger 7lc,Hettinger 7LC,IT,hettinger 7lc
+"Kozey, Armstrong and Gibson",DK,kozey armstrong and gibson,20.0,95.1981679829781,kozey armstrong and gibson,kozey armstrobg and gibson,"Kozey, Armstrobg and Gibson",DK,kozey armstrobg and gibson
+Willms-Lebsack,DE,willmslebsack,21.0,80.84441873915559,willmslebsack,bizlmslebsack,BiZlms-Lebsack,DE,bizlmslebsack
+Walter-Quitzon,IT,walterquitzon,22.0,100.0,,,Walter-Quitzon,IT,walterquitzon
+"Hansen, Hoppe and Tillman",BE,hansen hoppe and tillman,23.0,91.28014184397163,hansen hoppe and tillman,hasen hoppe and tillmhn,"Hasen, Hoppe and TillmHn",BE,hasen hoppe and tillmhn
+Ratke Ltd,NL,ratke ltd,,,,,,,
+"Borer, Reynolds and Yost",IT,borer reynolds and yost,25.0,100.0,,,"Borer., Reynolds and Yost",IT,borer reynolds and yost
+"Harris, Armstrong and Brown",BE,harris armstrong and brown,26.0,88.55258166491045,harris armstrong and brown,harris armscrong and bon,"Harris, Armscrong and B}on",BE,harris armscrong and bon
+Schmidt-Haley,NL,schmidthaley,27.0,89.76091476091476,schmidthaley,schmidtraley,Schmidt-Raley,NL,schmidtraley
+Frami-Pouros,BE,framipouros,28.0,100.0,,,Frami--Pouros,BE,framipouros
+Toy and Sons,LU,toy and sons,29.0,93.26086956521739,toy and sons,toy andsons,Toy and(Sons,LU,toy andsons
+"Klein, Daniel and Lubowitz",BE,klein daniel and lubowitz,,,,,,,
+Gerlach and Sons,IT,gerlach and sons,31.0,100.0,,,Gerl-ach and Sons,IT,gerlach and sons
+"Kessler, Bergstrom and Kuhn",IT,kessler bergstrom and kuhn,32.0,100.0,,,"Kessler, Bergstrom and K.uhn",IT,kessler bergstrom and kuhn
+Torphy-Bogan,DK,torphybogan,33.0,100.0,,,Torphy.-Bogan,DK,torphybogan
+Schaefer-Schmidt,SP,schaeferschmidt,34.0,92.42753623188406,schaeferschmidt,schauferschmidt,Schaufer-Schmidt,SP,schauferschmidt
+Sanford-Boyer,SP,sanfordboyer,35.0,100.0,,,Sanford-Boyer,SP,sanfordboyer
+Will PLC,NL,will plc,,,,,,,
+Ratke Group,SP,ratke group,37.0,80.45454545454547,ratke group,ratke groqx,Ratke GroqX,SP,ratke groqx
+"Ruecker, Wilderman and Gleichner",UK,ruecker wilderman and gleichner,38.0,94.70967741935485,ruecker wilderman and gleichner,rueckerwilderman an gleichner,"Ruecker,(Wilderman an] Gleichner",UK,rueckerwilderman an gleichner
+Hessel-Waelchi,FR,hesselwaelchi,,,,,,,
+Abbott-Borer,LU,abbottborer,,,,,,,
+Simonis-Weber,IT,simonisweber,41.0,100.0,,,Simonis#Weber,IT,simonisweber
+Little PLC,DK,little plc,,,,,,,
+Murray LLC,DK,murray llc,43.0,87.78299120234605,murray llc,munray llc,Munray LLC,DK,munray llc
+"Schneider, Lubowitz and Wiza",DE,schneider lubowitz and wiza,44.0,100.0,,,"Schneider, Lubowitz and W-iza",DE,schneider lubowitz and wiza
+Kuhlman-Bogisich,SP,kuhlmanbogisich,45.0,83.36363636363636,kuhlmanbogisich,kuhlyanbotisich,Kuhlyan-BoTisich,SP,kuhlyanbotisich
+Keebler-Purdy,NL,keeblerpurdy,46.0,89.76091476091476,keeblerpurdy,keebzerpurdy,KeebZer-Purdy,NL,keebzerpurdy
+Gleason-Goyette,UK,gleasongoyette,47.0,100.0,,,Gleason-Goyette,UK,gleasongoyette
+"Pagac, Erdman and Shanahan",SP,pagac erdman and shanahan,48.0,95.00890688259108,pagac erdman and shanahan,pagac erdman and shgnahan,"Pagac, Erdman and Shgnahan",SP,pagac erdman and shgnahan
+Becker and Sons,LU,becker and sons,49.0,91.76086956521739,becker and sons,becker and sonh,Becker and Sonh,LU,becker and sonh
+Kling Group,UK,kling group,50.0,83.11688311688312,kling group,kling roup,Kling .roup,UK,kling roup
+"Emard, Reilly and Jerde",LU,emard reilly and jerde,51.0,91.16908212560388,emard reilly and jerde,emard reilly and _jerde,"Emard, Reilly and _Jerde",LU,emard reilly and _jerde
+Kiehn-Nienow,UK,kiehnnienow,52.0,89.76827094474153,kiehnnienow,kiyhnnienow,Kiyhn-Nienow,UK,kiyhnnienow
+Daugherty-Jacobson,BE,daughertyjacobson,53.0,92.70990447461035,daughertyjacobson,dhughertyjacobson,Dhugherty-Jacobson,BE,dhughertyjacobson
+"Kassulke, Little and Leuschke",SP,kassulke little and leuschke,54.0,99.03743315508022,kassulke little and leuschke,kassulke litle and leuschke,"Kassulke, Litle and Leuschke",SP,kassulke litle and leuschke
+Brown Group,NL,brown group,55.0,92.64069264069263,brown group,bron group,Bro{n Group,NL,bron group
+"Langworth, Bauch and Berge",DE,langworth bauch and berge,56.0,87.96091476091476,langworth bauch and berge,lnngworth bauch und berge,"LNngworth, Bauch und Berge",DE,lnngworth bauch und berge
+Kerluke-Ferry,LU,kerlukeferry,57.0,89.76091476091476,kerlukeferry,berlukeferry,berluke-Ferry,LU,berlukeferry
+Roberts LLC,NL,roberts llc,58.0,83.40463458110517,roberts llc,roberts6llc,Roberts6LLC,NL,roberts6llc
+"Hyatt, Durgan and Senger",LU,hyatt durgan and senger,59.0,90.89595500757085,hyatt durgan and senger,hyats durgan and snger,"Hyats, Durgan and S|nger",LU,hyats durgan and snger
+Pouros Inc,DK,pouros inc,60.0,82.23593466424684,pouros inc,pouros iu,Pouros IU],DK,pouros iu
+Emmerich-Turcotte,UK,emmerichturcotte,61.0,94.95967741935483,emmerichturcotte,emmeichturcotte,Emmeich-Turcotte,UK,emmeichturcotte
+"Kiehn, Cronin and Bernier",NL,kiehn cronin and bernier,,,,,,,
+O'Hara-Kohler,DE,oharakohler,63.0,100.0,,,O'Hara-Kohle.r,DE,oharakohler
+Skiles Group,BE,skiles group,64.0,93.26086956521739,skiles group,skiles roup,Skiles @roup,BE,skiles roup
+"Mills, Borer and Greenfelder",DE,mills borer and greenfelder,65.0,95.74396696347917,mills borer and greenfelder,mills burer and greenfelder,"Mills, Burer and Greenfelder",DE,mills burer and greenfelder
+"Kreiger, Jerde and Altenwerth",DE,kreiger jerde and altenwerth,66.0,95.53665604172703,kreiger jerde and altenwerth,kreiger jerde dnd altenwerth,"Kreiger, Jerde dnd Altenwerth",DE,kreiger jerde dnd altenwerth
+Harvey PLC,NL,harvey plc,67.0,91.89473684210526,harvey plc,harvy plc,Harv^y PLC,NL,harvy plc
+O'Connell LLC,DE,oconnell llc,68.0,93.26086956521739,oconnell llc,oconnell ll,O'Connell LL<,DE,oconnell ll
+Schmidt PLC,FR,schmidt plc,69.0,80.45454545454547,schmidt plc,schmijs plc,Schmijs PLC,FR,schmijs plc
+"Spinka, Ryan and Ward",DE,spinka ryan and ward,70.0,93.78376268540202,spinka ryan and ward,sp_nka ryan and ward,"Sp_nka, Ryan and Ward",DE,sp_nka ryan and ward
+Gaylord Inc,NL,gaylord inc,71.0,83.40463458110517,gaylord inc,gaylord _nc,Gaylord _nc,NL,gaylord _nc
+"Koch, Casper and Batz",BE,koch casper and batz,72.0,94.78376268540202,koch casper and batz,koch casper and	batz,"Koch, Casper and	Batz",BE,koch casper and	batz
+O'Connell and Sons,UK,oconnell and sons,73.0,84.57601222307105,oconnell and sons,oconnell andsens,O'Connell and)Sens,UK,oconnell andsens
+Wintheiser New LLC,IT,wintheiser new llc,74.0,84.0763374073332,wintheiser new llc,winheiser llc,Winheiser LLC,IT,winheiser llc
+Champlin PLC,DE,champlin plc,75.0,100.0,,,Champlin PLC,DE,champlin plc
+Dickinson-Cummerata,LU,dickinsoncummerata,76.0,86.6594946485711,dickinsoncummerata,dxckinsoncummorata,DXckinson-CummOrata,LU,dxckinsoncummorata
+Hettinger and Sons,NL,hettinger and sons,77.0,95.52380952380952,hettinger and sons,hettinger ad sons,Hettinger ad Sons,NL,hettinger ad sons
+Pollich PLC,LU,pollich plc,78.0,93.26086956521739,pollich plc,pol_lich plc,Pol_lich PLC,LU,pol_lich plc
+Lynch LLC,BE,lynch llc,,,,,,,
+Murazik LLC,UK,murazik llc,80.0,88.85918003565064,murazik llc,muraziu llc,MuraziU LLC,UK,muraziu llc
+"Keeling, Gusikowski and Koepp",SP,keeling gusikowski and koepp,81.0,97.12987012987013,keeling gusikowski and koepp,keeling gusikwski and koepp,"Keeling, Gusik]wski and Koepp",SP,keeling gusikwski and koepp
+Gusikowski-O'Hara,DE,gusikowskiohara,82.0,100.0,,,Gusikowski-O'Hara,DE,gusikowskiohara
+Wolff LLC,FR,wolff llc,83.0,86.47619047619047,wolff llc,womff llc,Womff LLC,FR,womff llc
+Willms Ltd,BE,willms ltd,84.0,83.23593466424683,willms ltd,willms lr,Willms Lr],BE,willms lr
+Schimmel-Turner,IT,schimmelturner,85.0,91.18715393133998,schimmelturner,scoimmelturner,ScOimmel@Turner,IT,scoimmelturner
+Mayert-Frami,IT,mayertframi,86.0,92.64069264069263,mayertframi,ayertframi,"<ayert""Frami",IT,ayertframi
+Kshlerin-Schumm,NL,kshlerinschumm,87.0,82.19279907084787,kshlerinschumm,ksfltrinschumm,Ksfltrin-Schumm,NL,ksfltrinschumm
+"Koepp, Heathcote and Goldner",LU,koepp heathcote and goldner,,,,,,,
+Harvey and Sons,DE,harvey and sons,,,,,,,
+Klocko-Schimmel,FR,klockoschimmel,90.0,91.24175824175825,klockoschimmel,kocoschimmel,K^oco-Schimmel,FR,kocoschimmel
+Cummerata-Ernser,UK,cummerataernser,91.0,100.0,,,Cummerata-Ernser,UK,cummerataernser
+"Anderson, Turcotte and Okuneva",BE,anderson turcotte and okuneva,92.0,95.68861024033438,anderson turcotte and okuneva,anderson turcotte and okunevl,"Anderson, Turcotte and OkunevL",BE,anderson turcotte and okunevl
+Skiles Ltd,DK,skiles ltd,93.0,87.78299120234605,skiles ltd,skihes ltd,Skihes Ltd,DK,skihes ltd
+Bartell Group,SP,bartell group,94.0,90.52747252747254,bartell group,bartelf group,Bartelf Group,SP,bartelf group
+Dach PLC,BE,dach plc,,,,,,,
+Jaskolski-Rogahn,UK,jaskolskirogahn,96.0,91.76086956521739,jaskolskirogahn,jmskolskirogahn,JMskolski-Rogahn,UK,jmskolskirogahn
+Prohaska and Sons,DE,prohaska and sons,,,,,,,
+"Parisian, Stiedemann and Ortiz",UK,parisian stiedemann and ortiz,98.0,100.0,,,"Parisian, Stiedemann and Or.tiz",UK,parisian stiedemann and ortiz
+Wehner-Hansen,UK,wehnerhansen,99.0,89.76091476091476,wehnerhansen,wehneahansen,Wehnea-Hansen,UK,wehneahansen
+"Hilpert, Ziemann and Fisher",IT,hilpert ziemann and fisher,100.0,93.2750910599012,hilpert ziemann and fisher,hilpert ziemann ind fisher,"Hilpert, Ziemann Ind Fisher",IT,hilpert ziemann ind fisher
+Becker-Klein,UK,beckerklein,101.0,93.26086956521739,beckerklein,bec_kerklein,Bec_ker-Klein,UK,bec_kerklein
+"Armstrong, Grady and Beier",NL,armstrong grady and beier,102.0,86.76091476091476,armstrong grady and beier,armstrong grady and yemer,"Armstrong, Grady and Yemer",NL,armstrong grady and yemer
+Wuckert-Terry,FR,wuckertterry,103.0,86.92546583850933,wuckertterry,wuckertte_y,Wuckert-Te_y,FR,wuckertte_y
+Towne LLC,DE,towne llc,,,,,,,
+Turner Group,DK,turner group,,,,,,,
+"Greenfelder, Kreiger and Davis",DK,greenfelder kreiger and davis,106.0,99.07097288676236,greenfelder kreiger and davis,grenfelder kreiger and davis,"Gre`nfelder, Kreiger and Davis",DK,grenfelder kreiger and davis
+"Luettgen, Lueilwitz and Watsica",DK,luettgen lueilwitz and watsica,107.0,99.10225367852486,luettgen lueilwitz and watsica,luetgen lueilwitz and watsica,"Luetgen, Lueilwitz and Watsica",DK,luetgen lueilwitz and watsica
+"Nolan, Armstrong and Schaden",LU,nolan armstrong and schaden,108.0,89.24112552963759,nolan armstrong and schaden,nlan3armstrong and schaden,"N|lan,3Armstrong and Schaden",LU,nlan3armstrong and schaden
+"McClure, Shields and Predovic",LU,mcclure shields and predovic,109.0,91.02795418125706,mcclure shields and predovic,hcclure shields ayd predovic,"HcClure, Shields ayd Predovic",LU,hcclure shields ayd predovic
+"Keebler, McKenzie and Zieme",UK,keebler mckenzie and zieme,110.0,95.1981679829781,keebler mckenzie and zieme,keebler mckenzie and zieye,"Keebler, McKenzie and Zieye",UK,keebler mckenzie and zieye
+Hills and Sons,IT,hills and sons,,,,,,,
+Schuppe Ltd,SP,schuppe ltd,112.0,88.85918003565064,schuppe ltd,szhuppe ltd,SZhuppe Ltd,SP,szhuppe ltd
+Kuvalis Ltd,IT,kuvalis ltd,113.0,100.0,,,-Kuvalis Ltd,IT,kuvalis ltd
+Runolfsson-O'Conner,BE,runolfssonoconner,114.0,92.70990447461035,runolfssonoconner,runolfssoncconner,Runolfsson-C'Conner,BE,runolfssoncconner
+Stokes-Schinner,DK,stokesschinner,115.0,100.0,,,Stokes-Sch-inner,DK,stokesschinner
+"Gerlach, Fritsch and Luettgen",DE,gerlach fritsch and luettgen,116.0,92.89657903072538,gerlach fritsch and luettgen,gerach fritsch and luetvgen,"Ger{ach, Fritsch and Luetvgen",DE,gerach fritsch and luetvgen
+"Effertz, Wiegand and Willms",SP,effertz wiegand and willms,117.0,92.89047567528581,effertz wiegand and willms,effertz wiegand xnd willms,"Effertz, Wiegand Xnd Willms",SP,effertz wiegand xnd willms
+"Connelly, Thompson and Pfeffer",BE,connelly thompson and pfeffer,118.0,95.68861024033438,connelly thompson and pfeffer,connelly thompson and pheffer,"Connelly, Thompson and Pheffer",BE,connelly thompson and pheffer
+Crist LLC,IT,crist llc,119.0,86.47619047619047,crist llc,criwt llc,Criwt LLC,IT,criwt llc
+"Doyle, Kerluke and Fay",DE,doyle kerluke and fay,120.0,88.06870548806035,doyle kerluke and fay,doyle kerlukb asd fay,Doyle& Kerlukb asd Fay,DE,doyle kerlukb asd fay
+Rodriguez and Sons,BE,rodriguez and sons,121.0,86.10393909301554,rodriguez and sons,rodriouez and soxs,RodriOuez and Soxs,BE,rodriouez and soxs
+Schowalter-Wolf,NL,schowalterwolf,122.0,100.0,,,Schowalter-Wolf,NL,schowalterwolf
+Legros-Pouros,SP,legrospouros,,,,,,,
+"Harvey, Bashirian and Rippin",SP,harvey bashirian and rippin,124.0,95.37359659310877,harvey bashirian and rippin,harvey bashirian and pippin,"Harvey, Bashirian and Pippin",SP,harvey bashirian and pippin
+Parisian Group,NL,parisian group,125.0,91.18715393133998,parisian group,pahisian group,Pahisian Group,NL,pahisian group
+Baumbach and Sons,DE,baumbach and sons,126.0,95.2584670231729,baumbach and sons,baumbach ad sons,Baumbach ad Sons,DE,baumbach ad sons
+"Sauer, Harris and Littel",SP,sauer harris and littel,127.0,85.02217174994591,sauer harris and littel,swzer harris and limtel,"Swzer, Harris and Limtel",SP,swzer harris and limtel
+"Mitchell, Luettgen and Carroll",DE,mitchell luettgen and carroll,128.0,95.12401693889898,mitchell luettgen and carroll,mitchell luettgenand carroll,"Mitchell, Luettgen'and Carroll",DE,mitchell luettgenand carroll
+"Marquardt, Sauer and Altenwerth",SP,marquardt sauer and altenwerth,129.0,91.95493536305426,marquardt sauer and altenwerth,marquurdt spuer and altenwerth,"MarquUrdt, SPuer and Altenwerth",SP,marquurdt spuer and altenwerth
+Stanton LLC,SP,stanton llc,130.0,88.85918003565064,stanton llc,strnton llc,StRnton LLC,SP,strnton llc
+Harvey-Bergstrom,UK,harveybergstrom,131.0,80.1510673234811,harveybergstrom,hnveybergstrox,Hnvey-Bergstrox,UK,hnveybergstrox
+"Jaskolski, Feil and Gutmann",DK,jaskolski feil and gutmann,132.0,89.60585853774707,jaskolski feil and gutmann,jaskolski fmiland gutmann,"Jaskolski, Fmil,and Gutmann",DK,jaskolski fmiland gutmann
+"Roob, Lynch and West",NL,roob lynch and west,133.0,91.81314773420036,roob lynch and west,roy lynch and west,"RoY, Lynch and West",NL,roy lynch and west
+West PLC,SP,west plc,134.0,100.0,,,West- PLC,SP,west plc
+Jenkins Ltd,UK,jenkins ltd,,,,,,,
+Feest-Funk,DE,feestfunk,136.0,87.07777777777778,feestfunk,fesfunk,F}es-Funk,DE,fesfunk
+Roberts-Schuster,NL,robertsschuster,137.0,100.0,,,Roberts-Schuster,NL,robertsschuster
+"Corwin, Kerluke and Wyman",FR,corwin kerluke and wyman,138.0,100.0,,,"Corwin, Kerluke -and Wyman",FR,corwin kerluke and wyman
+Fritsch-Kunde,DK,fritschkunde,139.0,100.0,,,FritschKunde,DK,fritschkunde
+Stroman Ltd,LU,stroman ltd,140.0,92.64069264069263,stroman ltd,strman ltd,Strman Ltd,LU,strman ltd
+Veum and Sons,IT,veum and sons,141.0,88.30687830687832,veum and sons,veum and _sons,Veum and _Sons,IT,veum and _sons
+Hyatt LLC,LU,hyatt llc,,,,,,,
+"O'Connell, Bogisich and Carter",FR,oconnell bogisich and carter,143.0,99.03743315508022,oconnell bogisich and carter,oconnel bogisich and carter,"O'Connel[, Bogisich and Carter",FR,oconnel bogisich and carter
+Heidenreich-Gulgowski,DE,heidenreichgulgowski,144.0,91.72816166883963,heidenreichgulgowski,heidenreuhgulgowski,Heidenre[Uh-Gulgowski,DE,heidenreuhgulgowski
+"Kohler, Pacocha and Baumbach",UK,kohler pacocha and baumbach,,,,,,,
+"Wisozk, Swaniawski and Price",LU,wisozk swaniawski and price,146.0,97.0230607966457,wisozk swaniawski and price,wisozk swaniawski and prce,"Wisozk, Swaniawski and Prce",LU,wisozk swaniawski and prce
+"Pacocha, Wiegand and Witting",UK,pacocha wiegand and witting,147.0,100.0,,,"Pacocha, Wiegand and Witt-ing",UK,pacocha wiegand and witting
+Block-Von,FR,blockvon,148.0,89.83333333333334,blockvon,lockvon,>lock-Von,FR,lockvon
+Dickens Ltd,DK,dickens ltd,149.0,80.67867616254712,dickens ltd,dickes lad,Dicke~s Lad,DK,dickes lad
+Schoen-Daugherty,DE,schoendaugherty,150.0,100.0,,,Schoen-Daugherty,DE,schoendaugherty
+Sawayn-Raynor,BE,sawaynraynor,151.0,100.0,,,"Sawayn,-Raynor",BE,sawaynraynor
+Hand Inc,LU,hand inc,152.0,86.10555555555554,hand inc,hand imc,Hand Imc,LU,hand imc
+Lakin-Schneider,NL,lakinschneider,153.0,82.19279907084787,lakinschneider,9akinschnvider,9akin-Schnvider,NL,9akinschnvider
+"Wisoky, Fritsch and Bayer",NL,wisoky fritsch and bayer,154.0,91.47077625570776,wisoky fritsch and bayer,wisoky fritsch and 5ayer,"Wisoky, Fritsch and 5ayer",NL,wisoky fritsch and 5ayer
+Willms Group,NL,willms group,155.0,86.5909090909091,willms group,willms gop,Willms Go`p,NL,willms gop
+Grady-Grady,BE,gradygrady,,,,,,,
+"Fay, Windler and Gorczany",LU,fay windler and gorczany,157.0,89.54647887323944,fay windler and gorczany,fay windler and koryzany,"Fay, Windler and Koryzany",LU,fay windler and koryzany
+Ward-Gutmann,DE,wardgutmann,158.0,100.0,,,Ward-Gutmann,DE,wardgutmann
+Mosciski-Kunde,BE,mosciskikunde,159.0,90.52747252747254,mosciskikunde,xosciskikunde,Xosciski-Kunde,BE,xosciskikunde
+Ziemann-Fritsch,NL,ziemannfritsch,160.0,100.0,,,Ziemann-Fritsch,NL,ziemannfritsch
+Torphy PLC,IT,torphy plc,,,,,,,
+"Beahan, McLaughlin and Herman",BE,beahan mclaughlin and herman,162.0,87.6795131845842,beahan mclaughlin and herman,and mclaughlin beahan herman,"and McLaughlin Beahan, Herman",BE,and mclaughlin beahan herman
+White-Hayes,DK,whitehayes,,,,,,,
+"Bahringer, Bashirian and Von",LU,bahringer bashirian and von,164.0,90.6984126984127,bahringer bashirian and von,bahrsnver bashirian and von,"BahrsnVer, Bashirian and Von",LU,bahrsnver bashirian and von
+Bayer and Sons,DK,bayer and sons,,,,,,,
+Schiller LLC,DE,schiller llc,,,,,,,
+Prohaska LLC,NL,prohaska llc,,,,,,,
+O'Reilly and Sons,LU,oreilly and sons,168.0,100.0,,,O'Reilly and Sons,LU,oreilly and sons
+Runte PLC,FR,runte plc,169.0,80.2061337355455,runte plc,ruye plc,Ruye PLC,FR,ruye plc
+"Hartmann, Hilpert and Bernier",IT,hartmann hilpert and bernier,,,,,,,
+"Bahringer, Kunde and Legros",DE,bahringer kunde and legros,171.0,97.0230607966457,bahringer kunde and legros,bahringer kunde and_ legros,"Bahringer, Kunde and_ Legros",DE,bahringer kunde and_ legros
+"Kuvalis, McLaughlin and Lebsack",DK,kuvalis mclaughlin and lebsack,172.0,100.0,,,"Kuvalis, McLaughlin and Lebsack",DK,kuvalis mclaughlin and lebsack
+Jakubowski Inc,SP,jakubowski inc,,,,,,,
+Rippin-Lindgren,LU,rippinlindgren,174.0,91.18715393133998,rippinlindgren,rippinlnndgren,Rippin-Lnndgren,LU,rippinlnndgren
+Murazik Ltd,FR,murazik ltd,175.0,100.0,,,Murazik Ltd,FR,murazik ltd
+"Conroy, Ledner and Ward",BE,conroy ledner and ward,176.0,96.34249471458773,conroy ledner and ward,conroy ledne and ward,"Conroy, Ledne{ and Ward",BE,conroy ledne and ward
+Cassin and Sons,BE,cassin and sons,177.0,94.62068965517241,cassin and sons,cassin and sns,Cassin and S}ns,BE,cassin and sns
+"Stehr, Leannon and Dare",UK,stehr leannon and dare,178.0,96.34249471458773,stehr leannon and dare,stehr leannon ad dare,"Stehr, Leannon a]d Dare",UK,stehr leannon ad dare
+Leffler-Bode,LU,lefflerbode,179.0,88.85918003565064,lefflerbode,lefflerbrde,Leffler-Brde,LU,lefflerbrde
+Lesch-Vandervort,IT,leschvandervort,180.0,100.0,,,Lesch-Vandervort,IT,leschvandervort
+Blick Ltd,BE,blick ltd,,,,,,,
+Waelchi and Sons,FR,waelchi and sons,182.0,89.50000000000001,waelchi and sons,waechi and sns,Wae~chi and S{ns,FR,waechi and sns
+Hilltop Inc,BE,hilltop inc,,,,,,,
+"Wyman, Witting and Christiansen",FR,wyman witting and christiansen,184.0,95.83055654023396,wyman witting and christiansen,wyman witling and christiansen,"Wyman, Witling and Christiansen",FR,wyman witling and christiansen
+Herman-Zieme,SP,hermanzieme,185.0,100.0,,,Herman-Zie-me,SP,hermanzieme
+"Schaefer, Haley and Botsford",SP,schaefer haley and botsford,186.0,93.15137437088656,schaefer haley and botsford,schaefer haley7and botsford,"Schaefer, Haley7and Botsford",SP,schaefer haley7and botsford
+Schmitt-Koch,IT,schmittkoch,187.0,100.0,,,"Sc,hmitt-Koch",IT,schmittkoch
+Sipes-Weissnat,UK,sipesweissnat,188.0,97.89999999999999,sipesweissnat,sipesweisnat,Sipes-Weisnat,UK,sipesweisnat
+Luettgen-Jacobi,BE,luettgenjacobi,,,,,,,
+Kerluke and Sons,NL,kerluke and sons,190.0,84.25490883590463,kerluke and sons,kerlukeanv sons,Kerlukeanv Sons,NL,kerlukeanv sons
+Jerde-Paucek,FR,jerdepaucek,191.0,88.85918003565064,jerdepaucek,jerdepauc_k,Jerde-Pauc_k,FR,jerdepauc_k
+"Murphy, Champlin and Spinka",UK,murphy champlin and spinka,192.0,95.1981679829781,murphy champlin and spinka,murphy champlin ana spinka,"Murphy, Champlin ana Spinka",UK,murphy champlin ana spinka
+"Adams, Franecki and Kunde",BE,adams franecki and kunde,193.0,94.8041095890411,adams franecki and kunde,adams fcanecki and kunde,"Adams, Fcanecki and Kunde",BE,adams fcanecki and kunde
+"Kiehn, Cassin and Rempel",FR,kiehn cassin and rempel,194.0,86.75569358178053,kiehn cassin and rempel,and kiehn cassin rempel,"and Kiehn, Cassin Rempel",FR,and kiehn cassin rempel
+"Marquardt, Keebler and Oberbrunner",BE,marquardt keebler and oberbrunner,195.0,90.37418721629248,marquardt keebler and oberbrunner,maquardt keebzerand oberbrunner,"Maquardt, Keebzerand Oberbrunner",BE,maquardt keebzerand oberbrunner
+Buckridge Ltd,SP,buckridge ltd,,,,,,,
+Adams LLC,DK,adams llc,197.0,86.47619047619047,adams llc,adams lll,Adams LLL,DK,adams lll
+Considine Group,FR,considine group,198.0,82.09756097560977,considine group,consiwingroup,ConsiWin]'Group,FR,consiwingroup
+Greenfelder-Eichmann,LU,greenfeldereichmann,199.0,93.4627949183303,greenfeldereichmann,greehfeldereichmann,Greehfelder-Eichmann,LU,greehfeldereichmann
+Brakus-Pouros,FR,brakuspouros,200.0,100.0,,,Br-akus-Pouros,FR,brakuspouros
+"Reynolds, Beier and Gorczany",NL,reynolds beier and gorczany,201.0,97.0230607966457,reynolds beier and gorczany,reynolds beier and gorczan,"Reynolds, Beier and Gorczan",NL,reynolds beier and gorczan
+Conn LLC,NL,conn llc,202.0,89.83333333333334,conn llc,cnn llc,Cnn LLC,NL,cnn llc
+"VonRueden, Hirthe and Gleichner",DK,vonrueden hirthe and gleichner,203.0,89.30739599383666,vonrueden hirthe and gleichner,vonruedynhirthe and gleichner,"VonRuedYn,*Hirthe and Gleichner",DK,vonruedynhirthe and gleichner
+"Pacocha, Schmeler and Jacobi",FR,pacocha schmeler and jacobi,204.0,95.37359659310877,pacocha schmeler and jacobi,pacocja schmeler and jacobi,"Pacocja, Schmeler and Jacobi",FR,pacocja schmeler and jacobi
+"Schinner, Ebert and Spinka",NL,schinner ebert and spinka,205.0,95.00890688259108,schinner ebert and spinka,schinner ebegt and spinka,"Schinner, Ebegt and Spinka",NL,schinner ebegt and spinka
+"Hoppe, Boyer and Ortiz",DE,hoppe boyer and ortiz,206.0,91.28919860627178,hoppe boyer and ortiz,hoppeboyer and ortiz,"Hoppe,Boyer and Ortiz",DE,hoppeboyer and ortiz
+O'Kon PLC,NL,okon plc,207.0,84.85555555555555,okon plc,okon ylc,O'Kon YLC,NL,okon ylc
+Gulgowski-Durgan,SP,gulgowskidurgan,208.0,85.93958834536221,gulgowskidurgan,gucgowskidrgan,Gucgowski-Drgan,SP,gucgowskidrgan
+"Kilback, Lueilwitz and Mann",DE,kilback lueilwitz and mann,209.0,95.1981679829781,kilback lueilwitz and mann,kilbacv lueilwitz and mann,"KilbacV, Lueilwitz and Mann",DE,kilbacv lueilwitz and mann
+Williamson and Sons,IT,williamson and sons,210.0,95.97435897435898,williamson and sons,williams_on and sons,Williams_on and Sons,IT,williams_on and sons
+"Gusikowski, Donnelly and Gorczany",SP,gusikowski donnelly and gorczany,211.0,95.16760651629073,gusikowski donnelly and gorczany,gusikowski donelly and gorcuany,"Gusikowski, Don[elly and Gorcuany",SP,gusikowski donelly and gorcuany
+Lehner LLC,DK,lehner llc,,,,,,,
+"McClure, Cole and Kunze",IT,mcclure cole and kunze,213.0,94.3395669871984,mcclure cole and kunze,mc8lure cole and kunze,"Mc8lure, Cole and Kunze",IT,mc8lure cole and kunze
+Nitzsche-Nikolaus,NL,nitzschenikolaus,214.0,92.26440576230492,nitzschenikolaus,bitzschenikolaus,bitzsche-Nikolaus,NL,bitzschenikolaus
+Kunde Group,FR,kunde group,215.0,87.86749482401657,kunde group,"kunde
+group","Kunde
+Group",FR,"kunde
+group"
+Kulas-Kris,UK,kulaskris,216.0,80.55555555555556,kulaskris,kuakris,Kua-Kris,UK,kuakris
+"Gorczany, Davis and Hamill",BE,gorczany davis and hamill,217.0,91.88571428571429,gorczany davis and hamill,gorczany davis andhamill,"Gorczany, Davis and'Hamill",BE,gorczany davis andhamill
+"Graham, Kirlin and Effertz",FR,graham kirlin and effertz,218.0,100.0,,,Graham= Kirlin and Effertz,FR,graham kirlin and effertz
+Yost-Mueller,UK,yostmueller,219.0,86.30434782608695,yostmueller,yostmueller,YostMueller,UK,yostmueller
+Schinner-Cronin,LU,schinnercronin,220.0,100.0,,,Schinner-Cronin,LU,schinnercronin
+Kessler-Yost,UK,kessleryost,,,,,,,
+Ledner-Cummerata,FR,lednercummerata,222.0,83.36363636363636,lednercummerata,lednehcum_erata,Ledneh-Cum_erata,FR,lednehcum_erata
+Dicki and Sons,DK,dicki and sons,223.0,94.23280423280423,dicki and sons,icki and sons,/icki and Sons,DK,icki and sons
+Halvorson-Abernathy,DE,halvorsonabernathy,224.0,93.10685805422649,halvorsonabernathy,halvortonabernathy,Halvorton-Abernathy,DE,halvortonabernathy
+Tromp-Goodwin,SP,trompgoodwin,225.0,100.0,,,Tromp-Goodwin,SP,trompgoodwin
+"Hintz, Harris and Rau",BE,hintz harris and rau,,,,,,,
+Hartmann-Gutmann,LU,hartmanngutmann,227.0,91.76086956521739,hartmanngutmann,harcmanngutmann,Harcmann-Gutmann,LU,harcmanngutmann
+Boyer LLC,DK,boyer llc,228.0,88.1888888888889,boyer llc,boer lc,Boer L;C,DK,boer lc
+Prohaska-Kemmer,BE,prohaskakemmer,229.0,94.23280423280423,prohaskakemmer,prohakakemmer,Prohaka-Kemmer,BE,prohakakemmer
+"Dickinson, Schaden and Effertz",BE,dickinson schaden and effertz,230.0,86.50735097567494,dickinson schaden and effertz,dmckinson0schaden and effertz,"Dmckinson,0Schaden and Effertz",BE,dmckinson0schaden and effertz
+"Gerhold, Runolfsdottir and Reilly",SP,gerhold runolfsdottir and reilly,231.0,97.49007936507937,gerhold runolfsdottir and reilly,gerhod runolfsdottir and reilly,"Gerho}d, Runolfsdottir and Reilly",SP,gerhod runolfsdottir and reilly
+Altenwerth-Durgan,SP,altenwerthdurgan,232.0,80.93217054263565,altenwerthdurgan,altnewthdurgan,Alt[newth-Durgan,SP,altnewthdurgan
+"Cummerata, Metz and Harvey",BE,cummerata metz and harvey,233.0,89.96091476091476,cummerata metz and harvey,cummerjta metz and hardey,"Cummerjta, Metz and Hardey",BE,cummerjta metz and hardey
+Bashirian-Reichel,SP,bashirianreichel,234.0,83.37903225806451,bashirianreichel,bashiqrareichel,BashiqRa~-Reichel,SP,bashiqrareichel
+"Gulgowski, Runte and Denesik",LU,gulgowski runte and denesik,235.0,88.96825396825398,gulgowski runte and denesik,gulgowski	eunte and denesik,"Gulgowski,	Eunte and Denesik",LU,gulgowski	eunte and denesik
+"Schmitt, Nader and Lueilwitz",SP,schmitt nader and lueilwitz,236.0,90.6984126984127,schmitt nader and lueilwitz,schmikt nader and luejlwitz,"Schmikt, Nader and Luejlwitz",SP,schmikt nader and luejlwitz
+West-Osinski,NL,westosinski,,,,,,,
+"Romaguera, Fadel and West",UK,romaguera fadel and west,238.0,83.29647887323944,romaguera fadel and west,eomaguyra fadel and west,"Eomaguyra, Fadel and West",UK,eomaguyra fadel and west
+"Herman, Brakus and Boyer",UK,herman brakus and boyer,239.0,86.48763853367434,herman brakus and boyer,herz_o brakus and boyer,"Herz_o, Brakus and Boyer",UK,herz_o brakus and boyer
+Collier Group,DE,collier group,,,,,,,
+Jerde-Windler,DE,jerdewindler,241.0,94.55384615384614,jerdewindler,jerdew_indler,Jerde-W_indler,DE,jerdew_indler
+Huel PLC,DK,huel plc,242.0,100.0,,,Huel PLC,DK,huel plc
+Batz LLC,UK,batz llc,243.0,100.0,,,Batz. LLC,UK,batz llc
+"Predovic, Maggio and Labadie",NL,predovic maggio and labadie,244.0,94.75890985324946,predovic maggio and labadie,predovic maggio nd labadie,"Predovic, Maggio [nd Labadie",NL,predovic maggio nd labadie
+Herzog-Strosin,BE,herzogstrosin,245.0,100.0,,,Herzog-Strosin,BE,herzogstrosin
+"Lemke, Fahey and O'Kon",BE,lemke fahey and okon,246.0,93.78376268540202,lemke fahey and okon,lemkf fahey and okon,"Lemkf, Fahey and O'Kon",BE,lemkf fahey and okon
+Mueller LLC,IT,mueller llc,247.0,85.70616883116884,mueller llc,muellek lc,Muellek L<C,IT,muellek lc
+"Gibson, Haag and Wisozk",FR,gibson haag and wisozk,248.0,94.3395669871984,gibson haag and wisozk,gibswn haag and wisozk,"GibsWn, Haag and Wisozk",FR,gibswn haag and wisozk
+Hermiston-Nikolaus,FR,hermistonnikolaus,249.0,90.14705882352942,hermistonnikolaus,ermistnnikolaus,/ermistn-Nikolaus,FR,ermistnnikolaus
+Mraz-Crooks,SP,mrazcrooks,250.0,87.78299120234605,mrazcrooks,mrazcyooks,Mraz-Cyooks,SP,mrazcyooks
+McClure-Moen,LU,mccluremoen,251.0,100.0,,,McClure-Moen,LU,mccluremoen
+Rohan Inc,LU,rohan inc,252.0,100.0,,,Rohan Inc,LU,rohan inc
+Yundt-Marquardt,IT,yundtmarquardt,253.0,82.19279907084787,yundtmarquardt,yundt8arquarlt,Yundt-8arquarLt,IT,yundt8arquarlt
+O'Kon LLC,BE,okon llc,254.0,84.85555555555555,okon llc,ozon llc,O'Zon LLC,BE,ozon llc
+Gleichner-Sawayn,BE,gleichnersawayn,255.0,100.0,,,Gleichner-Sawayn,BE,gleichnersawayn
+"Witting, Koepp and Walker",UK,witting koepp and walker,256.0,89.54647887323944,witting koepp and walker,wittinm noepp and walker,"Wittinm, Noepp and Walker",UK,wittinm noepp and walker
+"VonRueden, Schinner and Mills",DK,vonrueden schinner and mills,257.0,93.13774802116853,vonrueden schinner and mills,vonrueden schinner and mil_s,VonRueden Schinner and Mil_s,DK,vonrueden schinner and mil_s
+Herman-Leuschke,SP,hermanleuschke,258.0,91.18715393133998,hermanleuschke,hermanleuscrke,Herman-LeuscRke,SP,hermanleuscrke
+Stamm-Kris,LU,stammkris,259.0,90.98039215686275,stammkris,sammkris,Samm-Kris,LU,sammkris
+Schroeder-Tillman,DE,schroedertillman,260.0,92.26440576230492,schroedertillman,ichroedertillman,Ichroeder-Tillman,DE,ichroedertillman
+Roberts Group,DE,roberts group,261.0,90.52747252747254,roberts group,robertc group,Robertc Group,DE,robertc group
+Maggio PLC,BE,maggio plc,,,,,,,
+Stokes LLC,DK,stokes llc,,,,,,,
+Botsford-Sanford,LU,botsfordsanford,264.0,91.76086956521739,botsfordsanford,bltsfordsanford,BltsfordSanford,LU,bltsfordsanford
+Fahey Inc,IT,fahey inc,265.0,90.98039215686275,fahey inc,faheyinc,FaheyInc,IT,faheyinc
+"Armstrong, Parisian and Smitham",SP,armstrong parisian and smitham,266.0,95.83055654023396,armstrong parisian and smitham,armstrong parisian and smihham,"Armstrong, Parisian and Smihham",SP,armstrong parisian and smihham
+"Adams, Stokes and Goldner",FR,adams stokes and goldner,267.0,88.97077625570778,adams stokes and goldner,adams stokes and toldner,"Adams, Stokes and Toldner",FR,adams stokes and toldner
+"Runolfsson, Bashirian and Will",DE,runolfsson bashirian and will,268.0,89.48171368861024,runolfsson bashirian and will,runolfsson tashirian and will,"Runolfsson, Tashirian and Will",DE,runolfsson tashirian and will
+Bartell PLC,IT,bartell plc,269.0,92.64069264069263,bartell plc,batell plc,Batell PLC,IT,batell plc
+Greenholt Inc,DE,greenholt inc,270.0,90.52747252747254,greenholt inc,greenwolt inc,Greenwolt Inc,DE,greenwolt inc
+Boyle-Beer,SP,boylebeer,271.0,100.0,,,Boyle-Beer,SP,boylebeer
+Brakus-Pacocha,DE,brakuspacocha,272.0,83.72390852390852,brakuspacocha,lrakusacocha,Lrakus-=acocha,DE,lrakusacocha
+Pollich LLC,FR,pollich llc,273.0,97.50700280112045,pollich llc,polich llc,Po}lich LLC,FR,polich llc
+Schoen-Heidenreich,LU,schoenheidenreich,274.0,95.2584670231729,schoenheidenreich,shoenheidenreich,S\hoen-Heidenreich,LU,shoenheidenreich
+Krajcik-Mayer,IT,krajcikmayer,275.0,89.76091476091476,krajcikmayer,krajcikmayet,Krajcik-Mayet,IT,krajcikmayet
+Barton Ltd,FR,barton ltd,276.0,87.78299120234605,barton ltd,garton ltd,Garton Ltd,FR,garton ltd
+Haley-Stiedemann,LU,haleystiedemann,277.0,91.76086956521739,haleystiedemann,naleystiedemann,Naley-Stiedemann,LU,naleystiedemann
+Padberg LLC,DE,padberg llc,278.0,100.0,,,Padberg LLC,DE,padberg llc
+Rosenbaum and Sons,SP,rosenbaum and sons,,,,,,,
+Schinner Inc,IT,schinner inc,280.0,93.26086956521739,schinner inc,schinner in,Schinner In\,IT,schinner in
+"Howe, Smith and Strosin",LU,howe smith and strosin,281.0,94.79411244174385,howe smith and strosin,howy smith and strosin,"HowY, Smith and Strosin",LU,howy smith and strosin
+Hettinger-Zulauf,DK,hettingerzulauf,282.0,91.76086956521739,hettingerzulauf,hettingerzuljuf,Hettinger-Zuljuf,DK,hettingerzuljuf
+Goyette LLC,SP,goyette llc,283.0,97.50700280112045,goyette llc,goyette lc,Goyette ^LC,SP,goyette lc
+Hilpert and Sons,FR,hilpert and sons,,,,,,,
+Kling Inc,IT,kling inc,285.0,86.47619047619047,kling inc,kling inx,Kling Inx,IT,kling inx
+"Leuschke, Kunde and Bosco",LU,leuschke kunde and bosco,286.0,91.6332121889852,leuschke kunde and bosco,lkuschke5 kunde and bosco,Lkuschke5 Kunde and Bosco,LU,lkuschke5 kunde and bosco
+Bernier Group,SP,bernier group,287.0,82.83516483516485,bernier group,bernier 4roup,Bernier 4roup,SP,bernier 4roup
+Reilly Ltd,DK,reilly ltd,288.0,100.0,,,"Reil,ly Ltd",DK,reilly ltd
+"Langworth, Hahn and Klocko",NL,langworth hahn and klocko,289.0,89.96091476091476,langworth hahn and klocko,langworth hahd and klgcko,"Langworth, Hahd and Klgcko",NL,langworth hahd and klgcko
+Hill Inc,NL,hill inc,183.0,84.85555555555555,hill inc,hillsinc,HillsInc,BE,hillsinc
+"Lindgren, Mante and Beer",DK,lindgren mante and beer,291.0,87.62525879917185,lindgren mante and beer,8indgren mante and beer,8indgren; Mante and Beer,DK,8indgren mante and beer
+Ruecker LLC,FR,ruecker llc,,,,,,,
+Daugherty-Walsh,BE,daughertywalsh,293.0,84.9126984126984,daughertywalsh,daughetzwalsh,Daughetz-Walsh,BE,daughetzwalsh
+Grimes-Dickens,UK,grimesdickens,294.0,90.52747252747254,grimesdickens,grimesdickdns,Grimes-Dickdns,UK,grimesdickdns
+Simonis PLC,UK,simonis plc,,,,,,,
+Nitzsche-Miller,DK,nitzschemiller,296.0,100.0,,,Nitzsch-e-Miller,DK,nitzschemiller
+"Gerhold, Waelchi and Powlowski",DE,gerhold waelchi and powlowski,297.0,95.68861024033438,gerhold waelchi and powlowski,gerhold waelchi and powlwwski,"Gerhold, Waelchi and Powlwwski",DE,gerhold waelchi and powlwwski
+"Halvorson, Goldner and Satterfield",UK,halvorson goldner and satterfield,298.0,97.56643356643357,halvorson goldner and satterfield,halorson goldner and satterfield,"Halorson, Goldner and Satterfield",UK,halorson goldner and satterfield
+Oberbrunner Inc,SP,oberbrunner inc,299.0,88.76190476190476,oberbrunner inc,oberrnner inc,Ober]rnner Inc,SP,oberrnner inc
+McDermott-Koepp,NL,mcdermottkoepp,300.0,94.23280423280423,mcdermottkoepp,mcdermttkoepp,McDerm{tt-Koepp,NL,mcdermttkoepp
+"Kling, Jakubowski and Mante",UK,kling jakubowski and mante,301.0,95.1981679829781,kling jakubowski and mante,ksing jakubowski and mante,"KSing, Jakubowski and Mante",UK,ksing jakubowski and mante
+Toy PLC,UK,toy plc,302.0,89.83333333333334,toy plc,toy_ plc,Toy_ PLC,UK,toy_ plc
+"Morar, Raynor and Smitham",DE,morar raynor and smitham,303.0,96.78367346938776,morar raynor and smitham,morar raynor and_ smitham,"Morar, Raynor and_ Smitham",DE,morar raynor and_ smitham
+Bernhard Inc,LU,bernhard inc,304.0,89.76091476091476,bernhard inc,bernharr inc,Bernharr Inc,LU,bernharr inc
+"Zulauf, Dach and Hyatt",SP,zulauf dach and hyatt,305.0,100.0,,,"Zulauf, Dach and H-yatt",SP,zulauf dach and hyatt
+Nienow Group,FR,nienow group,306.0,89.76091476091476,nienow group,nienow gqoup,Nienow Gqoup,FR,nienow gqoup
+Mayer Ltd,DK,mayer ltd,307.0,86.47619047619047,mayer ltd,mayer ltz,Mayer LtZ,DK,mayer ltz
+Bahringer-Wiza,DK,bahringerwiza,308.0,90.52747252747254,bahringerwiza,2ahringerwiza,2ahringer-Wiza,DK,2ahringerwiza
+"Ankunding, Zulauf and Bradtke",IT,ankunding zulauf and bradtke,309.0,87.44852708267344,ankunding zulauf and bradtke,nkunding zulaus and bradtke,",nkunding, ZulauS and Bradtke",IT,nkunding zulaus and bradtke
+"Feil, Jenkins and Runolfsdottir",UK,feil jenkins and runolfsdottir,310.0,88.06085192697768,feil jenkins and runolfsdottir,feiljenkinsand runohfsdottir,"Feil,Jenkins,and Runohfsdottir",UK,feiljenkinsand runohfsdottir
+Muller-Zemlak,SP,mullerzemlak,311.0,89.76091476091476,mullerzemlak,mullerzbmlak,Muller-Zbmlak,SP,mullerzbmlak
+Berge-Hermiston,BE,bergehermiston,312.0,100.0,,,Berge-Hermiston,BE,bergehermiston
+Rippin-Von,SP,rippinvon,313.0,86.47619047619047,rippinvon,rippinvtn,Rippin-Vtn,SP,rippinvtn
+Bartell LLC,SP,bartell llc,314.0,89.76827094474153,bartell llc,bartyll llc,BartYll LLC,SP,bartyll llc
+"Block, Renner and Klocko",DK,block renner and klocko,315.0,93.2540494458653,block renner and klocko,block reneer ad klocko,"Block, Reneer ad Klocko",DK,block reneer ad klocko
+"Cruickshank, Okuneva and McClure",SP,cruickshank okuneva and mcclure,316.0,88.67835496074522,cruickshank okuneva and mcclure,cruickshank kuneva and mcalure,"Cruickshank, <kuneva and McAlure",SP,cruickshank kuneva and mcalure
+Bruen-Heaney,BE,bruenheaney,317.0,81.36363636363637,bruenheaney,bruenhyqney,Bruen-HYqney,BE,bruenhyqney
+Schoen-Marks,NL,schoenmarks,318.0,88.85918003565064,schoenmarks,scioenmarks,Scioen-Marks,NL,scioenmarks
+Trantow Ltd,IT,trantow ltd,319.0,92.64069264069263,trantow ltd,tranto ltd,Tranto Ltd,IT,tranto ltd
+Hills-Kuhic,NL,hillskuhic,320.0,92.64069264069263,hillskuhic,hillskuhic,HillsKuhic,NL,hillskuhic
+"Orn, Hahn and Stracke",DK,orn hahn and stracke,321.0,90.00928381962865,orn hahn and stracke,orn hah asd stracke,Orn; Hah asd Stracke,DK,orn hah asd stracke
+Pacocha-Sipes,BE,pacochasipes,322.0,93.26086956521739,pacochasipes,pacochasies,Pacocha-Si}es,BE,pacochasies
+"Hill, Dicki and Wilderman",UK,hill dicki and wilderman,323.0,100.0,,,"Hill, Dicki and Wilderma.n",UK,hill dicki and wilderman
+Miller-Graham,LU,millergraham,,,,,,,
+Rogahn-Daniel,NL,rogahndaniel,325.0,89.76091476091476,rogahndaniel,rogahldaniel,Rogahl-Daniel,NL,rogahldaniel
+Jones-Watsica,DK,joneswatsica,326.0,89.76091476091476,joneswatsica,joneswatsiwa,Jones-WatsiWa,DK,joneswatsiwa
+"Auer, Cummerata and Stanton",UK,auer cummerata and stanton,327.0,88.55258166491045,auer cummerata and stanton,auercummerat and stavton,"Auer,Cummerat] and StaVton",UK,auercummerat and stavton
+Zemlak Ltd,LU,zemlak ltd,328.0,87.78299120234605,zemlak ltd,zemlas ltd,ZemlaS Ltd,LU,zemlas ltd
+"Satterfield, DuBuque and Hickle",UK,satterfield dubuque and hickle,329.0,99.10225367852486,satterfield dubuque and hickle,saterfield dubuque and hickle,"Sa]terfield, DuBuque and Hickle",UK,saterfield dubuque and hickle
+Heidenreich PLC,DK,heidenreich plc,330.0,91.76086956521739,heidenreich plc,heidenreich pdc,Heidenreich PDC,DK,heidenreich pdc
+"Welch, Donnelly and Robel",NL,welch donnelly and robel,331.0,94.8041095890411,welch donnelly and robel,welch donuelly and robel,"Welch, DonUelly and Robel",NL,welch donuelly and robel
+Casper Ltd,NL,casper ltd,332.0,87.78299120234605,casper ltd,caspex ltd,Caspex Ltd,NL,caspex ltd
+Murazik-Bednar,NL,murazikbednar,333.0,83.72390852390852,murazikbednar,guazikbednar,Guazik-Bednar,NL,guazikbednar
+"Herzog, Morar and Lebsack",NL,herzog morar and lebsack,334.0,81.05410958904112,herzog morar and lebsack,morar and herzog lebsack,"Morar and Herzog, Lebsack",NL,morar and herzog lebsack
+Wyman Inc,DE,wyman inc,335.0,86.47619047619047,wyman inc,wymqn inc,WymQn Inc,DE,wymqn inc
+Koepp Group,BE,koepp group,336.0,88.85918003565064,koepp group,koepp grout,Koepp Grout,BE,koepp grout
+"Leffler, Bednar and Grady",FR,leffler bednar and grady,337.0,95.22077625570778,leffler bednar and grady,lefflor bednar and grady,"LefflOr, Bednar and Grady",FR,lefflor bednar and grady
+"Zieme, Miller and Hackett",BE,zieme miller and hackett,338.0,100.0,,,"Zieme, Miller and Hack-ett",BE,zieme miller and hackett
+Lehner-Miller,DE,lehnermiller,339.0,82.3316283034953,lehnermiller,leneumiller,Le{neu-Miller,DE,leneumiller
+"Cummerata, Wyman and Olson",DK,cummerata wyman and olson,340.0,95.00890688259108,cummerata wyman and olson,cummeraya wyman and olson,"Cummeraya, Wyman and Olson",DK,cummeraya wyman and olson
+Cole-Gerlach,IT,colegerlach,341.0,100.0,,,Cole-Gerlach,IT,colegerlach
+"Frami, Streich and Murphy",NL,frami streich and murphy,342.0,97.18367346938777,frami streich and murphy,framia streich and murphy,FramiA Streich and Murphy,NL,framia streich and murphy
+Cummerata and Sons,IT,cummerata and sons,343.0,93.82101558572147,cummerata and sons,cmerata and sons,Cm}erata and Sons,IT,cmerata and sons
+Kuphal-Jacobson,NL,kuphaljacobson,344.0,91.18715393133998,kuphaljacobson,kuphaljacoxson,Kuphal-Jacoxson,NL,kuphaljacoxson
+Grady-Lubowitz,LU,gradylubowitz,345.0,100.0,,,Grady-Lubowitz,LU,gradylubowitz
+Mayer PLC,DK,mayer plc,346.0,87.58730158730158,mayer plc,mayyr plc,Mayyr PLC,DK,mayyr plc
+O'Kon-Kiehn,LU,okonkiehn,347.0,86.47619047619047,okonkiehn,okonkijhn,O'Kon-Kijhn,LU,okonkijhn
+Runolfsdottir-Kulas,UK,runolfsdottirkulas,348.0,93.66241360978205,runolfsdottirkulas,runolfsdottyrkulas,Runolfsdottyr-Kulas,UK,runolfsdottyrkulas
+Moen PLC,DK,moen plc,349.0,100.0,,,Moen PLC,DK,moen plc
+Rowe PLC,FR,rowe plc,350.0,84.85555555555555,rowe plc,rlwe plc,Rlwe PLC,FR,rlwe plc
+Gottlieb PLC,BE,gottlieb plc,,,,,,,
+"Jerde, Nitzsche and Hammes",SP,jerde nitzsche and hammes,352.0,95.00890688259108,jerde nitzsche and hammes,jerde nitnsche and hammes,"Jerde, Nitnsche and Hammes",SP,jerde nitnsche and hammes
+Hodkiewicz Ltd,DE,hodkiewicz ltd,353.0,82.19279907084787,hodkiewicz ltd,7odkievicz ltd,7odkievicz Ltd,DE,7odkievicz ltd
+"Langosh, Goldner and Bosco",DE,langosh goldner and bosco,354.0,91.6332121889852,langosh goldner and bosco,langoh goldner and boscv,"Langoh, Goldner and Boscv",DE,langoh goldner and boscv
+"Zieme, Steuber and Bradtke",BE,zieme steuber and bradtke,355.0,92.70204081632653,zieme steuber and bradtke,ziemesteuber and bradtke,"Zieme,Steuber and Bradtke",BE,ziemesteuber and bradtke
+Rosenbaum-Marquardt,DK,rosenbaummarquardt,356.0,93.66241360978205,rosenbaummarquardt,rosenbauimarquardt,Rosenbaui-Marquardt,DK,rosenbauimarquardt
+"Tromp, Walter and Turcotte",DK,tromp walter and turcotte,357.0,95.00890688259108,tromp walter and turcotte,tromp walter and turcoste,"Tromp, Walter and Turcoste",DK,tromp walter and turcoste
+Olson Ltd,DK,olson ltd,358.0,86.47619047619047,olson ltd,olvon ltd,Olvon Ltd,DK,olvon ltd
+"Ledner, Kozey and Terry",DK,ledner kozey and terry,359.0,82.79126670431019,ledner kozey and terry,levner kozey aud tsrry,"LeVner, Kozey aUd Tsrry",DK,levner kozey aud tsrry
+Bednar-Conn,UK,bednarconn,360.0,100.0,,,Bednar-Conn,UK,bednarconn
+Wintheiser LLC,NL,wintheiser llc,74.0,94.23280423280423,wintheiser llc,winheiser llc,Winheiser LLC,IT,winheiser llc
+Bartell and Sons,NL,bartell and sons,362.0,92.26440576230492,bartell and sons,bartewl and sons,Bartewl and Sons,NL,bartewl and sons
+Dietrich-Turner,NL,dietrichturner,363.0,82.19279907084787,dietrichturner,rietrimhturner,Rietrimh-Turner,NL,rietrimhturner
+Rosenbaum-Rath,LU,rosenbaumrath,,,,,,,
+"Towne, Smith and Ebert",IT,towne smith and ebert,365.0,84.25028051733301,towne smith and ebert,vowe smith and ebezt,"Vow`e, Smith and EbeZt",IT,vowe smith and ebezt
+"Koelpin, Kiehn and Marquardt",FR,koelpin kiehn and marquardt,366.0,85.5132275132275,koelpin kiehn and marquardt,9oelpin kiehn azd marquardt,"9oelpin, Kiehn aZd Marquardt",FR,9oelpin kiehn azd marquardt
+Hoeger-Kovacek,UK,hoegerkovacek,367.0,84.9126984126984,hoegerkovacek,hoqgerckovacek,HoQgerCKovacek,UK,hoqgerckovacek
+"Ritchie, Kirlin and Bailey",BE,ritchie kirlin and bailey,368.0,85.16091476091476,ritchie kirlin and bailey,ditchir kirlin and bailey,"ditchiR, Kirlin and Bailey",BE,ditchir kirlin and bailey
+Heathcote-Bradtke,NL,heathcotebradtke,369.0,100.0,,,Heathcote-Bradtke,NL,heathcotebradtke
+"Swift, O'Connell and Lemke",BE,swift oconnell and lemke,370.0,100.0,,,"Swift, O'Connell and L,emke",BE,swift oconnell and lemke
+Medhurst-Cole,BE,medhurstcole,371.0,82.3316283034953,medhurstcole,medgurtcole,Medgur|t-Cole,BE,medgurtcole
+Rutherford Inc,SP,rutherford inc,,,,,,,
+Grady PLC,DE,grady plc,373.0,86.47619047619047,grady plc,0rady plc,0rady PLC,DE,0rady plc
+Brownish Group,DK,brownish group,,,,,,,
+"Mayert, Tremblay and Mante",SP,mayert tremblay and mante,375.0,82.2141201264489,mayert tremblay and mante,mayerta hremblay andmante,MayertA Hremblay andMante,SP,mayerta hremblay andmante
+Greenholt Ltd,LU,greenholt ltd,376.0,86.92307692307692,greenholt ltd,greenholtld,"Greenholt""Ld",LU,greenholtld
+Lynch Ltd,DE,lynch ltd,,,,,,,
+Considine and Sons,FR,considine and sons,378.0,93.10685805422649,considine and sons,considine and sows,Considine and Sows,FR,considine and sows
+Stehr Group,BE,stehr group,,,,,,,
+Carroll Group,LU,carroll group,380.0,90.52747252747254,carroll group,carrdll group,Carrdll Group,LU,carrdll group
+Jast-Quitzon,SP,jastquitzon,381.0,80.45454545454547,jastquitzon,jastquitcvn,Jast-Quitcvn,SP,jastquitcvn
+"Hettinger, Armstrong and Baumbach",NL,hettinger armstrong and baumbach,382.0,96.08813651983755,hettinger armstrong and baumbach,hettinger armstrong and bauzbach,"Hettinger, Armstrong and BauZbach",NL,hettinger armstrong and bauzbach
+Kuhic-Rempel,SP,kuhicrempel,383.0,80.67867616254712,kuhicrempel,khicrempvl,Khic-Rempvl,SP,khicrempvl
+"Hermiston, Bogisich and D'Amore",IT,hermiston bogisich and damore,384.0,92.192118226601,hermiston bogisich and damore,hermiston boisich nd damore,"Hermiston, Bo]isich `nd D'Amore",IT,hermiston boisich nd damore
+Block-Waters,DK,blockwaters,,,,,,,
+Labadie-Rogahn,SP,labadierogahn,386.0,84.9126984126984,labadierogahn,labadqe1rogahn,Labadqe1Rogahn,SP,labadqe1rogahn
+Jakubowski-Larkin,IT,jakubowskilarkin,387.0,100.0,,,Jakubows-ki-Larkin,IT,jakubowskilarkin
+"Spencer, Williamson and Dibbert",BE,spencer williamson and dibbert,388.0,87.70374490174268,spencer williamson and dibbert,spencnr williamzon and diblert,"SpencNr, Williamzon and DibLert",BE,spencnr williamzon and diblert
+Hartmann-Gaylord,BE,hartmanngaylord,389.0,83.36363636363636,hartmanngaylord,hxrtmanagaylord,Hxrtmana-Gaylord,BE,hxrtmanagaylord
+Steuber-Bahringer,LU,steuberbahringer,390.0,81.019820971867,steuberbahringer,steubr9bahringgr,Steub}r9Bahringgr,LU,steubr9bahringgr
+Paucek-O'Keefe,FR,paucekokeefe,391.0,100.0,,,Paucek-O'Keefe,FR,paucekokeefe
+Schinnerschine Inc,DK,schinnerschine inc,,,,,,,
+"Altenwerth, Witting and Huels",IT,altenwerth witting and huels,393.0,95.53665604172703,altenwerth witting and huels,altenwerth witting and huelg,"Altenwerth, Witting and Huelg",IT,altenwerth witting and huelg
+Luettgen-Schroeder,SP,luettgenschroeder,394.0,85.2967320261438,luettgenschroeder,lueltgenschroedrr,Lueltgen-SchroedRr,SP,lueltgenschroedrr
+Moore PLC,BE,moore plc,395.0,100.0,,,Moore PLC,BE,moore plc
+Dickinson Inc,LU,dickinson inc,396.0,100.0,,,Dickinson Inc,LU,dickinson inc
+Greenholt-Trantow,SP,greenholttrantow,397.0,94.95967741935483,greenholttrantow,greenhottrantow,Greenhot-Trantow,SP,greenhottrantow
+Rogahn PLC,BE,rogahn plc,,,,,,,
+Bogan PLC,FR,bogan plc,,,,,,,
+McCullough-Emmerich,DE,mcculloughemmerich,400.0,95.52380952380952,mcculloughemmerich,mcclloughemmerich,McCllough-Emmerich,DE,mcclloughemmerich
+Cummerata-Herzog,IT,cummerataherzog,401.0,85.93958834536221,cummerataherzog,dummeraaherzog,Dummera{a-Herzog,IT,dummeraaherzog
+"Willms, Corkery and Johns",FR,willms corkery and johns,402.0,100.0,,,"Willms, Corker,y and Johns",FR,willms corkery and johns
+Brown-Rath,UK,brownrath,403.0,86.47619047619047,brownrath,brvwnrath,Brvwn-Rath,UK,brvwnrath
+"Gaylord, Beahan and White",UK,gaylord beahan and white,404.0,94.8041095890411,gaylord beahan and white,gaylord beahan and write,"Gaylord, Beahan and Write",UK,gaylord beahan and write
+"Pacocha, Dicki and Hamill",DK,pacocha dicki and hamill,405.0,80.22077625570778,pacocha dicki and hamill,dicki and pacocha hamill,"Dicki and Pacocha, Hamill",DK,dicki and pacocha hamill
+"Stroman, Rodriguez and Cartwright",UK,stroman rodriguez and cartwright,406.0,97.49007936507937,stroman rodriguez and cartwright,stroman rodrguez and cartwright,"Stroman, Rodr[guez and Cartwright",UK,stroman rodrguez and cartwright
+Hayes-Sawayn,SP,hayessawayn,407.0,88.85918003565064,hayessawayn,hayesuawayn,Hayes-Uawayn,SP,hayesuawayn
+"Collier, Mayert and Bahringer",IT,collier mayert and bahringer,408.0,95.53665604172703,collier mayert and bahringer,collier mlyert and bahringer,"Collier, Mlyert and Bahringer",IT,collier mlyert and bahringer
+Wunsch Ltd,DE,wunsch ltd,,,,,,,
+Hickle-Jacobi,FR,hicklejacobi,410.0,100.0,,,Hickle-Jacobi,FR,hicklejacobi
+Hudson-Fisher,NL,hudsonfisher,411.0,89.76091476091476,hudsonfisher,hudsonfishsr,Hudson-FishSr,NL,hudsonfishsr
+Huels-Mueller,LU,huelsmueller,412.0,85.38461538461539,huelsmueller,huels7muelle,Huels7Muelle,LU,huels7muelle
+Kerluke LLC,LU,kerluke llc,413.0,100.0,,,Kerlu.ke LLC,LU,kerluke llc
+Gaylord Ltd,DE,gaylord ltd,414.0,88.85918003565064,gaylord ltd,gayloqd ltd,Gayloqd Ltd,DE,gayloqd ltd
+Orn Inc,FR,orn inc,,,,,,,
+Gutkowski-Goyette,NL,gutkowskigoyette,416.0,95.2584670231729,gutkowskigoyette,gutkowski5goyette,Gutkowski5Goyette,NL,gutkowski5goyette
+Lueilwitz-Rempel,IT,lueilwitzrempel,417.0,100.0,,,Lueilwitz-Rempel,IT,lueilwitzrempel
+"Schiller, Yundt and Conroy",DE,schiller yundt and conroy,418.0,95.4089068825911,schiller yundt and conroy,schiller yandt and conroy,"Schiller, Yandt and Conroy",DE,schiller yandt and conroy
+Boyle Ltd,LU,boyle ltd,419.0,86.47619047619047,boyle ltd,bomle ltd,Bomle Ltd,LU,bomle ltd
+Reynolds Ltd,LU,reynolds ltd,420.0,91.42758142758142,reynolds ltd,reynoldsltd,ReynoldsLtd,LU,reynoldsltd
+Grimes-Sawayn,DE,grimessawayn,421.0,93.78461538461538,grimessawayn,grimes4sawayn,Grimes4Sawayn,DE,grimes4sawayn
+"Marquardt, Schulist and Gutmann",DE,marquardt schulist and gutmann,422.0,90.12981744421907,marquardt schulist and gutmann,marquadtschulist aod gutmann,"Marquadt,#Schulist aod Gutmann",DE,marquadtschulist aod gutmann
+"Schuster, Raynor and Hermann",NL,schuster raynor and hermann,423.0,94.27350427350427,schuster raynor and hermann,schster raynor an hermann,"Sch-ster, Raynor an[ Hermann",NL,schster raynor an hermann
+"Vandervort, Lakin and Durgan",DE,vandervort lakin and durgan,424.0,100.0,,,"Vandervort, Lakin -and Durgan",DE,vandervort lakin and durgan
+Altenwerth Ltd,DK,altenwerth ltd,425.0,94.23280423280423,altenwerth ltd,alenwerth ltd,Alenwerth Ltd,DK,alenwerth ltd
+Predovic-McCullough,FR,predovicmccullough,426.0,93.10685805422649,predovicmccullough,predovicmc9ullough,Predovic-Mc9ullough,FR,predovicmc9ullough
+"Friesen, Kemmer and Swaniawski",UK,friesen kemmer and swaniawski,427.0,90.21173623714459,friesen kemmer and swaniawski,friesen kemmer andswaniawski,"Friesen, Kemmer andSwaniawski",UK,friesen kemmer andswaniawski
+Huels Inc,UK,huels inc,428.0,92.09150326797386,huels inc,hels inc,H^els Inc,UK,hels inc
+Trantow PLC,LU,trantow plc,429.0,80.67867616254712,trantow plc,tjantow pl,Tjantow PL@,LU,tjantow pl
+"Parker, Marvin and Sauer",UK,parker marvin and sauer,430.0,87.77518206071093,parker marvin and sauer,parker marvin and1saer,"Parker, Marvin and1Saer",UK,parker marvin and1saer
+"Lakin, Schowalter and Homenick",NL,lakin schowalter and homenick,431.0,93.72050816696914,lakin schowalter and homenick,akin schowalter and homenick,"[akin, Schowalter and Homenick",NL,akin schowalter and homenick
+Ösinski-Schinner,NL,osinskischinner,432.0,91.76086956521739,osinskischinner,osinskischinneg,Osinski-Schinneg,NL,osinskischinneg
+"Hegmann, Hilpert and Bruen",DE,hegmann hilpert and bruen,433.0,95.00890688259108,hegmann hilpert and bruen,hegmanl hilpert and bruen,"Hegmanl, Hilpert and Bruen",DE,hegmanl hilpert and bruen
+"Brakus, Weissnat and Deckow",LU,brakus weissnat and deckow,434.0,88.03603803603805,brakus weissnat and deckow,brakus weissnat nnd demkow,"Brakus, Weissnat nnd DeMkow",LU,brakus weissnat nnd demkow
+Boehm Inc,FR,boehm inc,,,,,,,
+"Bernhard, Reichel and Schulist",LU,bernhard reichel and schulist,436.0,92.82758620689656,bernhard reichel and schulist,bernhard lzichel and schulist,"Bernhard, LZichel and Schulist",LU,bernhard lzichel and schulist
+"Bins, Daugherty and Marquardt",UK,bins daugherty and marquardt,437.0,97.12987012987013,bins daugherty and marquardt,binsdaugherty and marquardt,"Bins,Daugherty and Marquardt",UK,binsdaugherty and marquardt
+Towne-Raynor,FR,towneraynor,438.0,92.64069264069263,towneraynor,toneraynor,Tone-Raynor,FR,toneraynor
+Schulist-Schulist,UK,schulistschulist,439.0,86.83555399719495,schulistschulist,schulitschulisn,Schulit-Schulisn,UK,schulitschulisn
+Welch-Kuhlman,NL,welchkuhlman,440.0,89.76091476091476,welchkuhlman,welchkuhlian,Welch-Kuhlian,NL,welchkuhlian
+Zieme-Krajcik,BE,ziemekrajcik,441.0,93.78461538461538,ziemekrajcik,zieme_krajcik,Zieme_-Krajcik,BE,zieme_krajcik
+Mitchell Inc,BE,mitchell inc,,,,,,,
+Ernser Inc,UK,ernser inc,443.0,89.78299120234604,ernser inc,ernserinc,ErnserInc,UK,ernserinc
+Feeney Group,BE,feeney group,444.0,93.26086956521739,feeney group,feeney goup,Feeney Goup,BE,feeney goup
+Mohr PLC,SP,mohr plc,445.0,100.0,,,Mohr PLC,SP,mohr plc
+Treutel-Doyle,LU,treuteldoyle,446.0,83.72390852390852,treuteldoyle,treutml1doyle,TreutMl1Doyle,LU,treutml1doyle
+Upton-Zemlak,DE,uptonzemlak,447.0,88.85918003565064,uptonzemlak,uptonzemlbk,Upton-Zemlbk,DE,uptonzemlbk
+Gaylord LLC,SP,gaylord llc,448.0,100.0,,,Gaylord LLC,SP,gaylord llc
+Weimann PLC,NL,weimann plc,449.0,93.54978354978354,weimann plc,wimann plc,W{imann PLC,NL,wimann plc
+"Ernser, Abshire and Weber",DK,ernser abshire and weber,450.0,87.87981220657277,ernser abshire and weber,ernser abshire fnc weber,"Ernser, Abshire fnc Weber",DK,ernser abshire fnc weber
+Stanton PLC,SP,stanton plc,451.0,86.92640692640691,stanton plc,stantonplc,StantonPLC,SP,stantonplc
+"Witting, Kuhic and Watsica",FR,witting kuhic and watsica,452.0,84.85128205128206,witting kuhic and watsica,witking kxhic and watdica,"Witking, Kxhic and Watdica",FR,witking kxhic and watdica
+Quigley PLC,SP,quigley plc,453.0,100.0,,,Quigley PLC,SP,quigley plc
+Kehner LLC,IT,kehner llc,,,,,,,
+Hoppe-Koelpin,FR,hoppekoelpin,455.0,90.59424809424807,hoppekoelpin,hyppekoelpin,Hyppe-Koelpin,FR,hyppekoelpin
+Mitchell Group,SP,mitchell group,456.0,82.19279907084787,mitchell group,mitlhell grwup,Mitlhell GrWup,SP,mitlhell grwup
+Konopelski-Donnelly,NL,konopelskidonnelly,457.0,86.34248366013072,konopelskidonnelly,konopelskidonnnl,Konopelski-Donnn[l},NL,konopelskidonnnl
+"Wolff, Hermann and Heller",DE,wolff hermann and heller,458.0,80.63744292237442,wolff hermann and heller,wolff and heller hermann,"Wolff, and Heller Hermann",DE,wolff and heller hermann
+"Grady, Cruickshank and Turner",BE,grady cruickshank and turner,459.0,97.12987012987013,grady cruickshank and turner,grad cruickshank and turner,"Grad, Cruickshank and Turner",BE,grad cruickshank and turner
+Conroy-Glover,IT,conroyglover,460.0,89.76091476091476,conroyglover,conroyglxver,Conroy-GlXver,IT,conroyglxver
+Koch-Altenwerth,DK,kochaltenwerth,461.0,100.0,,,Koch-.Altenwerth,DK,kochaltenwerth
+Bosco Ltd,NL,bosco ltd,462.0,100.0,,,Bosco Ltd,NL,bosco ltd
+"Barton, Rempel and Hudson",DK,barton rempel and hudson,463.0,91.54255319148936,barton rempel and hudson,barton rempel andhudson,"Barton, Rempel andHudson",DK,barton rempel andhudson
+"Hamill, Kassulke and Pfannerstill",SP,hamill kassulke and pfannerstill,464.0,96.08813651983755,hamill kassulke and pfannerstill,hamill kassulke and ofannerstill,"Hamill, Kassulke and Ofannerstill",SP,hamill kassulke and ofannerstill
+"Adams, Stehr and Cronin",SP,adams stehr and cronin,465.0,100.0,,,"Adams, Stehr and Cronin",SP,adams stehr and cronin
+Prohaska-Berge,DK,prohaskaberge,466.0,80.84441873915559,prohaskaberge,prthxskaberge,PrthXska-Berge,DK,prthxskaberge
+"Weber, Kerluke and Kilback",DK,weber kerluke and kilback,467.0,95.00890688259108,weber kerluke and kilback,weber kerluke and kilqack,"Weber, Kerluke and KilQack",DK,weber kerluke and kilqack
+"Heidenreich, Koss and Nikolaus",IT,heidenreich koss and nikolaus,468.0,97.2292800967937,heidenreich koss and nikolaus,heidenreich koss and nkolaus,"Heidenreich, Koss and N|kolaus",IT,heidenreich koss and nkolaus
+"Fadel, Klein and Lubowitz",DE,fadel klein and lubowitz,469.0,100.0,,,Fadel; Klein and Lubowitz,DE,fadel klein and lubowitz
+"Eichmann, Rath and Kris",DK,eichmann rath and kris,470.0,94.79411244174385,eichmann rath and kris,eichmann reth and kris,"Eichmann, Reth and Kris",DK,eichmann reth and kris
+"Powlowski, Denesik and Hartmann",NL,powlowski denesik and hartmann,471.0,96.16388987356729,powlowski denesik and hartmann,powlowski denesyk and hartmann,"Powlowski, Denesyk and Hartmann",NL,powlowski denesyk and hartmann
+Schroeder-Corkery,LU,schroedercorkery,472.0,94.95967741935483,schroedercorkery,schroedecorkery,Schroede`-Corkery,LU,schroedecorkery
+"Jerde, Greenholt and Stanton",FR,jerde greenholt and stanton,473.0,84.63285585236807,jerde greenholt and stanton,greenholt and jerde stanton,"Greenholt and Jerde, Stanton",FR,greenholt and jerde stanton
+"Streich, Reichert and Dach",BE,streich reichert and dach,474.0,95.00890688259108,streich reichert and dach,streich reichprt and dach,"Streich, ReichPrt and Dach",BE,streich reichprt and dach
+Kessler-Bosco,UK,kesslerbosco,475.0,82.05128205128206,kesslerbosco,kessler4fsco,Kessler-4fsco,UK,kessler4fsco
+Yundt-Okuneva,BE,yundtokuneva,476.0,93.26086956521739,yundtokuneva,yundtouneva,Yundt-O~uneva,BE,yundtouneva
+"Leannon, Towne and Ullrich",DE,leannon towne and ullrich,477.0,89.4089068825911,leannon towne and ullrich,yeannon towne and ullrich,"Yeannon, Towne and Ullrich",DE,yeannon towne and ullrich
+Wyman LLC,SP,wyman llc,478.0,86.47619047619047,wyman llc,syman llc,Syman LLC,SP,syman llc
+"Padberg, Terry and Heller",NL,padberg terry and heller,479.0,94.8041095890411,padberg terry and heller,padberg terry and hexler,"Padberg, Terry and HeXler",NL,padberg terry and hexler
+Bahringer-Gorczany,BE,bahringergorczany,480.0,87.62414056531703,bahringergorczany,baringergorczqny,Ba|ringer-Gorczqny,BE,baringergorczqny
+Klein LLC,SP,klein llc,,,,,,,
+Senger Group,IT,senger group,482.0,89.76091476091476,senger group,slnger group,SLnger Group,IT,slnger group
+Becker-Strosin,LU,beckerstrosin,483.0,91.29670329670331,beckerstrosin,beckerstrysin,Becker-StrYsin,LU,beckerstrysin
+Medhurst-Weissnat,LU,medhurstweissnat,484.0,92.26440576230492,medhurstweissnat,medhurstwexssnat,Medhurst-Wexssnat,LU,medhurstwexssnat
+"Gibson, Grant and Koelpin",DE,gibson grant and koelpin,485.0,94.8041095890411,gibson grant and koelpin,gibson grayt and koelpin,"Gibson, Grayt and Koelpin",DE,gibson grayt and koelpin
+Cummerata-Mohr,UK,cummeratamohr,486.0,100.0,,,Cummerata.-Mohr,UK,cummeratamohr
+Bradtke Ltd,LU,bradtke ltd,487.0,88.85918003565064,bradtke ltd,bradtke lwd,Bradtke Lwd,LU,bradtke lwd
+Beatty Inc,BE,beatty inc,488.0,87.78299120234605,beatty inc,4eatty inc,4eatty Inc,BE,4eatty inc
+Hegmann Group,NL,hegmann group,489.0,100.0,,,Hegma.nn Group,NL,hegmann group
+Kihn PLC,FR,kihn plc,490.0,84.85555555555555,kihn plc,kihn5plc,Kihn5PLC,FR,kihn5plc
+Runolfsson-Prosacco,IT,runolfssonprosacco,491.0,90.71895424836602,runolfssonprosacco,runolssonrosacco,Runol~sson-=rosacco,IT,runolssonrosacco
+"Bednar, Boyer and Krajcik",FR,bednar boyer and krajcik,492.0,96.64893617021276,bednar boyer and krajcik,bednarboyer and krajcik,"Bednar,Boyer and Krajcik",FR,bednarboyer and krajcik
+Kemmer-Hegmann,UK,kemmerhegmann,493.0,100.0,,,Kemmer-H.egmann,UK,kemmerhegmann
+Ernser LLC,DK,ernser llc,494.0,87.78299120234605,ernser llc,frnser llc,Frnser LLC,DK,frnser llc
+"D'Amore, Jones and Block",DK,damore jones and block,495.0,100.0,,,"DAmore, Jones and Block",DK,damore jones and block
+Toy-Gerhold,SP,toygerhold,496.0,92.89473684210525,toygerhold,togerhold,To-Gerhold,SP,togerhold
+Flatley LLC,DE,flatley llc,497.0,86.30434782608695,flatley llc,flatley _llc,Flatley _LLC,DE,flatley _llc
+Von-Stracke,LU,vonstracke,498.0,100.0,,,Von-Strac-ke,LU,vonstracke
+"Hintz, Senger and Konopelski",SP,hintz senger and konopelski,499.0,94.75890985324946,hintz senger and konopelski,hintz sengerand konopelski,"Hintz, Sengerand Konopelski",SP,hintz sengerand konopelski
