@@ -13,3 +13,6 @@ pairwise_matching_results.json
 # Ignora i file CSV di grandi dimensioni
 matched_companies_detailed.csv
 matched_companies_sampled.csv
+
+# Cartella experiments in entity-matching-transformer
+entity-matching-transformer/experiments/
