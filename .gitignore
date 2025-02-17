@@ -16,3 +16,5 @@ matched_companies_sampled.csv
 
 # Cartella experiments in entity-matching-transformer
 entity-matching-transformer/experiments/
+entity-matching-transformer/filtered_pairs.tsv
+entity-matching-transformer/matching_results.tsv

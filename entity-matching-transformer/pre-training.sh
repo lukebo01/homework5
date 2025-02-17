@@ -2,7 +2,7 @@
 
 DATA_PATH=data/dirty_amazon_itunes/deep_matcher
 
-PYHON_EXE=../.venvEMT/Scrpits/python.exe
+PYTHON_EXE=python3  # Usa Python del container
 
 RUN_PY_PATH=src/run_training.py
 

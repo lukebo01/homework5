@@ -1,4 +1,4 @@
-from pytorch_transformers import BertTokenizer
+from transformers import BertTokenizer
 
 from config import Config
 from data_representation import InputExample

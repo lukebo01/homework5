@@ -1,7 +1,7 @@
 import logging
 import os
 
-from pytorch_transformers import BertTokenizer
+from transformers import BertTokenizer
 
 from config import read_arguments_train, read_arguments_prediction
 from data_representation import DeepMatcherProcessor, QqpProcessor
