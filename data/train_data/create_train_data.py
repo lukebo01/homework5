@@ -1,7 +1,16 @@
 from sklearn.model_selection import train_test_split
 import pandas as pd
 import json
-import time
+import jsonlines
+
+
+def create_jsonl(df:pd.DataFrame, output_file):
+    with jsonlines.open(output_file, mode='w') as writer:
+        for _, row in df.iterrows():
+            print(row)
+            record1 = row["a"]
+            record2 = row["b"]
+            writer.write([record1, record2])
 
 
 def normalize_value(value):
@@ -13,7 +22,6 @@ def normalize_value(value):
 
 
 def convert_to_format(pair: dict) -> str:
-    print(pair)
     name = pair["company-name"]
     industry = normalize_value(pair["industry"])
     country = normalize_value(pair["country"])
@@ -22,15 +30,25 @@ def convert_to_format(pair: dict) -> str:
 
 
 def pd_to_txt(df: pd.DataFrame, name: str):
-    file = open(f"{name}.txt", "w")
+    file = open(f"ditto_{name}.txt", "w")
+
+    val_df = pd.DataFrame(columns=["a","b"])
     for index, row in df.iterrows():
         pair1, pair2 = tuple(row["pairs"])
         label: bool = row["match"]
 
-        file.write(f"{convert_to_format(pair1)}\t{convert_to_format(pair2)}\t{int(label)}\n")
+        entry1 = convert_to_format(pair1)
+        entry2 = convert_to_format(pair2)
+        if name == "val":
+            val_df.loc[len(val_df)] = {"a": entry1,"b": entry2}
+
+        file.write(f"{entry1} \t {entry2} \t {int(label)}\n")
 
     file.close()
 
+    if name == "val":
+        #val_df.to_json("ditto_val.txt.jsonl", orient="records", lines=True)
+        create_jsonl(val_df, "ditto_val.txt.jsonl")
 
 file:dict = json.load(open("gt.json", "r"))
 ground_truth: list = file["ground_truth"]
@@ -55,6 +73,6 @@ print("Train size:", len(train_df))
 print("Validation size:", len(val_df))
 print("Test size:", len(test_df))
 
-pd_to_txt(train_df, "ditto_train")
-pd_to_txt(val_df, "ditto_val")
-pd_to_txt(test_df, "ditto_test")
+pd_to_txt(train_df, "train")
+pd_to_txt(val_df, "val")
+pd_to_txt(test_df, "test")
