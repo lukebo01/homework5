@@ -180,22 +180,22 @@ Amd,Tech; Semiconductors; Electronics; Tech Hardware,USA,companiesMarketCap_data
 Bmw,Automakers; DAX; Manufacturing,Germany,companiesMarketCap_dataset,Bayerische Motoren Werke AG,Automotive,,output_globaldata,1
 United Parcel Service,Courier; Transportation,USA,companiesMarketCap_dataset,UPS,Courier Company,,campaignindia,1
 BBC Careers,Broadcast & Online Media,,DDD-teamblind-com,BRITISH BROADCASTING CORPORATION,,UNITED KINGDOM,wissel-aziende-info-clipper-com,1
-,Consumer Electronics & Appliances,,AmbitionBox,,Technology and Communications,,output_globaldata,1
-,Technology and Communications,,output_globaldata,,Technology and Communications,,output_globaldata,1
-,Technology and Communications,,output_globaldata,,Social networking,,campaignindia,1
-,Computer,,campaignindia,,Technology and Communications,,output_globaldata,1
-,,United States,MalPatSaj-forbes-com,,Communication Services; Broadcasting; Television Services; Media; Advertising; Consumer Services; TV's; Entertainment,USA,valueToday_dataset,1
-,Fast Food,,campaignindia,,Consumer Cyclical; Restaurants; Food Products; Non-Alcoholic Beverages; Consumer Services; Entertainment; Beverages,USA,valueToday_dataset,1
-,Computer,,campaignindia,,,United States,MalPatSaj-forbes-com,1
-,Aviation,,AmbitionBox,,Aerospace and Defense,,output_globaldata,1
-,Aerospace and Defense,,output_globaldata,,Aviation,,AmbitionBox,1
-,Car/Automobile,,campaignindia,,Automotive,,output_globaldata,1
-,Automotive,,output_globaldata,,Automobile/Car,,campaignindia,1
-,,United States,MalPatSaj-forbes-com,,Financial Services,,output_globaldata,1
-,,United States,MalPatSaj-forbes-com,,Financial Services,,output_globaldata,1
-,,Japan,MalPatSaj-forbes-com,,Consumer Packaged Goods,,output_globaldata,1
-,Financial Services,,AmbitionBox,,Financial Services,,output_globaldata,1
-,Auto Components,,AmbitionBox,,Automotive,,output_globaldata,1
-,Consumer Electronics,,campaignindia,,Power,,output_globaldata,1
-,Automotive,,output_globaldata,,Automakers; Manufacturing,South Korea,companiesMarketCap_dataset,1
-,Courier Company,,campaignindia,,Transport and Logistics,,output_globaldata,1
+Apple,Consumer Electronics & Appliances,,AmbitionBox,Apple Inc,Technology and Communications,,output_globaldata,1
+Alphabet Inc.,Technology and Communications,,output_globaldata,Google LLC,Technology and Communications,,output_globaldata,1
+Meta Platforms Inc,Technology and Communications,,output_globaldata,Facebook,Social networking,,campaignindia,1
+Intel,Computer,,campaignindia,Intel Corp,Technology and Communications,,output_globaldata,1
+Walt Disney,,United States,MalPatSaj-forbes-com,The Walt Disney Company,Communication Services; Broadcasting; Television Services; Media; Advertising; Consumer Services; TV's; Entertainment,USA,valueToday_dataset,1
+McDonald's,Fast Food,,campaignindia,McDonald's Corporation,Consumer Cyclical; Restaurants; Food Products; Non-Alcoholic Beverages; Consumer Services; Entertainment; Beverages,USA,valueToday_dataset,1
+Dell,Computer,,campaignindia,Dell Technologies,,United States,MalPatSaj-forbes-com,1
+AIRBUS,Aviation,,AmbitionBox,Airbus SE,Aerospace and Defense,,output_globaldata,1
+The Boeing Co,Aerospace and Defense,,output_globaldata,Boeing,Aviation,,AmbitionBox,1
+Ford,Car/Automobile,,campaignindia,Ford Motor Co,Automotive,,output_globaldata,1
+Dr. Ing. h.c. F. Porsche AG,Automotive,,output_globaldata,Porsche,Automobile/Car,,campaignindia,1
+PayPal,,United States,MalPatSaj-forbes-com,PayPal Holdings Inc.,Financial Services,,output_globaldata,1
+Mastercard,,United States,MalPatSaj-forbes-com,Mastercard Inc,Financial Services,,output_globaldata,1
+Panasonic,,Japan,MalPatSaj-forbes-com,Panasonic Holdings Corp,Consumer Packaged Goods,,output_globaldata,1
+Credit Suisse,Financial Services,,AmbitionBox,Credit Suisse Group AG,Financial Services,,output_globaldata,1
+Bosch,Auto Components,,AmbitionBox,Robert Bosch GmbH,Automotive,,output_globaldata,1
+Siemens,Consumer Electronics,,campaignindia,Siemens AG,Power,,output_globaldata,1
+Hyundai Motor Co,Automotive,,output_globaldata,Hyundai,Automakers; Manufacturing,South Korea,companiesMarketCap_dataset,1
+FedEx,Courier Company,,campaignindia,FedEx Corp,Transport and Logistics,,output_globaldata,1
