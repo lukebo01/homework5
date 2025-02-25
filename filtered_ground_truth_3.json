@@ -1,0 +1,410 @@
+{
+    "ground_truth": [
+        {
+            "pairs": [
+                {
+                    "company-name": "Agora, Inc.",
+                    "industry": [
+                        "Software and IT"
+                    ],
+                    "country": "China",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Agora.io",
+                    "industry": [
+                        "Software",
+                        "Tech"
+                    ],
+                    "country": "China",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Asahi",
+                    "industry": [
+                        "Beer"
+                    ],
+                    "country": null,
+                    "source": "campaignindia"
+                },
+                {
+                    "company-name": "Asahi Group",
+                    "industry": [
+                        "Beverages",
+                        "Alcoholic beverages"
+                    ],
+                    "country": "Japan",
+                    "source": "companiesMarketCap_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "BAIC Motor",
+                    "industry": null,
+                    "country": "China",
+                    "source": "MalPatSaj-forbes-com"
+                },
+                {
+                    "company-name": "BAIC Motor Corp Ltd",
+                    "industry": null,
+                    "country": "China",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "China Railway Group Ltd",
+                    "industry": [
+                        "Construction"
+                    ],
+                    "country": null,
+                    "source": "output_globaldata"
+                },
+                {
+                    "company-name": "China Railway Hi-tech Industry Corp Ltd",
+                    "industry": null,
+                    "country": "China",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Denso",
+                    "industry": null,
+                    "country": "Japan",
+                    "source": "MalPatSaj-forbes-com"
+                },
+                {
+                    "company-name": "Denso Corp",
+                    "industry": [
+                        "Automotive"
+                    ],
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Fortis Healthcare",
+                    "industry": [
+                        "Healthcare"
+                    ],
+                    "country": "India",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Fortis Hospitals",
+                    "industry": [
+                        "Healthcare / Pharma"
+                    ],
+                    "country": null,
+                    "source": "AmbitionBox"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "KDDI",
+                    "industry": null,
+                    "country": "Japan",
+                    "source": "MalPatSaj-forbes-com"
+                },
+                {
+                    "company-name": "KDDI Corp",
+                    "industry": [
+                        "Technology and Communications"
+                    ],
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Nhn Corp",
+                    "industry": [
+                        "Video games",
+                        "Entertainment"
+                    ],
+                    "country": "South Korea",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Nhn Corporation",
+                    "industry": [
+                        "Communication Services",
+                        "Gaming",
+                        "Software and IT"
+                    ],
+                    "country": "South Korea",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "PZU",
+                    "industry": [
+                        "Financials"
+                    ],
+                    "country": null,
+                    "source": "MalPatSaj-wikipedia-org"
+                },
+                {
+                    "company-name": "PZU SA",
+                    "industry": [
+                        "Financial Services"
+                    ],
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Raksul",
+                    "industry": [
+                        "Industries",
+                        "Printing",
+                        "Business Services"
+                    ],
+                    "country": "Japan",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Raksul, Inc.",
+                    "industry": null,
+                    "country": "Japan",
+                    "source": "disfold-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Reliance Jio",
+                    "industry": [
+                        "Telecom",
+                        "Mobile Services",
+                        "Internet Providers"
+                    ],
+                    "country": "India",
+                    "source": "valueToday_dataset"
+                },
+                {
+                    "company-name": "Reliance Jio Infocomm Ltd",
+                    "industry": [
+                        "Technology and Communications"
+                    ],
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Telstra",
+                    "industry": [
+                        "Telecom"
+                    ],
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Telstra Corp Ltd",
+                    "industry": [
+                        "Technology and Communications"
+                    ],
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Tradeweb",
+                    "industry": [
+                        "Financial services"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Tradeweb Markets",
+                    "industry": [
+                        "Financial Services",
+                        "Stock Markets, Trading, Capital Markets",
+                        "Trading"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Uniti",
+                    "industry": [
+                        "Real estate",
+                        "REITs",
+                        "Investment",
+                        "Telecommunication",
+                        "Infrastructure"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Uniti Group",
+                    "industry": [
+                        "Real Estate",
+                        "Consumer Services",
+                        "Property Investments"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Vroom",
+                    "industry": [
+                        "Used car retailer",
+                        "Internet",
+                        "Car retail"
+                    ],
+                    "country": "USA",
+                    "source": "companiesMarketCap_dataset"
+                },
+                {
+                    "company-name": "Vroom, Inc.",
+                    "industry": [
+                        "Retail",
+                        "Automobile",
+                        "Automobile Dealers"
+                    ],
+                    "country": "USA",
+                    "source": "valueToday_dataset"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Dell",
+                    "industry": [
+                        "Computer"
+                    ],
+                    "country": null,
+                    "source": "campaignindia"
+                },
+                {
+                    "company-name": "Dell Technologies",
+                    "industry": null,
+                    "country": "United States",
+                    "source": "MalPatSaj-forbes-com"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "AIRBUS",
+                    "industry": [
+                        "Aviation"
+                    ],
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Airbus SE",
+                    "industry": [
+                        "Aerospace and Defense"
+                    ],
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Credit Suisse",
+                    "industry": [
+                        "Financial Services"
+                    ],
+                    "country": null,
+                    "source": "AmbitionBox"
+                },
+                {
+                    "company-name": "Credit Suisse Group AG",
+                    "industry": [
+                        "Financial Services"
+                    ],
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        },
+        {
+            "pairs": [
+                {
+                    "company-name": "Siemens",
+                    "industry": [
+                        "Consumer Electronics"
+                    ],
+                    "country": null,
+                    "source": "campaignindia"
+                },
+                {
+                    "company-name": "Siemens AG",
+                    "industry": [
+                        "Power"
+                    ],
+                    "country": null,
+                    "source": "output_globaldata"
+                }
+            ],
+            "match": true
+        }
+    ]
+}
